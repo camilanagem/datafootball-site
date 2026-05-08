@@ -71,7 +71,7 @@ export function PostCard({
         <div className="flex items-start justify-between gap-3 mb-1">
           <div className="flex items-center gap-2 text-xs uppercase tracking-widest opacity-60">
             <span>{post.flag}</span>
-            <span>{post.handle}</span>
+            <span>{post.liga}</span>
           </div>
           <div className="text-right shrink-0">
             <span className="font-serif text-2xl leading-none block" style={{ color: accentColor }}>
