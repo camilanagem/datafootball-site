@@ -137,9 +137,10 @@ export function getRecords(): Record_[] {
   const reports = getAllReports();
   const records: Record_[] = [];
 
-  let bestEr: { val: number; club: string; handle: string; flag: string; date: string; url: string } | null = null;
-  let bestVer: typeof bestEr = null;
-  let bestLikes: typeof bestEr = null;
+  type BestRecord = { val: number; club: string; handle: string; flag: string; date: string; url: string };
+  let bestEr: BestRecord | null = null;
+  let bestVer: BestRecord | null = null;
+  let bestLikes: BestRecord | null = null;
 
   for (const r of reports) {
     for (const c of r.carousels) {
