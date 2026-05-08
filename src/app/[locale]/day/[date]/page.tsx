@@ -213,7 +213,7 @@ export default async function DayPage({
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {carousel.posts.map((post) => (
-                  <PostCard key={`${post.posicao}-${post.url}`} post={post} accent={accent} />
+                  <PostCard key={`${post.posicao}-${post.url}`} post={post} accent={accent} locale={locale} />
                 ))}
               </div>
             </section>

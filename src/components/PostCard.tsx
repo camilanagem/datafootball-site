@@ -16,7 +16,25 @@ function fmt(n: number | null | undefined): string {
   return String(n);
 }
 
-export function PostCard({ post, accent = "default" }: { post: Post; accent?: "default" | "tt-red" | "tt-sage" }) {
+const ORDINALS: Record<string, string[]> = {
+  pt: ["", "Primeiro", "Segundo", "Terceiro", "Quarto", "Quinto", "Sexto", "Sétimo", "Oitavo", "Nono", "Décimo"],
+  es: ["", "Primero", "Segundo", "Tercero", "Cuarto", "Quinto", "Sexto", "Séptimo", "Octavo", "Noveno", "Décimo"],
+  en: ["", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th"],
+};
+
+function ordinal(n: number, locale: string): string {
+  return ORDINALS[locale]?.[n] ?? ORDINALS.en[n] ?? `${n}th`;
+}
+
+export function PostCard({
+  post,
+  accent = "default",
+  locale = "en",
+}: {
+  post: Post;
+  accent?: "default" | "tt-red" | "tt-sage";
+  locale?: string;
+}) {
   const accentColor =
     accent === "tt-red" ? "var(--color-tt-red)" :
     accent === "tt-sage" ? "var(--color-tt-sage)" :
@@ -30,6 +48,8 @@ export function PostCard({ post, accent = "default" }: { post: Post; accent?: "d
     ex.shares   != null ? { label: "Shares", value: fmt(ex.shares)   } : null,
   ].filter(Boolean) as { label: string; value: string }[] : [];
 
+  const posLabel = ordinal(post.posicao, locale);
+
   return (
     <a
       href={post.url}
@@ -37,20 +57,20 @@ export function PostCard({ post, accent = "default" }: { post: Post; accent?: "d
       rel="noopener"
       className="group block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition-all"
     >
-      {/* cover image */}
       {post.cover_url ? (
         <div className="relative aspect-[4/3] bg-current/5">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={post.cover_url}
-            alt=""
-            className="w-full h-full object-cover"
-          />
+          <img src={post.cover_url} alt="" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
           <div className="absolute bottom-3 left-4 right-4 flex items-end justify-between">
-            <span className="font-serif text-3xl leading-none text-white" style={{ color: accentColor }}>
-              {String(post.posicao).padStart(2, "0")}
-            </span>
+            <div>
+              <span className="font-serif text-3xl leading-none text-white block" style={{ color: accentColor }}>
+                {String(post.posicao).padStart(2, "0")}
+              </span>
+              <span className="text-[11px] uppercase tracking-widest text-white/60 mt-0.5 block">
+                {posLabel}
+              </span>
+            </div>
             <span className="text-white/50 group-hover:text-white transition">
               <ExternalLink size={16} />
             </span>
@@ -58,14 +78,18 @@ export function PostCard({ post, accent = "default" }: { post: Post; accent?: "d
         </div>
       ) : (
         <div className="flex items-start justify-between gap-3 p-4 pb-0">
-          <span className="font-serif text-3xl leading-none" style={{ color: accentColor }}>
-            {String(post.posicao).padStart(2, "0")}
-          </span>
+          <div>
+            <span className="font-serif text-3xl leading-none block" style={{ color: accentColor }}>
+              {String(post.posicao).padStart(2, "0")}
+            </span>
+            <span className="text-[11px] uppercase tracking-widest opacity-40 mt-0.5 block">
+              {posLabel}
+            </span>
+          </div>
           <span className="opacity-30 group-hover:opacity-100 transition"><ExternalLink /></span>
         </div>
       )}
 
-      {/* card body */}
       <div className="p-4">
         <div className="flex items-center gap-2 text-xs uppercase tracking-widest opacity-60 mb-1">
           <span>{post.flag}</span>
