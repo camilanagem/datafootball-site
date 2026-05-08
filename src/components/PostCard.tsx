@@ -57,43 +57,30 @@ export function PostCard({
       rel="noopener"
       className="group block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition-all"
     >
-      {post.cover_url ? (
+      {post.cover_url && (
         <div className="relative aspect-[4/3] bg-current/5">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={post.cover_url} alt="" className="w-full h-full object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
-          <div className="absolute bottom-3 left-4 right-4 flex items-end justify-between">
-            <div>
-              <span className="font-serif text-3xl leading-none text-white block" style={{ color: accentColor }}>
-                {String(post.posicao).padStart(2, "0")}
-              </span>
-              <span className="text-[11px] uppercase tracking-widest text-white/60 mt-0.5 block">
-                {posLabel}
-              </span>
-            </div>
-            <span className="text-white/50 group-hover:text-white transition">
-              <ExternalLink size={16} />
-            </span>
-          </div>
-        </div>
-      ) : (
-        <div className="flex items-start justify-between gap-3 p-4 pb-0">
-          <div>
-            <span className="font-serif text-3xl leading-none block" style={{ color: accentColor }}>
-              {String(post.posicao).padStart(2, "0")}
-            </span>
-            <span className="text-[11px] uppercase tracking-widest opacity-40 mt-0.5 block">
-              {posLabel}
-            </span>
-          </div>
-          <span className="opacity-30 group-hover:opacity-100 transition"><ExternalLink /></span>
+          <span className="absolute top-3 right-3 text-white/50 group-hover:text-white transition">
+            <ExternalLink size={16} />
+          </span>
         </div>
       )}
 
       <div className="p-4">
-        <div className="flex items-center gap-2 text-xs uppercase tracking-widest opacity-60 mb-1">
-          <span>{post.flag}</span>
-          <span>@{post.handle}</span>
+        <div className="flex items-start justify-between gap-3 mb-1">
+          <div className="flex items-center gap-2 text-xs uppercase tracking-widest opacity-60">
+            <span>{post.flag}</span>
+            <span>@{post.handle}</span>
+          </div>
+          <div className="text-right shrink-0">
+            <span className="font-serif text-2xl leading-none block" style={{ color: accentColor }}>
+              {String(post.posicao).padStart(2, "0")}
+            </span>
+            <span className="text-[10px] uppercase tracking-widest opacity-50 block">
+              {posLabel}
+            </span>
+          </div>
         </div>
         <div className="font-serif text-lg leading-tight mb-3">{post.club}</div>
         <p className="text-sm opacity-80 line-clamp-2 mb-3">{post.caption_clean}</p>
