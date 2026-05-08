@@ -1,6 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
 
+export type PostExtra = {
+  likes?: number | null;
+  comments?: number | null;
+  views?: number | null;
+  shares?: number | null;
+};
+
 export type Post = {
   posicao: number;
   club: string;
@@ -12,6 +19,7 @@ export type Post = {
   caption_clean: string;
   url: string;
   cover_url?: string;
+  extra?: PostExtra;
 };
 
 export type Carousel = {

@@ -27,7 +27,13 @@
     "tiktokEngagement": "TikTok · Engajamento",
     "tiktokLikes": "TikTok · Curtidas",
     "viewOriginal": "Ver original",
-    "rank": "Posição"
+    "rank": "Posição",
+    "bestER": "Melhor ER",
+    "mostLikes": "Mais Curtidas",
+    "mostViews": "Mais Views",
+    "clubOfDay": "Clube do Dia",
+    "slots": "carrosséis",
+    "mvps": "Destaques do Dia"
   },
   "methodology": {
     "title": "Como ranqueamos",
