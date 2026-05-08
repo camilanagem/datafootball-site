@@ -1,0 +1,48 @@
+{
+  "site": {
+    "title": "DataFootball",
+    "tagline": "Índice diario de los posts más engagados del fútbol",
+    "subscribe": "Suscribirse",
+    "subscribePlaceholder": "tu email"
+  },
+  "nav": {
+    "home": "Inicio",
+    "highlights": "Destacados",
+    "clubs": "Clubes",
+    "leagues": "Ligas",
+    "methodology": "Metodología",
+    "halloffame": "Hall of Fame"
+  },
+  "home": {
+    "selectDay": "Selecciona un día para ver el informe",
+    "todayButton": "Hoy",
+    "noPostsYet": "Aún no hay informes para este día"
+  },
+  "day": {
+    "headline": "Informe",
+    "photosEngagement": "Fotos · Engagement",
+    "photosLikes": "Fotos · Likes",
+    "reelsEngagement": "Reels · Engagement",
+    "reelsLikes": "Reels · Likes",
+    "tiktokEngagement": "TikTok · Engagement",
+    "tiktokLikes": "TikTok · Likes",
+    "viewOriginal": "Ver original",
+    "rank": "Puesto"
+  },
+  "methodology": {
+    "title": "Cómo rankeamos",
+    "intro": "Indexamos a diario lo que el feed dice. Este es el método."
+  },
+  "footer": {
+    "follow": "Síguenos",
+    "rights": "Todos los derechos reservados"
+  },
+  "metrics": {
+    "likes": "likes",
+    "comments": "comentarios",
+    "views": "visualizaciones",
+    "shares": "compartidos",
+    "er": "Tasa de Engagement",
+    "ver": "Tasa de Engagement de Video"
+  }
+}

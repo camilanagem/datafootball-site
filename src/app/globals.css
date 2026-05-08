@@ -1,26 +1,44 @@
 @import "tailwindcss";
 
+@theme {
+  /* paletas — espelham o produto IG/TikTok */
+  --color-bg-light: #efe9da;
+  --color-fg-light: #000000;
+  --color-bg-dark: #000000;
+  --color-fg-dark: #ffffff;
+  --color-tt-red: #c8102e;
+  --color-tt-sage: #b8c49a;
+  --color-tt-cream: #fff5e1;
+  --color-muted: #5a5a5a;
+
+  --font-serif: var(--font-playfair, Didot, 'Bodoni 72', serif);
+  --font-sans: var(--font-inter, Helvetica, system-ui, sans-serif);
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: var(--color-bg-light);
+  --foreground: var(--color-fg-light);
+  --muted: var(--color-muted);
+  --hairline: rgba(0, 0, 0, 0.18);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.dark {
+  --background: var(--color-bg-dark);
+  --foreground: var(--color-fg-dark);
+  --muted: rgba(255, 255, 255, 0.55);
+  --hairline: rgba(255, 255, 255, 0.18);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01", "cv01";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
+
+.font-serif { font-family: var(--font-serif); }
+.font-sans { font-family: var(--font-sans); }
+
+.hairline { background: var(--hairline); }

@@ -1,0 +1,48 @@
+{
+  "site": {
+    "title": "DataFootball",
+    "tagline": "Daily index of football's most-engaged posts",
+    "subscribe": "Subscribe",
+    "subscribePlaceholder": "your email"
+  },
+  "nav": {
+    "home": "Home",
+    "highlights": "Highlights",
+    "clubs": "Clubs",
+    "leagues": "Leagues",
+    "methodology": "Methodology",
+    "halloffame": "Hall of Fame"
+  },
+  "home": {
+    "selectDay": "Select a day to see the report",
+    "todayButton": "Today",
+    "noPostsYet": "No reports yet for this day"
+  },
+  "day": {
+    "headline": "Report",
+    "photosEngagement": "Photos · Engagement",
+    "photosLikes": "Photos · Likes",
+    "reelsEngagement": "Reels · Engagement",
+    "reelsLikes": "Reels · Likes",
+    "tiktokEngagement": "TikTok · Engagement",
+    "tiktokLikes": "TikTok · Likes",
+    "viewOriginal": "View original",
+    "rank": "Rank"
+  },
+  "methodology": {
+    "title": "How we rank",
+    "intro": "We index daily what the feed tells us. Here's the method."
+  },
+  "footer": {
+    "follow": "Follow us",
+    "rights": "All rights reserved"
+  },
+  "metrics": {
+    "likes": "likes",
+    "comments": "comments",
+    "views": "views",
+    "shares": "shares",
+    "er": "Engagement Rate",
+    "ver": "Video Engagement Rate"
+  }
+}
