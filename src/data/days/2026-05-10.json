@@ -1011,6 +1011,24 @@
         },
         {
           "posicao": 7,
+          "club": "PSG",
+          "handle": "psg",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "Likes",
+          "metric_value": "198K",
+          "caption_clean": "ALWAYS SPECIAL ️ #psg #ligue1 #sportstiktok",
+          "url": "https://www.tiktok.com/@psg/video/7638377028525378838",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oMXfIftSDFQqFlFEABE7PnQvABkQdoJgxBR9cA~tplv-tiktokx-origin.image?dr=9636&x-expires=1778652000&x-signature=ok7QHT9HEB8KBC4po4KO8JKgAyw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "extra": {
+            "likes": 197700,
+            "comments": 1665,
+            "views": 1200000,
+            "shares": 2010
+          }
+        },
+        {
+          "posicao": 8,
           "club": "River Plate",
           "handle": "riverplate",
           "flag": "🇦🇷",
@@ -1028,7 +1046,7 @@
           }
         },
         {
-          "posicao": 8,
+          "posicao": 9,
           "club": "Arsenal",
           "handle": "arsenal",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1046,7 +1064,7 @@
           }
         },
         {
-          "posicao": 9,
+          "posicao": 10,
           "club": "Real Madrid",
           "handle": "realmadrid",
           "flag": "🇪🇸",
@@ -1061,24 +1079,6 @@
             "comments": 2167,
             "views": 1100000,
             "shares": 2864
-          }
-        },
-        {
-          "posicao": 10,
-          "club": "Real Madrid",
-          "handle": "realmadrid",
-          "flag": "🇪🇸",
-          "liga": "La Liga",
-          "metric_label": "Likes",
-          "metric_value": "145K",
-          "caption_clean": "Spotify Camp Nou #ElClásico #RealMadrid",
-          "url": "https://www.tiktok.com/@realmadrid/video/7638328720960261378",
-          "cover_url": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/oUIDqAD8bfkMEB0sRhtFO3QAEMk4AFXIpgfFRy~tplv-tiktokx-origin.image?dr=14575&x-expires=1778652000&x-signature=wngZIEHHRvR8wP9%2BirGW7F6hSiI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
-          "extra": {
-            "likes": 144800,
-            "comments": 6661,
-            "views": 1400000,
-            "shares": 1309
           }
         }
       ]
