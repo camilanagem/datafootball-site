@@ -379,23 +379,6 @@
         },
         {
           "posicao": 2,
-          "club": "Lyon",
-          "handle": "ol",
-          "flag": "🇫🇷",
-          "liga": "Ligue 1",
-          "metric_label": "VER",
-          "metric_value": "8.78%",
-          "caption_clean": "@corentintolisso dans le 11 type de la @ligue1mcdonalds",
-          "url": "https://www.instagram.com/p/DYOek_gMZs6/",
-          "cover_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/694941282_1621907578925984_3396067597652836485_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEnNDjiT8nin1TRv0vK3JqIpgH4cyezvSuon-tPqYIRoTUH_eunStYJYWYlzQJdoytTHTJsVu50d2xiE-dSGaxX&_nc_ohc=JmcogtlNBg4Q7kNvwFg4Rhl&_nc_gid=eJFbEautQC7I55mJEGby2g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7sRxRRnbbvlgxvOEp9WA1PJMhgE3P3jHpz7coIL3V-iQ&oe=6A089454&_nc_sid=10d13b",
-          "extra": {
-            "likes": 5880,
-            "comments": 36,
-            "views": 68182
-          }
-        },
-        {
-          "posicao": 3,
           "club": "Bayern de Munique",
           "handle": "fcbayern",
           "flag": "🇩🇪",
@@ -412,7 +395,7 @@
           }
         },
         {
-          "posicao": 4,
+          "posicao": 3,
           "club": "Barcelona",
           "handle": "fcbarcelona",
           "flag": "🇪🇸",
@@ -429,7 +412,7 @@
           }
         },
         {
-          "posicao": 5,
+          "posicao": 4,
           "club": "Inter de Milão",
           "handle": "inter",
           "flag": "🇮🇹",
@@ -446,7 +429,7 @@
           }
         },
         {
-          "posicao": 6,
+          "posicao": 5,
           "club": "Juventus",
           "handle": "juventus",
           "flag": "🇮🇹",
@@ -463,7 +446,7 @@
           }
         },
         {
-          "posicao": 7,
+          "posicao": 6,
           "club": "Inter Miami",
           "handle": "intermiamicf",
           "flag": "🇺🇸",
@@ -480,7 +463,7 @@
           }
         },
         {
-          "posicao": 8,
+          "posicao": 7,
           "club": "Roma",
           "handle": "officialasroma",
           "flag": "🇮🇹",
@@ -497,7 +480,7 @@
           }
         },
         {
-          "posicao": 9,
+          "posicao": 8,
           "club": "Botafogo",
           "handle": "botafogo",
           "flag": "🇧🇷",
@@ -514,7 +497,7 @@
           }
         },
         {
-          "posicao": 10,
+          "posicao": 9,
           "club": "Atlético-MG",
           "handle": "atletico",
           "flag": "🇧🇷",
@@ -528,6 +511,23 @@
             "likes": 8401,
             "comments": 188,
             "views": 151388
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Newcastle",
+          "handle": "nufc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "VER",
+          "metric_value": "5.78%",
+          "caption_clean": "The link-up",
+          "url": "https://www.instagram.com/p/DYP0SZxtnxO/",
+          "cover_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/698248914_18465642793106252_4466188854532716397_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFZY04-hhpwzPln9mz71uslvSzfJBLiHWBvh7WV49ZNpo5AHUKbgAxl_cqZ2CevrwmehP2Re0Jf-kNc3aLaBOZv&_nc_ohc=4fXRm_CKO_oQ7kNvwHwzU-f&_nc_gid=PGz4dh_6OfHGyp-TE_dfoQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5Id9TzExb7wcDG5qxqvnbwPNLtFygi0XlKtIUFxrQ3Fw&oe=6A0A3F44&_nc_sid=10d13b",
+          "extra": {
+            "likes": 9795,
+            "comments": 99,
+            "views": 174753
           }
         }
       ]
