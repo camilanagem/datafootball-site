@@ -1,0 +1,292 @@
+{
+  "date": "2026-05-12",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.58%",
+          "caption_clean": "HOJE TEM CRUZEIROOOO!!! O CABULOSO ENFRENTA O GOIÁS EM BUSCA DA CLASSIFICAÇÃO NA COPA DO BRASIL!!! #CRUxGOI #ReiDeCopas",
+          "url": "https://www.instagram.com/p/DYOQUBrjbK9/",
+          "cover_url": "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/694460018_1528832838595996_3423715331187573451_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG8pAyGqURIG14IsPWpsq3wAr-bAlQFmpz-YUbKE46uPXv2zZnF1yQVC3gVN0lDO0s&_nc_ohc=ABofJVRCsusQ7kNvwFa-gsI&_nc_gid=hsqK8d-Y9IwMREp53WlXzA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af650s05yRxGLcxC5Up-Rpg6ugeZaBDHPEdbSfrTjVppWg&oe=6A089932&_nc_sid=10d13b",
+          "extra": {
+            "likes": 19747,
+            "comments": 399,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Internacional",
+          "handle": "scinternacional",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.28%",
+          "caption_clean": "DIA DE INTEEEEEEEEEER! TERÇA-FEIRA DE MATA-MATA NA NOSSA CASA! A partir das 19h30, o Clube do Povo enfrentará o Athletic-MG, no Beira-Rio, pelo jogo de volta da quinta fase da Copa…",
+          "url": "https://www.instagram.com/p/DYOQU2FgUJL/",
+          "cover_url": "https://scontent-iad3-1.cdninstagram.com/v/t39.30808-6/696862930_1536970441115910_7281581644720251458_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEidyThN0ZVFcAkc5cuX1jY61qsFvnhhAtqYNYZ1TVeWW5TEexvfSDWANtQ0ap-s4I&_nc_ohc=RHaYo5jNloAQ7kNvwEkF01V&_nc_gid=_WeUeh0xlfTKk8J5-cdHCQ&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af72h0pNL95QYjvx2BjrJtvYd4GZkWwBwxgkhaxlemg9gA&oe=6A089CA4&_nc_sid=10d13b",
+          "extra": {
+            "likes": 6471,
+            "comments": 88,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.28%",
+          "caption_clean": "VAMOS PRA CIMA, FLUZÃO QUEROO GRITAAR CAMPEÃO É #DIADEFLU! É DIA DE IR AO MARACANÃ JOGAR JUNTO PELA VAGA NA PRÓXIMA FASE DA COPA DO BRASIL! VAAAAAAAAAAAAAAAAAMMMMMMMMOOOOOSSSS, TRI…",
+          "url": "https://www.instagram.com/p/DYOQVH-j5zT/",
+          "cover_url": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/699186847_1550748519748541_1755190265590133741_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGqH13CkJ3bH4t7G6EFDc6enAhw2V4-SxVXj-Ac1mk72Jp4Tc7UHsHU2Qmvz1qT7zU&_nc_ohc=5xiS497VaWUQ7kNvwEnF3GA&_nc_gid=KVIb3dotj76L-LzgLsVCJA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af6RsRhVXTo_cnbqMwJlPn_Z4OARevJfMOv6qn5bUcp9Ag&oe=6A089875&_nc_sid=10d13b",
+          "extra": {
+            "likes": 6980,
+            "comments": 213,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Sporting",
+          "handle": "sportingcp",
+          "flag": "🇵🇹",
+          "liga": "Primeira Liga",
+          "metric_label": "ER",
+          "metric_value": "0.14%",
+          "caption_clean": "A escolha é tua Quem foi para ti o #PlayerOfTheMatchSCP da vitória desta noite? #RAFCSCP",
+          "url": "https://www.instagram.com/p/DYN06i7DKKd/",
+          "cover_url": "https://instagram.faus1-1.fna.fbcdn.net/v/t51.82787-15/689703424_18593048011023836_3990146612295808789_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.faus1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF_gETYgEZ-rCTlcn9xW5Logr6W9E1krPsmiWLGhqgEbYS4IoHFvZvN0FuveN_DZV9g6K-E923BNjUuSRkIDSkH&_nc_ohc=DNmEO9_tYrsQ7kNvwFFLE_z&_nc_gid=jzwLcG8-VES1oMpHyMn6eA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4GMZDxX0d4xiauo9l9GWWHzPX4jt7QlZgKLkTclnqJGw&oe=6A08B27C&_nc_sid=10d13b",
+          "extra": {
+            "likes": 3941,
+            "comments": 37,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "20K",
+          "caption_clean": "HOJE TEM CRUZEIROOOO!!! O CABULOSO ENFRENTA O GOIÁS EM BUSCA DA CLASSIFICAÇÃO NA COPA DO BRASIL!!! #CRUxGOI #ReiDeCopas",
+          "url": "https://www.instagram.com/p/DYOQUBrjbK9/",
+          "cover_url": "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/694460018_1528832838595996_3423715331187573451_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG8pAyGqURIG14IsPWpsq3wAr-bAlQFmpz-YUbKE46uPXv2zZnF1yQVC3gVN0lDO0s&_nc_ohc=ABofJVRCsusQ7kNvwFa-gsI&_nc_gid=hsqK8d-Y9IwMREp53WlXzA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af650s05yRxGLcxC5Up-Rpg6ugeZaBDHPEdbSfrTjVppWg&oe=6A089932&_nc_sid=10d13b",
+          "extra": {
+            "likes": 19747,
+            "comments": 399,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "7K",
+          "caption_clean": "VAMOS PRA CIMA, FLUZÃO QUEROO GRITAAR CAMPEÃO É #DIADEFLU! É DIA DE IR AO MARACANÃ JOGAR JUNTO PELA VAGA NA PRÓXIMA FASE DA COPA DO BRASIL! VAAAAAAAAAAAAAAAAAMMMMMMMMOOOOOSSSS, TRI…",
+          "url": "https://www.instagram.com/p/DYOQVH-j5zT/",
+          "cover_url": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/699186847_1550748519748541_1755190265590133741_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGqH13CkJ3bH4t7G6EFDc6enAhw2V4-SxVXj-Ac1mk72Jp4Tc7UHsHU2Qmvz1qT7zU&_nc_ohc=5xiS497VaWUQ7kNvwEnF3GA&_nc_gid=KVIb3dotj76L-LzgLsVCJA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af6RsRhVXTo_cnbqMwJlPn_Z4OARevJfMOv6qn5bUcp9Ag&oe=6A089875&_nc_sid=10d13b",
+          "extra": {
+            "likes": 6980,
+            "comments": 213,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Internacional",
+          "handle": "scinternacional",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "6K",
+          "caption_clean": "DIA DE INTEEEEEEEEEER! TERÇA-FEIRA DE MATA-MATA NA NOSSA CASA! A partir das 19h30, o Clube do Povo enfrentará o Athletic-MG, no Beira-Rio, pelo jogo de volta da quinta fase da Copa…",
+          "url": "https://www.instagram.com/p/DYOQU2FgUJL/",
+          "cover_url": "https://scontent-iad3-1.cdninstagram.com/v/t39.30808-6/696862930_1536970441115910_7281581644720251458_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEidyThN0ZVFcAkc5cuX1jY61qsFvnhhAtqYNYZ1TVeWW5TEexvfSDWANtQ0ap-s4I&_nc_ohc=RHaYo5jNloAQ7kNvwEkF01V&_nc_gid=_WeUeh0xlfTKk8J5-cdHCQ&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af72h0pNL95QYjvx2BjrJtvYd4GZkWwBwxgkhaxlemg9gA&oe=6A089CA4&_nc_sid=10d13b",
+          "extra": {
+            "likes": 6471,
+            "comments": 88,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Sporting",
+          "handle": "sportingcp",
+          "flag": "🇵🇹",
+          "liga": "Primeira Liga",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "A escolha é tua Quem foi para ti o #PlayerOfTheMatchSCP da vitória desta noite? #RAFCSCP",
+          "url": "https://www.instagram.com/p/DYN06i7DKKd/",
+          "cover_url": "https://instagram.faus1-1.fna.fbcdn.net/v/t51.82787-15/689703424_18593048011023836_3990146612295808789_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.faus1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF_gETYgEZ-rCTlcn9xW5Logr6W9E1krPsmiWLGhqgEbYS4IoHFvZvN0FuveN_DZV9g6K-E923BNjUuSRkIDSkH&_nc_ohc=DNmEO9_tYrsQ7kNvwFFLE_z&_nc_gid=jzwLcG8-VES1oMpHyMn6eA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4GMZDxX0d4xiauo9l9GWWHzPX4jt7QlZgKLkTclnqJGw&oe=6A08B27C&_nc_sid=10d13b",
+          "extra": {
+            "likes": 3941,
+            "comments": 37,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Lyon",
+          "handle": "ol",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "VER",
+          "metric_value": "8.78%",
+          "caption_clean": "@corentintolisso dans le 11 type de la @ligue1mcdonalds",
+          "url": "https://www.instagram.com/p/DYOek_gMZs6/",
+          "cover_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/694941282_1621907578925984_3396067597652836485_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEnNDjiT8nin1TRv0vK3JqIpgH4cyezvSuon-tPqYIRoTUH_eunStYJYWYlzQJdoytTHTJsVu50d2xiE-dSGaxX&_nc_ohc=JmcogtlNBg4Q7kNvwFg4Rhl&_nc_gid=eJFbEautQC7I55mJEGby2g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7sRxRRnbbvlgxvOEp9WA1PJMhgE3P3jHpz7coIL3V-iQ&oe=6A089454&_nc_sid=10d13b",
+          "extra": {
+            "likes": 5880,
+            "comments": 36,
+            "views": 68182
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Lyon",
+          "handle": "ol",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "Likes",
+          "metric_value": "6K",
+          "caption_clean": "@corentintolisso dans le 11 type de la @ligue1mcdonalds",
+          "url": "https://www.instagram.com/p/DYOek_gMZs6/",
+          "cover_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/694941282_1621907578925984_3396067597652836485_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEnNDjiT8nin1TRv0vK3JqIpgH4cyezvSuon-tPqYIRoTUH_eunStYJYWYlzQJdoytTHTJsVu50d2xiE-dSGaxX&_nc_ohc=JmcogtlNBg4Q7kNvwFg4Rhl&_nc_gid=eJFbEautQC7I55mJEGby2g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7sRxRRnbbvlgxvOEp9WA1PJMhgE3P3jHpz7coIL3V-iQ&oe=6A089454&_nc_sid=10d13b",
+          "extra": {
+            "likes": 5880,
+            "comments": 36,
+            "views": 68182
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Lyon",
+          "handle": "ol_officiel",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "ER",
+          "metric_value": "27.51%",
+          "caption_clean": "CorentinTolisso dans le 11 type de la Ligue 1 #ligue1 #ol #tolisso #unfp",
+          "url": "https://www.tiktok.com/@ol_officiel/video/7638867759492762902",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/ocdCI1DzAMDiCtIiCAIS90rfcpTwoiIBDQyA4V~tplv-tiktokx-origin.image?dr=9636&x-expires=1778738400&x-signature=j%2BKYuUBNQDPLHiHTHVDhts%2FnGR0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "extra": {
+            "likes": 4540,
+            "comments": 44,
+            "views": 18200,
+            "shares": 67
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Al-Nassr",
+          "handle": "alnassr",
+          "flag": "🇸🇦",
+          "liga": "Saudi Pro League",
+          "metric_label": "ER",
+          "metric_value": "20.71%",
+          "caption_clean": "The captain is calling ️ #NassrAlhilal #alnassr #النصر #fyp #foryoupage",
+          "url": "https://www.tiktok.com/@alnassr/video/7638778850050313479",
+          "cover_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-i-photomode-sg/2d277eb6ac0341d38cdd4d62fe2eddae~tplv-photomode-image.jpeg?dr=10375&x-expires=1778738400&x-signature=J7Ia0YfBCv7Ffxp4KtSowRzumG0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a&ftpl=1",
+          "extra": {
+            "likes": 24000,
+            "comments": 553,
+            "views": 137300,
+            "shares": 556
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Al-Nassr",
+          "handle": "alnassr",
+          "flag": "🇸🇦",
+          "liga": "Saudi Pro League",
+          "metric_label": "Likes",
+          "metric_value": "24K",
+          "caption_clean": "The captain is calling ️ #NassrAlhilal #alnassr #النصر #fyp #foryoupage",
+          "url": "https://www.tiktok.com/@alnassr/video/7638778850050313479",
+          "cover_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-i-photomode-sg/2d277eb6ac0341d38cdd4d62fe2eddae~tplv-photomode-image.jpeg?dr=10375&x-expires=1778738400&x-signature=J7Ia0YfBCv7Ffxp4KtSowRzumG0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=no1a&ftpl=1",
+          "extra": {
+            "likes": 24000,
+            "comments": 553,
+            "views": 137300,
+            "shares": 556
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Lyon",
+          "handle": "ol_officiel",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "Likes",
+          "metric_value": "5K",
+          "caption_clean": "CorentinTolisso dans le 11 type de la Ligue 1 #ligue1 #ol #tolisso #unfp",
+          "url": "https://www.tiktok.com/@ol_officiel/video/7638867759492762902",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/ocdCI1DzAMDiCtIiCAIS90rfcpTwoiIBDQyA4V~tplv-tiktokx-origin.image?dr=9636&x-expires=1778738400&x-signature=j%2BKYuUBNQDPLHiHTHVDhts%2FnGR0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "extra": {
+            "likes": 4540,
+            "comments": 44,
+            "views": 18200,
+            "shares": 67
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 14
+  }
+}
