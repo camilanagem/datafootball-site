@@ -1,0 +1,410 @@
+{
+  "date": "2026-05-16",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.91%",
+          "caption_clean": "HOJE TEM CRUZEIROOOO!!! O CABULOSO VAI EM BUSCA DE TRÊS PONTOS FORA DE CASA!!! #PALxCRU #PáginasHeroicas",
+          "url": "https://www.instagram.com/p/DYYjhoDgaXn/",
+          "cover_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/700208019_1532187918260488_3098359013692678995_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGAVZUoEvuIRNBZRd17QK7kMdQI_9C0JrffND0ldv5UuzItBxjaOQblewNLeu3nFM4&_nc_ohc=1yUphlWxr78Q7kNvwHMzg8Q&_nc_gid=WVoAcCj6g6stuQDEtasW3A&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af6JywC-rDMcQUOExQL1bb6LwOuiCODA7zKC0m_Y19EQsw&oe=6A0DD53F&_nc_sid=10d13b",
+          "extra": {
+            "likes": 31597,
+            "comments": 487,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "0.88%",
+          "caption_clean": "¡HOY JUEGA RIVER!",
+          "url": "https://www.instagram.com/p/DYYjiAigcmL/",
+          "cover_url": "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/699273813_1529518338538962_3430695680833654128_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHNtvEeC9W_ReRti6iBkpF4jmxGH44W32FNhF5-1zHPFBkv9haXhEFdJ40OkhRu6nNSHRmU9MlcynZMtc6gzbXq&_nc_ohc=Fzo-zU0i_csQ7kNvwGGBUWP&_nc_gid=7X9qTAYDbFp8wHho0sQP9g&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af5ZRKDsVfOvb3X-Ple6lKaqjNZostEzvpiHCM2G_pUjRg&oe=6A0DE340&_nc_sid=10d13b",
+          "extra": {
+            "likes": 77434,
+            "comments": 1004,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Vasco",
+          "handle": "vascodagama",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.87%",
+          "caption_clean": "DIA DE BRASILEIRÃO EM PORTO ALEGRE! DIA DE GIGANTE DA COLINA NO GIGANTE DA BEIRA-RIO! ️ #DiaDeVasco #VascoDaGama",
+          "url": "https://www.instagram.com/p/DYYjjwbEVcZ/",
+          "cover_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/700723671_18602098516030512_7325791591112421022_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHVPCbswJa60t5zSfM9sIoTqbTGn7VCtCWNEUAcXrAeRmOmD9IXRxD5j8JJDQ5509k&_nc_ohc=0gjjFlPZ-f0Q7kNvwFO-3gZ&_nc_gid=MNe7PR0qLksrTrNZAsGFeg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7vghX894NbjfFDw2MgNqDV41N8RL8fXEW5N5ycr5Rrqg&oe=6A0DD275&_nc_sid=10d13b",
+          "extra": {
+            "likes": 32550,
+            "comments": 430,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.48%",
+          "caption_clean": "DIA DE VERDÃO PELO BRASILEIRÃO! VAMOS JUNTOS COM A #FAMÍLIAPALMEIRAS EM BUSCA DE MAIS UMA VITÓRIA! Palmeiras x Cruzeiro @Brasileirao ️ Arena Crefisa Barueri ⏰ 21h Premiere e SporTV",
+          "url": "https://www.instagram.com/p/DYYjivHDf6G/",
+          "cover_url": "https://instagram.fagc1-1.fna.fbcdn.net/v/t39.30808-6/700272571_1560381432113737_6487745309900319517_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFNnPE4u50xuCxDM1lPp_IQnKHtgEkcp1-KEUcOZVsjDacTej21Lm04FaVbQUMDzcc&_nc_ohc=KoUpuE8IJ5IQ7kNvwH3cNMF&_nc_gid=z7Xmb1fzSOPzQi7Fxc03uw&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af5qe1mlajgeh0cJY1vGNaKA_QTEDS1bUni3IaVWq4d24Q&oe=6A0DCF46&_nc_sid=10d13b",
+          "extra": {
+            "likes": 35231,
+            "comments": 409,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Atlético-MG",
+          "handle": "atletico",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.41%",
+          "caption_clean": "️ HOJE TEM GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO! Atlético x Mirassol Brasileiro ️ 16a rodada 18h30 ️ @ArenaMRV @…",
+          "url": "https://www.instagram.com/p/DYYj3-wNNJ9/",
+          "cover_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.82787-15/701663965_18590060587007970_1433753977946054694_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFu5sFZWHiW7zVMKbNRTW2Jep03PL0NocU8ckrioIHdiCloYi9XCfIdeFpW5MlNZq0&_nc_ohc=hfqayoZdBZ0Q7kNvwHledhI&_nc_gid=u6cYp0wpX9Cy_95Pxk73zg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5LQxjWcME2VR0Jm7B8uLG_0ThssWrkKrLkmq49Xx2zJQ&oe=6A0DC2EC&_nc_sid=10d13b",
+          "extra": {
+            "likes": 13338,
+            "comments": 301,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.40%",
+          "caption_clean": "SOU TRICOLOR DE CORAÇÃO SOU DO CLUBE TANTAS VEZES CAMPEÃO É #DIADEFLU NO MARACA! MAIS UMA RODADA DE @BRASILEIRAO PRA CONQUISTAR OS TRÊS PONTOS! VAAAAMOS, FLUMINEEEENNSEEE!",
+          "url": "https://www.instagram.com/p/DYYj-0rEnpr/",
+          "cover_url": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/698751435_1554046692752057_2631709877552346530_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFNwB6zIPzKY-DUgkTduzIvDunS8HORHpr7de3bvlUIhOLq7--nI6pDuqkuEYYXcz0&_nc_ohc=QlOuH6qPmeAQ7kNvwHCBVx3&_nc_gid=pGAkrbq583J3gighxAVk1Q&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af4bbzQRcdnb4jTJKJ7XOPPLnaCmgGa00Nt7YaY4CQttzQ&oe=6A0DE5E5&_nc_sid=10d13b",
+          "extra": {
+            "likes": 10719,
+            "comments": 145,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "São Paulo",
+          "handle": "saopaulofc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.37%",
+          "caption_clean": "Hoje tem São Paulo! É #DiaDeTricolor! ️ Fluminense x São Paulo ️ Maracanã Rio de Janeiro (RJ) ⏰ 19h Brasileirão (16a rodada) Record, Premiere e Cazé TV ️ SPFC Play #VamosSãoPaulo",
+          "url": "https://www.instagram.com/p/DYYjkbGFGdc/",
+          "cover_url": "https://scontent-lga3-3.cdninstagram.com/v/t39.30808-6/699256685_1521756182945296_5539183525214864528_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFvEuFvEllRu1diJWsxtyvn50kTGdMcRPCLUZZ0KA4yzpyEaIXUgu4v9yWdgGpPxJU&_nc_ohc=xVurqy-GP5wQ7kNvwH5X3zt&_nc_gid=lRXy2tWiDlV9ZIMgUtpplw&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af7mi_sjWpaXZolZGtJwjGZU8CRz_tuRS4OuJAr_LtDS3w&oe=6A0DF5C7&_nc_sid=10d13b",
+          "extra": {
+            "likes": 24530,
+            "comments": 604,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Internacional",
+          "handle": "scinternacional",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.34%",
+          "caption_clean": "DIA DE INTEEEEEEEEEEEEEEER! ️️️️ NÃO DEIXE A SAUDADE DE CASA COMEÇAR ANTES DA HORA! Neste sábado, o Clube do Povo enfrentará o Vasco, a partir das 18h30, no último jogo do semestre…",
+          "url": "https://www.instagram.com/p/DYYjgsJDzxz/",
+          "cover_url": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/699310740_1540390867440534_17780738209871440_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gERTAtcg2f3KLPnQG00f-KSKF0rI36-207NbXRdE_wWHXIhRpe2Zwp11tuPupsIQXg&_nc_ohc=2va1QQfBlyQQ7kNvwEmIyOb&_nc_gid=GD3r6Hw0jSOkGutt36J06A&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af7voQd_5EIBJRonTvky438UTbIMW7Eq27MCSRf6SuqirA&oe=6A0DDC73&_nc_sid=10d13b",
+          "extra": {
+            "likes": 7717,
+            "comments": 132,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "0.04%",
+          "caption_clean": "Gary has arrived in Chicago for The Famous CFC, thanks to @CoorsLight!",
+          "url": "https://www.instagram.com/p/DYYTn8VDEvL/",
+          "cover_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/700353893_18597194509021107_1946044645994320876_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGf_ee8yC72f04nv-bTVJEiaKzQ_eLUL-Y0Q3atOmHDavaPd1p5shB9XPJvYo37iZQ&_nc_ohc=uIBajmn6QasQ7kNvwGdn4wf&_nc_gid=uUBZf0KgaZTgrvvJ6PL0_w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5i6lGMgxuGzBzPM_bcEJo0SW4ynpYDyRHLF8wU7dzpOQ&oe=6A0DEC19&_nc_sid=10d13b",
+          "extra": {
+            "likes": 18273,
+            "comments": 87,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "0.00%",
+          "caption_clean": "It’s FA Cup final day!",
+          "url": "https://www.instagram.com/p/DYY2d3XjEWI/",
+          "cover_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/696727595_18597160267021107_8981859905034396984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHH0qDHmCQgYQAPOxavgL01KmFtGe5niXuHogIP8MRqexuR0duEICNBzEw3cGzWyq0&_nc_ohc=h7DpQzzvruEQ7kNvwELbaPc&_nc_gid=jKWcjBnFoKqS2E0VnoiAuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af59NWXle_IaerJVCKzMfZMhLrrg3JxYaDP_VKsrpAPZ7Q&oe=6A0DE9B5&_nc_sid=10d13b",
+          "extra": {
+            "likes": 201,
+            "comments": 28,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "77K",
+          "caption_clean": "¡HOY JUEGA RIVER!",
+          "url": "https://www.instagram.com/p/DYYjiAigcmL/",
+          "cover_url": "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/699273813_1529518338538962_3430695680833654128_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHNtvEeC9W_ReRti6iBkpF4jmxGH44W32FNhF5-1zHPFBkv9haXhEFdJ40OkhRu6nNSHRmU9MlcynZMtc6gzbXq&_nc_ohc=Fzo-zU0i_csQ7kNvwGGBUWP&_nc_gid=7X9qTAYDbFp8wHho0sQP9g&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af5ZRKDsVfOvb3X-Ple6lKaqjNZostEzvpiHCM2G_pUjRg&oe=6A0DE340&_nc_sid=10d13b",
+          "extra": {
+            "likes": 77434,
+            "comments": 1004,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "35K",
+          "caption_clean": "DIA DE VERDÃO PELO BRASILEIRÃO! VAMOS JUNTOS COM A #FAMÍLIAPALMEIRAS EM BUSCA DE MAIS UMA VITÓRIA! Palmeiras x Cruzeiro @Brasileirao ️ Arena Crefisa Barueri ⏰ 21h Premiere e SporTV",
+          "url": "https://www.instagram.com/p/DYYjivHDf6G/",
+          "cover_url": "https://instagram.fagc1-1.fna.fbcdn.net/v/t39.30808-6/700272571_1560381432113737_6487745309900319517_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFNnPE4u50xuCxDM1lPp_IQnKHtgEkcp1-KEUcOZVsjDacTej21Lm04FaVbQUMDzcc&_nc_ohc=KoUpuE8IJ5IQ7kNvwH3cNMF&_nc_gid=z7Xmb1fzSOPzQi7Fxc03uw&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af5qe1mlajgeh0cJY1vGNaKA_QTEDS1bUni3IaVWq4d24Q&oe=6A0DCF46&_nc_sid=10d13b",
+          "extra": {
+            "likes": 35231,
+            "comments": 409,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Vasco",
+          "handle": "vascodagama",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "33K",
+          "caption_clean": "DIA DE BRASILEIRÃO EM PORTO ALEGRE! DIA DE GIGANTE DA COLINA NO GIGANTE DA BEIRA-RIO! ️ #DiaDeVasco #VascoDaGama",
+          "url": "https://www.instagram.com/p/DYYjjwbEVcZ/",
+          "cover_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/700723671_18602098516030512_7325791591112421022_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHVPCbswJa60t5zSfM9sIoTqbTGn7VCtCWNEUAcXrAeRmOmD9IXRxD5j8JJDQ5509k&_nc_ohc=0gjjFlPZ-f0Q7kNvwFO-3gZ&_nc_gid=MNe7PR0qLksrTrNZAsGFeg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7vghX894NbjfFDw2MgNqDV41N8RL8fXEW5N5ycr5Rrqg&oe=6A0DD275&_nc_sid=10d13b",
+          "extra": {
+            "likes": 32550,
+            "comments": 430,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "32K",
+          "caption_clean": "HOJE TEM CRUZEIROOOO!!! O CABULOSO VAI EM BUSCA DE TRÊS PONTOS FORA DE CASA!!! #PALxCRU #PáginasHeroicas",
+          "url": "https://www.instagram.com/p/DYYjhoDgaXn/",
+          "cover_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/700208019_1532187918260488_3098359013692678995_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGAVZUoEvuIRNBZRd17QK7kMdQI_9C0JrffND0ldv5UuzItBxjaOQblewNLeu3nFM4&_nc_ohc=1yUphlWxr78Q7kNvwHMzg8Q&_nc_gid=WVoAcCj6g6stuQDEtasW3A&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af6JywC-rDMcQUOExQL1bb6LwOuiCODA7zKC0m_Y19EQsw&oe=6A0DD53F&_nc_sid=10d13b",
+          "extra": {
+            "likes": 31597,
+            "comments": 487,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "São Paulo",
+          "handle": "saopaulofc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "25K",
+          "caption_clean": "Hoje tem São Paulo! É #DiaDeTricolor! ️ Fluminense x São Paulo ️ Maracanã Rio de Janeiro (RJ) ⏰ 19h Brasileirão (16a rodada) Record, Premiere e Cazé TV ️ SPFC Play #VamosSãoPaulo",
+          "url": "https://www.instagram.com/p/DYYjkbGFGdc/",
+          "cover_url": "https://scontent-lga3-3.cdninstagram.com/v/t39.30808-6/699256685_1521756182945296_5539183525214864528_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFvEuFvEllRu1diJWsxtyvn50kTGdMcRPCLUZZ0KA4yzpyEaIXUgu4v9yWdgGpPxJU&_nc_ohc=xVurqy-GP5wQ7kNvwH5X3zt&_nc_gid=lRXy2tWiDlV9ZIMgUtpplw&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af7mi_sjWpaXZolZGtJwjGZU8CRz_tuRS4OuJAr_LtDS3w&oe=6A0DF5C7&_nc_sid=10d13b",
+          "extra": {
+            "likes": 24530,
+            "comments": 604,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "18K",
+          "caption_clean": "Gary has arrived in Chicago for The Famous CFC, thanks to @CoorsLight!",
+          "url": "https://www.instagram.com/p/DYYTn8VDEvL/",
+          "cover_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/700353893_18597194509021107_1946044645994320876_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGf_ee8yC72f04nv-bTVJEiaKzQ_eLUL-Y0Q3atOmHDavaPd1p5shB9XPJvYo37iZQ&_nc_ohc=uIBajmn6QasQ7kNvwGdn4wf&_nc_gid=uUBZf0KgaZTgrvvJ6PL0_w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5i6lGMgxuGzBzPM_bcEJo0SW4ynpYDyRHLF8wU7dzpOQ&oe=6A0DEC19&_nc_sid=10d13b",
+          "extra": {
+            "likes": 18273,
+            "comments": 87,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Atlético-MG",
+          "handle": "atletico",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "13K",
+          "caption_clean": "️ HOJE TEM GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO! Atlético x Mirassol Brasileiro ️ 16a rodada 18h30 ️ @ArenaMRV @…",
+          "url": "https://www.instagram.com/p/DYYj3-wNNJ9/",
+          "cover_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.82787-15/701663965_18590060587007970_1433753977946054694_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFu5sFZWHiW7zVMKbNRTW2Jep03PL0NocU8ckrioIHdiCloYi9XCfIdeFpW5MlNZq0&_nc_ohc=hfqayoZdBZ0Q7kNvwHledhI&_nc_gid=u6cYp0wpX9Cy_95Pxk73zg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5LQxjWcME2VR0Jm7B8uLG_0ThssWrkKrLkmq49Xx2zJQ&oe=6A0DC2EC&_nc_sid=10d13b",
+          "extra": {
+            "likes": 13338,
+            "comments": 301,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "11K",
+          "caption_clean": "SOU TRICOLOR DE CORAÇÃO SOU DO CLUBE TANTAS VEZES CAMPEÃO É #DIADEFLU NO MARACA! MAIS UMA RODADA DE @BRASILEIRAO PRA CONQUISTAR OS TRÊS PONTOS! VAAAAMOS, FLUMINEEEENNSEEE!",
+          "url": "https://www.instagram.com/p/DYYj-0rEnpr/",
+          "cover_url": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/698751435_1554046692752057_2631709877552346530_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFNwB6zIPzKY-DUgkTduzIvDunS8HORHpr7de3bvlUIhOLq7--nI6pDuqkuEYYXcz0&_nc_ohc=QlOuH6qPmeAQ7kNvwHCBVx3&_nc_gid=pGAkrbq583J3gighxAVk1Q&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af4bbzQRcdnb4jTJKJ7XOPPLnaCmgGa00Nt7YaY4CQttzQ&oe=6A0DE5E5&_nc_sid=10d13b",
+          "extra": {
+            "likes": 10719,
+            "comments": 145,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Internacional",
+          "handle": "scinternacional",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "8K",
+          "caption_clean": "DIA DE INTEEEEEEEEEEEEEEER! ️️️️ NÃO DEIXE A SAUDADE DE CASA COMEÇAR ANTES DA HORA! Neste sábado, o Clube do Povo enfrentará o Vasco, a partir das 18h30, no último jogo do semestre…",
+          "url": "https://www.instagram.com/p/DYYjgsJDzxz/",
+          "cover_url": "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/699310740_1540390867440534_17780738209871440_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gERTAtcg2f3KLPnQG00f-KSKF0rI36-207NbXRdE_wWHXIhRpe2Zwp11tuPupsIQXg&_nc_ohc=2va1QQfBlyQQ7kNvwEmIyOb&_nc_gid=GD3r6Hw0jSOkGutt36J06A&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af7voQd_5EIBJRonTvky438UTbIMW7Eq27MCSRf6SuqirA&oe=6A0DDC73&_nc_sid=10d13b",
+          "extra": {
+            "likes": 7717,
+            "comments": 132,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "201",
+          "caption_clean": "It’s FA Cup final day!",
+          "url": "https://www.instagram.com/p/DYY2d3XjEWI/",
+          "cover_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/696727595_18597160267021107_8981859905034396984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHH0qDHmCQgYQAPOxavgL01KmFtGe5niXuHogIP8MRqexuR0duEICNBzEw3cGzWyq0&_nc_ohc=h7DpQzzvruEQ7kNvwELbaPc&_nc_gid=jKWcjBnFoKqS2E0VnoiAuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af59NWXle_IaerJVCKzMfZMhLrrg3JxYaDP_VKsrpAPZ7Q&oe=6A0DE9B5&_nc_sid=10d13b",
+          "extra": {
+            "likes": 201,
+            "comments": 28,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Al-Nassr",
+          "handle": "alnassr",
+          "flag": "🇸🇦",
+          "liga": "Saudi Pro League",
+          "metric_label": "VER",
+          "metric_value": "8.61%",
+          "caption_clean": "⁨ ⁨ حانـت اللحظـة .. لنلتقـي في الأول بـارك بصـوتٍ واحـد .. وقلـبٍ واحـد .. من الدقيقة الأولى وحتى النهاية The time is now, Nassawris! Victory is our name. All roads lead to Alawwa…",
+          "url": "https://www.instagram.com/p/DYX8KbXMrXF/",
+          "cover_url": "https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-15/700800172_18588471376018981_7429126892073124230_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEi3y_S-ZIo8-4sfi42rehtJl-bEZ1AttB_9SAd7W4MAOmqr6OmBfyGRWn4U3ZfeaU&_nc_ohc=N9GGNdgmv6AQ7kNvwHp1MsC&_nc_gid=64Ai83dLA6y5eZ4Kwp3h-g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5Yc4HbSxbv76gz1ZI2bWHBT1IhfGqD8iYhgujRPAW1vQ&oe=6A0DC48E&_nc_sid=10d13b",
+          "extra": {
+            "likes": 37268,
+            "comments": 755,
+            "views": 459132
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Al-Nassr",
+          "handle": "alnassr",
+          "flag": "🇸🇦",
+          "liga": "Saudi Pro League",
+          "metric_label": "Likes",
+          "metric_value": "37K",
+          "caption_clean": "⁨ ⁨ حانـت اللحظـة .. لنلتقـي في الأول بـارك بصـوتٍ واحـد .. وقلـبٍ واحـد .. من الدقيقة الأولى وحتى النهاية The time is now, Nassawris! Victory is our name. All roads lead to Alawwa…",
+          "url": "https://www.instagram.com/p/DYX8KbXMrXF/",
+          "cover_url": "https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-15/700800172_18588471376018981_7429126892073124230_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEi3y_S-ZIo8-4sfi42rehtJl-bEZ1AttB_9SAd7W4MAOmqr6OmBfyGRWn4U3ZfeaU&_nc_ohc=N9GGNdgmv6AQ7kNvwHp1MsC&_nc_gid=64Ai83dLA6y5eZ4Kwp3h-g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5Yc4HbSxbv76gz1ZI2bWHBT1IhfGqD8iYhgujRPAW1vQ&oe=6A0DC48E&_nc_sid=10d13b",
+          "extra": {
+            "likes": 37268,
+            "comments": 755,
+            "views": 459132
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 22
+  }
+}
