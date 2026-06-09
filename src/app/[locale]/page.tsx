@@ -1,5 +1,6 @@
 import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import { CalendarHeatmap } from "@/components/CalendarHeatmap";
 import { getCalendarDays } from "@/lib/data";
 import { getEdition } from "@/lib/edition";
@@ -70,7 +71,7 @@ function Home() {
               <div className="text-xs uppercase tracking-widest opacity-50 mb-3">{t("thisWeek.mostActive")}</div>
               <div className="rounded-xl border border-current/15 divide-y divide-current/10">
                 {week.leaders.map((l, i) => (
-                  <div key={l.handle} className="flex items-center gap-3 px-4 py-3">
+                  <Link key={l.handle} href={`/club/${l.handle}`} className="flex items-center gap-3 px-4 py-3 hover:bg-current/5">
                     <span className="font-serif text-lg opacity-40 w-5 tabular-nums shrink-0">{i + 1}</span>
                     <span aria-hidden className="shrink-0">{l.flag}</span>
                     <div className="flex-1 min-w-0">
@@ -88,7 +89,7 @@ function Home() {
                         🔥 {t("thisWeek.streak", { count: l.streak })}
                       </span>
                     )}
-                  </div>
+                  </Link>
                 ))}
               </div>
             </div>
