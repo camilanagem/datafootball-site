@@ -45,7 +45,10 @@
     "metaDescription": "Qual seleção vence nas redes? Ranking diário das seleções por engajamento, curtidas e views no Instagram e TikTok."
   },
   "halloffame": {
-    "lead": "Os maiores números que o índice já registrou — um recorde por categoria. Bateu, assumiu o lugar.",
+    "lead": "Recordes de todos os tempos — entre cada clube e seleção que o índice já acompanhou. Um por categoria; bateu, assumiu o lugar.",
+    "editionNote": "Agora o índice acompanha as 48 seleções do torneio. Os clubes voltam depois de 20 de julho.",
+    "club": "Clube",
+    "team": "Seleção",
     "er": "Maior engajamento em foto",
     "ver": "Maior engajamento em reel",
     "likes": "Post mais curtido"

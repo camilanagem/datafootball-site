@@ -45,7 +45,10 @@
     "metaDescription": "¿Qué selección gana en las redes? Ranking diario de selecciones por engagement, likes y views en Instagram y TikTok."
   },
   "halloffame": {
-    "lead": "Los números más altos que el índice ha registrado — un récord por categoría. Si lo superas, ocupas su lugar.",
+    "lead": "Récords de todos los tiempos — entre cada club y selección que el índice ha seguido. Uno por categoría; si lo superas, ocupas el lugar.",
+    "editionNote": "Ahora el índice sigue a las 48 selecciones del torneo. Los clubes vuelven tras el 20 de julio.",
+    "club": "Club",
+    "team": "Selección",
     "er": "Mejor engagement en foto",
     "ver": "Mejor engagement en reel",
     "likes": "Post con más likes"

@@ -129,6 +129,7 @@ export type Record_ = {
   club: string;
   handle: string;
   flag: string;
+  liga: string;
   date: string;
   url: string;
 };
@@ -137,7 +138,7 @@ export function getRecords(): Record_[] {
   const reports = getAllReports();
   const records: Record_[] = [];
 
-  type BestRecord = { val: number; club: string; handle: string; flag: string; date: string; url: string };
+  type BestRecord = { val: number; club: string; handle: string; flag: string; liga: string; date: string; url: string };
   let bestEr: BestRecord | null = null;
   let bestVer: BestRecord | null = null;
   let bestLikes: BestRecord | null = null;
@@ -146,7 +147,7 @@ export function getRecords(): Record_[] {
     for (const c of r.carousels) {
       for (const p of c.posts) {
         const url = p.url;
-        const ctx = { club: p.club, handle: p.handle, flag: p.flag, date: r.date, url };
+        const ctx = { club: p.club, handle: p.handle, flag: p.flag, liga: p.liga, date: r.date, url };
 
         if (c.kind === "photos" && c.ranking === "er") {
           const v = parseFloat(p.metric_value);

@@ -45,7 +45,10 @@
     "metaDescription": "Which national team wins social media? Daily ranking of national teams by engagement, likes and views across Instagram and TikTok."
   },
   "halloffame": {
-    "lead": "The biggest numbers the index has ever logged — one record per category. Beat one and you take its place.",
+    "lead": "All-time records — across every club and national team the index has tracked. One per category; beat it and you take the spot.",
+    "editionNote": "Right now the index follows the 48 national teams of the tournament. Clubs return after July 20.",
+    "club": "Club",
+    "team": "National team",
     "er": "Best photo engagement",
     "ver": "Best reel engagement",
     "likes": "Most-liked post"
