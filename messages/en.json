@@ -33,6 +33,14 @@
     "step3Body": "The best posts become the daily ranking — here on the site and on @datafootball__.",
     "browse": "Browse the daily index"
   },
+  "thisWeek": {
+    "title": "This week",
+    "window": "last {count} reports",
+    "mostActive": "Most active",
+    "streak": "{count}-day streak",
+    "biggest": "Biggest post",
+    "likes": "likes"
+  },
   "tournament": {
     "label": "National Teams Edition",
     "body": "Through July 20, the index follows 48 national teams instead of clubs. Clubs return July 21."

@@ -33,6 +33,14 @@
     "step3Body": "Os melhores posts viram o ranking do dia — aqui no site e no @datafootball__.",
     "browse": "Explore o índice diário"
   },
+  "thisWeek": {
+    "title": "Esta semana",
+    "window": "últimos {count} relatórios",
+    "mostActive": "Mais ativos",
+    "streak": "{count} dias seguidos",
+    "biggest": "Maior post",
+    "likes": "curtidas"
+  },
   "tournament": {
     "label": "Edição Seleções",
     "body": "Até 20 de julho, o índice acompanha 48 seleções no lugar dos clubes. Os clubes voltam dia 21."

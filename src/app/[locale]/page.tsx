@@ -3,6 +3,7 @@ import { useTranslations } from "next-intl";
 import { CalendarHeatmap } from "@/components/CalendarHeatmap";
 import { getCalendarDays } from "@/lib/data";
 import { getEdition } from "@/lib/edition";
+import { getThisWeek } from "@/lib/momentum";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -17,6 +18,7 @@ function Home() {
     ? new Date(`${days[0].date.slice(0, 8)}01`)
     : new Date();
   const { isTournament, accountCount } = getEdition();
+  const week = getThisWeek();
 
   return (
     <div className="max-w-6xl mx-auto px-4 md:px-6 py-8 md:py-14">
@@ -53,6 +55,62 @@ function Home() {
           <Step n="3" title={t("home.step3Title")} body={t("home.step3Body")} />
         </div>
       </section>
+
+      {/* ESTA SEMANA — pulso da edição atual */}
+      {week.leaders.length > 0 && (
+        <section className="mb-14 md:mb-20">
+          <div className="flex items-baseline justify-between gap-4 mb-6">
+            <h2 className="font-serif text-3xl md:text-4xl">{t("thisWeek.title")}</h2>
+            <span className="text-xs uppercase tracking-widest opacity-50 whitespace-nowrap">
+              {t("thisWeek.window", { count: week.dayCount })}
+            </span>
+          </div>
+          <div className="grid md:grid-cols-3 gap-6 md:gap-8">
+            <div className="md:col-span-2">
+              <div className="text-xs uppercase tracking-widest opacity-50 mb-3">{t("thisWeek.mostActive")}</div>
+              <div className="rounded-xl border border-current/15 divide-y divide-current/10">
+                {week.leaders.map((l, i) => (
+                  <div key={l.handle} className="flex items-center gap-3 px-4 py-3">
+                    <span className="font-serif text-lg opacity-40 w-5 tabular-nums shrink-0">{i + 1}</span>
+                    <span aria-hidden className="shrink-0">{l.flag}</span>
+                    <div className="flex-1 min-w-0">
+                      <div className="font-serif truncate">{l.club}</div>
+                      <div className="text-xs opacity-50">
+                        {t("club.appearancesN", { count: l.appearances })}
+                        {l.topOnes > 0 ? ` · ${l.topOnes}× #1` : ""}
+                      </div>
+                    </div>
+                    {l.streak >= 2 && (
+                      <span
+                        className="text-xs shrink-0 whitespace-nowrap opacity-80"
+                        title={t("thisWeek.streak", { count: l.streak })}
+                      >
+                        🔥 {l.streak}
+                      </span>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+            {week.topPost && (
+              <a
+                href={week.topPost.url}
+                target="_blank"
+                rel="noopener"
+                className="rounded-xl border border-current/15 p-5 hover:border-current/40 transition flex flex-col"
+              >
+                <div className="text-xs uppercase tracking-widest opacity-50">{t("thisWeek.biggest")}</div>
+                <div className="font-serif text-4xl md:text-5xl tabular-nums mt-4 leading-none">{week.topPost.value}</div>
+                <div className="text-xs uppercase tracking-widest opacity-50 mt-1">{t("thisWeek.likes")}</div>
+                <div className="font-serif text-lg mt-4 flex items-center gap-2">
+                  <span aria-hidden>{week.topPost.flag}</span>
+                  <span>{week.topPost.club}</span>
+                </div>
+              </a>
+            )}
+          </div>
+        </section>
+      )}
 
       {/* O ÍNDICE (calendário) */}
       <section>
