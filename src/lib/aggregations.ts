@@ -30,12 +30,12 @@ export type ClubAggregate = {
   liga: string;
   appearances: number;
   topOnes: number;        // qtd de #1
-  bestEr?: number;        // maior ER (IG)
-  bestErUrl?: string;
-  bestTer?: number;       // maior TER (TikTok)
-  bestTerUrl?: string;
-  bestLikes?: number;
-  bestLikesUrl?: string;
+  // melhores por tipo de conteúdo (engajamento % e maior post em likes)
+  byType: {
+    photos: { engagement?: number; likes?: number };
+    reels: { engagement?: number; likes?: number };
+    tiktok: { engagement?: number; likes?: number };
+  };
   recentAppearances: { date: string; posicao: number; metric: string; url: string; cover_url?: string }[];
 };
 
@@ -55,6 +55,7 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
             liga: p.liga,
             appearances: 0,
             topOnes: 0,
+            byType: { photos: {}, reels: {}, tiktok: {} },
             recentAppearances: [],
           };
         }
@@ -62,24 +63,16 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
         a.appearances += 1;
         if (p.posicao === 1) a.topOnes += 1;
 
-        // ER (IG: foto/reel) e TER (TikTok) separados
-        if (c.ranking === "er" && p.metric_value.includes("%")) {
-          const val = parseFloat(p.metric_value);
-          if (!isNaN(val)) {
-            if (c.kind === "tiktok") {
-              if (a.bestTer === undefined || val > a.bestTer) { a.bestTer = val; a.bestTerUrl = p.url; }
-            } else if (a.bestEr === undefined || val > a.bestEr) {
-              a.bestEr = val;
-              a.bestErUrl = p.url;
-            }
+        // melhores por tipo: engajamento (ER/VER/TER) e maior post em likes
+        const bt = a.byType[c.kind as "photos" | "reels" | "tiktok"];
+        if (bt) {
+          if (c.ranking === "er" && p.metric_value.includes("%")) {
+            const val = parseFloat(p.metric_value);
+            if (!isNaN(val) && (bt.engagement === undefined || val > bt.engagement)) bt.engagement = val;
           }
-        }
-        // Likes tracking (apenas carousels likes)
-        if (c.ranking === "likes") {
-          const likes = (p as any).extra?.likes ?? 0;
-          if (likes && (a.bestLikes === undefined || likes > a.bestLikes)) {
-            a.bestLikes = likes;
-            a.bestLikesUrl = p.url;
+          if (c.ranking === "likes") {
+            const likes = (p as any).extra?.likes ?? 0;
+            if (likes && (bt.likes === undefined || likes > bt.likes)) bt.likes = likes;
           }
         }
 

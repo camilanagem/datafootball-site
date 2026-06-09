@@ -51,12 +51,37 @@ export default async function ClubPage({
         <p className="mt-2 text-sm opacity-60">@{club.handle}</p>
       </header>
 
-      <section className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
+      <section className="grid grid-cols-2 gap-4 mb-6">
         <Stat label={t("club.appearances")} value={club.appearances} />
         <Stat label={t("club.topSpots")} value={club.topOnes} />
-        <Stat label={t("club.bestER")} value={club.bestEr ? `${club.bestEr.toFixed(2)}%` : "—"} />
-        <Stat label={t("club.bestTER")} value={club.bestTer ? `${club.bestTer.toFixed(2)}%` : "—"} />
-        <Stat label={t("club.bestLikes")} value={club.bestLikes ? fmtCompact(club.bestLikes) : "—"} />
+      </section>
+
+      <section className="mb-12 rounded-xl border border-current/15 overflow-hidden">
+        <div className="flex items-center px-4 py-2 text-[10px] uppercase tracking-widest opacity-50 border-b border-current/10">
+          <span className="flex-1" />
+          <span className="w-24 text-right">{t("club.engagement")}</span>
+          <span className="w-24 text-right">{t("club.mostLikes")}</span>
+        </div>
+        {(
+          [
+            ["photos", t("club.photos")],
+            ["reels", t("club.reels")],
+            ["tiktok", t("club.tiktok")],
+          ] as const
+        ).map(([k, label]) => {
+          const bt = club.byType[k];
+          return (
+            <div key={k} className="flex items-center px-4 py-3 border-b border-current/10 last:border-0">
+              <span className="flex-1 font-serif">{label}</span>
+              <span className="w-24 text-right font-serif tabular-nums">
+                {bt.engagement !== undefined ? `${bt.engagement.toFixed(2)}%` : "—"}
+              </span>
+              <span className="w-24 text-right font-serif tabular-nums">
+                {bt.likes !== undefined ? fmtCompact(bt.likes) : "—"}
+              </span>
+            </div>
+          );
+        })}
       </section>
 
       <section>

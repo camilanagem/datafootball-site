@@ -97,7 +97,12 @@
     "bestLikes": "Mais curtidas",
     "recent": "Aparições recentes",
     "appearancesN": "{count} aparições",
-    "gallery": "Cada post que entrou no ranking"
+    "gallery": "Cada post que entrou no ranking",
+    "engagement": "Engajamento",
+    "mostLikes": "Mais curtidas",
+    "photos": "Fotos",
+    "reels": "Reels",
+    "tiktok": "TikTok"
   },
   "leagues": {
     "lead": "Total de aparições somadas em todos os relatórios — qual liga aparece mais.",
