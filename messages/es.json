@@ -44,6 +44,12 @@
     "metaTitle": "Selecciones — Ranking de engagement en Instagram y TikTok",
     "metaDescription": "¿Qué selección gana en las redes? Ranking diario de selecciones por engagement, likes y views en Instagram y TikTok."
   },
+  "halloffame": {
+    "lead": "Los números más altos que el índice ha registrado — un récord por categoría. Si lo superas, ocupas su lugar.",
+    "er": "Mejor engagement en foto",
+    "ver": "Mejor engagement en reel",
+    "likes": "Post con más likes"
+  },
   "day": {
     "headline": "Informe",
     "photosEngagement": "Fotos · Engagement",

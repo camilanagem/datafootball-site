@@ -44,6 +44,12 @@
     "metaTitle": "National Teams — Instagram & TikTok engagement ranking",
     "metaDescription": "Which national team wins social media? Daily ranking of national teams by engagement, likes and views across Instagram and TikTok."
   },
+  "halloffame": {
+    "lead": "The biggest numbers the index has ever logged — one record per category. Beat one and you take its place.",
+    "er": "Best photo engagement",
+    "ver": "Best reel engagement",
+    "likes": "Most-liked post"
+  },
   "day": {
     "headline": "Report",
     "photosEngagement": "Photos · Engagement",

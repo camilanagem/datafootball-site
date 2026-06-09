@@ -44,6 +44,12 @@
     "metaTitle": "Seleções — Ranking de engajamento no Instagram e TikTok",
     "metaDescription": "Qual seleção vence nas redes? Ranking diário das seleções por engajamento, curtidas e views no Instagram e TikTok."
   },
+  "halloffame": {
+    "lead": "Os maiores números que o índice já registrou — um recorde por categoria. Bateu, assumiu o lugar.",
+    "er": "Maior engajamento em foto",
+    "ver": "Maior engajamento em reel",
+    "likes": "Post mais curtido"
+  },
   "day": {
     "headline": "Relatório",
     "photosEngagement": "Fotos · Engajamento",
