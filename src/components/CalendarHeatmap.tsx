@@ -87,7 +87,7 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
               <span className={[
                 "font-sans text-[11px] md:text-sm leading-none mb-0.5 self-end pr-1",
                 isToday
-                  ? "text-white bg-[var(--color-tt-red)] rounded-full w-5 h-5 md:w-6 md:h-6 flex items-center justify-center font-bold"
+                  ? "bg-current text-[var(--background)] rounded-full w-5 h-5 md:w-6 md:h-6 flex items-center justify-center font-bold"
                   : "opacity-80",
               ].join(" ")}>
                 {cell.getDate()}
@@ -113,8 +113,7 @@ function ChipRow({ chip }: { chip: DayChip }) {
   return (
     <div className="flex items-center gap-1 md:gap-1.5 text-[8.5px] md:text-[11px] leading-tight w-full">
       <span
-        className="shrink-0 w-1.5 h-1.5 md:w-2 md:h-2 rounded-full"
-        style={{ backgroundColor: chip.color }}
+        className="shrink-0 w-1.5 h-1.5 md:w-2 md:h-2 rounded-full bg-current opacity-50"
         aria-hidden
       />
       <span className="font-mono opacity-70 shrink-0">{chip.time}</span>

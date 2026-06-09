@@ -37,7 +37,7 @@ function Home() {
       {/* FAIXA DE SELEÇÕES (só durante o torneio) */}
       {isTournament && (
         <div className="mb-12 md:mb-16 max-w-2xl mx-auto rounded-xl border border-current/20 px-5 py-4 text-center">
-          <span className="font-display text-sm uppercase tracking-wide align-middle" style={{ color: "var(--color-tt-red)" }}>
+          <span className="font-display text-sm uppercase tracking-wide align-middle">
             ★ {t("tournament.label")}
           </span>
           <span className="text-sm opacity-75 align-middle"> — {t("tournament.body")}</span>

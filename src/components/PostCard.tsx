@@ -28,17 +28,14 @@ function ordinal(n: number, locale: string): string {
 
 export function PostCard({
   post,
-  accent = "default",
   locale = "en",
 }: {
   post: Post;
   accent?: "default" | "tt-red" | "tt-sage";
   locale?: string;
 }) {
-  const accentColor =
-    accent === "tt-red" ? "var(--color-tt-red)" :
-    accent === "tt-sage" ? "var(--color-tt-sage)" :
-    "currentColor";
+  // P&B puro — sem cor de acento (igual ao feed @datafootball__)
+  const accentColor = "currentColor";
 
   const ex = post.extra;
   const metrics = ex ? [
