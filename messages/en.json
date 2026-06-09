@@ -38,7 +38,8 @@
     "window": "last {count} reports",
     "mostActive": "Most active",
     "streak": "{count}-day streak",
-    "biggest": "Biggest post",
+    "firsts": "{count}× first place",
+    "biggest": "Most-liked post of the week",
     "likes": "likes"
   },
   "tournament": {
@@ -93,7 +94,8 @@
     "bestER": "Best ER",
     "bestLikes": "Best likes",
     "recent": "Recent appearances",
-    "appearancesN": "{count} appearances"
+    "appearancesN": "{count} appearances",
+    "gallery": "Every post that ranked"
   },
   "leagues": {
     "lead": "Total appearances across every report — which league shows up the most.",

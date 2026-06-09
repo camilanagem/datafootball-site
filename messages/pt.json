@@ -38,7 +38,8 @@
     "window": "últimos {count} relatórios",
     "mostActive": "Mais ativos",
     "streak": "{count} dias seguidos",
-    "biggest": "Maior post",
+    "firsts": "{count}× em 1º lugar",
+    "biggest": "Post mais curtido da semana",
     "likes": "curtidas"
   },
   "tournament": {
@@ -93,7 +94,8 @@
     "bestER": "Melhor ER",
     "bestLikes": "Mais curtidas",
     "recent": "Aparições recentes",
-    "appearancesN": "{count} aparições"
+    "appearancesN": "{count} aparições",
+    "gallery": "Cada post que entrou no ranking"
   },
   "leagues": {
     "lead": "Total de aparições somadas em todos os relatórios — qual liga aparece mais.",

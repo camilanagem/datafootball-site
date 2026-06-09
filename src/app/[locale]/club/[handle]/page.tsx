@@ -58,20 +58,36 @@ export default async function ClubPage({
       </section>
 
       <section>
-        <h2 className="font-serif text-2xl mb-4">{t("club.recent")}</h2>
-        <ul className="divide-y divide-current/10">
+        <h2 className="font-serif text-2xl mb-4">{t("club.gallery")}</h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
           {club.recentAppearances.map((a, i) => (
-            <li key={i} className="py-3 flex items-center justify-between gap-4">
-              <div className="flex items-center gap-4">
-                <span className="font-serif text-2xl tabular-nums">#{a.posicao}</span>
-                <span className="text-sm opacity-80">{a.date}</span>
+            <a
+              key={i}
+              href={a.url}
+              target="_blank"
+              rel="noopener"
+              className="block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition"
+            >
+              {a.cover_url ? (
+                <div className="relative aspect-[4/5] bg-current/5">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={a.cover_url} alt="" className="w-full h-full object-cover" />
+                  <span className="absolute top-2 left-2 font-serif text-base leading-none bg-[var(--background)] rounded-md px-2 py-1">
+                    #{a.posicao}
+                  </span>
+                </div>
+              ) : (
+                <div className="aspect-[4/5] bg-current/5 flex items-center justify-center font-serif text-3xl opacity-40">
+                  #{a.posicao}
+                </div>
+              )}
+              <div className="flex items-center justify-between gap-2 px-3 py-2 text-xs">
+                <span className="opacity-80 truncate">{a.metric}</span>
+                <span className="opacity-40 shrink-0">{a.date.slice(5)}</span>
               </div>
-              <a href={a.url} target="_blank" rel="noopener" className="text-sm opacity-60 hover:opacity-100 underline">
-                {a.metric} ↗
-              </a>
-            </li>
+            </a>
           ))}
-        </ul>
+        </div>
       </section>
     </div>
   );

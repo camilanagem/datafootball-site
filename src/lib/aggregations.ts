@@ -34,7 +34,7 @@ export type ClubAggregate = {
   bestErUrl?: string;
   bestLikes?: number;
   bestLikesUrl?: string;
-  recentAppearances: { date: string; posicao: number; metric: string; url: string }[];
+  recentAppearances: { date: string; posicao: number; metric: string; url: string; cover_url?: string }[];
 };
 
 export function aggregateByClub(): Record<string, ClubAggregate> {
@@ -77,18 +77,22 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
           }
         }
 
-        if (a.recentAppearances.length < 8) {
-          a.recentAppearances.push({
-            date: r.date,
-            posicao: p.posicao,
-            metric: `${p.metric_value} ${p.metric_label}`,
-            url: p.url,
-          });
-        }
+        a.recentAppearances.push({
+          date: r.date,
+          posicao: p.posicao,
+          metric: `${p.metric_value} ${p.metric_label}`,
+          url: p.url,
+          cover_url: p.cover_url,
+        });
       }
     }
   }
 
+  // mais recentes primeiro, limitado pra não inflar
+  for (const a of Object.values(out)) {
+    a.recentAppearances.sort((x, y) => y.date.localeCompare(x.date) || x.posicao - y.posicao);
+    a.recentAppearances = a.recentAppearances.slice(0, 36);
+  }
   return out;
 }
 

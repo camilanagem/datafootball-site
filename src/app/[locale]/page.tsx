@@ -77,15 +77,15 @@ function Home() {
                       <div className="font-serif truncate">{l.club}</div>
                       <div className="text-xs opacity-50">
                         {t("club.appearancesN", { count: l.appearances })}
-                        {l.topOnes > 0 ? ` · ${l.topOnes}× #1` : ""}
+                        {l.topOnes > 0 ? ` · ${t("thisWeek.firsts", { count: l.topOnes })}` : ""}
                       </div>
                     </div>
-                    {l.streak >= 2 && (
+                    {l.streak >= 3 && (
                       <span
                         className="text-xs shrink-0 whitespace-nowrap opacity-80"
                         title={t("thisWeek.streak", { count: l.streak })}
                       >
-                        🔥 {l.streak}
+                        🔥 {t("thisWeek.streak", { count: l.streak })}
                       </span>
                     )}
                   </div>
@@ -97,14 +97,23 @@ function Home() {
                 href={week.topPost.url}
                 target="_blank"
                 rel="noopener"
-                className="rounded-xl border border-current/15 p-5 hover:border-current/40 transition flex flex-col"
+                className="rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition flex flex-col"
               >
-                <div className="text-xs uppercase tracking-widest opacity-50">{t("thisWeek.biggest")}</div>
-                <div className="font-serif text-4xl md:text-5xl tabular-nums mt-4 leading-none">{week.topPost.value}</div>
-                <div className="text-xs uppercase tracking-widest opacity-50 mt-1">{t("thisWeek.likes")}</div>
-                <div className="font-serif text-lg mt-4 flex items-center gap-2">
-                  <span aria-hidden>{week.topPost.flag}</span>
-                  <span>{week.topPost.club}</span>
+                {week.topPost.cover_url && (
+                  <div className="aspect-[4/3] bg-current/5">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={week.topPost.cover_url} alt="" className="w-full h-full object-cover" />
+                  </div>
+                )}
+                <div className="p-5">
+                  <div className="text-xs uppercase tracking-widest opacity-50">{t("thisWeek.biggest")}</div>
+                  <div className="font-serif text-3xl md:text-4xl tabular-nums mt-2 leading-none">
+                    {week.topPost.value} <span className="text-base opacity-50">{t("thisWeek.likes")}</span>
+                  </div>
+                  <div className="font-serif text-lg mt-3 flex items-center gap-2">
+                    <span aria-hidden>{week.topPost.flag}</span>
+                    <span>{week.topPost.club}</span>
+                  </div>
                 </div>
               </a>
             )}

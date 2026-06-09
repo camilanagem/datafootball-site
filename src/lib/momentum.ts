@@ -16,6 +16,7 @@ export type WeekPost = {
   handle: string;
   value: string;
   url: string;
+  cover_url?: string;
 };
 
 export type ThisWeek = {
@@ -73,7 +74,7 @@ export function getThisWeek(maxLeaders = 6): ThisWeek {
         const likes = p.extra?.likes ?? 0;
         if (likes > maxLikes) {
           maxLikes = likes;
-          topPost = { club: p.club, flag: p.flag, handle: p.handle, value: fmtLikes(likes), url: p.url };
+          topPost = { club: p.club, flag: p.flag, handle: p.handle, value: fmtLikes(likes), url: p.url, cover_url: p.cover_url };
         }
       }
     }
