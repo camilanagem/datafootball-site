@@ -2,13 +2,29 @@ import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import { ThemeToggle } from "./ThemeToggle";
 import { LocaleSwitcher } from "./LocaleSwitcher";
+import { MobileNav } from "./MobileNav";
 import { getEdition } from "@/lib/edition";
 
 export function Header() {
   const t = useTranslations("nav");
   const { isTournament } = getEdition();
+
+  const navItems = [
+    { href: "/", label: t("home") },
+    ...(isTournament
+      ? [{ href: "/national-teams", label: t("nationalTeams") }]
+      : [
+          { href: "/clubs", label: t("clubs") },
+          { href: "/leagues", label: t("leagues") },
+        ]),
+    { href: "/hall-of-fame", label: t("halloffame") },
+    { href: "/methodology", label: t("methodology") },
+  ];
+  // no mobile o menu é a navegação principal — inclui About (no desktop ele fica no footer)
+  const mobileItems = [...navItems, { href: "/about", label: t("about") }];
+
   return (
-    <header className="border-b border-current/15">
+    <header className="border-b border-current/15 relative">
       <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
         <Link href="/" aria-label="DATA FOOTBALL — home" className="inline-flex items-center">
           {/* logo real — preta no tema claro, branca no escuro */}
@@ -17,22 +33,17 @@ export function Header() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/brand/logo-line-white.png" alt="DATA FOOTBALL" className="hidden dark:block h-6 w-auto" />
         </Link>
+
         <nav className="hidden md:flex items-center gap-6 text-sm font-sans tracking-wide">
-          <Link href="/" className="hover:opacity-70">{t("home")}</Link>
-          {isTournament ? (
-            <Link href="/national-teams" className="hover:opacity-70">{t("nationalTeams")}</Link>
-          ) : (
-            <>
-              <Link href="/clubs" className="hover:opacity-70">{t("clubs")}</Link>
-              <Link href="/leagues" className="hover:opacity-70">{t("leagues")}</Link>
-            </>
-          )}
-          <Link href="/hall-of-fame" className="hover:opacity-70">{t("halloffame")}</Link>
-          <Link href="/methodology" className="hover:opacity-70">{t("methodology")}</Link>
+          {navItems.map((it) => (
+            <Link key={it.href} href={it.href} className="hover:opacity-70">{it.label}</Link>
+          ))}
         </nav>
+
         <div className="flex items-center gap-4">
           <LocaleSwitcher />
           <ThemeToggle />
+          <MobileNav items={mobileItems} />
         </div>
       </div>
     </header>

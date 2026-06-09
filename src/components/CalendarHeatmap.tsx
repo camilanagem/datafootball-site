@@ -69,7 +69,7 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
           </div>
         ))}
         {cells.map((cell, i) => {
-          if (!cell) return <div key={i} className="bg-[var(--background)] min-h-[140px] md:min-h-[180px]" />;
+          if (!cell) return <div key={i} className="bg-[var(--background)] min-h-[76px] md:min-h-[180px]" />;
           const iso = fmtDateISO(cell);
           const chips = map.get(iso) || [];
           const has = chips.length > 0;
@@ -80,7 +80,7 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
               onClick={() => has && router.push(`/day/${iso}`)}
               disabled={!has}
               className={[
-                "bg-[var(--background)] text-left p-1.5 md:p-2 transition-all flex flex-col gap-1 min-h-[140px] md:min-h-[180px]",
+                "bg-[var(--background)] text-left p-1.5 md:p-2 transition-all flex flex-col gap-1 min-h-[76px] md:min-h-[180px]",
                 has ? "hover:bg-current/5 cursor-pointer" : "opacity-40 cursor-default",
               ].join(" ")}
             >
@@ -92,7 +92,14 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
               ].join(" ")}>
                 {cell.getDate()}
               </span>
-              <div className="flex flex-col gap-[2px] flex-1 w-full overflow-hidden">
+              {/* mobile: contagem em pontinhos (célula compacta) */}
+              <div className="md:hidden flex flex-wrap gap-1 mt-1">
+                {chips.map((_, idx) => (
+                  <span key={idx} className="w-1.5 h-1.5 rounded-full bg-current opacity-50" aria-hidden />
+                ))}
+              </div>
+              {/* desktop: chips detalhados */}
+              <div className="hidden md:flex flex-col gap-[2px] flex-1 w-full overflow-hidden">
                 {chips.map((c, idx) => (
                   <ChipRow key={idx} chip={c} />
                 ))}

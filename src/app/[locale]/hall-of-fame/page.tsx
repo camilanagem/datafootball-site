@@ -53,10 +53,10 @@ export default async function HallOfFamePage({
             <div className="text-xs uppercase tracking-widest opacity-60 mb-3">
               {t(`halloffame.${LABEL_KEY[r.type] ?? "likes"}`)}
             </div>
-            <div className="flex items-end justify-between gap-4">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between sm:gap-4">
               <div className="font-serif text-5xl md:text-6xl tabular-nums leading-none">{r.value}</div>
-              <div className="text-right">
-                <div className="font-serif text-xl flex items-center gap-2 justify-end">
+              <div className="text-left sm:text-right">
+                <div className="font-serif text-xl flex items-center gap-2 justify-start sm:justify-end">
                   <span aria-hidden>{r.flag}</span>
                   <span>{r.club}</span>
                 </div>
