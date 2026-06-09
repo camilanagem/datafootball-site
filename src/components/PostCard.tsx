@@ -1,4 +1,5 @@
 import type { Post } from "@/lib/data";
+import { Cover } from "./Cover";
 
 const ExternalLink = ({ size = 14 }: { size?: number }) => (
   <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24"
@@ -54,15 +55,12 @@ export function PostCard({
       rel="noopener"
       className="group block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition-all"
     >
-      {post.cover_url && (
-        <div className="relative aspect-[4/3] bg-current/5">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={post.cover_url} alt="" className="w-full h-full object-cover" />
-          <span className="absolute top-3 right-3 text-white/50 group-hover:text-white transition">
-            <ExternalLink size={16} />
-          </span>
-        </div>
-      )}
+      <div className="relative aspect-[4/3] bg-current/5">
+        <Cover src={post.cover_url} className="w-full h-full object-cover" />
+        <span className="absolute top-3 right-3 opacity-40 group-hover:opacity-100 transition">
+          <ExternalLink size={16} />
+        </span>
+      </div>
 
       <div className="p-4">
         <div className="flex items-start justify-between gap-3 mb-1">

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
 import type { Metadata } from "next";
 import { aggregateByClub } from "@/lib/aggregations";
+import { Cover } from "@/components/Cover";
 
 export async function generateMetadata({
   params,
@@ -69,19 +70,13 @@ export default async function ClubPage({
               rel="noopener"
               className="block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition"
             >
-              {a.cover_url ? (
-                <div className="relative aspect-[4/5] bg-current/5">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={a.cover_url} alt="" className="w-full h-full object-cover" />
-                  <span className="absolute top-2 left-2 font-serif text-base leading-none bg-[var(--background)] rounded-md px-2 py-1">
-                    #{a.posicao}
-                  </span>
-                </div>
-              ) : (
-                <div className="aspect-[4/5] bg-current/5 flex items-center justify-center font-serif text-3xl opacity-40">
+              <div className="relative aspect-[4/5] bg-current/5 flex items-center justify-center">
+                <span className="font-serif text-3xl opacity-25">#{a.posicao}</span>
+                <Cover src={a.cover_url} className="absolute inset-0 w-full h-full object-cover" />
+                <span className="absolute top-2 left-2 font-serif text-base leading-none bg-[var(--background)] rounded-md px-2 py-1">
                   #{a.posicao}
-                </div>
-              )}
+                </span>
+              </div>
               <div className="flex items-center justify-between gap-2 px-3 py-2 text-xs">
                 <span className="opacity-80 truncate">{a.metric}</span>
                 <span className="opacity-40 shrink-0">{a.date.slice(5)}</span>

@@ -5,6 +5,7 @@ import { CalendarHeatmap } from "@/components/CalendarHeatmap";
 import { getCalendarDays } from "@/lib/data";
 import { getEdition } from "@/lib/edition";
 import { getThisWeek } from "@/lib/momentum";
+import { Cover } from "@/components/Cover";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -100,12 +101,9 @@ function Home() {
                 rel="noopener"
                 className="rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition flex flex-col"
               >
-                {week.topPost.cover_url && (
-                  <div className="aspect-[4/3] bg-current/5">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={week.topPost.cover_url} alt="" className="w-full h-full object-cover" />
-                  </div>
-                )}
+                <div className="aspect-[4/3] bg-current/5">
+                  <Cover src={week.topPost.cover_url} className="w-full h-full object-cover" />
+                </div>
                 <div className="p-5">
                   <div className="text-xs uppercase tracking-widest opacity-50">{t("thisWeek.biggest")}</div>
                   <div className="font-serif text-3xl md:text-4xl tabular-nums mt-2 leading-none">
