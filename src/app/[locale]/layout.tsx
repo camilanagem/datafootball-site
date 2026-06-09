@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import { Inter, Playfair_Display } from "next/font/google";
 import localFont from "next/font/local";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
-import { getMessages, setRequestLocale } from "next-intl/server";
+import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { ThemeProvider } from "@/components/ThemeProvider";
@@ -32,11 +32,49 @@ const squad = localFont({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  metadataBase: new URL("https://datafootball.co"),
-  title: "DataFootball — Daily index of football's most-engaged posts",
-  description: "Daily ranking of the 57+ biggest football clubs by engagement, likes, and views — across Instagram and TikTok.",
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  const title = t("site.metaTitle");
+  const description = t("site.metaDescription");
+  const path = locale === "en" ? "" : `/${locale}`;
+  return {
+    metadataBase: new URL("https://datafootball.co"),
+    title: { default: title, template: "%s · DataFootball" },
+    description,
+    keywords: [
+      "football engagement",
+      "soccer social media ranking",
+      "Instagram football ranking",
+      "TikTok football",
+      "national teams engagement",
+      "football data",
+      "datafootball",
+    ],
+    alternates: {
+      canonical: path || "/",
+      languages: { en: "/", pt: "/pt", es: "/es", "x-default": "/" },
+    },
+    openGraph: {
+      type: "website",
+      siteName: "DataFootball",
+      url: `https://datafootball.co${path}`,
+      title,
+      description,
+      images: [{ url: "/og.png", width: 1200, height: 630, alt: "DataFootball" }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: ["/og.png"],
+    },
+  };
+}
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));

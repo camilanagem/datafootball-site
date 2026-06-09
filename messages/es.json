@@ -2,6 +2,8 @@
   "site": {
     "title": "DataFootball",
     "tagline": "Índice diario de los posts más engagados del fútbol",
+    "metaTitle": "DataFootball — Ranking diario de engagement en Instagram y TikTok",
+    "metaDescription": "El índice diario de los posts más engagados del fútbol. Rankeamos clubes y selecciones por engagement, likes y views en Instagram y TikTok — cada día.",
     "subscribe": "Suscribirse",
     "subscribePlaceholder": "tu email"
   },
@@ -16,7 +18,21 @@
   "home": {
     "selectDay": "Selecciona un día para ver el informe",
     "todayButton": "Hoy",
-    "noPostsYet": "Aún no hay informes para este día"
+    "noPostsYet": "Aún no hay informes para este día",
+    "what": "Cada día escaneamos {count} de las cuentas más grandes del fútbol en Instagram y TikTok y rankeamos sus mejores posts. Puro engagement — sin opiniones, sin relleno.",
+    "statline": "{count} cuentas · Instagram + TikTok · índice nuevo cada día",
+    "howTitle": "Cómo funciona",
+    "step1Title": "Recogemos los posts",
+    "step1Body": "Todos los posts de {count} de las cuentas de fútbol más seguidas, cada día.",
+    "step2Title": "Rankeamos por engagement",
+    "step2Body": "Likes, comentarios, views y compartidos — pesos iguales, tasas estándar del mercado. Sin multiplicadores secretos.",
+    "step3Title": "Publicamos el índice",
+    "step3Body": "Los mejores posts se convierten en el ranking del día — aquí en el sitio y en @datafootball__.",
+    "browse": "Explora el índice diario"
+  },
+  "tournament": {
+    "label": "Edición Selecciones",
+    "body": "Hasta el 20 de julio, el índice sigue a 48 selecciones en lugar de clubes. Los clubes vuelven el 21."
   },
   "day": {
     "headline": "Informe",

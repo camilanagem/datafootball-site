@@ -2,6 +2,8 @@
   "site": {
     "title": "DataFootball",
     "tagline": "Daily index of football's most-engaged posts",
+    "metaTitle": "DataFootball — Daily Instagram & TikTok engagement ranking",
+    "metaDescription": "The daily index of football's most-engaged posts. We rank clubs and national teams by engagement, likes and views across Instagram and TikTok — every day.",
     "subscribe": "Subscribe",
     "subscribePlaceholder": "your email"
   },
@@ -16,7 +18,21 @@
   "home": {
     "selectDay": "Select a day to see the report",
     "todayButton": "Today",
-    "noPostsYet": "No reports yet for this day"
+    "noPostsYet": "No reports yet for this day",
+    "what": "Every day we scan {count} of football's biggest accounts across Instagram and TikTok, then rank their best-performing posts. Pure engagement — no opinions, no fluff.",
+    "statline": "{count} accounts · Instagram + TikTok · new index every day",
+    "howTitle": "How it works",
+    "step1Title": "We pull the posts",
+    "step1Body": "Every post from {count} of the most-followed football accounts, every single day.",
+    "step2Title": "We rank by engagement",
+    "step2Body": "Likes, comments, views and shares — equal weights, market-standard rates. No secret multipliers.",
+    "step3Title": "We publish the index",
+    "step3Body": "The best posts become the daily ranking — here on the site and on @datafootball__.",
+    "browse": "Browse the daily index"
+  },
+  "tournament": {
+    "label": "National Teams Edition",
+    "body": "Through July 20, the index follows 48 national teams instead of clubs. Clubs return July 21."
   },
   "day": {
     "headline": "Report",
