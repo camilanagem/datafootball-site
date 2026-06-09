@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { type DayReport, getAvailableDays } from "./data";
+import { isNationalTeam } from "./edition";
 
 const DATA_DIR = path.join(process.cwd(), "src", "data", "days");
 
@@ -134,11 +135,9 @@ export type Record_ = {
   url: string;
 };
 
-export function getRecords(): Record_[] {
-  const reports = getAllReports();
-  const records: Record_[] = [];
+type BestRecord = { val: number; club: string; handle: string; flag: string; liga: string; date: string; url: string };
 
-  type BestRecord = { val: number; club: string; handle: string; flag: string; liga: string; date: string; url: string };
+function computeRecords(reports: DayReport[], keep: (liga: string) => boolean): Record_[] {
   let bestEr: BestRecord | null = null;
   let bestVer: BestRecord | null = null;
   let bestLikes: BestRecord | null = null;
@@ -146,8 +145,8 @@ export function getRecords(): Record_[] {
   for (const r of reports) {
     for (const c of r.carousels) {
       for (const p of c.posts) {
-        const url = p.url;
-        const ctx = { club: p.club, handle: p.handle, flag: p.flag, liga: p.liga, date: r.date, url };
+        if (!keep(p.liga || "")) continue;
+        const ctx = { club: p.club, handle: p.handle, flag: p.flag, liga: p.liga, date: r.date, url: p.url };
 
         if (c.kind === "photos" && c.ranking === "er") {
           const v = parseFloat(p.metric_value);
@@ -165,6 +164,7 @@ export function getRecords(): Record_[] {
     }
   }
 
+  const records: Record_[] = [];
   if (bestEr) records.push({ type: "ER", value: `${bestEr.val.toFixed(2)}%`, ...bestEr });
   if (bestVer) records.push({ type: "VER", value: `${bestVer.val.toFixed(2)}%`, ...bestVer });
   if (bestLikes) records.push({
@@ -172,6 +172,14 @@ export function getRecords(): Record_[] {
     value: bestLikes.val >= 1_000_000 ? `${(bestLikes.val / 1_000_000).toFixed(1)}M` : `${Math.round(bestLikes.val / 1000)}K`,
     ...bestLikes,
   });
-
   return records;
+}
+
+// Recordes separados: clubes e seleções não competem no mesmo "hall".
+export function getRecords(): { clubs: Record_[]; teams: Record_[] } {
+  const reports = getAllReports();
+  return {
+    clubs: computeRecords(reports, (liga) => !isNationalTeam(liga)),
+    teams: computeRecords(reports, (liga) => isNationalTeam(liga)),
+  };
 }
