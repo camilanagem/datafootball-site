@@ -60,6 +60,7 @@
     "team": "National team",
     "er": "Best photo engagement",
     "ver": "Best reel engagement",
+    "ter": "Best TikTok engagement",
     "likes": "Most-liked post"
   },
   "day": {
@@ -92,6 +93,7 @@
     "appearances": "Appearances",
     "topSpots": "#1 finishes",
     "bestER": "Best ER",
+    "bestTER": "Best TER",
     "bestLikes": "Best likes",
     "recent": "Recent appearances",
     "appearancesN": "{count} appearances",

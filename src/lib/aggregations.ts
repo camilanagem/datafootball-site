@@ -30,8 +30,10 @@ export type ClubAggregate = {
   liga: string;
   appearances: number;
   topOnes: number;        // qtd de #1
-  bestEr?: number;        // maior ER
+  bestEr?: number;        // maior ER (IG)
   bestErUrl?: string;
+  bestTer?: number;       // maior TER (TikTok)
+  bestTerUrl?: string;
   bestLikes?: number;
   bestLikesUrl?: string;
   recentAppearances: { date: string; posicao: number; metric: string; url: string; cover_url?: string }[];
@@ -60,12 +62,16 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
         a.appearances += 1;
         if (p.posicao === 1) a.topOnes += 1;
 
-        // ER tracking (apenas pra carousels ER)
+        // ER (IG: foto/reel) e TER (TikTok) separados
         if (c.ranking === "er" && p.metric_value.includes("%")) {
           const val = parseFloat(p.metric_value);
-          if (!isNaN(val) && (a.bestEr === undefined || val > a.bestEr)) {
-            a.bestEr = val;
-            a.bestErUrl = p.url;
+          if (!isNaN(val)) {
+            if (c.kind === "tiktok") {
+              if (a.bestTer === undefined || val > a.bestTer) { a.bestTer = val; a.bestTerUrl = p.url; }
+            } else if (a.bestEr === undefined || val > a.bestEr) {
+              a.bestEr = val;
+              a.bestErUrl = p.url;
+            }
           }
         }
         // Likes tracking (apenas carousels likes)
@@ -129,7 +135,7 @@ export function aggregateByLeague(): LeagueAggregate[] {
 }
 
 export type Record_ = {
-  type: "ER" | "Likes" | "VER";
+  type: "ER" | "Likes" | "VER" | "TER";
   value: string;
   club: string;
   handle: string;
@@ -144,6 +150,7 @@ type BestRecord = { val: number; club: string; handle: string; flag: string; lig
 function computeRecords(reports: DayReport[], keep: (liga: string) => boolean): Record_[] {
   let bestEr: BestRecord | null = null;
   let bestVer: BestRecord | null = null;
+  let bestTer: BestRecord | null = null;
   let bestLikes: BestRecord | null = null;
 
   for (const r of reports) {
@@ -160,6 +167,10 @@ function computeRecords(reports: DayReport[], keep: (liga: string) => boolean): 
           const v = parseFloat(p.metric_value);
           if (!isNaN(v) && (!bestVer || v > bestVer.val)) bestVer = { ...ctx, val: v };
         }
+        if (c.kind === "tiktok" && c.ranking === "er") {
+          const v = parseFloat(p.metric_value);
+          if (!isNaN(v) && (!bestTer || v > bestTer.val)) bestTer = { ...ctx, val: v };
+        }
         if (c.ranking === "likes") {
           const likes = (p as any).extra?.likes ?? 0;
           if (likes && (!bestLikes || likes > bestLikes.val)) bestLikes = { ...ctx, val: likes };
@@ -171,6 +182,7 @@ function computeRecords(reports: DayReport[], keep: (liga: string) => boolean): 
   const records: Record_[] = [];
   if (bestEr) records.push({ type: "ER", value: `${bestEr.val.toFixed(2)}%`, ...bestEr });
   if (bestVer) records.push({ type: "VER", value: `${bestVer.val.toFixed(2)}%`, ...bestVer });
+  if (bestTer) records.push({ type: "TER", value: `${bestTer.val.toFixed(2)}%`, ...bestTer });
   if (bestLikes) records.push({
     type: "Likes",
     value: bestLikes.val >= 1_000_000 ? `${(bestLikes.val / 1_000_000).toFixed(1)}M` : `${Math.round(bestLikes.val / 1000)}K`,

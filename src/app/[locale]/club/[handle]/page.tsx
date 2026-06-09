@@ -50,10 +50,11 @@ export default async function ClubPage({
         <p className="mt-2 text-sm opacity-60">@{club.handle}</p>
       </header>
 
-      <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
+      <section className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
         <Stat label={t("club.appearances")} value={club.appearances} />
         <Stat label={t("club.topSpots")} value={club.topOnes} />
         <Stat label={t("club.bestER")} value={club.bestEr ? `${club.bestEr.toFixed(2)}%` : "—"} />
+        <Stat label={t("club.bestTER")} value={club.bestTer ? `${club.bestTer.toFixed(2)}%` : "—"} />
         <Stat label={t("club.bestLikes")} value={club.bestLikes ? fmtCompact(club.bestLikes) : "—"} />
       </section>
 

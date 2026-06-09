@@ -60,6 +60,7 @@
     "team": "Selección",
     "er": "Mejor engagement en foto",
     "ver": "Mejor engagement en reel",
+    "ter": "Mejor engagement en TikTok",
     "likes": "Post con más likes"
   },
   "day": {
@@ -92,6 +93,7 @@
     "appearances": "Apariciones",
     "topSpots": "Veces nº1",
     "bestER": "Mejor ER",
+    "bestTER": "Mejor TER",
     "bestLikes": "Más likes",
     "recent": "Apariciones recientes",
     "appearancesN": "{count} apariciones",

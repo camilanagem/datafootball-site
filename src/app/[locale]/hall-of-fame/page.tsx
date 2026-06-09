@@ -3,7 +3,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { getRecords, type Record_ } from "@/lib/aggregations";
 import { getEdition } from "@/lib/edition";
 
-const LABEL_KEY: Record<string, string> = { ER: "er", VER: "ver", Likes: "likes" };
+const LABEL_KEY: Record<string, string> = { ER: "er", VER: "ver", TER: "ter", Likes: "likes" };
 
 export async function generateMetadata({
   params,
