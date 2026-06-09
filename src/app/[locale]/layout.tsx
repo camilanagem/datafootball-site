@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { Inter, Playfair_Display } from "next/font/google";
+import localFont from "next/font/local";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -19,6 +20,15 @@ const inter = Inter({
 const playfair = Playfair_Display({
   variable: "--font-playfair",
   subsets: ["latin"],
+  display: "swap",
+});
+
+// Wordmark — fonte real da logo do Instagram: Squad Black Italic (Fontfabric).
+// ⚠️ versão DEMO (licença de avaliação) — trocar pelo arquivo licenciado ao comprar.
+// Só A-Z/0-9 (sem acentos) — por isso é usada apenas no wordmark, não no corpo.
+const squad = localFont({
+  src: "../../fonts/squad-blackitalic.otf",
+  variable: "--font-squad",
   display: "swap",
 });
 
@@ -47,7 +57,7 @@ export default async function LocaleLayout({
   return (
     <html
       lang={locale}
-      className={`${inter.variable} ${playfair.variable} h-full antialiased`}
+      className={`${inter.variable} ${playfair.variable} ${squad.variable} h-full antialiased`}
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col">

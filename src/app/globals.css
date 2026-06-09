@@ -13,6 +13,7 @@
 
   --font-serif: var(--font-playfair, Didot, 'Bodoni 72', serif);
   --font-sans: var(--font-inter, Helvetica, system-ui, sans-serif);
+  --font-display: var(--font-squad, 'Arial Narrow', sans-serif);
 }
 
 :root {
@@ -40,5 +41,7 @@ body {
 
 .font-serif { font-family: var(--font-serif); }
 .font-sans { font-family: var(--font-sans); }
+/* wordmark no estilo da logo IG (Squad Black Italic — face única, já pesada+itálica) */
+.font-display { font-family: var(--font-display); }
 
 .hairline { background: var(--hairline); }
