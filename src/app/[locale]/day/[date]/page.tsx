@@ -1,8 +1,36 @@
+import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
 import { getDayReport, type Post } from "@/lib/data";
 import { PostCard } from "@/components/PostCard";
+
+function fmtDate(date: string, locale: string): string {
+  return new Date(`${date}T00:00:00`).toLocaleDateString(
+    locale === "pt" ? "pt-BR" : locale === "es" ? "es-ES" : "en-US",
+    { weekday: "long", year: "numeric", month: "long", day: "numeric" },
+  );
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string; date: string }>;
+}): Promise<Metadata> {
+  const { locale, date } = await params;
+  if (!getDayReport(date)) return {};
+  const t = await getTranslations({ locale });
+  const formatted = fmtDate(date, locale);
+  const title = t("day.metaTitle", { date: formatted });
+  const description = t("day.metaDescription", { date: formatted });
+  const path = locale === "en" ? "" : `/${locale}`;
+  return {
+    title,
+    description,
+    alternates: { canonical: `${path}/day/${date}` },
+    openGraph: { title, description, images: ["/og.png"] },
+  };
+}
 
 const ChevronLeft = ({ size = 16 }: { size?: number }) => (
   <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24"
@@ -62,11 +90,7 @@ export default async function DayPage({
   const report = getDayReport(date);
   if (!report) notFound();
 
-  const dateObj = new Date(`${date}T00:00:00`);
-  const formatted = dateObj.toLocaleDateString(
-    locale === "pt" ? "pt-BR" : locale === "es" ? "es-ES" : "en-US",
-    { weekday: "long", year: "numeric", month: "long", day: "numeric" },
-  );
+  const formatted = fmtDate(date, locale);
 
   const allPosts = report.carousels.flatMap(c => c.posts);
 
@@ -121,8 +145,27 @@ export default async function DayPage({
 
   const totalSlots = report.carousels.length;
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: `Most-engaged football posts · ${formatted}`,
+    itemListElement: report.carousels
+      .map((c, i) => {
+        const top = c.posts[0];
+        if (!top) return null;
+        return {
+          "@type": "ListItem",
+          position: i + 1,
+          name: `${top.club} — ${CAROUSEL_SHORT[`${c.kind}-${c.ranking}`] ?? c.kind}`,
+          url: top.url,
+        };
+      })
+      .filter(Boolean),
+  };
+
   return (
     <div className="max-w-6xl mx-auto px-6 py-12">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Link href="/" className="inline-flex items-center gap-1 text-sm opacity-60 hover:opacity-100 mb-8">
         <ChevronLeft />
         <span>{t("nav.home")}</span>

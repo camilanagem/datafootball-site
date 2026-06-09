@@ -1,7 +1,28 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
+import type { Metadata } from "next";
 import { aggregateByClub } from "@/lib/aggregations";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string; handle: string }>;
+}): Promise<Metadata> {
+  const { locale, handle } = await params;
+  const club = aggregateByClub()[handle];
+  if (!club) return {};
+  const t = await getTranslations({ locale });
+  const title = t("club.metaTitle", { club: club.club });
+  const description = t("club.metaDescription", { club: club.club });
+  const path = locale === "en" ? "" : `/${locale}`;
+  return {
+    title,
+    description,
+    alternates: { canonical: `${path}/club/${handle}` },
+    openGraph: { title, description, images: ["/og.png"] },
+  };
+}
 
 export default async function ClubPage({
   params,

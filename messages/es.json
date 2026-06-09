@@ -13,7 +13,8 @@
     "clubs": "Clubes",
     "leagues": "Ligas",
     "methodology": "Metodología",
-    "halloffame": "Hall of Fame"
+    "halloffame": "Hall of Fame",
+    "about": "Acerca"
   },
   "home": {
     "selectDay": "Selecciona un día para ver el informe",
@@ -49,11 +50,25 @@
     "mostViews": "Más Views",
     "clubOfDay": "Club del Día",
     "slots": "carruseles",
-    "mvps": "Destacados del Día"
+    "mvps": "Destacados del Día",
+    "metaTitle": "Ranking de engagement del fútbol · {date}",
+    "metaDescription": "Los posts de fútbol que ganaron Instagram y TikTok el {date} — por engagement, likes y views."
   },
   "methodology": {
     "title": "Cómo rankeamos",
     "intro": "Indexamos a diario lo que el feed dice. Este es el método."
+  },
+  "club": {
+    "metaTitle": "{club} — engagement en Instagram y TikTok",
+    "metaDescription": "Cómo le va a {club} en el índice diario de engagement del fútbol — apariciones, números 1 y mejores tasas en Instagram y TikTok."
+  },
+  "about": {
+    "title": "Acerca",
+    "lead": "DataFootball es el índice diario de los posts más engagados del fútbol.",
+    "p1": "Cada día escaneamos las cuentas de fútbol más grandes en Instagram y TikTok y rankeamos sus mejores posts — clubes en la temporada, selecciones en los grandes torneos. Sin opiniones, sin hot takes. Solo lo que el público realmente engagó.",
+    "p2": "Rankeamos por tasa de engagement, likes, comentarios, views y compartidos — pesos iguales, igual que lo mide la industria. El desglose completo está en la página de metodología.",
+    "p3": "Cada métrica viene de datos públicos del propio post. Nunca usamos números privados o estimados — solo lo que cualquiera puede ver.",
+    "p4": "El índice se publica aquí y cada día en @datafootball__, en Instagram y TikTok."
   },
   "footer": {
     "follow": "Síguenos",
