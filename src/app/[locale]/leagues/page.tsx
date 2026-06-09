@@ -1,6 +1,22 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
+import type { Metadata } from "next";
 import { aggregateByLeague } from "@/lib/aggregations";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  const path = locale === "en" ? "" : `/${locale}`;
+  return {
+    title: t("nav.leagues"),
+    description: t("leagues.lead"),
+    alternates: { canonical: `${path}/leagues` },
+  };
+}
 
 export default async function LeaguesPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -12,7 +28,7 @@ export default async function LeaguesPage({ params }: { params: Promise<{ locale
     <div className="max-w-4xl mx-auto px-6 py-12">
       <header className="mb-12 border-b border-current/15 pb-8">
         <h1 className="font-serif text-4xl md:text-6xl leading-none">{t("nav.leagues")}</h1>
-        <p className="mt-3 opacity-70">Total appearances accumulated across all reports</p>
+        <p className="mt-3 max-w-xl opacity-70">{t("leagues.lead")}</p>
       </header>
 
       <ol className="space-y-3">
@@ -24,7 +40,7 @@ export default async function LeaguesPage({ params }: { params: Promise<{ locale
               <div>
                 <div className="font-serif text-xl">{lg.liga}</div>
                 <div className="text-xs uppercase tracking-widest opacity-60">
-                  {lg.uniqueClubs} clubs · top: {lg.topClub ? (
+                  {t("leagues.clubsN", { count: lg.uniqueClubs })} · {t("leagues.top")}: {lg.topClub ? (
                     <Link href={`/club/${lg.topClub.handle}`} className="underline">{lg.topClub.club}</Link>
                   ) : "—"}
                 </div>

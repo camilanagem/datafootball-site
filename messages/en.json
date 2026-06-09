@@ -76,7 +76,18 @@
   },
   "club": {
     "metaTitle": "{club} — Instagram & TikTok engagement",
-    "metaDescription": "How {club} performs in the daily football engagement index — appearances, #1 spots and best rates across Instagram and TikTok."
+    "metaDescription": "How {club} performs in the daily football engagement index — appearances, #1 spots and best rates across Instagram and TikTok.",
+    "appearances": "Appearances",
+    "topSpots": "#1 finishes",
+    "bestER": "Best ER",
+    "bestLikes": "Best likes",
+    "recent": "Recent appearances",
+    "appearancesN": "{count} appearances"
+  },
+  "leagues": {
+    "lead": "Total appearances across every report — which league shows up the most.",
+    "clubsN": "{count} clubs",
+    "top": "top"
   },
   "about": {
     "title": "About",

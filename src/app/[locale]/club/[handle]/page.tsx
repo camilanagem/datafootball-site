@@ -51,14 +51,14 @@ export default async function ClubPage({
       </header>
 
       <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
-        <Stat label="Appearances" value={club.appearances} />
-        <Stat label="#1 spots" value={club.topOnes} />
-        <Stat label="Best ER" value={club.bestEr ? `${club.bestEr.toFixed(2)}%` : "—"} />
-        <Stat label="Best Likes" value={club.bestLikes ? fmtCompact(club.bestLikes) : "—"} />
+        <Stat label={t("club.appearances")} value={club.appearances} />
+        <Stat label={t("club.topSpots")} value={club.topOnes} />
+        <Stat label={t("club.bestER")} value={club.bestEr ? `${club.bestEr.toFixed(2)}%` : "—"} />
+        <Stat label={t("club.bestLikes")} value={club.bestLikes ? fmtCompact(club.bestLikes) : "—"} />
       </section>
 
       <section>
-        <h2 className="font-serif text-2xl mb-4">Recent appearances</h2>
+        <h2 className="font-serif text-2xl mb-4">{t("club.recent")}</h2>
         <ul className="divide-y divide-current/10">
           {club.recentAppearances.map((a, i) => (
             <li key={i} className="py-3 flex items-center justify-between gap-4">

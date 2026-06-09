@@ -76,7 +76,18 @@
   },
   "club": {
     "metaTitle": "{club} — engajamento no Instagram e TikTok",
-    "metaDescription": "Como o {club} se sai no índice diário de engajamento do futebol — aparições, números 1 e melhores taxas no Instagram e TikTok."
+    "metaDescription": "Como o {club} se sai no índice diário de engajamento do futebol — aparições, números 1 e melhores taxas no Instagram e TikTok.",
+    "appearances": "Aparições",
+    "topSpots": "Vezes em 1º",
+    "bestER": "Melhor ER",
+    "bestLikes": "Mais curtidas",
+    "recent": "Aparições recentes",
+    "appearancesN": "{count} aparições"
+  },
+  "leagues": {
+    "lead": "Total de aparições somadas em todos os relatórios — qual liga aparece mais.",
+    "clubsN": "{count} clubes",
+    "top": "líder"
   },
   "about": {
     "title": "Sobre",

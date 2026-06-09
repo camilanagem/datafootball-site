@@ -45,7 +45,7 @@ export default async function ClubsPage({ params }: { params: Promise<{ locale: 
                   </div>
                   <div className="flex items-center justify-between text-xs uppercase tracking-widest opacity-60">
                     <span>@{c.handle}</span>
-                    <span>{c.topOnes > 0 ? `${c.topOnes}× #1` : `${c.appearances} appearances`}</span>
+                    <span>{c.topOnes > 0 ? `${c.topOnes}× #1` : t("club.appearancesN", { count: c.appearances })}</span>
                   </div>
                 </Link>
               ))}

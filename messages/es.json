@@ -76,7 +76,18 @@
   },
   "club": {
     "metaTitle": "{club} — engagement en Instagram y TikTok",
-    "metaDescription": "Cómo le va a {club} en el índice diario de engagement del fútbol — apariciones, números 1 y mejores tasas en Instagram y TikTok."
+    "metaDescription": "Cómo le va a {club} en el índice diario de engagement del fútbol — apariciones, números 1 y mejores tasas en Instagram y TikTok.",
+    "appearances": "Apariciones",
+    "topSpots": "Veces nº1",
+    "bestER": "Mejor ER",
+    "bestLikes": "Más likes",
+    "recent": "Apariciones recientes",
+    "appearancesN": "{count} apariciones"
+  },
+  "leagues": {
+    "lead": "Apariciones totales sumadas en todos los informes — qué liga aparece más.",
+    "clubsN": "{count} clubes",
+    "top": "líder"
   },
   "about": {
     "title": "Acerca",
