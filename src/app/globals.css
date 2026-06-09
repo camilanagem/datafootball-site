@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+/* dark: segue a classe .dark do next-themes (não o prefers-color-scheme).
+   Sem isso, utilitários dark: (ex.: troca de logo) seguiam o sistema. */
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
   /* paletas — espelham o produto IG/TikTok */
   --color-bg-light: #efe9da;
