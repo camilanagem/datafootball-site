@@ -14,7 +14,9 @@
     "leagues": "Leagues",
     "methodology": "Methodology",
     "halloffame": "Hall of Fame",
-    "about": "About"
+    "about": "About",
+    "nationalTeams": "National Teams",
+    "clubsTracked": "{count} clubs tracked"
   },
   "home": {
     "selectDay": "Select a day to see the report",
@@ -35,6 +37,13 @@
     "label": "National Teams Edition",
     "body": "Through July 20, the index follows 48 national teams instead of clubs. Clubs return July 21."
   },
+  "nationalTeams": {
+    "title": "National Teams",
+    "lead": "Which national team owns social media? The daily engagement index — clubs return after the tournament.",
+    "count": "{count} national teams indexed",
+    "metaTitle": "National Teams — Instagram & TikTok engagement ranking",
+    "metaDescription": "Which national team wins social media? Daily ranking of national teams by engagement, likes and views across Instagram and TikTok."
+  },
   "day": {
     "headline": "Report",
     "photosEngagement": "Photos · Engagement",
@@ -49,6 +58,7 @@
     "mostLikes": "Most Likes",
     "mostViews": "Most Views",
     "clubOfDay": "Club of the Day",
+    "teamOfDay": "Team of the Day",
     "slots": "slots",
     "mvps": "Day's MVPs",
     "metaTitle": "Football engagement ranking · {date}",

@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
 import { getDayReport, type Post } from "@/lib/data";
 import { PostCard } from "@/components/PostCard";
+import { getEdition } from "@/lib/edition";
 
 function fmtDate(date: string, locale: string): string {
   return new Date(`${date}T00:00:00`).toLocaleDateString(
@@ -90,6 +91,7 @@ export default async function DayPage({
   const report = getDayReport(date);
   if (!report) notFound();
 
+  const { isTournament } = getEdition(new Date(`${date}T00:00:00`));
   const formatted = fmtDate(date, locale);
 
   const allPosts = report.carousels.flatMap(c => c.posts);
@@ -201,7 +203,7 @@ export default async function DayPage({
         )}
         {clubOfDay && (
           <StatTile
-            label={t("day.clubOfDay")}
+            label={t(isTournament ? "day.teamOfDay" : "day.clubOfDay")}
             value={clubOfDay.post.club}
             sub={`${clubOfDay.carousels.size}/${totalSlots} ${t("day.slots")}`}
           />

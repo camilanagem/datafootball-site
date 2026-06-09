@@ -2,9 +2,11 @@ import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import { ThemeToggle } from "./ThemeToggle";
 import { LocaleSwitcher } from "./LocaleSwitcher";
+import { getEdition } from "@/lib/edition";
 
 export function Header() {
   const t = useTranslations("nav");
+  const { isTournament } = getEdition();
   return (
     <header className="border-b border-current/15">
       <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
@@ -17,8 +19,14 @@ export function Header() {
         </Link>
         <nav className="hidden md:flex items-center gap-6 text-sm font-sans tracking-wide">
           <Link href="/" className="hover:opacity-70">{t("home")}</Link>
-          <Link href="/clubs" className="hover:opacity-70">{t("clubs")}</Link>
-          <Link href="/leagues" className="hover:opacity-70">{t("leagues")}</Link>
+          {isTournament ? (
+            <Link href="/national-teams" className="hover:opacity-70">{t("nationalTeams")}</Link>
+          ) : (
+            <>
+              <Link href="/clubs" className="hover:opacity-70">{t("clubs")}</Link>
+              <Link href="/leagues" className="hover:opacity-70">{t("leagues")}</Link>
+            </>
+          )}
           <Link href="/hall-of-fame" className="hover:opacity-70">{t("halloffame")}</Link>
           <Link href="/methodology" className="hover:opacity-70">{t("methodology")}</Link>
         </nav>

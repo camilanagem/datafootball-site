@@ -14,7 +14,9 @@
     "leagues": "Ligas",
     "methodology": "Metodología",
     "halloffame": "Hall of Fame",
-    "about": "Acerca"
+    "about": "Acerca",
+    "nationalTeams": "Selecciones",
+    "clubsTracked": "{count} clubes en el índice"
   },
   "home": {
     "selectDay": "Selecciona un día para ver el informe",
@@ -35,6 +37,13 @@
     "label": "Edición Selecciones",
     "body": "Hasta el 20 de julio, el índice sigue a 48 selecciones en lugar de clubes. Los clubes vuelven el 21."
   },
+  "nationalTeams": {
+    "title": "Selecciones",
+    "lead": "¿Qué selección manda en las redes? El índice diario de engagement — los clubes vuelven tras el torneo.",
+    "count": "{count} selecciones en el índice",
+    "metaTitle": "Selecciones — Ranking de engagement en Instagram y TikTok",
+    "metaDescription": "¿Qué selección gana en las redes? Ranking diario de selecciones por engagement, likes y views en Instagram y TikTok."
+  },
   "day": {
     "headline": "Informe",
     "photosEngagement": "Fotos · Engagement",
@@ -49,6 +58,7 @@
     "mostLikes": "Más Likes",
     "mostViews": "Más Views",
     "clubOfDay": "Club del Día",
+    "teamOfDay": "Selección del Día",
     "slots": "carruseles",
     "mvps": "Destacados del Día",
     "metaTitle": "Ranking de engagement del fútbol · {date}",

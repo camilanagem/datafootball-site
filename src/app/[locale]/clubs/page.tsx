@@ -1,13 +1,16 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { aggregateByClub } from "@/lib/aggregations";
+import { isNationalTeam } from "@/lib/edition";
 
 export default async function ClubsPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
 
-  const clubs = Object.values(aggregateByClub()).sort((a, b) => b.appearances - a.appearances);
+  const clubs = Object.values(aggregateByClub())
+    .filter((c) => !isNationalTeam(c.liga))
+    .sort((a, b) => b.appearances - a.appearances);
   const byLeague: Record<string, typeof clubs> = {};
   for (const c of clubs) {
     if (!byLeague[c.liga]) byLeague[c.liga] = [];
@@ -17,9 +20,9 @@ export default async function ClubsPage({ params }: { params: Promise<{ locale: 
   return (
     <div className="max-w-5xl mx-auto px-6 py-12">
       <header className="mb-12 border-b border-current/15 pb-8">
-        <div className="text-xs uppercase tracking-widest opacity-60 mb-2">Clubs</div>
+        <div className="text-xs uppercase tracking-widest opacity-60 mb-2">{t("nav.clubs")}</div>
         <h1 className="font-serif text-4xl md:text-6xl leading-none">{t("nav.clubs")}</h1>
-        <p className="mt-3 opacity-70">{clubs.length} clubs tracked</p>
+        <p className="mt-3 opacity-70">{t("nav.clubsTracked", { count: clubs.length })}</p>
       </header>
 
       <div className="space-y-12">

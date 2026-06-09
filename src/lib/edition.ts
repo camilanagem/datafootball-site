@@ -17,3 +17,11 @@ export function getEdition(now: Date = new Date()): Edition {
     accountCount: isTournament ? 48 : 57,
   };
 }
+
+// Confederações das seleções (o campo `liga` vira a confederação no export).
+// Serve pra separar seleções de clubes no diretório.
+export const CONFEDERATIONS = ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"];
+
+export function isNationalTeam(liga: string | undefined | null): boolean {
+  return CONFEDERATIONS.includes((liga || "").toUpperCase());
+}
