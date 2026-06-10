@@ -90,6 +90,7 @@
     "mostViews": "Más Views",
     "clubOfDay": "Club del Día",
     "teamOfDay": "Selección del Día",
+    "story": "{team} dominó el día — en {count} de {total} rankings.",
     "slots": "carruseles",
     "mvps": "Destacados del Día",
     "metaTitle": "Ranking de engagement del fútbol · {date}",

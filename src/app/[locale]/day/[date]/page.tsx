@@ -70,6 +70,18 @@ function fmtNum(n: number | null | undefined): string {
   return String(n);
 }
 
+// "9.03%" -> 9.03 · "410K" -> 410000 (pra largura das barras)
+function metricNum(v: string): number {
+  const m = v.match(/([\d.]+)\s*([%KMB]?)/i);
+  if (!m) return 0;
+  let n = parseFloat(m[1]);
+  const u = m[2].toUpperCase();
+  if (u === "K") n *= 1e3;
+  else if (u === "M") n *= 1e6;
+  else if (u === "B") n *= 1e9;
+  return n;
+}
+
 function StatTile({ label, value, sub }: { label: string; value: string; sub: string }) {
   return (
     <div className="p-4 rounded-xl border border-current/10">
@@ -176,6 +188,15 @@ export default async function DayPage({
       <header className="mb-8 border-b border-current/15 pb-8">
         <div className="text-xs uppercase tracking-widest opacity-60 mb-2">{t("day.headline")}</div>
         <h1 className="font-serif text-4xl md:text-6xl leading-none capitalize">{formatted}</h1>
+        {clubOfDay && (
+          <p className="mt-4 text-base md:text-lg opacity-70">
+            {t("day.story", {
+              team: clubOfDay.post.club,
+              count: clubOfDay.carousels.size,
+              total: totalSlots,
+            })}
+          </p>
+        )}
       </header>
 
       {/* summary stats */}
@@ -245,6 +266,7 @@ export default async function DayPage({
           const key = `${carousel.kind}-${carousel.ranking}`;
           const titleKey = KIND_KEY[key] || carousel.kind;
           const accent = KIND_ACCENT[key] || "default";
+          const max = Math.max(...carousel.posts.map((p) => metricNum(p.metric_value)), 1);
           return (
             <section key={i}>
               <div className="flex items-baseline justify-between mb-6">
@@ -258,7 +280,13 @@ export default async function DayPage({
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {carousel.posts.map((post) => (
-                  <PostCard key={`${post.posicao}-${post.url}`} post={post} accent={accent} locale={locale} />
+                  <PostCard
+                    key={`${post.posicao}-${post.url}`}
+                    post={post}
+                    accent={accent}
+                    locale={locale}
+                    pct={metricNum(post.metric_value) / max}
+                  />
                 ))}
               </div>
             </section>

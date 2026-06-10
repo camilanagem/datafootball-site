@@ -30,10 +30,12 @@ function ordinal(n: number, locale: string): string {
 export function PostCard({
   post,
   locale = "en",
+  pct,
 }: {
   post: Post;
   accent?: "default" | "tt-red" | "tt-sage";
   locale?: string;
+  pct?: number;
 }) {
   // P&B puro — sem cor de acento (igual ao feed @datafootball__)
   const accentColor = "currentColor";
@@ -83,6 +85,11 @@ export function PostCard({
           <span className="font-serif text-2xl">{post.metric_value}</span>
           <span className="text-xs uppercase tracking-widest opacity-60">{post.metric_label}</span>
         </div>
+        {pct !== undefined && (
+          <div className="mt-2 h-1 rounded-full bg-current/10 overflow-hidden">
+            <div className="h-full bg-current/40" style={{ width: `${Math.max(3, Math.min(100, pct * 100))}%` }} />
+          </div>
+        )}
 
         {metrics.length > 0 && (
           <div className="mt-3 pt-3 border-t border-current/10 flex gap-4">

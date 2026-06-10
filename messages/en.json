@@ -90,6 +90,7 @@
     "mostViews": "Most Views",
     "clubOfDay": "Club of the Day",
     "teamOfDay": "Team of the Day",
+    "story": "{team} led the day — in {count} of {total} rankings.",
     "slots": "slots",
     "mvps": "Day's MVPs",
     "metaTitle": "Football engagement ranking · {date}",
