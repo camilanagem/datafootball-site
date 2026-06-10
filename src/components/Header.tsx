@@ -20,9 +20,9 @@ export function Header() {
     { href: "/standings", label: t("standings") },
     { href: "/hall-of-fame", label: t("halloffame") },
     { href: "/methodology", label: t("methodology") },
+    { href: "/about", label: t("about") },
   ];
-  // no mobile o menu é a navegação principal — inclui About (no desktop ele fica no footer)
-  const mobileItems = [...navItems, { href: "/about", label: t("about") }];
+  const mobileItems = navItems;
 
   return (
     <header className="border-b border-current/15 relative">
@@ -35,7 +35,7 @@ export function Header() {
           <img src="/brand/logo-line-white.png" alt="DATA FOOTBALL" className="hidden dark:block h-6 w-auto" />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-6 text-sm font-sans tracking-wide">
+        <nav className="hidden lg:flex items-center gap-5 text-sm font-sans tracking-wide">
           {navItems.map((it) => (
             <Link key={it.href} href={it.href} className="hover:opacity-70">{it.label}</Link>
           ))}

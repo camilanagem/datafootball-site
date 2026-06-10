@@ -82,14 +82,27 @@ function metricNum(v: string): number {
   return n;
 }
 
-function StatTile({ label, value, sub }: { label: string; value: string; sub: string }) {
-  return (
-    <div className="p-4 rounded-xl border border-current/10">
+function StatTile({ label, value, sub, href }: { label: string; value: string; sub: string; href?: string }) {
+  const inner = (
+    <>
       <div className="text-[10px] uppercase tracking-widest opacity-50 mb-1">{label}</div>
       <div className="font-serif text-2xl leading-none mb-1">{value}</div>
       <div className="text-xs opacity-50 truncate">{sub}</div>
-    </div>
+    </>
   );
+  if (href) {
+    return (
+      <a
+        href={href}
+        target="_blank"
+        rel="noopener"
+        className="block p-4 rounded-xl border border-current/10 hover:border-current/40 transition"
+      >
+        {inner}
+      </a>
+    );
+  }
+  return <div className="p-4 rounded-xl border border-current/10">{inner}</div>;
 }
 
 export default async function DayPage({
@@ -206,6 +219,7 @@ export default async function DayPage({
             label={t("day.bestER")}
             value={bestER.metric_value}
             sub={`${bestER.flag} @${bestER.handle}`}
+            href={bestER.url}
           />
         )}
         {(mostLikesPost?.extra?.likes ?? 0) > 0 && (
@@ -213,6 +227,7 @@ export default async function DayPage({
             label={t("day.mostLikes")}
             value={fmtNum(mostLikesPost!.extra!.likes)}
             sub={`${mostLikesPost!.flag} @${mostLikesPost!.handle}`}
+            href={mostLikesPost!.url}
           />
         )}
         {hasViews && (
@@ -220,6 +235,7 @@ export default async function DayPage({
             label={t("day.mostViews")}
             value={fmtNum(mostViewsPost!.extra!.views)}
             sub={`${mostViewsPost!.flag} @${mostViewsPost!.handle}`}
+            href={mostViewsPost!.url}
           />
         )}
         {clubOfDay && (
@@ -227,6 +243,7 @@ export default async function DayPage({
             label={t(isTournament ? "day.teamOfDay" : "day.clubOfDay")}
             value={clubOfDay.post.club}
             sub={`${clubOfDay.carousels.size}/${totalSlots} ${t("day.slots")}`}
+            href={`https://instagram.com/${clubOfDay.post.handle}`}
           />
         )}
       </div>

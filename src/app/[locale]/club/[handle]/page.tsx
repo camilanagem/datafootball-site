@@ -68,8 +68,8 @@ export default async function ClubPage({
           rel="noopener"
           className="block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition mb-10 sm:flex"
         >
-          <div className="sm:w-1/2 aspect-[4/3] bg-current/5">
-            <Cover src={club.bestPost.cover_url} className="w-full h-full object-cover" />
+          <div className="sm:w-1/2 aspect-square bg-current/5">
+            <Cover src={club.bestPost.cover_url} className="w-full h-full object-cover object-top" />
           </div>
           <div className="p-6 sm:w-1/2 flex flex-col justify-center">
             <div className="text-xs uppercase tracking-widest opacity-50">{t("club.bestPost")}</div>
@@ -103,7 +103,7 @@ export default async function ClubPage({
 
       <section className="mb-12 rounded-xl border border-current/15 overflow-hidden">
         <div className="flex items-center px-4 py-2 text-[10px] uppercase tracking-widest opacity-50 border-b border-current/10">
-          <span className="flex-1" />
+          <span className="flex-1 font-bold opacity-100">{t("club.best")}</span>
           <span className="w-24 text-right">{t("club.engagement")}</span>
           <span className="w-24 text-right">{t("club.mostLikes")}</span>
         </div>
@@ -119,10 +119,22 @@ export default async function ClubPage({
             <div key={k} className="flex items-center px-4 py-3 border-b border-current/10 last:border-0">
               <span className="flex-1 font-serif">{label}</span>
               <span className="w-24 text-right font-serif tabular-nums">
-                {bt.engagement !== undefined ? `${bt.engagement.toFixed(2)}%` : "—"}
+                {bt.engagement !== undefined ? (
+                  <a href={bt.engagementUrl} target="_blank" rel="noopener" className="hover:underline">
+                    {bt.engagement.toFixed(2)}%
+                  </a>
+                ) : (
+                  "—"
+                )}
               </span>
               <span className="w-24 text-right font-serif tabular-nums">
-                {bt.likes !== undefined ? fmtCompact(bt.likes) : "—"}
+                {bt.likes !== undefined ? (
+                  <a href={bt.likesUrl} target="_blank" rel="noopener" className="hover:underline">
+                    {fmtCompact(bt.likes)}
+                  </a>
+                ) : (
+                  "—"
+                )}
               </span>
             </div>
           );
@@ -142,7 +154,7 @@ export default async function ClubPage({
             >
               <div className="relative aspect-[4/5] bg-current/5 flex items-center justify-center">
                 <span className="font-serif text-3xl opacity-25">#{a.posicao}</span>
-                <Cover src={a.cover_url} className="absolute inset-0 w-full h-full object-cover" />
+                <Cover src={a.cover_url} className="absolute inset-0 w-full h-full object-cover object-top" />
                 <span className="absolute top-2 left-2 font-serif text-base leading-none bg-[var(--background)] rounded-md px-2 py-1">
                   #{a.posicao}
                 </span>

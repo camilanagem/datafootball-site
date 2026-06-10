@@ -32,9 +32,9 @@ export type ClubAggregate = {
   topOnes: number;        // qtd de #1
   // melhores por tipo de conteúdo (engajamento % e maior post em likes)
   byType: {
-    photos: { engagement?: number; likes?: number };
-    reels: { engagement?: number; likes?: number };
-    tiktok: { engagement?: number; likes?: number };
+    photos: { engagement?: number; engagementUrl?: string; likes?: number; likesUrl?: string };
+    reels: { engagement?: number; engagementUrl?: string; likes?: number; likesUrl?: string };
+    tiktok: { engagement?: number; engagementUrl?: string; likes?: number; likesUrl?: string };
   };
   streak: number;        // dias consecutivos recentes no índice
   bestPost?: { value: string; url: string; cover_url?: string };
@@ -88,11 +88,17 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
         if (bt) {
           if (c.ranking === "er" && p.metric_value.includes("%")) {
             const val = parseFloat(p.metric_value);
-            if (!isNaN(val) && (bt.engagement === undefined || val > bt.engagement)) bt.engagement = val;
+            if (!isNaN(val) && (bt.engagement === undefined || val > bt.engagement)) {
+              bt.engagement = val;
+              bt.engagementUrl = p.url;
+            }
           }
           if (c.ranking === "likes") {
             const likes = (p as any).extra?.likes ?? 0;
-            if (likes && (bt.likes === undefined || likes > bt.likes)) bt.likes = likes;
+            if (likes && (bt.likes === undefined || likes > bt.likes)) {
+              bt.likes = likes;
+              bt.likesUrl = p.url;
+            }
           }
         }
 
