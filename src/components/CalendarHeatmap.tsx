@@ -111,9 +111,6 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
         })}
       </div>
 
-      <p className="mt-6 text-center text-xs uppercase tracking-widest opacity-60">
-        {t("home.selectDay")}
-      </p>
     </div>
   );
 }
