@@ -43,6 +43,14 @@ export default async function NationalTeamsPage({
     (byConf[k] ||= []).push(tm);
   }
   const confs = CONFED_ORDER.filter((c) => byConf[c]?.length);
+  const battle = confs
+    .map((conf) => ({
+      conf,
+      appearances: byConf[conf].reduce((s, tm) => s + tm.appearances, 0),
+      teams: byConf[conf].length,
+    }))
+    .sort((a, b) => b.appearances - a.appearances);
+  const maxApp = Math.max(...battle.map((b) => b.appearances), 1);
 
   return (
     <div className="max-w-5xl mx-auto px-6 py-12">
@@ -52,6 +60,27 @@ export default async function NationalTeamsPage({
         <p className="mt-3 max-w-xl opacity-70">{t("nationalTeams.lead")}</p>
         <p className="mt-1 text-sm opacity-50">{t("nationalTeams.count", { count: teams.length })}</p>
       </header>
+
+      {battle.length > 1 && (
+        <section className="mb-14">
+          <h2 className="font-serif text-2xl mb-1">{t("nationalTeams.battle")}</h2>
+          <p className="text-sm opacity-60 mb-5">{t("nationalTeams.battleLead")}</p>
+          <div className="space-y-2.5">
+            {battle.map((b) => (
+              <div key={b.conf} className="flex items-center gap-3">
+                <span className="w-24 shrink-0 font-serif text-sm">{b.conf}</span>
+                <div className="flex-1 h-6 rounded-md bg-current/5 overflow-hidden">
+                  <div
+                    className="h-full bg-current/20"
+                    style={{ width: `${Math.max(4, (b.appearances / maxApp) * 100)}%` }}
+                  />
+                </div>
+                <span className="w-10 shrink-0 text-right text-sm font-serif tabular-nums">{b.appearances}</span>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       <div className="space-y-12">
         {confs.map((conf) => (

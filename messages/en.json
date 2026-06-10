@@ -71,6 +71,8 @@
     "title": "National Teams",
     "lead": "Which national team owns social media? The daily engagement index — clubs return after the tournament.",
     "count": "{count} national teams indexed",
+    "battle": "Confederation battle",
+    "battleLead": "Which confederation owns the feed — by total ranking appearances.",
     "metaTitle": "National Teams — Instagram & TikTok engagement ranking",
     "metaDescription": "Which national team wins social media? Daily ranking of national teams by engagement, likes and views across Instagram and TikTok."
   },
