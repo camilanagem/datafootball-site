@@ -42,6 +42,18 @@
     "biggest": "Post con más likes de la semana",
     "likes": "likes"
   },
+  "calendar": {
+    "prevMonth": "Mes anterior",
+    "nextMonth": "Mes siguiente"
+  },
+  "regions": {
+    "UEFA": "Europa",
+    "CONMEBOL": "Sudamérica",
+    "CONCACAF": "Norteamérica y Centroamérica",
+    "CAF": "África",
+    "AFC": "Asia",
+    "OFC": "Oceanía"
+  },
   "tournament": {
     "label": "Edición Selecciones",
     "body": "Hasta el 20 de julio, el índice sigue a 48 selecciones en lugar de clubes. Los clubes vuelven el 21."
@@ -85,7 +97,19 @@
   },
   "methodology": {
     "title": "Cómo rankeamos",
-    "intro": "Indexamos a diario lo que el feed dice. Este es el método."
+    "intro": "Cómo se construyen los rankings — cada métrica, y por qué la medimos así.",
+    "erTitle": "Tasa de Engagement (ER)",
+    "erDesc": "Para posts estáticos. La tasa de engagement estándar — likes y comentarios cuentan igual, divididos por los seguidores — comparable a cualquier benchmark del mercado.",
+    "verTitle": "Tasa de Engagement de Video (VER)",
+    "verDesc": "Para Reels. Dividimos por visualizaciones en vez de seguidores porque el alcance de un video puede superar de lejos la base de seguidores — medir por las views refleja lo que de verdad se vio.",
+    "terTitle": "Tasa de Engagement de TikTok (TER)",
+    "terDesc": "Misma lógica que Reels, más compartidos — TikTok expone los compartidos públicamente (Instagram no), y compartir es una señal fuerte de engagement, así que lo contamos.",
+    "equalTitle": "Pesos iguales, a propósito",
+    "equalDesc": "No damos más peso a comentarios o compartidos que a likes. Una tasa limpia, de peso igual, es lo que el mercado reconoce y puede comparar — sin multiplicadores secretos.",
+    "dontTitle": "Lo que no medimos",
+    "dontDesc": "Guardados — Instagram no los expone públicamente. Compartidos también, en Instagram (en TikTok son públicos, así que los contamos ahí). Medimos solo lo público.",
+    "windowTitle": "Ventana de tiempo",
+    "windowDesc": "24 horas en la zona horaria de cada cuenta — un día para una selección brasileña es BRT, para una europea es CET."
   },
   "club": {
     "metaTitle": "{club} — engagement en Instagram y TikTok",

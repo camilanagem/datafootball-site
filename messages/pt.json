@@ -42,6 +42,18 @@
     "biggest": "Post mais curtido da semana",
     "likes": "curtidas"
   },
+  "calendar": {
+    "prevMonth": "Mês anterior",
+    "nextMonth": "Próximo mês"
+  },
+  "regions": {
+    "UEFA": "Europa",
+    "CONMEBOL": "América do Sul",
+    "CONCACAF": "América do Norte e Central",
+    "CAF": "África",
+    "AFC": "Ásia",
+    "OFC": "Oceania"
+  },
   "tournament": {
     "label": "Edição Seleções",
     "body": "Até 20 de julho, o índice acompanha 48 seleções no lugar dos clubes. Os clubes voltam dia 21."
@@ -85,7 +97,19 @@
   },
   "methodology": {
     "title": "Como ranqueamos",
-    "intro": "Indexamos diariamente o que o feed conta. Eis o método."
+    "intro": "Como os rankings são montados — cada métrica, e por que medimos assim.",
+    "erTitle": "Taxa de Engajamento (ER)",
+    "erDesc": "Para posts estáticos. A taxa de engajamento padrão — curtidas e comentários contam igual, divididos pelos seguidores — comparável a qualquer benchmark do mercado.",
+    "verTitle": "Taxa de Engajamento de Vídeo (VER)",
+    "verDesc": "Para Reels. Dividimos por visualizações em vez de seguidores porque o alcance de um vídeo pode superar de longe a base de seguidores — medir pelas views reflete o que de fato foi assistido.",
+    "terTitle": "Taxa de Engajamento do TikTok (TER)",
+    "terDesc": "Mesma lógica dos Reels, mais compartilhamentos — o TikTok expõe os compartilhamentos publicamente (o Instagram não), e compartilhar é um sinal forte de engajamento, então contamos.",
+    "equalTitle": "Pesos iguais, de propósito",
+    "equalDesc": "Não damos peso maior a comentários ou compartilhamentos que a curtidas. Uma taxa limpa, de peso igual, é o que o mercado reconhece e consegue comparar — sem multiplicador secreto.",
+    "dontTitle": "O que não medimos",
+    "dontDesc": "Salvamentos — o Instagram não expõe publicamente. Compartilhamentos também, no Instagram (no TikTok são públicos, então contamos lá). Medimos só o que é público.",
+    "windowTitle": "Janela de tempo",
+    "windowDesc": "24 horas no fuso de cada conta — um dia pra uma seleção brasileira é BRT, pra uma europeia é CET."
   },
   "club": {
     "metaTitle": "{club} — engajamento no Instagram e TikTok",

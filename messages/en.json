@@ -42,6 +42,18 @@
     "biggest": "Most-liked post of the week",
     "likes": "likes"
   },
+  "calendar": {
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month"
+  },
+  "regions": {
+    "UEFA": "Europe",
+    "CONMEBOL": "South America",
+    "CONCACAF": "North & Central America",
+    "CAF": "Africa",
+    "AFC": "Asia",
+    "OFC": "Oceania"
+  },
   "tournament": {
     "label": "National Teams Edition",
     "body": "Through July 20, the index follows 48 national teams instead of clubs. Clubs return July 21."
@@ -85,7 +97,19 @@
   },
   "methodology": {
     "title": "How we rank",
-    "intro": "We index daily what the feed tells us. Here's the method."
+    "intro": "How the rankings are built — every metric, and why we measure it this way.",
+    "erTitle": "Engagement Rate (ER)",
+    "erDesc": "For static posts. The standard engagement rate — likes and comments counted equally, divided by followers — so it's directly comparable to any industry benchmark.",
+    "verTitle": "Video Engagement Rate (VER)",
+    "verDesc": "For Reels. We divide by views instead of followers because a video's reach can far exceed the follower base — measuring against views reflects what was actually watched.",
+    "terTitle": "TikTok Engagement Rate (TER)",
+    "terDesc": "Same logic as Reels, plus shares — TikTok exposes shares publicly (Instagram doesn't), and a share is a strong engagement signal, so we count it.",
+    "equalTitle": "Equal weights, on purpose",
+    "equalDesc": "We don't weight comments or shares more than likes. A clean, equal-weight rate is what the market recognizes and can compare — no secret multipliers.",
+    "dontTitle": "What we don't track",
+    "dontDesc": "Saves — Instagram doesn't expose them publicly. Shares too, on Instagram (on TikTok they're public, so we count them there). We track only what's public.",
+    "windowTitle": "Time window",
+    "windowDesc": "24 hours in each account's local timezone — a given day for a Brazilian side means BRT, for a European one means CET."
   },
   "club": {
     "metaTitle": "{club} — Instagram & TikTok engagement",

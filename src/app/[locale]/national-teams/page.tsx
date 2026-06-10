@@ -5,14 +5,6 @@ import { aggregateByClub } from "@/lib/aggregations";
 import { CONFEDERATIONS } from "@/lib/edition";
 
 const CONFED_ORDER = ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"];
-const CONFED_REGION: Record<string, string> = {
-  UEFA: "Europe",
-  CONMEBOL: "South America",
-  CONCACAF: "North & Central America",
-  CAF: "Africa",
-  AFC: "Asia",
-  OFC: "Oceania",
-};
 
 export async function generateMetadata({
   params,
@@ -66,7 +58,7 @@ export default async function NationalTeamsPage({
           <section key={conf}>
             <div className="flex items-baseline gap-3 mb-4">
               <h2 className="font-serif text-2xl">{conf}</h2>
-              <span className="text-xs uppercase tracking-widest opacity-50">{CONFED_REGION[conf]}</span>
+              <span className="text-xs uppercase tracking-widest opacity-50">{t(`regions.${conf}`)}</span>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
               {byConf[conf].map((tm) => (

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "@/i18n/navigation";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 
 type DayChip = {
   kind: string;
@@ -22,8 +22,6 @@ type Props = {
   initialMonth?: Date;
 };
 
-const WEEKDAYS_EN = ["S", "M", "T", "W", "T", "F", "S"];
-
 function startOfMonth(d: Date) { return new Date(d.getFullYear(), d.getMonth(), 1); }
 function endOfMonth(d: Date) { return new Date(d.getFullYear(), d.getMonth() + 1, 0); }
 function fmtDateISO(d: Date) {
@@ -36,11 +34,15 @@ function fmtDateISO(d: Date) {
 export function CalendarHeatmap({ days, initialMonth }: Props) {
   const router = useRouter();
   const t = useTranslations();
+  const locale = useLocale();
   const today = new Date();
   const [month, setMonth] = useState<Date>(initialMonth ?? startOfMonth(today));
   const map = new Map(days.map((d) => [d.date, d.chips]));
 
-  const monthName = month.toLocaleDateString("en", { month: "long", year: "numeric" });
+  const monthName = month.toLocaleDateString(locale, { month: "long", year: "numeric" });
+  const weekdays = Array.from({ length: 7 }, (_, i) =>
+    new Date(2024, 5, 2 + i).toLocaleDateString(locale, { weekday: "narrow" }),
+  );
   const first = startOfMonth(month);
   const last = endOfMonth(month);
   const startWeekday = first.getDay();
@@ -57,13 +59,13 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
   return (
     <div className="font-sans">
       <div className="flex items-center justify-between mb-6">
-        <button onClick={goPrev} aria-label="Previous month" className="px-3 py-2 hover:opacity-70 text-sm">‹</button>
+        <button onClick={goPrev} aria-label={t("calendar.prevMonth")} className="px-3 py-2 hover:opacity-70 text-sm">‹</button>
         <h2 className="font-serif text-2xl md:text-3xl tracking-tight uppercase">{monthName}</h2>
-        <button onClick={goNext} aria-label="Next month" className="px-3 py-2 hover:opacity-70 text-sm">›</button>
+        <button onClick={goNext} aria-label={t("calendar.nextMonth")} className="px-3 py-2 hover:opacity-70 text-sm">›</button>
       </div>
 
       <div className="grid grid-cols-7 gap-px bg-current/15 border border-current/15 rounded-xl overflow-hidden">
-        {WEEKDAYS_EN.map((w, i) => (
+        {weekdays.map((w, i) => (
           <div key={i} className="bg-[var(--background)] text-center text-[10px] uppercase tracking-widest opacity-50 py-2">
             {w}
           </div>
