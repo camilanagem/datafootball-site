@@ -158,7 +158,8 @@
   },
   "footer": {
     "follow": "Síguenos",
-    "rights": "Todos los derechos reservados"
+    "rights": "Todos los derechos reservados",
+    "contentRights": "Los posts, imágenes y videos pertenecen a sus respectivos clubes, selecciones y creadores. DataFootball es un proyecto independiente que indexa solo datos públicos de engagement y enlaza a los posts originales. Sin afiliación con Instagram, TikTok ni ninguna liga o federación."
   },
   "metrics": {
     "likes": "likes",

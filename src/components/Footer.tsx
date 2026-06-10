@@ -46,6 +46,9 @@ export function Footer() {
           </div>
         </div>
       </div>
+      <div className="max-w-6xl mx-auto px-6 pb-8">
+        <p className="text-[11px] leading-relaxed opacity-40 max-w-3xl">{t("footer.contentRights")}</p>
+      </div>
     </footer>
   );
 }
