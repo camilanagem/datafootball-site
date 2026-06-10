@@ -16,6 +16,7 @@
     "halloffame": "Hall of Fame",
     "about": "About",
     "nationalTeams": "National Teams",
+    "standings": "Standings",
     "clubsTracked": "{count} clubs tracked"
   },
   "home": {
@@ -44,6 +45,11 @@
     "topEngagement": "Best engagement",
     "recapLead": "The teams and posts that ran the week.",
     "viewRecap": "Full recap"
+  },
+  "standings": {
+    "title": "Standings",
+    "lead": "All-time — most #1 finishes since the index began.",
+    "firsts": "At #1"
   },
   "calendar": {
     "prevMonth": "Previous month",

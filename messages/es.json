@@ -16,6 +16,7 @@
     "halloffame": "Hall of Fame",
     "about": "Acerca",
     "nationalTeams": "Selecciones",
+    "standings": "Clasificación",
     "clubsTracked": "{count} clubes en el índice"
   },
   "home": {
@@ -44,6 +45,11 @@
     "topEngagement": "Mejor engagement",
     "recapLead": "Las selecciones y posts que mandaron en la semana.",
     "viewRecap": "Resumen completo"
+  },
+  "standings": {
+    "title": "Clasificación",
+    "lead": "De todos los tiempos — quién más quedó en 1º desde el inicio del índice.",
+    "firsts": "En 1º"
   },
   "calendar": {
     "prevMonth": "Mes anterior",

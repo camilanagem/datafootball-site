@@ -5,7 +5,7 @@ const BASE = "https://datafootball.co";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
-  const staticRoutes = ["", "/week", "/national-teams", "/clubs", "/leagues", "/hall-of-fame", "/methodology", "/about"];
+  const staticRoutes = ["", "/week", "/national-teams", "/standings", "/clubs", "/leagues", "/hall-of-fame", "/methodology", "/about"];
   const entries: MetadataRoute.Sitemap = staticRoutes.map((r) => ({
     url: `${BASE}${r}`,
     lastModified: now,
