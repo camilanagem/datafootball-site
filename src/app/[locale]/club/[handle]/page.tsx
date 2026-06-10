@@ -4,6 +4,7 @@ import { Link } from "@/i18n/navigation";
 import type { Metadata } from "next";
 import { aggregateByClub } from "@/lib/aggregations";
 import { Cover } from "@/components/Cover";
+import { isNationalTeam } from "@/lib/edition";
 
 export async function generateMetadata({
   params,
@@ -36,20 +37,64 @@ export default async function ClubPage({
   const club = aggregateByClub()[handle];
   if (!club) notFound();
 
+  const isNT = isNationalTeam(club.liga);
+  const byDay: Record<string, number> = {};
+  for (const a of club.recentAppearances) byDay[a.date] = (byDay[a.date] || 0) + 1;
+  const trend = Object.entries(byDay).sort((x, y) => x[0].localeCompare(y[0])).slice(-12);
+  const maxDay = Math.max(...trend.map(([, n]) => n), 1);
+
   return (
     <div className="max-w-3xl mx-auto px-6 py-12">
-      <Link href="/clubs" className="text-sm opacity-60 hover:opacity-100 mb-6 inline-block">
-        ← {t("nav.clubs")}
+      <Link href={isNT ? "/national-teams" : "/clubs"} className="text-sm opacity-60 hover:opacity-100 mb-6 inline-block">
+        ← {t(isNT ? "nav.nationalTeams" : "nav.clubs")}
       </Link>
 
-      <header className="mb-12 border-b border-current/15 pb-8">
+      <header className="mb-10 border-b border-current/15 pb-8">
         <div className="text-xs uppercase tracking-widest opacity-60 mb-2 flex items-center gap-2">
           <span>{club.flag}</span>
           <span>{club.liga}</span>
         </div>
         <h1 className="font-serif text-5xl md:text-7xl leading-none">{club.club}</h1>
-        <p className="mt-2 text-sm opacity-60">@{club.handle}</p>
+        <p className="mt-2 text-sm opacity-60 flex items-center gap-3 flex-wrap">
+          <span>@{club.handle}</span>
+          {club.streak >= 2 && <span>🔥 {t("thisWeek.streak", { count: club.streak })}</span>}
+        </p>
       </header>
+
+      {club.bestPost && (
+        <a
+          href={club.bestPost.url}
+          target="_blank"
+          rel="noopener"
+          className="block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition mb-10 sm:flex"
+        >
+          <div className="sm:w-1/2 aspect-[4/3] bg-current/5">
+            <Cover src={club.bestPost.cover_url} className="w-full h-full object-cover" />
+          </div>
+          <div className="p-6 sm:w-1/2 flex flex-col justify-center">
+            <div className="text-xs uppercase tracking-widest opacity-50">{t("club.bestPost")}</div>
+            <div className="font-serif text-4xl md:text-5xl tabular-nums mt-2 leading-none">
+              {club.bestPost.value} <span className="text-base opacity-50">{t("thisWeek.likes")}</span>
+            </div>
+          </div>
+        </a>
+      )}
+
+      {trend.length > 1 && (
+        <section className="mb-10">
+          <div className="text-xs uppercase tracking-widest opacity-50 mb-3">{t("club.trend")}</div>
+          <div className="flex items-end gap-1 h-16">
+            {trend.map(([date, n]) => (
+              <div
+                key={date}
+                className="flex-1 bg-current/20 rounded-t min-h-[2px]"
+                style={{ height: `${(n / maxDay) * 100}%` }}
+                title={`${date} · ${n}`}
+              />
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="grid grid-cols-2 gap-4 mb-6">
         <Stat label={t("club.appearances")} value={club.appearances} />

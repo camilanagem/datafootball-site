@@ -36,12 +36,23 @@ export type ClubAggregate = {
     reels: { engagement?: number; likes?: number };
     tiktok: { engagement?: number; likes?: number };
   };
+  streak: number;        // dias consecutivos recentes no índice
+  bestPost?: { value: string; url: string; cover_url?: string };
   recentAppearances: { date: string; posicao: number; metric: string; url: string; cover_url?: string }[];
 };
+
+function fmtLikesCompact(n: number): string {
+  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1)}M`;
+  if (n >= 1_000) return `${Math.round(n / 1_000)}K`;
+  return String(n);
+}
 
 export function aggregateByClub(): Record<string, ClubAggregate> {
   const reports = getAllReports();
   const out: Record<string, ClubAggregate> = {};
+  const daysByHandle: Record<string, Set<string>> = {};
+  const bestLikesByHandle: Record<string, number> = {};
+  const allDays = [...new Set(reports.map((r) => r.date))].sort();
 
   for (const r of reports) {
     for (const c of r.carousels) {
@@ -56,12 +67,21 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
             appearances: 0,
             topOnes: 0,
             byType: { photos: {}, reels: {}, tiktok: {} },
+            streak: 0,
             recentAppearances: [],
           };
         }
         const a = out[key];
         a.appearances += 1;
         if (p.posicao === 1) a.topOnes += 1;
+        (daysByHandle[key] ||= new Set()).add(r.date);
+        {
+          const likes = (p as any).extra?.likes ?? 0;
+          if (likes > (bestLikesByHandle[key] ?? 0)) {
+            bestLikesByHandle[key] = likes;
+            a.bestPost = { value: fmtLikesCompact(likes), url: p.url, cover_url: p.cover_url };
+          }
+        }
 
         // melhores por tipo: engajamento (ER/VER/TER) e maior post em likes
         const bt = a.byType[c.kind as "photos" | "reels" | "tiktok"];
@@ -87,8 +107,16 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
     }
   }
 
-  // mais recentes primeiro, limitado pra não inflar
-  for (const a of Object.values(out)) {
+  for (const [key, a] of Object.entries(out)) {
+    // streak: dias consecutivos mais recentes em que apareceu
+    const days = daysByHandle[key] || new Set<string>();
+    let s = 0;
+    for (let i = allDays.length - 1; i >= 0; i--) {
+      if (days.has(allDays[i])) s++;
+      else break;
+    }
+    a.streak = s;
+    // posts mais recentes primeiro, limitado pra não inflar
     a.recentAppearances.sort((x, y) => y.date.localeCompare(x.date) || x.posicao - y.posicao);
     a.recentAppearances = a.recentAppearances.slice(0, 36);
   }
