@@ -22,7 +22,8 @@ export type WeekPost = {
 export type ThisWeek = {
   dayCount: number;
   leaders: WeekLeader[];
-  topPost: WeekPost | null;
+  topPost: WeekPost | null;        // maior post em likes
+  topEngagement: WeekPost | null;  // maior engajamento (%)
 };
 
 function fmtLikes(n: number): string {
@@ -53,6 +54,8 @@ export function getThisWeek(maxLeaders = 6): ThisWeek {
 
   let topPost: WeekPost | null = null;
   let maxLikes = 0;
+  let topEng: WeekPost | null = null;
+  let maxEng = 0;
 
   for (const r of recent) {
     for (const c of r.carousels) {
@@ -75,6 +78,13 @@ export function getThisWeek(maxLeaders = 6): ThisWeek {
         if (likes > maxLikes) {
           maxLikes = likes;
           topPost = { club: p.club, flag: p.flag, handle: p.handle, value: fmtLikes(likes), url: p.url, cover_url: p.cover_url };
+        }
+        if (c.ranking === "er" && p.metric_value.includes("%")) {
+          const ev = parseFloat(p.metric_value);
+          if (!isNaN(ev) && ev > maxEng) {
+            maxEng = ev;
+            topEng = { club: p.club, flag: p.flag, handle: p.handle, value: p.metric_value, url: p.url, cover_url: p.cover_url };
+          }
         }
       }
     }
@@ -101,5 +111,5 @@ export function getThisWeek(maxLeaders = 6): ThisWeek {
     .sort((a, b) => b.appearances - a.appearances || b.topOnes - a.topOnes)
     .slice(0, maxLeaders);
 
-  return { dayCount: recent.length, leaders, topPost };
+  return { dayCount: recent.length, leaders, topPost, topEngagement: topEng };
 }

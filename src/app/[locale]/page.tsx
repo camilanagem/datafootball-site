@@ -62,7 +62,10 @@ function Home() {
       {week.leaders.length > 0 && (
         <section className="mb-14 md:mb-20">
           <div className="flex items-baseline justify-between gap-4 mb-6">
-            <h2 className="font-serif text-3xl md:text-4xl">{t("thisWeek.title")}</h2>
+            <Link href="/week" className="group inline-flex items-baseline gap-2">
+              <h2 className="font-serif text-3xl md:text-4xl group-hover:opacity-70">{t("thisWeek.title")}</h2>
+              <span className="text-lg opacity-40 group-hover:opacity-70">→</span>
+            </Link>
             <span className="text-xs uppercase tracking-widest opacity-50 whitespace-nowrap">
               {t("thisWeek.window", { count: week.dayCount })}
             </span>

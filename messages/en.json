@@ -40,7 +40,10 @@
     "streak": "{count}-day streak",
     "firsts": "{count}× first place",
     "biggest": "Most-liked post of the week",
-    "likes": "likes"
+    "likes": "likes",
+    "topEngagement": "Best engagement",
+    "recapLead": "The teams and posts that ran the week.",
+    "viewRecap": "Full recap"
   },
   "calendar": {
     "prevMonth": "Previous month",

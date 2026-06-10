@@ -40,7 +40,10 @@
     "streak": "{count} dias seguidos",
     "firsts": "{count}× em 1º lugar",
     "biggest": "Post mais curtido da semana",
-    "likes": "curtidas"
+    "likes": "curtidas",
+    "topEngagement": "Maior engajamento",
+    "recapLead": "As seleções e posts que mandaram na semana.",
+    "viewRecap": "Resumo completo"
   },
   "calendar": {
     "prevMonth": "Mês anterior",
