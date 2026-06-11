@@ -57,7 +57,6 @@ export default async function ClubPage({
         <h1 className="font-serif text-5xl md:text-7xl leading-none">{club.club}</h1>
         <p className="mt-2 text-sm opacity-60 flex items-center gap-3 flex-wrap">
           <span>@{club.handle}</span>
-          {club.streak >= 2 && <span>🔥 {t("thisWeek.streak", { count: club.streak })}</span>}
         </p>
       </header>
 

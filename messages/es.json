@@ -39,6 +39,7 @@
     "window": "últimos {count} informes",
     "mostActive": "Más activos",
     "streak": "{count} días seguidos",
+    "timesThisWeek": "{count}× esta semana",
     "firsts": "{count}× primer lugar",
     "biggest": "Post con más likes de la semana",
     "likes": "likes",

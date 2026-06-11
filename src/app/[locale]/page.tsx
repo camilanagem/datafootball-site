@@ -80,19 +80,13 @@ function Home() {
                     <span aria-hidden className="shrink-0">{l.flag}</span>
                     <div className="flex-1 min-w-0">
                       <div className="font-serif truncate">{l.club}</div>
-                      <div className="text-xs opacity-50">
-                        {t("club.appearancesN", { count: l.appearances })}
-                        {l.topOnes > 0 ? ` · ${t("thisWeek.firsts", { count: l.topOnes })}` : ""}
-                      </div>
+                      {l.topOnes > 0 && (
+                        <div className="text-xs opacity-50">{t("thisWeek.firsts", { count: l.topOnes })}</div>
+                      )}
                     </div>
-                    {l.streak >= 3 && (
-                      <span
-                        className="text-xs shrink-0 whitespace-nowrap opacity-80"
-                        title={t("thisWeek.streak", { count: l.streak })}
-                      >
-                        🔥 {t("thisWeek.streak", { count: l.streak })}
-                      </span>
-                    )}
+                    <span className="text-xs shrink-0 whitespace-nowrap opacity-70">
+                      {t("thisWeek.timesThisWeek", { count: l.appearances })}
+                    </span>
                   </Link>
                 ))}
               </div>
