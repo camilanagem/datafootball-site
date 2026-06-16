@@ -190,5 +190,9 @@
     "ctaSub": "El análisis que nadie más hace — engagement, sorpresas y el contraste entre alcance y conexión.",
     "ctaScroll": "suscríbete abajo",
     "numbers": "Los números de la semana"
+  },
+  "counter": {
+    "label": "posts analizados",
+    "detail": "{ig} en Instagram · {tt} en TikTok · {accounts} cuentas · actualizado a diario"
   }
 }

@@ -6,6 +6,7 @@ import { getCalendarDays } from "@/lib/data";
 import { getEdition } from "@/lib/edition";
 import { getThisWeek } from "@/lib/momentum";
 import { Cover } from "@/components/Cover";
+import { PostsCounter } from "@/components/PostsCounter";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -37,6 +38,11 @@ function Home() {
           {t("home.statline", { count: accountCount })}
         </p>
       </section>
+
+      {/* CONTADOR — autoridade/escala */}
+      <div className="mb-12 md:mb-16">
+        <PostsCounter />
+      </div>
 
       {/* FAIXA DE SELEÇÕES (só durante o torneio) */}
       {isTournament && (

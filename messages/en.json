@@ -190,5 +190,9 @@
     "ctaSub": "The analysis nobody else does — engagement, underdogs, and the gap between reach and connection.",
     "ctaScroll": "subscribe below",
     "numbers": "The week in numbers"
+  },
+  "counter": {
+    "label": "posts analyzed",
+    "detail": "{ig} on Instagram · {tt} on TikTok · {accounts} accounts · updated daily"
   }
 }

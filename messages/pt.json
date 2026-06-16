@@ -190,5 +190,9 @@
     "ctaSub": "A análise que ninguém mais faz — engajamento, zebras e o contraste entre alcance e conexão.",
     "ctaScroll": "assine logo abaixo",
     "numbers": "Os números da semana"
+  },
+  "counter": {
+    "label": "posts analisados",
+    "detail": "{ig} no Instagram · {tt} no TikTok · {accounts} contas · atualizado diariamente"
   }
 }
