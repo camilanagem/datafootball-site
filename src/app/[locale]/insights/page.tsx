@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
-import insights from "@/data/insights/latest.json";
+import ptData from "@/data/insights/latest.pt.json";
+import enData from "@/data/insights/latest.en.json";
+import esData from "@/data/insights/latest.es.json";
 
 type Insights = {
   week: { ini: string; fim: string; label: string };
@@ -12,7 +14,12 @@ type Insights = {
   legenda: string;
   assunto: string;
 };
-const data = insights as Insights;
+const BY_LOCALE: Record<string, Insights> = {
+  pt: ptData as Insights,
+  en: enData as Insights,
+  es: esData as Insights,
+};
+const pick = (locale: string): Insights => BY_LOCALE[locale] ?? BY_LOCALE.pt;
 
 export async function generateMetadata({
   params,
@@ -20,6 +27,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  const data = pick(locale);
   const path = locale === "en" ? "" : `/${locale}`;
   return {
     title: `Insights · ${data.week.label}`,
@@ -37,6 +45,7 @@ export default async function InsightsPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("insights");
+  const data = pick(locale);
 
   return (
     <div className="max-w-3xl mx-auto px-6 py-12">
