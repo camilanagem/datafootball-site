@@ -17,7 +17,8 @@
     "about": "Sobre",
     "nationalTeams": "Seleções",
     "standings": "Classificação",
-    "clubsTracked": "{count} clubes no índice"
+    "clubsTracked": "{count} clubes no índice",
+    "insights": "Insights"
   },
   "home": {
     "selectDay": "Selecione um dia pra ver o relatório",
@@ -179,5 +180,14 @@
     "loading": "Enviando…",
     "success": "Pronto! Confirma a inscrição no seu email.",
     "error": "Algo deu errado. Tenta de novo."
+  },
+  "insights": {
+    "kicker": "Insights da semana",
+    "whatData": "O que os dados disseram",
+    "contrast": "O contraste",
+    "watch": "Pra acompanhar",
+    "ctaTitle": "Os números toda semana, no seu email.",
+    "ctaSub": "A análise que ninguém mais faz — engajamento, zebras e o contraste entre alcance e conexão.",
+    "ctaScroll": "assine logo abaixo"
   }
 }
