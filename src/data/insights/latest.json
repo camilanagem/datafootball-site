@@ -1,16 +1,33 @@
 {
-  "manchete": "Portugal foi o mais visto da semana. Cabo Verde foi o mais sentido.",
+  "manchete": "Cabo Verde segurou a Espanha. A internet segurou o fôlego. E o número que ninguém esperava chegou.",
   "insights": [
-    "Cabo Verde bateu recorde histórico de ER em fotos no IG: 61,0%. É a maior eficiência de engajamento da semana inteira — num formato onde a média do top-10 é 8,1%. A seleção africana estreia na Copa, carrega a história de um povo e transformou cada post numa declaração de existência. Números assim não se compram com seguidores.",
-    "Portugal dominou em alcance bruto de forma absurda: 34,4 milhões de views e 3,02 milhões de likes num único Reel. Mas domínio de tela não é o mesmo que domínio de coração. O Reel mais curtido da semana foi de Portugal — e mesmo assim, em eficiência, a seleção não aparece no top-5 de nenhum formato. Gigante de público, não de conexão.",
-    "Senegal monopolizou o ranking de Reels por ER: aparece em 1º, 2º, 3º, 4º e 5º lugar simultaneamente, com VER entre 16,2% e 20,2%. Enquanto todo mundo olhava para Mbappé fazendo hat-trick pela França (15,7M de views), o Senegal construía a semana mais eficiente de qualquer seleção em qualquer formato. Silencioso, demolidor.",
-    "França foi a rainha do TikTok em volume — três vídeos no top-5 de views, incluindo dois empatados em 4,7M. Mas em eficiência no TikTok, não aparece sequer no top-5: quem domina são Costa do Marfim (29,3%), Gana (26,6%) e Brasil (26,4%). O gol de Olise, a polêmica de Mbappé como centroavante — todo mundo assistiu, mas quem reagiu de verdade foi outra turma.",
-    "Haiti virou caso de estudo duplo: foi obrigado a mudar o uniforme antes da estreia por confusão com a bandeira da Polônia — viralização garantida. E os números confirmaram: 27 aparições no top-10 da semana (4º lugar no ranking de dominância), além de liderar o ranking de Reels por ER no dia 15/06. Meme de kit, engajamento de campeão."
+    "O goleiro do Cabo Verde travou a Espanha num 0 a 0 histórico — a estreia de um país inteiro na Copa do Mundo. A torcida de uma nação que mal cabia no mapa explodiu nas redes, e a foto do escudo verde virou o post mais eficiente da semana: 61% de engajamento. Nenhum gigante chegou perto.",
+    "Edin Dzeko tem 40 anos, sobreviveu a uma guerra e foi capitão da Bósnia na Copa. A história viralizou — e a seleção respondeu nas redes com presença no top de engajamento por três dias consecutivos, incluindo o dia de abertura. O dragão voa, e a torcida vai junto.",
+    "Haiti entrou em campo com uma camisa diferente da que planejava usar — a FIFA mandou mudar antes da estreia porque o design lembrava a bandeira da Polônia. A polêmica virou manchete mundial. O Senegal não jogou nada disso, mas varreu o ranking de reels: os quatro posts mais eficientes da semana em vídeo foram todos da seleção senegalesa, com até 20,2% de VER.",
+    "Portugal teve o reel mais visto da semana — 34 milhões de views e mais de 3 milhões de curtidas, números de superpotência. Mas dominar o alcance é diferente de dominar a conexão. Enquanto Portugal era o mais visto, Cabo Verde era o mais sentido."
   ],
-  "contraste": "Portugal foi a seleção mais vista, mais curtida e mais dominante da semana — 42 aparições no top-10, Reel com 34 milhões de views, recorde de likes. Cabo Verde teve 89 mil curtidas numa foto. Mas o ER de Cabo Verde foi de 61,0% contra médias que mal passam dos 8%. Esse é o ponto: alcance mede quem tem mais gente. Engajamento mede quem importa mais para alguém. Os gigantes enchem o feed. Os pequenos incendeiam a torcida.",
-  "pra_acompanhar": "Senegal não deu uma trégua em Reels a semana inteira — cinco dias no topo do ER em sequência é anomalia estatística, e vale monitorar se sustenta quando o torneio esquentar. E Cabo Verde, na sua estreia histórica na Copa, já entregou o maior pico de ER em fotos da semana: qualquer movimentação da seleção nas próximas rodadas vira dado obrigatório.",
-  "legenda": "Portugal quebrou recordes de views. Cabo Verde quebrou o algoritmo inteiro — 61% de ER numa semana de Copa do Mundo, enquanto os gigantes mal passavam de 8%.\n\nAqui a gente não conta seguidor. A gente mede o que a torcida sente de verdade.\n📊 Todo insight que você não vai ver em lugar nenhum chega na nossa newsletter toda semana. Link na bio pra assinar. 👆",
-  "assunto": "Cabo Verde 61% x Portugal 34 milhões de views: quem engajou mais?",
+  "contraste": "Portugal quebrou recordes de visualização — 34 milhões de views num único vídeo, o maior da semana. Mas quem fez a torcida tremer de verdade foi um arquipélago africano em sua primeira Copa do Mundo. Cabo Verde com 61% de ER é o lembrete semanal de que alcance é fama, engajamento é amor.",
+  "pra_acompanhar": "A Bósnia enfrenta a Suíça — e Dzeko ainda tem histórias pra contar dentro e fora de campo. Se a narrativa continuar crescendo, o engajamento vem junto. Fique de olho.",
+  "numeros": [
+    {
+      "label": "Mais visto",
+      "value": "Portugal · 34.4M views"
+    },
+    {
+      "label": "Mais engajado",
+      "value": "Cabo Verde · 61% ER"
+    },
+    {
+      "label": "Mais presente",
+      "value": "Portugal · 42× no top-10"
+    },
+    {
+      "label": "ER médio",
+      "value": "TikTok 21% · Reels 10% · Fotos 8%"
+    }
+  ],
+  "legenda": "Portugal teve 34 milhões de views. Cabo Verde teve 61% de engajamento. Sabe qual número importa mais? Todo domingo a gente te manda a análise que o futebol mainstream não faz — link na bio pra assinar a newsletter. 📊🌍",
+  "assunto": "Cabo Verde vs Portugal: quem engajou mais forte na Copa?",
   "week": {
     "ini": "2026-06-09",
     "fim": "2026-06-15",

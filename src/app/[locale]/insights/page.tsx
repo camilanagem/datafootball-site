@@ -8,6 +8,7 @@ type Insights = {
   insights: string[];
   contraste: string;
   pra_acompanhar: string;
+  numeros: { label: string; value: string }[];
   legenda: string;
   assunto: string;
 };
@@ -69,6 +70,20 @@ export default async function InsightsPage({
         <section className="mb-16">
           <h2 className="text-xs uppercase tracking-[0.2em] opacity-60 mb-4">{t("watch")}</h2>
           <p className="text-[17px] md:text-lg leading-relaxed opacity-90">{data.pra_acompanhar}</p>
+        </section>
+      )}
+
+      {data.numeros?.length > 0 && (
+        <section className="mb-16">
+          <h2 className="text-xs uppercase tracking-[0.2em] opacity-60 mb-6">{t("numbers")}</h2>
+          <dl className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-current/15 border border-current/15">
+            {data.numeros.map((n, i) => (
+              <div key={i} className="bg-[var(--background)] p-5">
+                <dt className="text-[11px] uppercase tracking-widest opacity-50 mb-2">{n.label}</dt>
+                <dd className="font-serif text-lg md:text-xl leading-tight">{n.value}</dd>
+              </div>
+            ))}
+          </dl>
         </section>
       )}
 

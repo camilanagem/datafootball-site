@@ -188,6 +188,7 @@
     "watch": "What to watch",
     "ctaTitle": "The numbers every week, in your inbox.",
     "ctaSub": "The analysis nobody else does — engagement, underdogs, and the gap between reach and connection.",
-    "ctaScroll": "subscribe below"
+    "ctaScroll": "subscribe below",
+    "numbers": "The week in numbers"
   }
 }
