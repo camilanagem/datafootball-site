@@ -169,5 +169,15 @@
     "shares": "shares",
     "er": "Engagement Rate",
     "ver": "Video Engagement Rate"
+  },
+  "newsletter": {
+    "kicker": "Weekly newsletter",
+    "title": "The insights nobody else measures.",
+    "subtitle": "Every week, what football's numbers say and the media won't — engagement, underdogs, and the gap between reach and real connection. Straight to your inbox.",
+    "placeholder": "you@email.com",
+    "cta": "Subscribe",
+    "loading": "Sending…",
+    "success": "Done! Confirm your subscription in your email.",
+    "error": "Something went wrong. Try again."
   }
 }

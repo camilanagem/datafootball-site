@@ -169,5 +169,15 @@
     "shares": "compartilhamentos",
     "er": "Taxa de Engajamento",
     "ver": "Taxa de Engajamento de Vídeo"
+  },
+  "newsletter": {
+    "kicker": "Newsletter semanal",
+    "title": "Os insights que ninguém mede.",
+    "subtitle": "Toda semana, o que os números do futebol dizem e a mídia não conta — engajamento, zebras e o contraste entre alcance e conexão. Direto no seu email.",
+    "placeholder": "seu@email.com",
+    "cta": "Assinar",
+    "loading": "Enviando…",
+    "success": "Pronto! Confirma a inscrição no seu email.",
+    "error": "Algo deu errado. Tenta de novo."
   }
 }

@@ -169,5 +169,15 @@
     "shares": "compartidos",
     "er": "Tasa de Engagement",
     "ver": "Tasa de Engagement de Video"
+  },
+  "newsletter": {
+    "kicker": "Newsletter semanal",
+    "title": "Los insights que nadie más mide.",
+    "subtitle": "Cada semana, lo que dicen los números del fútbol y los medios no cuentan — engagement, sorpresas y el contraste entre alcance y conexión. Directo a tu correo.",
+    "placeholder": "tu@email.com",
+    "cta": "Suscribirme",
+    "loading": "Enviando…",
+    "success": "¡Listo! Confirma tu suscripción en tu correo.",
+    "error": "Algo salió mal. Inténtalo de nuevo."
   }
 }

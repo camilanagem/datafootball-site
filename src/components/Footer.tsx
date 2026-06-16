@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import { NewsletterSignup } from "./NewsletterSignup";
 
 const ICONS = {
   ig: (
@@ -22,7 +23,9 @@ export function Footer() {
   const t = useTranslations();
   const year = new Date().getFullYear();
   return (
-    <footer className="border-t border-current/15 mt-16">
+    <>
+      <NewsletterSignup />
+      <footer className="border-t border-current/15">
       <div className="max-w-6xl mx-auto px-6 py-10 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
         <div>
           <Link href="/" aria-label="DATA FOOTBALL" className="inline-block">
@@ -49,6 +52,7 @@ export function Footer() {
       <div className="max-w-6xl mx-auto px-6 pb-8">
         <p className="text-[11px] leading-relaxed opacity-40 max-w-3xl">{t("footer.contentRights")}</p>
       </div>
-    </footer>
+      </footer>
+    </>
   );
 }
