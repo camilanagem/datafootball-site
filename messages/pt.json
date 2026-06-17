@@ -179,7 +179,9 @@
     "cta": "Assinar",
     "loading": "Enviando…",
     "success": "Pronto! Confirma a inscrição no seu email.",
-    "error": "Algo deu errado. Tenta de novo."
+    "error": "Algo deu errado. Tenta de novo.",
+    "close": "Fechar",
+    "barTitle": "Receba os insights da semana no seu email."
   },
   "insights": {
     "kicker": "Insights da semana",

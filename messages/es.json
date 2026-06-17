@@ -179,7 +179,9 @@
     "cta": "Suscribirme",
     "loading": "Enviando…",
     "success": "¡Listo! Confirma tu suscripción en tu correo.",
-    "error": "Algo salió mal. Inténtalo de nuevo."
+    "error": "Algo salió mal. Inténtalo de nuevo.",
+    "close": "Cerrar",
+    "barTitle": "Recibe los insights de la semana en tu correo."
   },
   "insights": {
     "kicker": "Insights de la semana",

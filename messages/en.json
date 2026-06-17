@@ -179,7 +179,9 @@
     "cta": "Subscribe",
     "loading": "Sending…",
     "success": "Done! Confirm your subscription in your email.",
-    "error": "Something went wrong. Try again."
+    "error": "Something went wrong. Try again.",
+    "close": "Close",
+    "barTitle": "Get the week's insights in your inbox."
   },
   "insights": {
     "kicker": "Weekly insights",

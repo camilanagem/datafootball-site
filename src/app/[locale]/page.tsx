@@ -7,6 +7,7 @@ import { getEdition } from "@/lib/edition";
 import { getThisWeek } from "@/lib/momentum";
 import { Cover } from "@/components/Cover";
 import { PostsCounter } from "@/components/PostsCounter";
+import { NewsletterBand } from "@/components/NewsletterBand";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -42,6 +43,11 @@ function Home() {
       {/* CONTADOR — autoridade/escala */}
       <div className="mb-12 md:mb-16">
         <PostsCounter />
+      </div>
+
+      {/* FAIXA DE NEWSLETTER (captura mais acima, além do rodapé) */}
+      <div className="mb-12 md:mb-16">
+        <NewsletterBand />
       </div>
 
       {/* FAIXA DE SELEÇÕES (só durante o torneio) */}
