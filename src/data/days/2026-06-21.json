@@ -1,0 +1,484 @@
+{
+  "date": "2026-06-21",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Curaçao",
+          "handle": "thebluewaveffk",
+          "flag": "🇨🇼",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "4.44%",
+          "caption_clean": "Good Night, Kansas City!",
+          "url": "https://www.instagram.com/p/DZ1ZC5usZba/",
+          "cover_url": "/covers/b1ae7c295a8759c6.jpg",
+          "extra": {
+            "likes": 10753,
+            "comments": 300,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "3.32%",
+          "caption_clean": "GOAL️ 前半31分 18 上田綺世 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 2-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1arYBgWSX/",
+          "cover_url": "/covers/effd2054cc363a35.jpg",
+          "extra": {
+            "likes": 51328,
+            "comments": 549,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "2.89%",
+          "caption_clean": "GOAL️ 前半4分 15 鎌田大地 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 1-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1XqNIAaKk/",
+          "cover_url": "/covers/e830b0e9a955a9b0.jpg",
+          "extra": {
+            "likes": 44687,
+            "comments": 443,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "2.46%",
+          "caption_clean": "@fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1a_TqBMsP/",
+          "cover_url": "/covers/057a3b3de2829582.jpg",
+          "extra": {
+            "likes": 38129,
+            "comments": 279,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Tunisia",
+          "handle": "ftf.tn",
+          "flag": "🇹🇳",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "0.80%",
+          "caption_clean": "HALFTIME",
+          "url": "https://www.instagram.com/p/DZ1cr6xOAKb/",
+          "cover_url": "/covers/1192bea64d61d6a1.jpg",
+          "extra": {
+            "likes": 1814,
+            "comments": 784,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Tunisia",
+          "handle": "ftf.tn",
+          "flag": "🇹🇳",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "0.44%",
+          "caption_clean": "KICK OFF X",
+          "url": "https://www.instagram.com/p/DZ1S5c8oXvF/",
+          "cover_url": "/covers/d63c9095a9a75bc1.jpg",
+          "extra": {
+            "likes": 1253,
+            "comments": 161,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Tunisia",
+          "handle": "ftf.tn",
+          "flag": "🇹🇳",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "0.29%",
+          "caption_clean": "FULL TIME",
+          "url": "https://www.instagram.com/p/DZ1kUozoLhr/",
+          "cover_url": "/covers/c3308632178bbeb2.jpg",
+          "extra": {
+            "likes": 578,
+            "comments": 367,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.28%",
+          "caption_clean": "Next up: Paraguay in Santa Clara ⏳ A win or draw will guarantee second spot in Group D and progression to the Round of 32 v - 25.6.26 - 7:00pm local v - 26.6.26 - 12:00pm AEST #Soc…",
+          "url": "https://www.instagram.com/p/DZ1jTWRFdbV/",
+          "cover_url": "/covers/b66dd8b3244860e7.jpg",
+          "extra": {
+            "likes": 1424,
+            "comments": 17,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Germany",
+          "handle": "dfb_team",
+          "flag": "🇩🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.12%",
+          "caption_clean": "gruppensieger! #fifaworldcup #dfbteam DFB/Max Galys",
+          "url": "https://www.instagram.com/p/DZ1g0eZAAjB/",
+          "cover_url": "/covers/5f90a60bf90b04d5.jpg",
+          "extra": {
+            "likes": 8626,
+            "comments": 73,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Croatia",
+          "handle": "hns_cff",
+          "flag": "🇭🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.07%",
+          "caption_clean": "Kada igra Hrvatska, zna se što se nosi shop.hns.family",
+          "url": "https://www.instagram.com/p/DZ1fltcDvPC/",
+          "cover_url": "/covers/d43ed7a91956364b.jpg",
+          "extra": {
+            "likes": 594,
+            "comments": 2,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "51K",
+          "caption_clean": "GOAL️ 前半31分 18 上田綺世 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 2-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1arYBgWSX/",
+          "cover_url": "/covers/effd2054cc363a35.jpg",
+          "extra": {
+            "likes": 51328,
+            "comments": 549,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "45K",
+          "caption_clean": "GOAL️ 前半4分 15 鎌田大地 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 1-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1XqNIAaKk/",
+          "cover_url": "/covers/e830b0e9a955a9b0.jpg",
+          "extra": {
+            "likes": 44687,
+            "comments": 443,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "38K",
+          "caption_clean": "@fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1a_TqBMsP/",
+          "cover_url": "/covers/057a3b3de2829582.jpg",
+          "extra": {
+            "likes": 38129,
+            "comments": 279,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Curaçao",
+          "handle": "thebluewaveffk",
+          "flag": "🇨🇼",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "11K",
+          "caption_clean": "Good Night, Kansas City!",
+          "url": "https://www.instagram.com/p/DZ1ZC5usZba/",
+          "cover_url": "/covers/b1ae7c295a8759c6.jpg",
+          "extra": {
+            "likes": 10753,
+            "comments": 300,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Germany",
+          "handle": "dfb_team",
+          "flag": "🇩🇪",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "9K",
+          "caption_clean": "gruppensieger! #fifaworldcup #dfbteam DFB/Max Galys",
+          "url": "https://www.instagram.com/p/DZ1g0eZAAjB/",
+          "cover_url": "/covers/5f90a60bf90b04d5.jpg",
+          "extra": {
+            "likes": 8626,
+            "comments": 73,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Tunisia",
+          "handle": "ftf.tn",
+          "flag": "🇹🇳",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "2K",
+          "caption_clean": "HALFTIME",
+          "url": "https://www.instagram.com/p/DZ1cr6xOAKb/",
+          "cover_url": "/covers/1192bea64d61d6a1.jpg",
+          "extra": {
+            "likes": 1814,
+            "comments": 784,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "1K",
+          "caption_clean": "Next up: Paraguay in Santa Clara ⏳ A win or draw will guarantee second spot in Group D and progression to the Round of 32 v - 25.6.26 - 7:00pm local v - 26.6.26 - 12:00pm AEST #Soc…",
+          "url": "https://www.instagram.com/p/DZ1jTWRFdbV/",
+          "cover_url": "/covers/b66dd8b3244860e7.jpg",
+          "extra": {
+            "likes": 1424,
+            "comments": 17,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Tunisia",
+          "handle": "ftf.tn",
+          "flag": "🇹🇳",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "1K",
+          "caption_clean": "KICK OFF X",
+          "url": "https://www.instagram.com/p/DZ1S5c8oXvF/",
+          "cover_url": "/covers/d63c9095a9a75bc1.jpg",
+          "extra": {
+            "likes": 1253,
+            "comments": 161,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Croatia",
+          "handle": "hns_cff",
+          "flag": "🇭🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "594",
+          "caption_clean": "Kada igra Hrvatska, zna se što se nosi shop.hns.family",
+          "url": "https://www.instagram.com/p/DZ1fltcDvPC/",
+          "cover_url": "/covers/d43ed7a91956364b.jpg",
+          "extra": {
+            "likes": 594,
+            "comments": 2,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Tunisia",
+          "handle": "ftf.tn",
+          "flag": "🇹🇳",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "578",
+          "caption_clean": "FULL TIME",
+          "url": "https://www.instagram.com/p/DZ1kUozoLhr/",
+          "cover_url": "/covers/c3308632178bbeb2.jpg",
+          "extra": {
+            "likes": 578,
+            "comments": 367,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Saudi Arabia",
+          "handle": "saudint",
+          "flag": "🇸🇦",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "14.69%",
+          "caption_clean": "‏باسم الوطن يا أخضر ‏العب من أجل المجد ️ ‏⁧‫#قدام_بنفس_الروح‬⁩ | ⁦‪#FIFAWorldCup‬⁩",
+          "url": "https://www.tiktok.com/@saudint/video/7653694746598083861",
+          "cover_url": "/covers/8116dd42f4e5cf74.jpg",
+          "extra": {
+            "likes": 1374,
+            "comments": 64,
+            "views": 10400,
+            "shares": 90
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "8.74%",
+          "caption_clean": "GOAL!! 上田綺世/ UEDA Ayase️ vs Tunisia #サッカー日本代表 #スポーツ #日本代表 #最高の景色を",
+          "url": "https://www.tiktok.com/@jfa_samuraiblue/video/7653704396735286549",
+          "cover_url": "/covers/9e29ebb700db0887.jpg",
+          "extra": {
+            "likes": 6016,
+            "comments": 169,
+            "views": 71700,
+            "shares": 85
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "7.09%",
+          "caption_clean": "GOAL!! 鎌田大地/ KAMADA Daichi️ vs Tunisia #サッカー日本代表 #スポーツ #日本代表 #最高の景色を",
+          "url": "https://www.tiktok.com/@jfa_samuraiblue/video/7653698471345556757",
+          "cover_url": "/covers/a251c4244df948af.jpg",
+          "extra": {
+            "likes": 3969,
+            "comments": 82,
+            "views": 57600,
+            "shares": 34
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "6K",
+          "caption_clean": "GOAL!! 上田綺世/ UEDA Ayase️ vs Tunisia #サッカー日本代表 #スポーツ #日本代表 #最高の景色を",
+          "url": "https://www.tiktok.com/@jfa_samuraiblue/video/7653704396735286549",
+          "cover_url": "/covers/9e29ebb700db0887.jpg",
+          "extra": {
+            "likes": 6016,
+            "comments": 169,
+            "views": 71700,
+            "shares": 85
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "GOAL!! 鎌田大地/ KAMADA Daichi️ vs Tunisia #サッカー日本代表 #スポーツ #日本代表 #最高の景色を",
+          "url": "https://www.tiktok.com/@jfa_samuraiblue/video/7653698471345556757",
+          "cover_url": "/covers/a251c4244df948af.jpg",
+          "extra": {
+            "likes": 3969,
+            "comments": 82,
+            "views": 57600,
+            "shares": 34
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Saudi Arabia",
+          "handle": "saudint",
+          "flag": "🇸🇦",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "1K",
+          "caption_clean": "‏باسم الوطن يا أخضر ‏العب من أجل المجد ️ ‏⁧‫#قدام_بنفس_الروح‬⁩ | ⁦‪#FIFAWorldCup‬⁩",
+          "url": "https://www.tiktok.com/@saudint/video/7653694746598083861",
+          "cover_url": "/covers/8116dd42f4e5cf74.jpg",
+          "extra": {
+            "likes": 1374,
+            "comments": 64,
+            "views": 10400,
+            "shares": 90
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 26
+  }
+}
