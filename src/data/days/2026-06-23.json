@@ -1,0 +1,2130 @@
+{
+  "date": "2026-06-23",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "9.85%",
+          "caption_clean": "DÍA DE LUCHAR POR EL SUEÑO Volvemos a la cancha con la ilusión intacta y el corazón de todo un país detrás️. PanamáCroacia 23 de junio 6:00 p.m. (hora de Panamá) ️ Toronto Stadium…",
+          "url": "https://www.instagram.com/p/DZ7ZL0vRGq4/",
+          "cover_url": "/covers/b15f95bce9f930b8.jpg",
+          "extra": {
+            "likes": 48824,
+            "comments": 1035,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "8.15%",
+          "caption_clean": "MVP: Cristiano Ronaldo ⭐ #VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8K1Y9McwM/",
+          "cover_url": "/covers/2c1991af7805b130.jpg",
+          "extra": {
+            "likes": 1923104,
+            "comments": 27256,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "7.62%",
+          "caption_clean": "Cristiano Ronaldo. ‍ #VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ789dpjBir/",
+          "cover_url": "/covers/7437cb4d76576fe7.jpg",
+          "extra": {
+            "likes": 1799427,
+            "comments": 23900,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Bosnia & Herzegovina",
+          "handle": "nfsbih_official",
+          "flag": "🇧🇦",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "6.40%",
+          "caption_clean": "Danas će Zmajevi u 18 sati po centralnoevropskom vremenu odraditi službeni trening u Salt Lake Cityju, nakon čega slijedi put u Seattle, gdje će se odigrati utakmica 3. kola grupe…",
+          "url": "https://www.instagram.com/p/DZ7BE-cEf_G/",
+          "cover_url": "/covers/1ed024de89f9fb9d.jpg",
+          "extra": {
+            "likes": 7239,
+            "comments": 18,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "DR Congo",
+          "handle": "fecofadrc",
+          "flag": "🇨🇩",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "5.85%",
+          "caption_clean": "[MONDIAL 2026 | LES LÉOPARDS EN ACTION] Groupe K | Match 2 ️Colombie RD Congo ⌚️20H00 (Guadalajara ) | 03H00 (Kinshasa) Estadio Akron, Guadalajara Allez les Léopards ! #AllezLesLéo…",
+          "url": "https://www.instagram.com/p/DZ7oaAdIRz1/",
+          "cover_url": "/covers/b73e65f8eaebb75f.jpg",
+          "extra": {
+            "likes": 19089,
+            "comments": 332,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "5.83%",
+          "caption_clean": "Hoy hay salsa Panamá #MareaQueLate",
+          "url": "https://www.instagram.com/p/DZ7r2miEV7m/",
+          "cover_url": "/covers/0ab24183e70d19a9.jpg",
+          "extra": {
+            "likes": 29179,
+            "comments": 345,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Uzbekistan",
+          "handle": "uzbekistanfa",
+          "flag": "🇺🇿",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "5.38%",
+          "caption_clean": "#MilliyJamoa",
+          "url": "https://www.instagram.com/p/DZ79yjtkcCF/",
+          "cover_url": "/covers/1af0702a1cdc7333.jpg",
+          "extra": {
+            "likes": 33678,
+            "comments": 3715,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Bosnia & Herzegovina",
+          "handle": "nfsbih_official",
+          "flag": "🇧🇦",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "4.17%",
+          "caption_clean": "⏳Do početka Evropskog prvenstva za igračice do 19 godina ostala su još četiri dana. Reprezentacija Bosne i Hercegovine će svoje susrete u grupnoj fazi odigrati na tri različita sta…",
+          "url": "https://www.instagram.com/p/DZ7NWlEjWaK/",
+          "cover_url": "/covers/efa3078acf54d306.jpg",
+          "extra": {
+            "likes": 4722,
+            "comments": 6,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Uzbekistan",
+          "handle": "uzbekistanfa",
+          "flag": "🇺🇿",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "3.41%",
+          "caption_clean": "#Fulltime Uchrashuv yakunlandi",
+          "url": "https://www.instagram.com/p/DZ8IqiVxGPG/",
+          "cover_url": "/covers/fd6a7964e7272774.jpg",
+          "extra": {
+            "likes": 17393,
+            "comments": 6282,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "3.41%",
+          "caption_clean": "EL MVP DEL PARTIDO Cristian Martínez fue elegido por los fanáticos como el mejor jugador de #PanamáMayor en el partido ante Croacia . ¡Gracias por la entrega total de siempre Crist…",
+          "url": "https://www.instagram.com/p/DZ83nRbxDZQ/",
+          "cover_url": "/covers/4fd8bc6f33290770.jpg",
+          "extra": {
+            "likes": 16875,
+            "comments": 369,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "3.30%",
+          "caption_clean": "Que vitória. ️‍ #VaiDarPortugal What a win. ️‍ #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8IK9dscgV/",
+          "cover_url": "/covers/b931b39c49358e9e.jpg",
+          "extra": {
+            "likes": 769033,
+            "comments": 21205,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "South Africa",
+          "handle": "bafanabafanaofficial",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "2.99%",
+          "caption_clean": "South Africa’s finest, reporting live from Mexico! The official Bafana Bafana team photo taken at Pachuca basecamp to the world stage, Mzansi, we are here to leave our mark. #Bafan…",
+          "url": "https://www.instagram.com/p/DZ7LGYQCBXF/",
+          "cover_url": "/covers/c3635d102a583182.jpg",
+          "extra": {
+            "likes": 7289,
+            "comments": 103,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Croatia",
+          "handle": "hns_cff",
+          "flag": "🇭🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "2.82%",
+          "caption_clean": "Skidamo kapu, kapetane. ©️ #Luka200 #InfiniteLegacy #BeskonačnoNasljeđe #Obitelj #Vatreni️‍",
+          "url": "https://www.instagram.com/p/DZ8vEOyiDo6/",
+          "cover_url": "/covers/ae137ba0ef74e927.jpg",
+          "extra": {
+            "likes": 25562,
+            "comments": 154,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "2.78%",
+          "caption_clean": "¡Sumamos 3 puntos dedicados a nuestro país! Victoria del equipo de TODOS en Guadalajara 1-0 ️ Daniel Muñoz #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9FSp4jbbZ/",
+          "cover_url": "/covers/334f1375b37b0a55.jpg",
+          "extra": {
+            "likes": 155341,
+            "comments": 2662,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "2.43%",
+          "caption_clean": "سيمبا المصري Our Egyptian Lion “Simba” #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ8OK9PIfdP/",
+          "cover_url": "/covers/c9b4b3e5149df4b1.jpg",
+          "extra": {
+            "likes": 48400,
+            "comments": 178,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Uzbekistan",
+          "handle": "uzbekistanfa",
+          "flag": "🇺🇿",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "2.41%",
+          "caption_clean": "Oʻzbekiston milliy terma jamoasining Portugaliyaga qarshi oʻyin uchun boshlangʻich tarkibi",
+          "url": "https://www.instagram.com/p/DZ7v3JtRQ9n/",
+          "cover_url": "/covers/5239d9627d87b581.jpg",
+          "extra": {
+            "likes": 15549,
+            "comments": 1227,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Austria",
+          "handle": "footballaustria",
+          "flag": "🇦🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "2.41%",
+          "caption_clean": "NFL-Camp in Wien: Indianapolis @colts und @viennavikings kooperieren Große Football-Initiative in der Bundeshauptstadt: Am 10. Juli 2026 veranstalten die Indianapolis Colts gemeins…",
+          "url": "https://www.instagram.com/p/DZ7KbU0ACzD/",
+          "cover_url": "/covers/f7f389a21a15db42.jpg",
+          "extra": {
+            "likes": 76,
+            "comments": 0,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Sweden",
+          "handle": "swemnt",
+          "flag": "🇸🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "2.08%",
+          "caption_clean": "Allt att spela för i gruppavslutningen mot Japan #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ7hO9bxJmK/",
+          "cover_url": "/covers/d68738fc315819ce.jpg",
+          "extra": {
+            "likes": 13880,
+            "comments": 121,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Senegal",
+          "handle": "fsfofficielle",
+          "flag": "🇸🇳",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "1.96%",
+          "caption_clean": "Récupération pour les titulaires, travail intensif pour les remplaçants. Déjà tournés vers le prochain rendez-vous.",
+          "url": "https://www.instagram.com/p/DZ8g_oYFJia/",
+          "cover_url": "/covers/4e574ac3ff02c0d1.jpg",
+          "extra": {
+            "likes": 27244,
+            "comments": 1040,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "South Korea",
+          "handle": "thekfa",
+          "flag": "🇰🇷",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "1.91%",
+          "caption_clean": "[]몬테레이에서의 첫 훈련 한계를 넘어 하나된 Reds 2026 FIFA 북중미 월드컵 조별리그 3차전 vs. 남아프리카공화국 6/25(목) 10:00 @몬테레이 스타디움 ⏰한국시간 기준 JTBC, KBS2, 치지직 #대한민국 #축구국가대표팀 #FIFAWorldCup2026",
+          "url": "https://www.instagram.com/p/DZ7C63nlHXQ/",
+          "cover_url": "/covers/c741fe90f7748f88.jpg",
+          "extra": {
+            "likes": 20155,
+            "comments": 196,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "1.9M",
+          "caption_clean": "MVP: Cristiano Ronaldo ⭐ #VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8K1Y9McwM/",
+          "cover_url": "/covers/2c1991af7805b130.jpg",
+          "extra": {
+            "likes": 1923104,
+            "comments": 27256,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "1.8M",
+          "caption_clean": "Cristiano Ronaldo. ‍ #VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ789dpjBir/",
+          "cover_url": "/covers/7437cb4d76576fe7.jpg",
+          "extra": {
+            "likes": 1799427,
+            "comments": 23900,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "769K",
+          "caption_clean": "Que vitória. ️‍ #VaiDarPortugal What a win. ️‍ #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8IK9dscgV/",
+          "cover_url": "/covers/b931b39c49358e9e.jpg",
+          "extra": {
+            "likes": 769033,
+            "comments": 21205,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "270K",
+          "caption_clean": "#SaludoAlbiceleste 39 años de Lionel Messi: el hombre que cambió la historia del fútbol mundial ¡Feliz cumple, capitán!",
+          "url": "https://www.instagram.com/p/DZ8-gJWjTV6/",
+          "cover_url": "/covers/e7fbda95af05be92.jpg",
+          "extra": {
+            "likes": 270200,
+            "comments": 2001,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Brazil",
+          "handle": "brasil",
+          "flag": "🇧🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "173K",
+          "caption_clean": "É O ÚLTIMO DESAFIO DA FASE DE GRUPOS! Chegou a hora do Brasil entrar em campo, e vale a classificação em primeiro lugar para a fase final da Copa do Mundo de 2026. Vamos juntos, na…",
+          "url": "https://www.instagram.com/p/DZ8-2TyDUK1/",
+          "cover_url": "/covers/6ea270e335f96805.jpg",
+          "extra": {
+            "likes": 172579,
+            "comments": 1749,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "155K",
+          "caption_clean": "¡Sumamos 3 puntos dedicados a nuestro país! Victoria del equipo de TODOS en Guadalajara 1-0 ️ Daniel Muñoz #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9FSp4jbbZ/",
+          "cover_url": "/covers/334f1375b37b0a55.jpg",
+          "extra": {
+            "likes": 155341,
+            "comments": 2662,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "147K",
+          "caption_clean": "Un total de 16 buts en autant de matchs joués en Coupe du Monde pour @k.mbappe ️ Retour sur l’histoire de ses réalisations depuis l’édition 2018 jusqu’à hier soir et le match contr…",
+          "url": "https://www.instagram.com/p/DZ742fTl5g9/",
+          "cover_url": "/covers/133e212e39c55a2a.jpg",
+          "extra": {
+            "likes": 146888,
+            "comments": 398,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Brazil",
+          "handle": "brasil",
+          "flag": "🇧🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "139K",
+          "caption_clean": "Finalizamos a última sessão de treino antes do jogo contra a Escócia! #BateNoPeito Rafael Ribeiro/CBF",
+          "url": "https://www.instagram.com/p/DZ73t8TFHl2/",
+          "cover_url": "/covers/7d63eb50d16b3cf0.jpg",
+          "extra": {
+            "likes": 138630,
+            "comments": 468,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Brazil",
+          "handle": "brasil",
+          "flag": "🇧🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "112K",
+          "caption_clean": "VAMOS PARA O ÚLTIMO DESAFIO DA FASE DE GRUPOS! 󠁧󠁢󠁳󠁣󠁴󠁿 ️ Amanhã (24/06) ⏰ 18h (local) • 19h (BRT) Miami | FL #BateNoPeito",
+          "url": "https://www.instagram.com/p/DZ7fOWdRQcA/",
+          "cover_url": "/covers/b20803b64a9ac6dd.jpg",
+          "extra": {
+            "likes": 111695,
+            "comments": 777,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "97K",
+          "caption_clean": "The youngest #ThreeLions player to reach 50 caps ️ Congratulations, @judebellingham!",
+          "url": "https://www.instagram.com/p/DZ8OhzElNwE/",
+          "cover_url": "/covers/abc94a205cb27b6d.jpg",
+          "extra": {
+            "likes": 97203,
+            "comments": 192,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "87K",
+          "caption_clean": "The #ThreeLions make two changes for our game against Ghana",
+          "url": "https://www.instagram.com/p/DZ8EwNzDRKn/",
+          "cover_url": "/covers/a83ba35fda08862a.jpg",
+          "extra": {
+            "likes": 87341,
+            "comments": 753,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "81K",
+          "caption_clean": "Nous pensons très fort à notre sélectionneur et à toute sa famille",
+          "url": "https://www.instagram.com/p/DZ8TiE_S3rM/",
+          "cover_url": "/covers/f5e5e390e223f607.jpg",
+          "extra": {
+            "likes": 80566,
+            "comments": 831,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "76K",
+          "caption_clean": "يواجه منتخبنا الوطني غدًا منتخب هايتي في آخر مبارياته بدور المجموعات من كأس العالم Next Match Our National Team faces Haiti tomorrow in its final FIFA World Cup 2026 group stage ma…",
+          "url": "https://www.instagram.com/p/DZ8RlUIt7MD/",
+          "cover_url": "/covers/eb19d8a82389c479.jpg",
+          "extra": {
+            "likes": 76142,
+            "comments": 847,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "73K",
+          "caption_clean": "TITULAR Así formará nuestra Selección Colombia de Mayores para enfrentar a en su segundo partido en la Copa Mundial de la FIFA 2026. #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ8uB8XjTlj/",
+          "cover_url": "/covers/819de3ccf0b44593.jpg",
+          "extra": {
+            "likes": 73282,
+            "comments": 876,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "68K",
+          "caption_clean": "",
+          "url": "https://www.instagram.com/p/DZ68OZUNeGg/",
+          "cover_url": "/covers/6e0e06248b189741.jpg",
+          "extra": {
+            "likes": 68196,
+            "comments": 568,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "68K",
+          "caption_clean": "️ Au cœur du vestiaire des Bleus pendant la longue interruption due à l’orage. Inside the France dressing room during the lengthy weather delay caused by the thunderstorm.",
+          "url": "https://www.instagram.com/p/DZ7LR_1l2MG/",
+          "cover_url": "/covers/dbe7fda33e308f05.jpg",
+          "extra": {
+            "likes": 67528,
+            "comments": 115,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "66K",
+          "caption_clean": "#SelecciónMayor ¡Lo lindo de ser argentino!",
+          "url": "https://www.instagram.com/p/DZ8HERlGqCC/",
+          "cover_url": "/covers/af225e4e45f0d0ac.jpg",
+          "extra": {
+            "likes": 65639,
+            "comments": 200,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "49K",
+          "caption_clean": "DÍA DE LUCHAR POR EL SUEÑO Volvemos a la cancha con la ilusión intacta y el corazón de todo un país detrás️. PanamáCroacia 23 de junio 6:00 p.m. (hora de Panamá) ️ Toronto Stadium…",
+          "url": "https://www.instagram.com/p/DZ7ZL0vRGq4/",
+          "cover_url": "/covers/b15f95bce9f930b8.jpg",
+          "extra": {
+            "likes": 48824,
+            "comments": 1035,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "48K",
+          "caption_clean": "سيمبا المصري Our Egyptian Lion “Simba” #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ8OK9PIfdP/",
+          "cover_url": "/covers/c9b4b3e5149df4b1.jpg",
+          "extra": {
+            "likes": 48400,
+            "comments": 178,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "38K",
+          "caption_clean": "¡Preparándonos al más alto nivel! Ni el calor baja la intensidad. ️Con la tecnología CLIMACOOL de @adidasfootball en nuestros chalecos y cubrebotines, trabajamos para dejarlo todo…",
+          "url": "https://www.instagram.com/p/DZ8-fXnEUCI/",
+          "cover_url": "/covers/f45600a11d881fc8.jpg",
+          "extra": {
+            "likes": 38499,
+            "comments": 138,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "14.58%",
+          "caption_clean": "#VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8SoKisnXH/",
+          "cover_url": "/covers/02df70bec7896ef6.jpg",
+          "extra": {
+            "likes": 674212,
+            "comments": 7389,
+            "views": 4673666
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "South Africa",
+          "handle": "bafanabafanaofficial",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "12.33%",
+          "caption_clean": "️ Bafana Bafana vs South Korea Thursday, 25 June 2026 ​️ Monterrey Stadium, Mexico Kick-off: 03:00am SA Time SABC 1/3 & SABC+ #Fifaworldcup #BafanaPride #BafanaBafana",
+          "url": "https://www.instagram.com/p/DZ7eiG-IuPv/",
+          "cover_url": "/covers/c56baab90084a20b.jpg",
+          "extra": {
+            "likes": 14456,
+            "comments": 223,
+            "views": 119070
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Cape Verde",
+          "handle": "fcfcomunica",
+          "flag": "🇨🇻",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "10.07%",
+          "caption_clean": "Perfil Conheça um pouco os Tubarões Azuis Ianique Tavares 'Stopira' ----- #FIFAWorldCup | #FIFAWorldCup2026 | #CaboVerde | #TubarõesAzuis | #WeAreCaboVerde",
+          "url": "https://www.instagram.com/p/DZ8Z21cvknO/",
+          "cover_url": "/covers/a843325ad64c8538.jpg",
+          "extra": {
+            "likes": 9936,
+            "comments": 331,
+            "views": 101935
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "South Africa",
+          "handle": "bafanabafanaofficial",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "9.95%",
+          "caption_clean": "Touchdown in Monterrey! ️ Bafana Bafana has officially arrived and the boys are dialing in the focus. Next up: The crucial match against South Korea this Thursday! Let’s get behind…",
+          "url": "https://www.instagram.com/p/DZ6sdyTKuPM/",
+          "cover_url": "/covers/ae6db8576435763e.jpg",
+          "extra": {
+            "likes": 1027,
+            "comments": 37,
+            "views": 10690
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "VER",
+          "metric_value": "9.90%",
+          "caption_clean": "@bozamusic modo selección regalando camisetas de Panamá BIENKELO! #MareaQueLate",
+          "url": "https://www.instagram.com/p/DZ7vpEaRQ8j/",
+          "cover_url": "/covers/07f3de355cd1f083.jpg",
+          "extra": {
+            "likes": 13690,
+            "comments": 121,
+            "views": 139502
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Haiti",
+          "handle": "fhfhaiti",
+          "flag": "🇭🇹",
+          "liga": "CONCACAF",
+          "metric_label": "VER",
+          "metric_value": "9.87%",
+          "caption_clean": "Nou la!",
+          "url": "https://www.instagram.com/p/DZ8JxRHgx5j/",
+          "cover_url": "/covers/f3c7654fab0e2659.jpg",
+          "extra": {
+            "likes": 4873,
+            "comments": 252,
+            "views": 51929
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "VER",
+          "metric_value": "9.50%",
+          "caption_clean": "Mientras exista fe, el corazón de Panamá seguirá latiendo ️ #MareaQueLate",
+          "url": "https://www.instagram.com/p/DZ8HbQ3xqz5/",
+          "cover_url": "/covers/cecfe9870695057b.jpg",
+          "extra": {
+            "likes": 4962,
+            "comments": 78,
+            "views": 53045
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Cape Verde",
+          "handle": "fcfcomunica",
+          "flag": "🇨🇻",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "9.02%",
+          "caption_clean": "Perfil Conheça um pouco os Tubarões Azuis Dailon Livramento ----- #FIFAWorldCup | #FIFAWorldCup2026 | #CaboVerde | #TubarõesAzuis | #WeAreCaboVerde",
+          "url": "https://www.instagram.com/p/DZ8kcfhqdUC/",
+          "cover_url": "/covers/3a32c2c15b196c78.jpg",
+          "extra": {
+            "likes": 11968,
+            "comments": 260,
+            "views": 135529
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "8.86%",
+          "caption_clean": "حبك مختلفش اتنين عليه One thing we all agree on .. Egypt #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ8IBrZIXed/",
+          "cover_url": "/covers/cefbcf92ee17c751.jpg",
+          "extra": {
+            "likes": 14833,
+            "comments": 74,
+            "views": 168296
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "VER",
+          "metric_value": "8.85%",
+          "caption_clean": "Somos Panamá #MareaQueLate",
+          "url": "https://www.instagram.com/p/DZ8RBu3xBwK/",
+          "cover_url": "/covers/e0161aa049a38f08.jpg",
+          "extra": {
+            "likes": 8974,
+            "comments": 148,
+            "views": 103108
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Ivory Coast",
+          "handle": "fif.ci",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "8.76%",
+          "caption_clean": "Les Éléphants",
+          "url": "https://www.instagram.com/p/DZ8TdCboO_5/",
+          "cover_url": "/covers/6eff2714468fb2e8.jpg",
+          "extra": {
+            "likes": 2055,
+            "comments": 24,
+            "views": 23738
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "8.75%",
+          "caption_clean": "Levamos este símbolo ao peito com orgulho. ️‍‍ #VaiDarPortugal We wear this crest on our chests with pride. ️‍‍ #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ6lLQIipbj/",
+          "cover_url": "/covers/607d23e36c89e83b.jpg",
+          "extra": {
+            "likes": 39774,
+            "comments": 1111,
+            "views": 467003
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "8.63%",
+          "caption_clean": "️ vezes a festejar por Portugal ️‍ #VaiDarPortugal ️ goals for Portugal and we celebrate all like this ️‍ #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8P7Ediujx/",
+          "cover_url": "/covers/2ff29d655353a69c.jpg",
+          "extra": {
+            "likes": 215531,
+            "comments": 908,
+            "views": 2509369
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "VER",
+          "metric_value": "7.88%",
+          "caption_clean": "Down Under. Over There. Available now on Football Australia Shop and MLB Store.",
+          "url": "https://www.instagram.com/p/DZ8q5vST25F/",
+          "cover_url": "/covers/e5c0f10f0d5616c3.jpg",
+          "extra": {
+            "likes": 3746,
+            "comments": 24,
+            "views": 47868
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Croatia",
+          "handle": "hns_cff",
+          "flag": "🇭🇷",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "7.72%",
+          "caption_clean": "Prije početka utakmice razgledajte svlačionicu Vatrenih u Torontu! #PANCRO #WorldCup #HrabarBroj #Vatreni️‍",
+          "url": "https://www.instagram.com/p/DZ8U5OIJjlf/",
+          "cover_url": "/covers/26dce1ac80284d82.jpg",
+          "extra": {
+            "likes": 5466,
+            "comments": 40,
+            "views": 71299
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Uzbekistan",
+          "handle": "uzbekistanfa",
+          "flag": "🇺🇿",
+          "liga": "AFC",
+          "metric_label": "VER",
+          "metric_value": "7.69%",
+          "caption_clean": "#MilliyJamoa Portugaliyaga qarshi oʻyinda ishtirok etish uchun stadionga yetib keldi",
+          "url": "https://www.instagram.com/p/DZ7zgoIxPZq/",
+          "cover_url": "/covers/4c900b8066e35196.jpg",
+          "extra": {
+            "likes": 68860,
+            "comments": 2285,
+            "views": 925321
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "7.17%",
+          "caption_clean": "Kansas City, are you up for this? June 25, 10:00 AM, Power & Light District! #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ7DtnesmfM/",
+          "cover_url": "/covers/67c8c855c1d2e8f8.jpg",
+          "extra": {
+            "likes": 20520,
+            "comments": 123,
+            "views": 287759
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "6.54%",
+          "caption_clean": "أيــنــمــا ذهــبــنــا، نــجــدكــم ️ Wherever We Go, You’re There #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ8dXGcNDZS/",
+          "cover_url": "/covers/e82dd99f948dd523.jpg",
+          "extra": {
+            "likes": 48909,
+            "comments": 548,
+            "views": 755901
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Cape Verde",
+          "handle": "fcfcomunica",
+          "flag": "🇨🇻",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "6.52%",
+          "caption_clean": "Perfil Conheça um pouco os Tubarões Azuis Carlos dos Santos ----- #FIFAWorldCup | #FIFAWorldCup2026 | #CaboVerde | #TubarõesAzuis | #WeAreCaboVerde",
+          "url": "https://www.instagram.com/p/DZ7561oKYKD/",
+          "cover_url": "/covers/efb428ee5a3597d3.jpg",
+          "extra": {
+            "likes": 5396,
+            "comments": 111,
+            "views": 84412
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "6.42%",
+          "caption_clean": "#SelecciónMayor ¡¡Dale que esto sigue, che!! Seguimos sumando días de trabajo con el pase asegurado a la próxima fase de la @fifaworldcup 2026.",
+          "url": "https://www.instagram.com/p/DZ8IAd-C8MM/",
+          "cover_url": "/covers/afa8b5138fc4edc0.jpg",
+          "extra": {
+            "likes": 31343,
+            "comments": 244,
+            "views": 491812
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "674K",
+          "caption_clean": "#VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8SoKisnXH/",
+          "cover_url": "/covers/02df70bec7896ef6.jpg",
+          "extra": {
+            "likes": 674212,
+            "comments": 7389,
+            "views": 4673666
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "387K",
+          "caption_clean": "Vamos para o aquecimento #VaiDarPortugal Let’s warm up #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ73r2mMFLq/",
+          "cover_url": "/covers/d5d3799a8e23b469.jpg",
+          "extra": {
+            "likes": 386808,
+            "comments": 2651,
+            "views": 5913888
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "216K",
+          "caption_clean": "️ vezes a festejar por Portugal ️‍ #VaiDarPortugal ️ goals for Portugal and we celebrate all like this ️‍ #ItsPortugalTime",
+          "url": "https://www.instagram.com/p/DZ8P7Ediujx/",
+          "cover_url": "/covers/2ff29d655353a69c.jpg",
+          "extra": {
+            "likes": 215531,
+            "comments": 908,
+            "views": 2509369
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "185K",
+          "caption_clean": "ACHRAF HAKIMI AZZEDINE OUNAHI Nothing can wipe that smile off Hakimi’s face #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ8Tw_ztM_V/",
+          "cover_url": "/covers/9108ac6612c0d68c.jpg",
+          "extra": {
+            "likes": 185347,
+            "comments": 1722,
+            "views": 3506656
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "70K",
+          "caption_clean": "¡Llegó el equipo de todos, llegó NUESTRA SELECCIÓN COLOMBIA! #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ8vx1fjkre/",
+          "cover_url": "/covers/d3ff72853fecce2a.jpg",
+          "extra": {
+            "likes": 70268,
+            "comments": 766,
+            "views": 1120096
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Uzbekistan",
+          "handle": "uzbekistanfa",
+          "flag": "🇺🇿",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "69K",
+          "caption_clean": "#MilliyJamoa Portugaliyaga qarshi oʻyinda ishtirok etish uchun stadionga yetib keldi",
+          "url": "https://www.instagram.com/p/DZ7zgoIxPZq/",
+          "cover_url": "/covers/4c900b8066e35196.jpg",
+          "extra": {
+            "likes": 68860,
+            "comments": 2285,
+            "views": 925321
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "57K",
+          "caption_clean": "Bienvenue dans le monde des centenaire @k.mbappe Welcome to the 100 club, Kylian Mbappé.",
+          "url": "https://www.instagram.com/p/DZ7UDz1yxfK/",
+          "cover_url": "/covers/b9b81f5a66641213.jpg",
+          "extra": {
+            "likes": 57098,
+            "comments": 445,
+            "views": 1456616
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Brazil",
+          "handle": "brasil",
+          "flag": "🇧🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "54K",
+          "caption_clean": "Chegamos em Miami e fomos recebidos com todo o carinho da nossa nação verde e amarela! #BateNoPeito",
+          "url": "https://www.instagram.com/p/DZ8zoH2onSi/",
+          "cover_url": "/covers/c95db8bf8ed7bce9.jpg",
+          "extra": {
+            "likes": 53709,
+            "comments": 473,
+            "views": 990653
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Brazil",
+          "handle": "brasil",
+          "flag": "🇧🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "50K",
+          "caption_clean": "Últimos ajustes para mais uma etapa da nossa jornada! #BateNoPeito ISSO É BRASIL!",
+          "url": "https://www.instagram.com/p/DZ8CIq-Ibxg/",
+          "cover_url": "/covers/b0203370b83046fd.jpg",
+          "extra": {
+            "likes": 49605,
+            "comments": 437,
+            "views": 1640587
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "49K",
+          "caption_clean": "أيــنــمــا ذهــبــنــا، نــجــدكــم ️ Wherever We Go, You’re There #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ8dXGcNDZS/",
+          "cover_url": "/covers/e82dd99f948dd523.jpg",
+          "extra": {
+            "likes": 48909,
+            "comments": 548,
+            "views": 755901
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Germany",
+          "handle": "dfb_team",
+          "flag": "🇩🇪",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "46K",
+          "caption_clean": "#fifaworldcup #dfbteam",
+          "url": "https://www.instagram.com/p/DZ8G8SkJHEr/",
+          "cover_url": "/covers/37ae2eac76588123.jpg",
+          "extra": {
+            "likes": 45760,
+            "comments": 201,
+            "views": 1068539
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "45K",
+          "caption_clean": "¡Hoy tenemos un mensaje, de COLOMBIA para COLOMBIA con todo el ORGULLO COLOMBIANO! #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ7603_u8SR/",
+          "cover_url": "/covers/e7c5a8ca7a0aa0f9.jpg",
+          "extra": {
+            "likes": 45339,
+            "comments": 386,
+            "views": 764821
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Uzbekistan",
+          "handle": "uzbekistanfa",
+          "flag": "🇺🇿",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "42K",
+          "caption_clean": "Uchrashuv boshlanishiga oz qoldi. Kiyim almashtirish xonasi shay holatga keltirildi",
+          "url": "https://www.instagram.com/p/DZ7xHzDRbcM/",
+          "cover_url": "/covers/538a42d8757a2a78.jpg",
+          "extra": {
+            "likes": 41556,
+            "comments": 1324,
+            "views": 807868
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "42K",
+          "caption_clean": "التركيز كامل على مباراة هايتي All focus on Haiti #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ7-02pQNms/",
+          "cover_url": "/covers/c7f8ea61dd99040e.jpg",
+          "extra": {
+            "likes": 41542,
+            "comments": 641,
+            "views": 1062053
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "33K",
+          "caption_clean": "️ ¡Qué este ritmo retumbe en todo el estadio! ️ ¡Vamos Colombia! #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ8Sbk2skRH/",
+          "cover_url": "/covers/7682134ee9e08e5c.jpg",
+          "extra": {
+            "likes": 33061,
+            "comments": 337,
+            "views": 569986
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "31K",
+          "caption_clean": "#SelecciónMayor ¡¡Dale que esto sigue, che!! Seguimos sumando días de trabajo con el pase asegurado a la próxima fase de la @fifaworldcup 2026.",
+          "url": "https://www.instagram.com/p/DZ8IAd-C8MM/",
+          "cover_url": "/covers/afa8b5138fc4edc0.jpg",
+          "extra": {
+            "likes": 31343,
+            "comments": 244,
+            "views": 491812
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Brazil",
+          "handle": "brasil",
+          "flag": "🇧🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "31K",
+          "caption_clean": "Sinta a energia e a habilidade do Brasil no #FC26 Entre em campo no The World’s Game e controle cada jogada com estilo!",
+          "url": "https://www.instagram.com/p/DZ8HQvuo2y1/",
+          "cover_url": "/covers/20d0a301747efb7c.jpg",
+          "extra": {
+            "likes": 30855,
+            "comments": 151,
+            "views": 887173
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "26K",
+          "caption_clean": "Así se puso el entrenamiento previo a nuestro duelo de mañana. ️ ¡Mañana es con todo Incondicionales, porque #SomosMéxico!",
+          "url": "https://www.instagram.com/p/DZ8d-BIxM-K/",
+          "cover_url": "/covers/9f31dbca86513ed8.jpg",
+          "extra": {
+            "likes": 26493,
+            "comments": 139,
+            "views": 679046
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "26K",
+          "caption_clean": "️ “Tenía ganas de darle la vuelta a la situación y ha sido un fin de semana perfecto”. Así ha sido el finde en el que nos hemos enamorado un poquito más de @mikel10oyar. #VamosEspa…",
+          "url": "https://www.instagram.com/p/DZ68HY2RcP1/",
+          "cover_url": "/covers/478dd1316c4f3619.jpg",
+          "extra": {
+            "likes": 26072,
+            "comments": 115,
+            "views": 676848
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "25K",
+          "caption_clean": "El sueño de aquel niño que empezó en la portería hoy es una realidad mundialista. En esta #ConfesiónTricolor, @raulra_22 nos abre el corazón y comparte el orgullo, la responsabilid…",
+          "url": "https://www.instagram.com/p/DZ9DtE3RNPt/",
+          "cover_url": "/covers/9fb9f668b6849ab1.jpg",
+          "extra": {
+            "likes": 24839,
+            "comments": 325,
+            "views": 561224
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "28.20%",
+          "caption_clean": "#VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7654719427178515744",
+          "cover_url": "/covers/d1b2a01deb568ad6.jpg",
+          "extra": {
+            "likes": 233500,
+            "comments": 3450,
+            "views": 854400,
+            "shares": 4011
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "28.05%",
+          "caption_clean": "Levamos este símbolo ao peito com orgulho. ️‍‍ #VaiDarPortugal We wear this crest on our chests with pride. ️‍‍ #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7654457534471834912",
+          "cover_url": "/covers/706d5326c897c033.jpg",
+          "extra": {
+            "likes": 474800,
+            "comments": 4661,
+            "views": 1800000,
+            "shares": 25400
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "27.73%",
+          "caption_clean": "#LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7654467893979008263",
+          "cover_url": "/covers/beccc2fa79e04397.jpg",
+          "extra": {
+            "likes": 323500,
+            "comments": 4908,
+            "views": 1200000,
+            "shares": 4340
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "22.87%",
+          "caption_clean": "#LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7654456281830280455",
+          "cover_url": "/covers/39f3c017f9cfe48d.jpg",
+          "extra": {
+            "likes": 166500,
+            "comments": 2301,
+            "views": 740500,
+            "shares": 532
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Ivory Coast",
+          "handle": "equipedefootcotedivoire",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "22.72%",
+          "caption_clean": "Christ INAO OULAI et l’amour pour les caméras #pourtoi #tiktoksports #fifaworldcup #football #footballtogether",
+          "url": "https://www.tiktok.com/@equipedefootcotedivoire/video/7654564194087439649",
+          "cover_url": "/covers/0a98ace1fce33965.jpg",
+          "extra": {
+            "likes": 87800,
+            "comments": 673,
+            "views": 394900,
+            "shares": 1233
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Ghana",
+          "handle": "ghanafa",
+          "flag": "🇬🇭",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "22.70%",
+          "caption_clean": "Heading to Gillette Stadium #BlackStars #sportsontiktok",
+          "url": "https://www.tiktok.com/@ghanafa/video/7654662833610837269",
+          "cover_url": "/covers/e5183b3e5cd79cf0.jpg",
+          "extra": {
+            "likes": 21400,
+            "comments": 430,
+            "views": 97300,
+            "shares": 253
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Ivory Coast",
+          "handle": "equipedefootcotedivoire",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "22.29%",
+          "caption_clean": "Travail et concentration #pourtoi #tiktoksports #fifaworldcup #football #footballtogether",
+          "url": "https://www.tiktok.com/@equipedefootcotedivoire/video/7654680577014058272",
+          "cover_url": "/covers/a5a006b7bf7ca66c.jpg",
+          "extra": {
+            "likes": 8311,
+            "comments": 132,
+            "views": 38100,
+            "shares": 49
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "21.50%",
+          "caption_clean": "É PORTUGAL. ️‍ #VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7654613402202967328",
+          "cover_url": "/covers/b5ceb86501c966c4.jpg",
+          "extra": {
+            "likes": 90100,
+            "comments": 1178,
+            "views": 434900,
+            "shares": 2220
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "20.90%",
+          "caption_clean": "Pure joy.. Well deserved #LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7654688419808922897",
+          "cover_url": "/covers/35201a01e7cb87e4.jpg",
+          "extra": {
+            "likes": 93500,
+            "comments": 1287,
+            "views": 456600,
+            "shares": 660
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Ghana",
+          "handle": "ghanafa",
+          "flag": "🇬🇭",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "20.74%",
+          "caption_clean": "Putting in the work before the action. ENG vs GHA #BlackStars #sportsontiktok",
+          "url": "https://www.tiktok.com/@ghanafa/video/7654590210440875284",
+          "cover_url": "/covers/3ddca9e64cf41f7a.jpg",
+          "extra": {
+            "likes": 44800,
+            "comments": 491,
+            "views": 220000,
+            "shares": 342
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Ivory Coast",
+          "handle": "equipedefootcotedivoire",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "20.41%",
+          "caption_clean": "J-2 avant le dernier rendez-vous de la phase de poule #pourtoi #tiktoksports #fifaworldcup #football #footballtogether",
+          "url": "https://www.tiktok.com/@equipedefootcotedivoire/video/7654724628434275616",
+          "cover_url": "/covers/bede5d239dde2606.jpg",
+          "extra": {
+            "likes": 6706,
+            "comments": 133,
+            "views": 33600,
+            "shares": 19
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "19.31%",
+          "caption_clean": "️ Bafana Bafana vs South Korea Thursday, 25 June 2026 ​️ Monterrey Stadium, Mexico Kick-off: 03:00am SA Time SABC 1/3 & SABC+ #Fifaworldcup #BafanaPride #BafanaBafana",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7654575058999889170",
+          "cover_url": "/covers/143d05104ff46405.jpg",
+          "extra": {
+            "likes": 35600,
+            "comments": 435,
+            "views": 189300,
+            "shares": 523
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "19.20%",
+          "caption_clean": "#SelecciónMayor ¡¡Dale que esto sigue, che!! Seguimos sumando días de trabajo con el pase asegurado a la próxima fase del Mundial 2026. #FIFAWorldCup #TikTokDeportes",
+          "url": "https://www.tiktok.com/@afaseleccion/video/7654680251473104135",
+          "cover_url": "/covers/0118020183571fe7.jpg",
+          "extra": {
+            "likes": 8176,
+            "comments": 104,
+            "views": 43500,
+            "shares": 70
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Scotland",
+          "handle": "scotlandnationalteam",
+          "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "17.57%",
+          "caption_clean": "#SCOBRA #FIFAWorldCup #Scotland #Miami",
+          "url": "https://www.tiktok.com/@scotlandnationalteam/video/7654411048912571670",
+          "cover_url": "/covers/9de370542190113d.jpg",
+          "extra": {
+            "likes": 9913,
+            "comments": 61,
+            "views": 58600,
+            "shares": 321
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "17.18%",
+          "caption_clean": "Winning mood #EquipeDeFrance #WorldCup #SportsTiktok #Football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7654492622865714464",
+          "cover_url": "/covers/f3f5042ad0b30c94.jpg",
+          "extra": {
+            "likes": 59000,
+            "comments": 340,
+            "views": 348000,
+            "shares": 439
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "17.10%",
+          "caption_clean": "Todo listo para enfrentar mañana a Chequia Tuvimos nuestro último entrenamiento de fase de grupos #miseleccionmx #futbolmexicano #fifaworldcup #SomosMéxico",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7654680176617524487",
+          "cover_url": "/covers/0b1b7369e09bb84e.jpg",
+          "extra": {
+            "likes": 150200,
+            "comments": 1087,
+            "views": 908500,
+            "shares": 4108
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "16.90%",
+          "caption_clean": "LAS CRÓNICAS DE NUESTRO MUNDIAL Capítulo 2 | Arabia Saudí #VamosEspaña | #CopaMundialFIFA | #FIFAWorldCup | #España | #tiktokfootballacademy",
+          "url": "https://www.tiktok.com/@sefutbol/video/7654655070671244566",
+          "cover_url": "/covers/ab89fe62f47a8a5e.jpg",
+          "extra": {
+            "likes": 13000,
+            "comments": 141,
+            "views": 78500,
+            "shares": 125
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Croatia",
+          "handle": "hns.family",
+          "flag": "🇭🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "16.89%",
+          "caption_clean": "Poooobjeeedaaa! Jedan pogodak, tri boda, tisuću emocija! ️ #HNSfamily #Vatreni #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@hns.family/video/7654777571346779414",
+          "cover_url": "/covers/76e6cf928db86162.jpg",
+          "extra": {
+            "likes": 1117,
+            "comments": 14,
+            "views": 6768,
+            "shares": 12
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "16.52%",
+          "caption_clean": "Un Match Day -1 en la Selección Nacional de México así se vive: ¡Estamos listos! #SomosMéxico #miseleccionmx #fifaworldcup",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7654803196560395538",
+          "cover_url": "/covers/e074e7eecd715c5b.jpg",
+          "extra": {
+            "likes": 18300,
+            "comments": 200,
+            "views": 113000,
+            "shares": 171
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Haiti",
+          "handle": "fhfhaiti",
+          "flag": "🇭🇹",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "16.51%",
+          "caption_clean": "Grenadye yo te sou teren an ayè nan maten pou premye sesyon antrenman yo nan Atlanta, pandan y ap prepare dènye match faz gwoup la kont Mawòk mèkredi sa k ap rive ak fòs la. Ak anp…",
+          "url": "https://www.tiktok.com/@fhfhaiti/video/7654460299180805397",
+          "cover_url": "/covers/d0254aacf637c483.jpg",
+          "extra": {
+            "likes": 6461,
+            "comments": 164,
+            "views": 40300,
+            "shares": 29
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "475K",
+          "caption_clean": "Levamos este símbolo ao peito com orgulho. ️‍‍ #VaiDarPortugal We wear this crest on our chests with pride. ️‍‍ #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7654457534471834912",
+          "cover_url": "/covers/706d5326c897c033.jpg",
+          "extra": {
+            "likes": 474800,
+            "comments": 4661,
+            "views": 1800000,
+            "shares": 25400
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "324K",
+          "caption_clean": "#LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7654467893979008263",
+          "cover_url": "/covers/beccc2fa79e04397.jpg",
+          "extra": {
+            "likes": 323500,
+            "comments": 4908,
+            "views": 1200000,
+            "shares": 4340
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "286K",
+          "caption_clean": "#LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7654451500449631496",
+          "cover_url": "/covers/b727540c8889e05c.jpg",
+          "extra": {
+            "likes": 286000,
+            "comments": 8557,
+            "views": 1500000,
+            "shares": 7297
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "234K",
+          "caption_clean": "#VaiDarPortugal | #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7654719427178515744",
+          "cover_url": "/covers/d1b2a01deb568ad6.jpg",
+          "extra": {
+            "likes": 233500,
+            "comments": 3450,
+            "views": 854400,
+            "shares": 4011
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "166K",
+          "caption_clean": "#LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7654456281830280455",
+          "cover_url": "/covers/39f3c017f9cfe48d.jpg",
+          "extra": {
+            "likes": 166500,
+            "comments": 2301,
+            "views": 740500,
+            "shares": 532
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "150K",
+          "caption_clean": "Todo listo para enfrentar mañana a Chequia Tuvimos nuestro último entrenamiento de fase de grupos #miseleccionmx #futbolmexicano #fifaworldcup #SomosMéxico",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7654680176617524487",
+          "cover_url": "/covers/0b1b7369e09bb84e.jpg",
+          "extra": {
+            "likes": 150200,
+            "comments": 1087,
+            "views": 908500,
+            "shares": 4108
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "148K",
+          "caption_clean": "D.Deschamps 103 caps K.Mbappé 100 caps #mbappe #equipedefrance #worldcup #Football #sportstiktok",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7654552310982413600",
+          "cover_url": "/covers/efec0c62a378cdc0.jpg",
+          "extra": {
+            "likes": 147900,
+            "comments": 792,
+            "views": 938100,
+            "shares": 648
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "104K",
+          "caption_clean": "️ vezes a festejar por Portugal ️‍ #VaiDarPortugal ️ goals for Portugal and we celebrate all like this ️‍ #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7654691512340548897",
+          "cover_url": "/covers/c4ea517c6926cb4b.jpg",
+          "extra": {
+            "likes": 103700,
+            "comments": 1163,
+            "views": 521600,
+            "shares": 927
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Norway",
+          "handle": "herrelandslaget",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "89K",
+          "caption_clean": "We’re through to the knockout stage!!",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7654461345420594454",
+          "cover_url": "/covers/2ed414ee7d9b376d.jpg",
+          "extra": {
+            "likes": 89100,
+            "comments": 350,
+            "views": 1400000,
+            "shares": 427
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Ivory Coast",
+          "handle": "equipedefootcotedivoire",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "88K",
+          "caption_clean": "Christ INAO OULAI et l’amour pour les caméras #pourtoi #tiktoksports #fifaworldcup #football #footballtogether",
+          "url": "https://www.tiktok.com/@equipedefootcotedivoire/video/7654564194087439649",
+          "cover_url": "/covers/0a98ace1fce33965.jpg",
+          "extra": {
+            "likes": 87800,
+            "comments": 673,
+            "views": 394900,
+            "shares": 1233
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Norway",
+          "handle": "herrelandslaget",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "63K",
+          "caption_clean": "We might need some new cameras for the knockout stage",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7654652889230527766",
+          "cover_url": "/covers/b79257856cb5fe39.jpg",
+          "extra": {
+            "likes": 63000,
+            "comments": 195,
+            "views": 476100,
+            "shares": 2612
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "59K",
+          "caption_clean": "Winning mood #EquipeDeFrance #WorldCup #SportsTiktok #Football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7654492622865714464",
+          "cover_url": "/covers/f3f5042ad0b30c94.jpg",
+          "extra": {
+            "likes": 59000,
+            "comments": 340,
+            "views": 348000,
+            "shares": 439
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "58K",
+          "caption_clean": "ACHRAF HAKIMI AZZEDINE OUNAHI Nothing can wipe that smile off @Achraf Hakimi ’s face #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@equipedumaroc/video/7654696738946600199",
+          "cover_url": "/covers/85684c18f340cfe2.jpg",
+          "extra": {
+            "likes": 58500,
+            "comments": 897,
+            "views": 522600,
+            "shares": 1928
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "New Zealand",
+          "handle": "nz_football",
+          "flag": "🇳🇿",
+          "liga": "OFC",
+          "metric_label": "Likes",
+          "metric_value": "48K",
+          "caption_clean": "We’re coming for ya",
+          "url": "https://www.tiktok.com/@nz_football/video/7654649993478901013",
+          "cover_url": "/covers/6fd3f6e14e557b3b.jpg",
+          "extra": {
+            "likes": 48500,
+            "comments": 752,
+            "views": 714300,
+            "shares": 3385
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Ghana",
+          "handle": "ghanafa",
+          "flag": "🇬🇭",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "45K",
+          "caption_clean": "Putting in the work before the action. ENG vs GHA #BlackStars #sportsontiktok",
+          "url": "https://www.tiktok.com/@ghanafa/video/7654590210440875284",
+          "cover_url": "/covers/3ddca9e64cf41f7a.jpg",
+          "extra": {
+            "likes": 44800,
+            "comments": 491,
+            "views": 220000,
+            "shares": 342
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "36K",
+          "caption_clean": "️ Bafana Bafana vs South Korea Thursday, 25 June 2026 ​️ Monterrey Stadium, Mexico Kick-off: 03:00am SA Time SABC 1/3 & SABC+ #Fifaworldcup #BafanaPride #BafanaBafana",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7654575058999889170",
+          "cover_url": "/covers/143d05104ff46405.jpg",
+          "extra": {
+            "likes": 35600,
+            "comments": 435,
+            "views": 189300,
+            "shares": 523
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "34K",
+          "caption_clean": "حبك مختلفش اتنين عليه One thing we all agree on .. Egypt #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@egyptnt/video/7654670244450995477",
+          "cover_url": "/covers/0efe2ab507686764.jpg",
+          "extra": {
+            "likes": 34300,
+            "comments": 269,
+            "views": 235300,
+            "shares": 429
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Norway",
+          "handle": "herrelandslaget",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "34K",
+          "caption_clean": "On schedule Erling after another historical night",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7654462383854767382",
+          "cover_url": "/covers/838fce5162935f3c.jpg",
+          "extra": {
+            "likes": 33500,
+            "comments": 191,
+            "views": 343900,
+            "shares": 321
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Japan",
+          "handle": "jfa_samuraiblue",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "31K",
+          "caption_clean": "#最高の景色を #SAMURAIBLUE #FIFAWorldCup #FIFAワールドカップ",
+          "url": "https://www.tiktok.com/@jfa_samuraiblue/video/7654482265581391124",
+          "cover_url": "/covers/b0b4efdefd88213e.jpg",
+          "extra": {
+            "likes": 31100,
+            "comments": 391,
+            "views": 521800,
+            "shares": 370
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "30K",
+          "caption_clean": "Bringing confidence into our @FIFA World Cup campaign #England #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@england/video/7654412570014551298",
+          "cover_url": "/covers/82d8d5369ec29656.jpg",
+          "extra": {
+            "likes": 30300,
+            "comments": 127,
+            "views": 549700,
+            "shares": 312
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 120
+  }
+}
