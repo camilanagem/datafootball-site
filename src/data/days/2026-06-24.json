@@ -1,0 +1,1006 @@
+{
+  "date": "2026-06-24",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "2.46%",
+          "caption_clean": "Primer objetivo: Estamos en los dieciseisavos de final de la Copa Mundial de la FIFA 2026 con todo el ORGULLO COLOMBIANO #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9FebkjX3M/",
+          "cover_url": "/covers/2f12ca1531f7f31e.jpg",
+          "extra": {
+            "likes": 137727,
+            "comments": 1998,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "1.30%",
+          "caption_clean": "Y seguiremos hasta el final, con la frente en alto Gracias Panamá️ #MareaQueLate",
+          "url": "https://www.instagram.com/p/DZ9GG-uEYmE/",
+          "cover_url": "/covers/e496e87973ea871c.jpg",
+          "extra": {
+            "likes": 6398,
+            "comments": 202,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Bosnia & Herzegovina",
+          "handle": "nfsbih_official",
+          "flag": "🇧🇦",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.75%",
+          "caption_clean": "Podrška za susjede @hns_cff u utakmici sa Panamom ️",
+          "url": "https://www.instagram.com/p/DZ9OR_NDf1U/",
+          "cover_url": "/covers/e01e3d40921c4d3f.jpg",
+          "extra": {
+            "likes": 844,
+            "comments": 2,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.62%",
+          "caption_clean": "Mathew Leckie, history maker The forward notched a record 11th appearance on the world stage for the #Socceroos against the United States Hope to see you back on the pitch soon, Le…",
+          "url": "https://www.instagram.com/p/DZ9PxvOHSkC/",
+          "cover_url": "/covers/37668d969cc2faa2.jpg",
+          "extra": {
+            "likes": 3464,
+            "comments": 17,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "DR Congo",
+          "handle": "fecofadrc",
+          "flag": "🇨🇩",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "0.57%",
+          "caption_clean": "[MONDIAL 2026 | LES LÉOPARDS EN ACTION] RIEN N'EST TERMINÉ La déception est réelle, mais l'espoir est toujours vivant. Face à la Colombie, nos Léopards ont tout donné. Ils devront…",
+          "url": "https://www.instagram.com/p/DZ9HV3ICGTT/",
+          "cover_url": "/covers/79078b7ecef1bae2.jpg",
+          "extra": {
+            "likes": 1144,
+            "comments": 747,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Haiti",
+          "handle": "fhfhaiti",
+          "flag": "🇭🇹",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "0.37%",
+          "caption_clean": "Dèyè chak foto, gen èdtan sakrifis, travay ak angajman. Grenadye nou yo te sou teren an ak menm detèminasyon an, ap prepare dènye batay yo nan faz gwoup Koup di Mond lan. Pita 6è n…",
+          "url": "https://www.instagram.com/p/DZ9MzpggKQT/",
+          "cover_url": "/covers/49ff852ff0ae3455.jpg",
+          "extra": {
+            "likes": 1211,
+            "comments": 42,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.33%",
+          "caption_clean": "It’s #TUNNED in Kansas City! #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ9MoIIsQVO/",
+          "cover_url": "/covers/239286a3da66c050.jpg",
+          "extra": {
+            "likes": 10500,
+            "comments": 58,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.28%",
+          "caption_clean": "Nashville️Dallas 田中碧|塩貝健人|町野修斗|中村敬斗 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ9HuKXgf_y/",
+          "cover_url": "/covers/e22e7d68a73f8fb8.jpg",
+          "extra": {
+            "likes": 5007,
+            "comments": 24,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "0.26%",
+          "caption_clean": "¡Sí Colombia....estamos en la siguiente fase! Un escalón que superamos con todo el ORGULLO COLOMBIANO ️‍ #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9TEPDDtU7/",
+          "cover_url": "/covers/38b77e117831834f.jpg",
+          "extra": {
+            "likes": 14460,
+            "comments": 151,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.25%",
+          "caption_clean": "FIFAワールドカップ2026TM️ スウェーデン戦まであと2️⃣日 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ9GnSVAS9S/",
+          "cover_url": "/covers/bdf9b66f8d335de1.jpg",
+          "extra": {
+            "likes": 4590,
+            "comments": 9,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Iran",
+          "handle": "teammellifootball",
+          "flag": "🇮🇷",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.16%",
+          "caption_clean": ". از نخستین حضور با پیراهن تیم ملی تا رسیدن به باشگاه صدتایی‌ها، علیرضا جهانبخش نماد تعهد، تلاش و افتخار برای فوتبال ایران بوده است. سال‌ها جنگیدن برای نام ایران، حضور در بزرگ‌ترین…",
+          "url": "https://www.instagram.com/p/DZ9KMMwOPFl/",
+          "cover_url": "/covers/c3b3d1bf96524cef.jpg",
+          "extra": {
+            "likes": 2072,
+            "comments": 48,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.16%",
+          "caption_clean": "The welcome committee was ready.",
+          "url": "https://www.instagram.com/p/DZ9To59Ddgm/",
+          "cover_url": "/covers/b1a8482052284ee8.jpg",
+          "extra": {
+            "likes": 1927,
+            "comments": 12,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.14%",
+          "caption_clean": "Rondo 鈴木淳之介|長友佑都|伊藤洋輝|塩貝健人 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ9FbuxgYml/",
+          "cover_url": "/covers/c57f3b1200294462.jpg",
+          "extra": {
+            "likes": 2509,
+            "comments": 13,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Czechia",
+          "handle": "ceskarepre",
+          "flag": "🇨🇿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.11%",
+          "caption_clean": "Poslední příprava před zítřejším zápasem o všechno! #ProTenhleMoment",
+          "url": "https://www.instagram.com/p/DZ9UFrIly3m/",
+          "cover_url": "/covers/af98a727c9fede95.jpg",
+          "extra": {
+            "likes": 310,
+            "comments": 2,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.10%",
+          "caption_clean": "Gegen die Gastgeber um den Gruppensieg! Face au pays hôte pour la tête du groupe! Contro i padroni di casa per il primato nel gruppo! SRF 2, RTS 2, RSI La 2",
+          "url": "https://www.instagram.com/p/DZ9W4RIgTuW/",
+          "cover_url": "/covers/0be6bd4a4c7ec1ea.jpg",
+          "extra": {
+            "likes": 387,
+            "comments": 0,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "0.09%",
+          "caption_clean": "#HoyJugamos el último partido de la Fase de Grupos. ¡Incondicionales, estamos listos para vibrar junto a ustedes y seguir construyendo esta historia! ¡A mostrar una vez más que #So…",
+          "url": "https://www.instagram.com/p/DZ9UkKOOVzn/",
+          "cover_url": "/covers/dd0f5042bb0e6b33.jpg",
+          "extra": {
+            "likes": 7535,
+            "comments": 34,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "0.08%",
+          "caption_clean": "¡Los partidos del ! James Rodríguez sigue haciendo historia y se convierte en uno de los futbolistas con más partidos en la Copa Mundial de la FIFA con nuestra camiseta #ConOrgullo…",
+          "url": "https://www.instagram.com/p/DZ9Wc_XDjht/",
+          "cover_url": "/covers/edb5ccad6218274b.jpg",
+          "extra": {
+            "likes": 4424,
+            "comments": 42,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "0.06%",
+          "caption_clean": "لسه عايزين أكتر Still Hungry #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ9SeTXjusv/",
+          "cover_url": "/covers/430458d532b6d604.jpg",
+          "extra": {
+            "likes": 1202,
+            "comments": 19,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "South Africa",
+          "handle": "bafanabafanaofficial",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "0.06%",
+          "caption_clean": "Check out the first episode of INSIDE CAMP. A Podcast series giving insights into the Bafana Bafana camp. The first episode features Head Coach Hugo Broos live from the team hotel…",
+          "url": "https://www.instagram.com/p/DZ9Td7polcU/",
+          "cover_url": "/covers/346d378055cad72a.jpg",
+          "extra": {
+            "likes": 137,
+            "comments": 0,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.05%",
+          "caption_clean": "Pause fraîcheur version XXL That was epic! ️",
+          "url": "https://www.instagram.com/p/DZ9P31MDh8q/",
+          "cover_url": "/covers/69d0d7b995483008.jpg",
+          "extra": {
+            "likes": 9113,
+            "comments": 32,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "138K",
+          "caption_clean": "Primer objetivo: Estamos en los dieciseisavos de final de la Copa Mundial de la FIFA 2026 con todo el ORGULLO COLOMBIANO #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9FebkjX3M/",
+          "cover_url": "/covers/2f12ca1531f7f31e.jpg",
+          "extra": {
+            "likes": 137727,
+            "comments": 1998,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "14K",
+          "caption_clean": "¡Sí Colombia....estamos en la siguiente fase! Un escalón que superamos con todo el ORGULLO COLOMBIANO ️‍ #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9TEPDDtU7/",
+          "cover_url": "/covers/38b77e117831834f.jpg",
+          "extra": {
+            "likes": 14460,
+            "comments": 151,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "10K",
+          "caption_clean": "It’s #TUNNED in Kansas City! #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ9MoIIsQVO/",
+          "cover_url": "/covers/239286a3da66c050.jpg",
+          "extra": {
+            "likes": 10500,
+            "comments": 58,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "9K",
+          "caption_clean": "Pause fraîcheur version XXL That was epic! ️",
+          "url": "https://www.instagram.com/p/DZ9P31MDh8q/",
+          "cover_url": "/covers/69d0d7b995483008.jpg",
+          "extra": {
+            "likes": 9113,
+            "comments": 32,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "8K",
+          "caption_clean": "#HoyJugamos el último partido de la Fase de Grupos. ¡Incondicionales, estamos listos para vibrar junto a ustedes y seguir construyendo esta historia! ¡A mostrar una vez más que #So…",
+          "url": "https://www.instagram.com/p/DZ9UkKOOVzn/",
+          "cover_url": "/covers/dd0f5042bb0e6b33.jpg",
+          "extra": {
+            "likes": 7535,
+            "comments": 34,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Panama",
+          "handle": "fepafut",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "6K",
+          "caption_clean": "Y seguiremos hasta el final, con la frente en alto Gracias Panamá️ #MareaQueLate",
+          "url": "https://www.instagram.com/p/DZ9GG-uEYmE/",
+          "cover_url": "/covers/e496e87973ea871c.jpg",
+          "extra": {
+            "likes": 6398,
+            "comments": 202,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "5K",
+          "caption_clean": "Nashville️Dallas 田中碧|塩貝健人|町野修斗|中村敬斗 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ9HuKXgf_y/",
+          "cover_url": "/covers/e22e7d68a73f8fb8.jpg",
+          "extra": {
+            "likes": 5007,
+            "comments": 24,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "5K",
+          "caption_clean": "FIFAワールドカップ2026TM️ スウェーデン戦まであと2️⃣日 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ9GnSVAS9S/",
+          "cover_url": "/covers/bdf9b66f8d335de1.jpg",
+          "extra": {
+            "likes": 4590,
+            "comments": 9,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "¡Los partidos del ! James Rodríguez sigue haciendo historia y se convierte en uno de los futbolistas con más partidos en la Copa Mundial de la FIFA con nuestra camiseta #ConOrgullo…",
+          "url": "https://www.instagram.com/p/DZ9Wc_XDjht/",
+          "cover_url": "/covers/edb5ccad6218274b.jpg",
+          "extra": {
+            "likes": 4424,
+            "comments": 42,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "3K",
+          "caption_clean": "Mathew Leckie, history maker The forward notched a record 11th appearance on the world stage for the #Socceroos against the United States Hope to see you back on the pitch soon, Le…",
+          "url": "https://www.instagram.com/p/DZ9PxvOHSkC/",
+          "cover_url": "/covers/37668d969cc2faa2.jpg",
+          "extra": {
+            "likes": 3464,
+            "comments": 17,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "3K",
+          "caption_clean": "Rondo 鈴木淳之介|長友佑都|伊藤洋輝|塩貝健人 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ9FbuxgYml/",
+          "cover_url": "/covers/c57f3b1200294462.jpg",
+          "extra": {
+            "likes": 2509,
+            "comments": 13,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Iran",
+          "handle": "teammellifootball",
+          "flag": "🇮🇷",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "2K",
+          "caption_clean": ". از نخستین حضور با پیراهن تیم ملی تا رسیدن به باشگاه صدتایی‌ها، علیرضا جهانبخش نماد تعهد، تلاش و افتخار برای فوتبال ایران بوده است. سال‌ها جنگیدن برای نام ایران، حضور در بزرگ‌ترین…",
+          "url": "https://www.instagram.com/p/DZ9KMMwOPFl/",
+          "cover_url": "/covers/c3b3d1bf96524cef.jpg",
+          "extra": {
+            "likes": 2072,
+            "comments": 48,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "2K",
+          "caption_clean": "The welcome committee was ready.",
+          "url": "https://www.instagram.com/p/DZ9To59Ddgm/",
+          "cover_url": "/covers/b1a8482052284ee8.jpg",
+          "extra": {
+            "likes": 1927,
+            "comments": 12,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Haiti",
+          "handle": "fhfhaiti",
+          "flag": "🇭🇹",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "1K",
+          "caption_clean": "Dèyè chak foto, gen èdtan sakrifis, travay ak angajman. Grenadye nou yo te sou teren an ak menm detèminasyon an, ap prepare dènye batay yo nan faz gwoup Koup di Mond lan. Pita 6è n…",
+          "url": "https://www.instagram.com/p/DZ9MzpggKQT/",
+          "cover_url": "/covers/49ff852ff0ae3455.jpg",
+          "extra": {
+            "likes": 1211,
+            "comments": 42,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "1K",
+          "caption_clean": "لسه عايزين أكتر Still Hungry #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ9SeTXjusv/",
+          "cover_url": "/covers/430458d532b6d604.jpg",
+          "extra": {
+            "likes": 1202,
+            "comments": 19,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "DR Congo",
+          "handle": "fecofadrc",
+          "flag": "🇨🇩",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "1K",
+          "caption_clean": "[MONDIAL 2026 | LES LÉOPARDS EN ACTION] RIEN N'EST TERMINÉ La déception est réelle, mais l'espoir est toujours vivant. Face à la Colombie, nos Léopards ont tout donné. Ils devront…",
+          "url": "https://www.instagram.com/p/DZ9HV3ICGTT/",
+          "cover_url": "/covers/79078b7ecef1bae2.jpg",
+          "extra": {
+            "likes": 1144,
+            "comments": 747,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "899",
+          "caption_clean": "بدأنا شُغل لآخر ماتش في المجموعة Gearing up for our last group game #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ9SQ_Wjj_2/",
+          "cover_url": "/covers/d0783430c1ea4eb5.jpg",
+          "extra": {
+            "likes": 899,
+            "comments": 13,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Bosnia & Herzegovina",
+          "handle": "nfsbih_official",
+          "flag": "🇧🇦",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "844",
+          "caption_clean": "Podrška za susjede @hns_cff u utakmici sa Panamom ️",
+          "url": "https://www.instagram.com/p/DZ9OR_NDf1U/",
+          "cover_url": "/covers/e01e3d40921c4d3f.jpg",
+          "extra": {
+            "likes": 844,
+            "comments": 2,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "387",
+          "caption_clean": "Gegen die Gastgeber um den Gruppensieg! Face au pays hôte pour la tête du groupe! Contro i padroni di casa per il primato nel gruppo! SRF 2, RTS 2, RSI La 2",
+          "url": "https://www.instagram.com/p/DZ9W4RIgTuW/",
+          "cover_url": "/covers/0be6bd4a4c7ec1ea.jpg",
+          "extra": {
+            "likes": 387,
+            "comments": 0,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Czechia",
+          "handle": "ceskarepre",
+          "flag": "🇨🇿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "310",
+          "caption_clean": "Poslední příprava před zítřejším zápasem o všechno! #ProTenhleMoment",
+          "url": "https://www.instagram.com/p/DZ9UFrIly3m/",
+          "cover_url": "/covers/af98a727c9fede95.jpg",
+          "extra": {
+            "likes": 310,
+            "comments": 2,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "11.37%",
+          "caption_clean": "¡El segundo grito MUNDIAL de Dani, nos llenó de orgullo! ‍ Así se vivió este gran MOMENTO #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9Vh3EOc6L/",
+          "cover_url": "/covers/b1e8c8c286411193.jpg",
+          "extra": {
+            "likes": 6808,
+            "comments": 65,
+            "views": 60465
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "10.29%",
+          "caption_clean": "¡El que es caballero, repite! ️ Daniel Muñoz portó con orgullo y tenacidad la camiseta de nuestra Selección Colombia. #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9KbHjtYeQ/",
+          "cover_url": "/covers/5e756a884825d670.jpg",
+          "extra": {
+            "likes": 54591,
+            "comments": 817,
+            "views": 538321
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "7.73%",
+          "caption_clean": "Back in camp after the most important assist of his life. ️",
+          "url": "https://www.instagram.com/p/DZ9Q5L0KfzJ/",
+          "cover_url": "/covers/aef95e90f4998fc1.jpg",
+          "extra": {
+            "likes": 12046,
+            "comments": 76,
+            "views": 156916
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Paraguay",
+          "handle": "albirroja",
+          "flag": "🇵🇾",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "4.18%",
+          "caption_clean": "Un paso más hacia el gran desafío La #Albirroja ️ completó una nueva jornada de preparación en San José y continúa enfocada en el desafío que definirá su futuro en la fase de grupo…",
+          "url": "https://www.instagram.com/p/DZ9FrLbMJey/",
+          "cover_url": "/covers/7469371df1569ecb.jpg",
+          "extra": {
+            "likes": 974,
+            "comments": 18,
+            "views": 23736
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "VER",
+          "metric_value": "2.48%",
+          "caption_clean": "A wholesome experience for some of our youngest #Socceroos fans at yesterday’s open training Thank you to FA+ members and partners for your support ahead of Friday’s (AEST) big #FI…",
+          "url": "https://www.instagram.com/p/DZ9JOHzJJjp/",
+          "cover_url": "/covers/41c3d41ceda754d9.jpg",
+          "extra": {
+            "likes": 249,
+            "comments": 1,
+            "views": 10083
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "VER",
+          "metric_value": "1.85%",
+          "caption_clean": "Hay sueños que se cumplen trabajando. Hay sueños que se defienden dejando el alma. ️ @sanchezjorgie4 sigue escribiendo su historia con México, con entrega, orgullo y pasión por est…",
+          "url": "https://www.instagram.com/p/DZ9HbUSRFrN/",
+          "cover_url": "/covers/13bde30ade541260.jpg",
+          "extra": {
+            "likes": 4218,
+            "comments": 33,
+            "views": 229906
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "55K",
+          "caption_clean": "¡El que es caballero, repite! ️ Daniel Muñoz portó con orgullo y tenacidad la camiseta de nuestra Selección Colombia. #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9KbHjtYeQ/",
+          "cover_url": "/covers/5e756a884825d670.jpg",
+          "extra": {
+            "likes": 54591,
+            "comments": 817,
+            "views": 538321
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "12K",
+          "caption_clean": "Back in camp after the most important assist of his life. ️",
+          "url": "https://www.instagram.com/p/DZ9Q5L0KfzJ/",
+          "cover_url": "/covers/aef95e90f4998fc1.jpg",
+          "extra": {
+            "likes": 12046,
+            "comments": 76,
+            "views": 156916
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "7K",
+          "caption_clean": "¡El segundo grito MUNDIAL de Dani, nos llenó de orgullo! ‍ Así se vivió este gran MOMENTO #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ9Vh3EOc6L/",
+          "cover_url": "/covers/b1e8c8c286411193.jpg",
+          "extra": {
+            "likes": 6808,
+            "comments": 65,
+            "views": 60465
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "Hay sueños que se cumplen trabajando. Hay sueños que se defienden dejando el alma. ️ @sanchezjorgie4 sigue escribiendo su historia con México, con entrega, orgullo y pasión por est…",
+          "url": "https://www.instagram.com/p/DZ9HbUSRFrN/",
+          "cover_url": "/covers/13bde30ade541260.jpg",
+          "extra": {
+            "likes": 4218,
+            "comments": 33,
+            "views": 229906
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Paraguay",
+          "handle": "albirroja",
+          "flag": "🇵🇾",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "974",
+          "caption_clean": "Un paso más hacia el gran desafío La #Albirroja ️ completó una nueva jornada de preparación en San José y continúa enfocada en el desafío que definirá su futuro en la fase de grupo…",
+          "url": "https://www.instagram.com/p/DZ9FrLbMJey/",
+          "cover_url": "/covers/7469371df1569ecb.jpg",
+          "extra": {
+            "likes": 974,
+            "comments": 18,
+            "views": 23736
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "249",
+          "caption_clean": "A wholesome experience for some of our youngest #Socceroos fans at yesterday’s open training Thank you to FA+ members and partners for your support ahead of Friday’s (AEST) big #FI…",
+          "url": "https://www.instagram.com/p/DZ9JOHzJJjp/",
+          "cover_url": "/covers/41c3d41ceda754d9.jpg",
+          "extra": {
+            "likes": 249,
+            "comments": 1,
+            "views": 10083
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncolombia",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "22.84%",
+          "caption_clean": "¡El que es caballero, repite! ️ Daniel Muñoz portó con orgullo y tenacidad la camiseta de nuestra Selección Colombia. #ConOrgulloColombiano #FIFAWorldCup #TikTokDeportes",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7654819255870917906",
+          "cover_url": "/covers/a80d153de6f745b2.jpg",
+          "extra": {
+            "likes": 31700,
+            "comments": 515,
+            "views": 156000,
+            "shares": 3409
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "18.05%",
+          "caption_clean": "El sueño de aquel niño que empezó en la portería hoy es una realidad mundialista. En esta #ConfesiónTricolor, el ‘Tala’ Rangel nos abre el corazón y comparte el orgullo, la respons…",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7654813701639392520",
+          "cover_url": "/covers/1686f6325ae2ce9f.jpg",
+          "extra": {
+            "likes": 19000,
+            "comments": 329,
+            "views": 109300,
+            "shares": 403
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncolombia",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "32K",
+          "caption_clean": "¡El que es caballero, repite! ️ Daniel Muñoz portó con orgullo y tenacidad la camiseta de nuestra Selección Colombia. #ConOrgulloColombiano #FIFAWorldCup #TikTokDeportes",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7654819255870917906",
+          "cover_url": "/covers/a80d153de6f745b2.jpg",
+          "extra": {
+            "likes": 31700,
+            "comments": 515,
+            "views": 156000,
+            "shares": 3409
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "19K",
+          "caption_clean": "El sueño de aquel niño que empezó en la portería hoy es una realidad mundialista. En esta #ConfesiónTricolor, el ‘Tala’ Rangel nos abre el corazón y comparte el orgullo, la respons…",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7654813701639392520",
+          "cover_url": "/covers/1686f6325ae2ce9f.jpg",
+          "extra": {
+            "likes": 19000,
+            "comments": 329,
+            "views": 109300,
+            "shares": 403
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 56
+  }
+}
