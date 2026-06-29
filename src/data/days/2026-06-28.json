@@ -1,0 +1,960 @@
+{
+  "date": "2026-06-28",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "2.79%",
+          "caption_clean": "The #FIFAWorldCup Round of 32 is set #Socceroos",
+          "url": "https://www.instagram.com/p/DaHY4t_IM9Y/",
+          "cover_url": "/covers/2034f0e86de03cc4.jpg",
+          "extra": {
+            "likes": 15537,
+            "comments": 108,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "1.01%",
+          "caption_clean": "#FIFAWorldCup #Argentina 3 (Giovani Lo Celso, Lautaro Martínez -p- y Lionel #Messi) #Jordania 1 (Mousa Altamari) ¡Final del partido! Nos vemos el próximo viernes en el duelo ante #…",
+          "url": "https://www.instagram.com/p/DaHYnn2jd65/",
+          "cover_url": "/covers/09094e37da33d1df.jpg",
+          "extra": {
+            "likes": 157463,
+            "comments": 699,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "0.61%",
+          "caption_clean": "El arte de lo imposible, contado en fotos ️",
+          "url": "https://www.instagram.com/p/DaHbm3UjQe8/",
+          "cover_url": "/covers/fc6853867911c600.jpg",
+          "extra": {
+            "likes": 95043,
+            "comments": 412,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "0.56%",
+          "caption_clean": "La unión hace la fuerza Este equipo lo demuestra en cada partido.",
+          "url": "https://www.instagram.com/p/DaHaL2XjQak/",
+          "cover_url": "/covers/29b36605499c20fb.jpg",
+          "extra": {
+            "likes": 86672,
+            "comments": 441,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.49%",
+          "caption_clean": "上田綺世×谷口彰悟×田中碧 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DaHZYtMB9OK/",
+          "cover_url": "/covers/6231da8cfdb29dfa.jpg",
+          "extra": {
+            "likes": 8816,
+            "comments": 54,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "DR Congo",
+          "handle": "fecofadrc",
+          "flag": "🇨🇩",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "0.48%",
+          "caption_clean": "[MONDIAL 2026 | LES LÉOPARDS EN ACTION] UNE SOIRÉE QUI RESTERA GRAVÉE DANS NOS MÉMOIRES Des regards remplis de détermination. Des duels remportés. Des buts décisifs. Une explosion…",
+          "url": "https://www.instagram.com/p/DaHlCQniCtd/",
+          "cover_url": "/covers/f4a3bce61f3bba87.jpg",
+          "extra": {
+            "likes": 1568,
+            "comments": 42,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "157K",
+          "caption_clean": "#FIFAWorldCup #Argentina 3 (Giovani Lo Celso, Lautaro Martínez -p- y Lionel #Messi) #Jordania 1 (Mousa Altamari) ¡Final del partido! Nos vemos el próximo viernes en el duelo ante #…",
+          "url": "https://www.instagram.com/p/DaHYnn2jd65/",
+          "cover_url": "/covers/09094e37da33d1df.jpg",
+          "extra": {
+            "likes": 157463,
+            "comments": 699,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "95K",
+          "caption_clean": "El arte de lo imposible, contado en fotos ️",
+          "url": "https://www.instagram.com/p/DaHbm3UjQe8/",
+          "cover_url": "/covers/fc6853867911c600.jpg",
+          "extra": {
+            "likes": 95043,
+            "comments": 412,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "87K",
+          "caption_clean": "La unión hace la fuerza Este equipo lo demuestra en cada partido.",
+          "url": "https://www.instagram.com/p/DaHaL2XjQak/",
+          "cover_url": "/covers/29b36605499c20fb.jpg",
+          "extra": {
+            "likes": 86672,
+            "comments": 441,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "16K",
+          "caption_clean": "The #FIFAWorldCup Round of 32 is set #Socceroos",
+          "url": "https://www.instagram.com/p/DaHY4t_IM9Y/",
+          "cover_url": "/covers/2034f0e86de03cc4.jpg",
+          "extra": {
+            "likes": 15537,
+            "comments": 108,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "9K",
+          "caption_clean": "上田綺世×谷口彰悟×田中碧 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DaHZYtMB9OK/",
+          "cover_url": "/covers/6231da8cfdb29dfa.jpg",
+          "extra": {
+            "likes": 8816,
+            "comments": 54,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "DR Congo",
+          "handle": "fecofadrc",
+          "flag": "🇨🇩",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "2K",
+          "caption_clean": "[MONDIAL 2026 | LES LÉOPARDS EN ACTION] UNE SOIRÉE QUI RESTERA GRAVÉE DANS NOS MÉMOIRES Des regards remplis de détermination. Des duels remportés. Des buts décisifs. Une explosion…",
+          "url": "https://www.instagram.com/p/DaHlCQniCtd/",
+          "cover_url": "/covers/f4a3bce61f3bba87.jpg",
+          "extra": {
+            "likes": 1568,
+            "comments": 42,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "29.32%",
+          "caption_clean": "#LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7656300163991883026",
+          "cover_url": "/covers/e83e18270e0f671b.jpg",
+          "extra": {
+            "likes": 48700,
+            "comments": 1194,
+            "views": 172200,
+            "shares": 593
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Colombia",
+          "handle": "fcfseleccioncolombia",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "27.45%",
+          "caption_clean": "El fútbol se juega con once... pero se vive con millones. ️ #ConOrgulloColombiano",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7656593846284930324",
+          "cover_url": "/covers/8a7f0ea17bc6d27f.jpg",
+          "extra": {
+            "likes": 49200,
+            "comments": 604,
+            "views": 186600,
+            "shares": 1421
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "24.81%",
+          "caption_clean": "#LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7656291562791374087",
+          "cover_url": "/covers/ff6a65040af1abc9.jpg",
+          "extra": {
+            "likes": 61700,
+            "comments": 2235,
+            "views": 263400,
+            "shares": 1408
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "24.50%",
+          "caption_clean": "El arte de capturar a la Selección española. Óleo sobre lienzo. #VamosEspaña | #CopaMundialFIFA | #FIFAWorldCup | #tiktokfootballacademy | #España",
+          "url": "https://www.tiktok.com/@sefutbol/video/7656432308727074070",
+          "cover_url": "/covers/0f1c9c85c8daa871.jpg",
+          "extra": {
+            "likes": 19700,
+            "comments": 214,
+            "views": 82100,
+            "shares": 200
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Ivory Coast",
+          "handle": "equipedefootcotedivoire",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "24.08%",
+          "caption_clean": "L’accueil a été incroyable #fifaworldcup #pourtoi #football #footballtogether #tiktoksports",
+          "url": "https://www.tiktok.com/@equipedefootcotedivoire/video/7656615819346054432",
+          "cover_url": "/covers/d57c23101c0167f8.jpg",
+          "extra": {
+            "likes": 2993,
+            "comments": 41,
+            "views": 12700,
+            "shares": 24
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Ivory Coast",
+          "handle": "equipedefootcotedivoire",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "23.96%",
+          "caption_clean": "COTE D'IVOIRE X NORVÈGE Date : 30 Juin 2026 HEURE: 17H 00 Ville : Dallas Les Eléphants #fifaworldcup #pourtoi #football #footballtogether #tiktoksports",
+          "url": "https://www.tiktok.com/@equipedefootcotedivoire/video/7656489484460035361",
+          "cover_url": "/covers/f99f3c56da148fff.jpg",
+          "extra": {
+            "likes": 7532,
+            "comments": 94,
+            "views": 31900,
+            "shares": 17
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "23.68%",
+          "caption_clean": "استقبال مميز من جماهير الخضر للاعبينا لدى عودتهم إلى الفندق Your passion.. Our motivation #LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7656352484624960786",
+          "cover_url": "/covers/b998b2859c228a8f.jpg",
+          "extra": {
+            "likes": 157400,
+            "comments": 2014,
+            "views": 686300,
+            "shares": 3074
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "22.09%",
+          "caption_clean": "​These are more than just songs. Gwijo is our spiritual armor. ️ connects us, fuels us, and reminds us exactly who we are. Bafana Bafana carrying the spirit of the whole nation int…",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7656386631028575495",
+          "cover_url": "/covers/7547cf2dd2ae3adc.jpg",
+          "extra": {
+            "likes": 139900,
+            "comments": 2740,
+            "views": 653200,
+            "shares": 1628
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "20.48%",
+          "caption_clean": "Pensando y viendo las estrellas pregunté... #MiSeleccionMx",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7656298951284411655",
+          "cover_url": "/covers/582e0c3176b4cdf6.jpg",
+          "extra": {
+            "likes": 17300,
+            "comments": 400,
+            "views": 87600,
+            "shares": 241
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "19.71%",
+          "caption_clean": "The quiet before the storm... ️ Bafana Bafana vs Canada Sunday, 28 June 2026 ​️ Los Angeles Stadium Kick-off: 21:00pm SA Time SABC 1/3 & SABC+ #Fifaworldcup #BafanaPride #BafanaBaf…",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7656496853747256583",
+          "cover_url": "/covers/e98c5504c0e08199.jpg",
+          "extra": {
+            "likes": 41700,
+            "comments": 755,
+            "views": 219100,
+            "shares": 739
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "19.46%",
+          "caption_clean": "Estamos a días de nuestro partido de #16vos del mundial y sigue la preparación con todo #miseleccionmx #futbolmexicano #fifaworldcup",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7656582067920309512",
+          "cover_url": "/covers/46711640c971ad60.jpg",
+          "extra": {
+            "likes": 71100,
+            "comments": 1125,
+            "views": 377900,
+            "shares": 1303
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "18.65%",
+          "caption_clean": "Diogo MVP Costa. ‍️ #FIFAWorldCup#VaiDarPortugalal | #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7656590519077702944",
+          "cover_url": "/covers/2df21ff70c5d7a1d.jpg",
+          "extra": {
+            "likes": 34100,
+            "comments": 385,
+            "views": 187100,
+            "shares": 416
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Haiti",
+          "handle": "fhfhaiti",
+          "flag": "🇭🇹",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "18.53%",
+          "caption_clean": "Pafwa, rezilta a pa rive montre tout sa yon ekip pote nan kè li. Jodi a, se pa sèlman yon diskou n ap pataje. Se pawòl yon moun ki te viv chak etap ak Grenadye yo, ki te wè sakrifi…",
+          "url": "https://www.tiktok.com/@fhfhaiti/video/7656572607516511508",
+          "cover_url": "/covers/13a0801a0b6ce73e.jpg",
+          "extra": {
+            "likes": 9929,
+            "comments": 206,
+            "views": 55900,
+            "shares": 225
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "17.84%",
+          "caption_clean": "Único ️ #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@onsoranje/video/7656653055093509408",
+          "cover_url": "/covers/056a9339e48b5c43.jpg",
+          "extra": {
+            "likes": 5021,
+            "comments": 73,
+            "views": 30200,
+            "shares": 293
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "17.25%",
+          "caption_clean": "Bafana Bafana does their pitch inspection and first training session at the Los Angeles Stadium ahead of their match tonight against Canada at 21:00 (SA Time). Let's gooooo Mzansi…",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7656324906585427208",
+          "cover_url": "/covers/148e54dbbac69958.jpg",
+          "extra": {
+            "likes": 23500,
+            "comments": 430,
+            "views": 139700,
+            "shares": 163
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "17.22%",
+          "caption_clean": "CanceloTM️ #FIFAWorldCup#VaiDarPortugalal | #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7656638961275637025",
+          "cover_url": "/covers/828fd6123ad2d8da.jpg",
+          "extra": {
+            "likes": 45000,
+            "comments": 758,
+            "views": 270400,
+            "shares": 802
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Croatia",
+          "handle": "hns.family",
+          "flag": "🇭🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "17.15%",
+          "caption_clean": "️ #HNSfamily #Vatreni #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@hns.family/video/7656581465899060513",
+          "cover_url": "/covers/b043756f09ece08d.jpg",
+          "extra": {
+            "likes": 1157,
+            "comments": 23,
+            "views": 6972,
+            "shares": 16
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Belgium",
+          "handle": "royalbelgianfa",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "17.00%",
+          "caption_clean": "Leandro's second in pictures.",
+          "url": "https://www.tiktok.com/@royalbelgianfa/video/7656384503841148192",
+          "cover_url": "/covers/1bed533b26c82a13.jpg",
+          "extra": {
+            "likes": 4242,
+            "comments": 66,
+            "views": 25500,
+            "shares": 26
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Ivory Coast",
+          "handle": "equipedefootcotedivoire",
+          "flag": "🇨🇮",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "16.98%",
+          "caption_clean": "#fifaworldcup #pourtoi #football #footballtogether #tiktoksports",
+          "url": "https://www.tiktok.com/@equipedefootcotedivoire/video/7656617717838925088",
+          "cover_url": "/covers/aec036f8ce7b5164.jpg",
+          "extra": {
+            "likes": 938,
+            "comments": 25,
+            "views": 5678,
+            "shares": 1
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Panama",
+          "handle": "fepafutpa",
+          "flag": "🇵🇦",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "16.64%",
+          "caption_clean": "Una marea que nunca dejará de latir ️ Gracias por estar siempre con Panamá. Gracias afición ️ #MareaQueLate #tiktokdeportes #fifaworldcup",
+          "url": "https://www.tiktok.com/@fepafutpa/video/7656488579924774151",
+          "cover_url": "/covers/c59d4c75b341bf6b.jpg",
+          "extra": {
+            "likes": 1093,
+            "comments": 46,
+            "views": 6976,
+            "shares": 22
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "388K",
+          "caption_clean": "كلمات قائد المنتخب الوطني رياض محرز قبل انطلاق المواجهة أمام منتخب النمسا #LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7656569771353197831",
+          "cover_url": "/covers/d8d1e557ad1e4299.jpg",
+          "extra": {
+            "likes": 388300,
+            "comments": 6484,
+            "views": 2300000,
+            "shares": 27200
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "280K",
+          "caption_clean": "Together, we celebrate #LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7656328702392847624",
+          "cover_url": "/covers/3a4c94992435e592.jpg",
+          "extra": {
+            "likes": 280400,
+            "comments": 3540,
+            "views": 1300000,
+            "shares": 2670
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Algeria",
+          "handle": "lesverts.faf",
+          "flag": "🇩🇿",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "157K",
+          "caption_clean": "استقبال مميز من جماهير الخضر للاعبينا لدى عودتهم إلى الفندق Your passion.. Our motivation #LesVerts ⭐️⭐️ | #123VivaLAlgérie | #WorldCup2026 | #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@lesverts.faf/video/7656352484624960786",
+          "cover_url": "/covers/b998b2859c228a8f.jpg",
+          "extra": {
+            "likes": 157400,
+            "comments": 2014,
+            "views": 686300,
+            "shares": 3074
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "140K",
+          "caption_clean": "​These are more than just songs. Gwijo is our spiritual armor. ️ connects us, fuels us, and reminds us exactly who we are. Bafana Bafana carrying the spirit of the whole nation int…",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7656386631028575495",
+          "cover_url": "/covers/7547cf2dd2ae3adc.jpg",
+          "extra": {
+            "likes": 139900,
+            "comments": 2740,
+            "views": 653200,
+            "shares": 1628
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "118K",
+          "caption_clean": "A true love story #olise #konate #equipedefrance #worldcup #sportstiktok",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7656370241479445792",
+          "cover_url": "/covers/4fde9a426ddd35b3.jpg",
+          "extra": {
+            "likes": 118100,
+            "comments": 527,
+            "views": 840800,
+            "shares": 2660
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "72K",
+          "caption_clean": "مين اللي جاي ؟ #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@egyptnt/video/7656479190891482376",
+          "cover_url": "/covers/471839b472f01b40.jpg",
+          "extra": {
+            "likes": 71900,
+            "comments": 669,
+            "views": 464300,
+            "shares": 2178
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "71K",
+          "caption_clean": "Estamos a días de nuestro partido de #16vos del mundial y sigue la preparación con todo #miseleccionmx #futbolmexicano #fifaworldcup",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7656582067920309512",
+          "cover_url": "/covers/46711640c971ad60.jpg",
+          "extra": {
+            "likes": 71100,
+            "comments": 1125,
+            "views": 377900,
+            "shares": 1303
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "60K",
+          "caption_clean": "Our forwards are always putting in the work #training#EquipeDeFrance #SportsTiktok #Football #WorldCup",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7656541381774691616",
+          "cover_url": "/covers/112f60af49b0028e.jpg",
+          "extra": {
+            "likes": 60500,
+            "comments": 359,
+            "views": 470000,
+            "shares": 659
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "60K",
+          "caption_clean": "MATCH DAY!! ️ Bafana Bafana vs Canada Sunday, 28 June 2026 ​️ Los Angeles Stadium Kick-off: 21:00pm SA Time SABC 1/3 & SABC+ #Fifaworldcup #BafanaPride #BafanaBafana",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7656352030096657671",
+          "cover_url": "/covers/854c6efd3f541dfe.jpg",
+          "extra": {
+            "likes": 60300,
+            "comments": 1337,
+            "views": 477200,
+            "shares": 2279
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Colombia",
+          "handle": "fcfseleccioncolombia",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "49K",
+          "caption_clean": "El fútbol se juega con once... pero se vive con millones. ️ #ConOrgulloColombiano",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7656593846284930324",
+          "cover_url": "/covers/8a7f0ea17bc6d27f.jpg",
+          "extra": {
+            "likes": 49200,
+            "comments": 604,
+            "views": 186600,
+            "shares": 1421
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "45K",
+          "caption_clean": "CanceloTM️ #FIFAWorldCup#VaiDarPortugalal | #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7656638961275637025",
+          "cover_url": "/covers/828fd6123ad2d8da.jpg",
+          "extra": {
+            "likes": 45000,
+            "comments": 758,
+            "views": 270400,
+            "shares": 802
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Austria",
+          "handle": "oefb1904",
+          "flag": "🇦🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "43K",
+          "caption_clean": "„Strada del Sole“ by the Austrian Nationalteam! #FIFAWorldCup #Austria",
+          "url": "https://www.tiktok.com/@oefb1904/video/7656371162926173462",
+          "cover_url": "/covers/b0d7b97b371a59ec.jpg",
+          "extra": {
+            "likes": 43000,
+            "comments": 378,
+            "views": 348300,
+            "shares": 2901
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "43K",
+          "caption_clean": "No me espanté, lo aseguro #miseleccionmx #fidalgo #futbolmexico #4tapared",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7656624397477842194",
+          "cover_url": "/covers/16f0edc27c5384a3.jpg",
+          "extra": {
+            "likes": 42600,
+            "comments": 251,
+            "views": 285300,
+            "shares": 694
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "South Africa",
+          "handle": "bafanabafana",
+          "flag": "🇿🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "42K",
+          "caption_clean": "The quiet before the storm... ️ Bafana Bafana vs Canada Sunday, 28 June 2026 ​️ Los Angeles Stadium Kick-off: 21:00pm SA Time SABC 1/3 & SABC+ #Fifaworldcup #BafanaPride #BafanaBaf…",
+          "url": "https://www.tiktok.com/@bafanabafana/video/7656496853747256583",
+          "cover_url": "/covers/e98c5504c0e08199.jpg",
+          "extra": {
+            "likes": 41700,
+            "comments": 755,
+            "views": 219100,
+            "shares": 739
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "41K",
+          "caption_clean": "Dec How many windows does the Empire State Building have? #England #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@england/video/7656546466428751126",
+          "cover_url": "/covers/bdbd4853e269069b.jpg",
+          "extra": {
+            "likes": 41000,
+            "comments": 127,
+            "views": 322500,
+            "shares": 363
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "34K",
+          "caption_clean": "Diogo MVP Costa. ‍️ #FIFAWorldCup#VaiDarPortugalal | #ItsPortugalTime",
+          "url": "https://www.tiktok.com/@portugal/video/7656590519077702944",
+          "cover_url": "/covers/2df21ff70c5d7a1d.jpg",
+          "extra": {
+            "likes": 34100,
+            "comments": 385,
+            "views": 187100,
+            "shares": 416
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "31K",
+          "caption_clean": "@MLB #Doué #EquipeDeFrance #SportsTiktok #Football #WorldCup",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7656427222001093921",
+          "cover_url": "/covers/67ebfef7a541f374.jpg",
+          "extra": {
+            "likes": 30900,
+            "comments": 169,
+            "views": 216900,
+            "shares": 235
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "24K",
+          "caption_clean": "أول حصة تدريبية في المكسيك First training session in Mexico #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@equipedumaroc/video/7656406073653415176",
+          "cover_url": "/covers/c5cfa4276e9c1e93.jpg",
+          "extra": {
+            "likes": 23500,
+            "comments": 653,
+            "views": 204700,
+            "shares": 197
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Austria",
+          "handle": "oefb1904",
+          "flag": "🇦🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "22K",
+          "caption_clean": "World Cup... Austria is not done yet! #FIFAWorldCup #Austria",
+          "url": "https://www.tiktok.com/@oefb1904/video/7656309615986068758",
+          "cover_url": "/covers/71a02727030f5565.jpg",
+          "extra": {
+            "likes": 22400,
+            "comments": 1001,
+            "views": 248900,
+            "shares": 463
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "20K",
+          "caption_clean": "El arte de capturar a la Selección española. Óleo sobre lienzo. #VamosEspaña | #CopaMundialFIFA | #FIFAWorldCup | #tiktokfootballacademy | #España",
+          "url": "https://www.tiktok.com/@sefutbol/video/7656432308727074070",
+          "cover_url": "/covers/0f1c9c85c8daa871.jpg",
+          "extra": {
+            "likes": 19700,
+            "comments": 214,
+            "views": 82100,
+            "shares": 200
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 52
+  }
+}
