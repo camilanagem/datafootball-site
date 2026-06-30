@@ -8,12 +8,29 @@
       "posts": [
         {
           "posicao": 1,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "13.04%",
+          "caption_clean": "خلصت كُتب التاريخ It’s Over History is written #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ30-udCDSB/",
+          "cover_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/726839312_17978076819047963_4845804187812428658_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGzJbMIIj3B6w_4GbERHA2rbBEKc5s9rGM5xNM3jdlQtFFuIgYW9tuOIr5_mvYipow&_nc_ohc=aDu2emXtl5AQ7kNvwEEidOa&_nc_gid=gdbIw8iqOGUeewyUKPtcmg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WE4fUglXGhGvlss4dt38tezZAI6unUYfrd03T80pczw&oe=6A400B01&_nc_sid=10d13b",
+          "extra": {
+            "likes": 279938,
+            "comments": 2239,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
           "club": "Curaçao",
           "handle": "thebluewaveffk",
           "flag": "🇨🇼",
           "liga": "CONCACAF",
           "metric_label": "ER",
-          "metric_value": "4.44%",
+          "metric_value": "3.15%",
           "caption_clean": "Good Night, Kansas City!",
           "url": "https://www.instagram.com/p/DZ1ZC5usZba/",
           "cover_url": "/covers/b1ae7c295a8759c6.jpg",
@@ -24,36 +41,19 @@
           }
         },
         {
-          "posicao": 2,
-          "club": "Japan",
-          "handle": "japanfootballassociation",
-          "flag": "🇯🇵",
-          "liga": "AFC",
-          "metric_label": "ER",
-          "metric_value": "3.32%",
-          "caption_clean": "GOAL️ 前半31分 18 上田綺世 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 2-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
-          "url": "https://www.instagram.com/p/DZ1arYBgWSX/",
-          "cover_url": "/covers/effd2054cc363a35.jpg",
-          "extra": {
-            "likes": 51328,
-            "comments": 549,
-            "views": null
-          }
-        },
-        {
           "posicao": 3,
-          "club": "Japan",
-          "handle": "japanfootballassociation",
-          "flag": "🇯🇵",
-          "liga": "AFC",
+          "club": "New Zealand",
+          "handle": "nzallwhites",
+          "flag": "🇳🇿",
+          "liga": "OFC",
           "metric_label": "ER",
-          "metric_value": "2.89%",
-          "caption_clean": "GOAL️ 前半4分 15 鎌田大地 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 1-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
-          "url": "https://www.instagram.com/p/DZ1XqNIAaKk/",
-          "cover_url": "/covers/e830b0e9a955a9b0.jpg",
+          "metric_value": "2.87%",
+          "caption_clean": "Not to be against Egypt.",
+          "url": "https://www.instagram.com/p/DZ30ubQhj1E/",
+          "cover_url": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/727057920_18443994586190866_5414152924743522555_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGvFbR_DFdIKLKCpLHHRHcpPd9WiNFmSsTScHMoyT3XaDcHmhqtnlfEhlrPZ3xIYKs&_nc_ohc=zvDjGaopgLAQ7kNvwHS0LEQ&_nc_gid=dqEdUEbZ_gfOY1vNPSuVww&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9o5_eSMOB6NE_6ydBePJGKDvgeYRYSbuEem7liRmZ_nw&oe=6A40108E&_nc_sid=10d13b",
           "extra": {
-            "likes": 44687,
-            "comments": 443,
+            "likes": 4198,
+            "comments": 514,
             "views": null
           }
         },
@@ -64,7 +64,58 @@
           "flag": "🇯🇵",
           "liga": "AFC",
           "metric_label": "ER",
-          "metric_value": "2.46%",
+          "metric_value": "2.60%",
+          "caption_clean": "GOAL️ 前半31分 18 上田綺世 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 2-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1arYBgWSX/",
+          "cover_url": "/covers/effd2054cc363a35.jpg",
+          "extra": {
+            "likes": 51328,
+            "comments": 549,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "2.31%",
+          "caption_clean": "ونقول سادس هداف لمصر في كأس العالم Our 6th ever World Cup goalscorer #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ33Qz3owSs/",
+          "cover_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/726988051_17978080452047963_8220736645897527732_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFD01TTFc5NjE1Y5psmbNkSJcY4Bb6Uhus7ZI3xBeBon9eQtdKR3nlEWEhZF-DnM00&_nc_ohc=SGaqxEUuJr4Q7kNvwGQlh0n&_nc_gid=62kOZ-tLBRgq5AHqU9rKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9ecKkftVr1y7iKYlFztbvO4OB84kp8S76tt239D67tCQ&oe=6A3FEB32&_nc_sid=10d13b",
+          "extra": {
+            "likes": 49793,
+            "comments": 195,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "2.26%",
+          "caption_clean": "GOAL️ 前半4分 15 鎌田大地 FIFAワールドカップ2026TM グループステージ第2節 SAMURAI BLUE 1-0 チュニジア代表 日本テレビ NHK BS DAZN @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DZ1XqNIAaKk/",
+          "cover_url": "/covers/e830b0e9a955a9b0.jpg",
+          "extra": {
+            "likes": 44687,
+            "comments": 443,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "1.92%",
           "caption_clean": "@fifaworldcup #最高の景色を #サッカー日本代表",
           "url": "https://www.instagram.com/p/DZ1a_TqBMsP/",
           "cover_url": "/covers/057a3b3de2829582.jpg",
@@ -75,13 +126,30 @@
           }
         },
         {
-          "posicao": 5,
+          "posicao": 8,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "1.42%",
+          "caption_clean": "الفراعنة في الصدارة Pharaohs lead the group #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ34KKNiFBv/",
+          "cover_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/726988219_17978082045047963_1671813746670833753_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEkapuEwgt91R727sZujoixIED5Z_K3DzLcNS2NiLrTHupF1-UMukT6Pz7YfBDmf24&_nc_ohc=Eio9U1RcN6wQ7kNvwF0F5EA&_nc_gid=bkP0ThgwRIC34vauPVLj3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-2rFhIGmVOkhvirGqQHZ21x90QY7xVk7iRtaqlSiqJVw&oe=6A401080&_nc_sid=10d13b",
+          "extra": {
+            "likes": 30521,
+            "comments": 201,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
           "club": "Tunisia",
           "handle": "ftf.tn",
           "flag": "🇹🇳",
           "liga": "CAF",
           "metric_label": "ER",
-          "metric_value": "0.80%",
+          "metric_value": "0.71%",
           "caption_clean": "HALFTIME",
           "url": "https://www.instagram.com/p/DZ1cr6xOAKb/",
           "cover_url": "/covers/1192bea64d61d6a1.jpg",
@@ -92,87 +160,19 @@
           }
         },
         {
-          "posicao": 6,
+          "posicao": 10,
           "club": "Tunisia",
           "handle": "ftf.tn",
           "flag": "🇹🇳",
           "liga": "CAF",
           "metric_label": "ER",
-          "metric_value": "0.44%",
+          "metric_value": "0.39%",
           "caption_clean": "KICK OFF X",
           "url": "https://www.instagram.com/p/DZ1S5c8oXvF/",
           "cover_url": "/covers/d63c9095a9a75bc1.jpg",
           "extra": {
             "likes": 1253,
             "comments": 161,
-            "views": null
-          }
-        },
-        {
-          "posicao": 7,
-          "club": "Tunisia",
-          "handle": "ftf.tn",
-          "flag": "🇹🇳",
-          "liga": "CAF",
-          "metric_label": "ER",
-          "metric_value": "0.29%",
-          "caption_clean": "FULL TIME",
-          "url": "https://www.instagram.com/p/DZ1kUozoLhr/",
-          "cover_url": "/covers/c3308632178bbeb2.jpg",
-          "extra": {
-            "likes": 578,
-            "comments": 367,
-            "views": null
-          }
-        },
-        {
-          "posicao": 8,
-          "club": "Australia",
-          "handle": "socceroos",
-          "flag": "🇦🇺",
-          "liga": "AFC",
-          "metric_label": "ER",
-          "metric_value": "0.28%",
-          "caption_clean": "Next up: Paraguay in Santa Clara ⏳ A win or draw will guarantee second spot in Group D and progression to the Round of 32 v - 25.6.26 - 7:00pm local v - 26.6.26 - 12:00pm AEST #Soc…",
-          "url": "https://www.instagram.com/p/DZ1jTWRFdbV/",
-          "cover_url": "/covers/b66dd8b3244860e7.jpg",
-          "extra": {
-            "likes": 1424,
-            "comments": 17,
-            "views": null
-          }
-        },
-        {
-          "posicao": 9,
-          "club": "Germany",
-          "handle": "dfb_team",
-          "flag": "🇩🇪",
-          "liga": "UEFA",
-          "metric_label": "ER",
-          "metric_value": "0.12%",
-          "caption_clean": "gruppensieger! #fifaworldcup #dfbteam DFB/Max Galys",
-          "url": "https://www.instagram.com/p/DZ1g0eZAAjB/",
-          "cover_url": "/covers/5f90a60bf90b04d5.jpg",
-          "extra": {
-            "likes": 8626,
-            "comments": 73,
-            "views": null
-          }
-        },
-        {
-          "posicao": 10,
-          "club": "Croatia",
-          "handle": "hns_cff",
-          "flag": "🇭🇷",
-          "liga": "UEFA",
-          "metric_label": "ER",
-          "metric_value": "0.07%",
-          "caption_clean": "Kada igra Hrvatska, zna se što se nosi shop.hns.family",
-          "url": "https://www.instagram.com/p/DZ1fltcDvPC/",
-          "cover_url": "/covers/d43ed7a91956364b.jpg",
-          "extra": {
-            "likes": 594,
-            "comments": 2,
             "views": null
           }
         }
@@ -185,6 +185,23 @@
       "posts": [
         {
           "posicao": 1,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "280K",
+          "caption_clean": "خلصت كُتب التاريخ It’s Over History is written #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ30-udCDSB/",
+          "cover_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/726839312_17978076819047963_4845804187812428658_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGzJbMIIj3B6w_4GbERHA2rbBEKc5s9rGM5xNM3jdlQtFFuIgYW9tuOIr5_mvYipow&_nc_ohc=aDu2emXtl5AQ7kNvwEEidOa&_nc_gid=gdbIw8iqOGUeewyUKPtcmg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WE4fUglXGhGvlss4dt38tezZAI6unUYfrd03T80pczw&oe=6A400B01&_nc_sid=10d13b",
+          "extra": {
+            "likes": 279938,
+            "comments": 2239,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
           "club": "Japan",
           "handle": "japanfootballassociation",
           "flag": "🇯🇵",
@@ -201,7 +218,24 @@
           }
         },
         {
-          "posicao": 2,
+          "posicao": 3,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "50K",
+          "caption_clean": "ونقول سادس هداف لمصر في كأس العالم Our 6th ever World Cup goalscorer #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ33Qz3owSs/",
+          "cover_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/726988051_17978080452047963_8220736645897527732_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFD01TTFc5NjE1Y5psmbNkSJcY4Bb6Uhus7ZI3xBeBon9eQtdKR3nlEWEhZF-DnM00&_nc_ohc=SGaqxEUuJr4Q7kNvwGQlh0n&_nc_gid=62kOZ-tLBRgq5AHqU9rKhQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9ecKkftVr1y7iKYlFztbvO4OB84kp8S76tt239D67tCQ&oe=6A3FEB32&_nc_sid=10d13b",
+          "extra": {
+            "likes": 49793,
+            "comments": 195,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
           "club": "Japan",
           "handle": "japanfootballassociation",
           "flag": "🇯🇵",
@@ -218,7 +252,7 @@
           }
         },
         {
-          "posicao": 3,
+          "posicao": 5,
           "club": "Japan",
           "handle": "japanfootballassociation",
           "flag": "🇯🇵",
@@ -235,7 +269,24 @@
           }
         },
         {
-          "posicao": 4,
+          "posicao": 6,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "31K",
+          "caption_clean": "الفراعنة في الصدارة Pharaohs lead the group #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DZ34KKNiFBv/",
+          "cover_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/726988219_17978082045047963_1671813746670833753_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEkapuEwgt91R727sZujoixIED5Z_K3DzLcNS2NiLrTHupF1-UMukT6Pz7YfBDmf24&_nc_ohc=Eio9U1RcN6wQ7kNvwF0F5EA&_nc_gid=bkP0ThgwRIC34vauPVLj3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-2rFhIGmVOkhvirGqQHZ21x90QY7xVk7iRtaqlSiqJVw&oe=6A401080&_nc_sid=10d13b",
+          "extra": {
+            "likes": 30521,
+            "comments": 201,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
           "club": "Curaçao",
           "handle": "thebluewaveffk",
           "flag": "🇨🇼",
@@ -252,7 +303,7 @@
           }
         },
         {
-          "posicao": 5,
+          "posicao": 8,
           "club": "Germany",
           "handle": "dfb_team",
           "flag": "🇩🇪",
@@ -269,7 +320,24 @@
           }
         },
         {
-          "posicao": 6,
+          "posicao": 9,
+          "club": "New Zealand",
+          "handle": "nzallwhites",
+          "flag": "🇳🇿",
+          "liga": "OFC",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "Not to be against Egypt.",
+          "url": "https://www.instagram.com/p/DZ30ubQhj1E/",
+          "cover_url": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/727057920_18443994586190866_5414152924743522555_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGvFbR_DFdIKLKCpLHHRHcpPd9WiNFmSsTScHMoyT3XaDcHmhqtnlfEhlrPZ3xIYKs&_nc_ohc=zvDjGaopgLAQ7kNvwHS0LEQ&_nc_gid=dqEdUEbZ_gfOY1vNPSuVww&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9o5_eSMOB6NE_6ydBePJGKDvgeYRYSbuEem7liRmZ_nw&oe=6A40108E&_nc_sid=10d13b",
+          "extra": {
+            "likes": 4198,
+            "comments": 514,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
           "club": "Tunisia",
           "handle": "ftf.tn",
           "flag": "🇹🇳",
@@ -284,73 +352,189 @@
             "comments": 784,
             "views": null
           }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "8.77%",
+          "caption_clean": "Een trots @KoninklijkHuis #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ1dagvsv6i/",
+          "cover_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.71878-15/728868175_1573631401122080_4103607112937744679_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGtTh4sYBULlYPWTC42KbbBZQAsysDlJ5huxepdpjSPkL3NQ9K9E7PNM1kDj_r81uE&_nc_ohc=YDVhK_0oNFcQ7kNvwHtRPit&_nc_gid=rkp6VCWOScVYyRiOHVy5mA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af95S4o-oLZ0LWfDsOfAJbHx5OJb7Nt1OP_JpELLQ8ujDw&oe=6A3D5621&_nc_sid=10d13b",
+          "extra": {
+            "likes": 13336,
+            "comments": 180,
+            "views": 154032
+          }
         },
         {
-          "posicao": 7,
-          "club": "Australia",
-          "handle": "socceroos",
-          "flag": "🇦🇺",
+          "posicao": 2,
+          "club": "Germany",
+          "handle": "dfb_team",
+          "flag": "🇩🇪",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "8.70%",
+          "caption_clean": "war guuuuut #fifaworldcup #dfbteam",
+          "url": "https://www.instagram.com/p/DZ1Xa6vsD4c/",
+          "cover_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/728606771_18603480793024110_6826956312093754109_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFqELVFa_JhusA5k65FicMKRzqMmZVw8mmQcPUkneKXpkcFCUEkkJLwCCvMbuB2q10&_nc_ohc=t_UxeMv4-VMQ7kNvwEqion1&_nc_gid=Bw4xiiGNEG2T80UJdMtxOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-nAiuCuh__8AUVvOr6SSG8pfcP9D-vG5P9jfD6SnQElw&oe=6A3D4B4C&_nc_sid=10d13b",
+          "extra": {
+            "likes": 27730,
+            "comments": 289,
+            "views": 321897
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Saudi Arabia",
+          "handle": "saudint",
+          "flag": "🇸🇦",
           "liga": "AFC",
-          "metric_label": "Likes",
-          "metric_value": "1K",
-          "caption_clean": "Next up: Paraguay in Santa Clara ⏳ A win or draw will guarantee second spot in Group D and progression to the Round of 32 v - 25.6.26 - 7:00pm local v - 26.6.26 - 12:00pm AEST #Soc…",
-          "url": "https://www.instagram.com/p/DZ1jTWRFdbV/",
-          "cover_url": "/covers/b66dd8b3244860e7.jpg",
+          "metric_label": "VER",
+          "metric_value": "7.47%",
+          "caption_clean": "‏باسم الوطن يا أخضر ‏العب من أجل المجد ️ ‏⁧‫#قدام_بنفس_الروح‬⁩ | ⁦‪#FIFAWorldCup‬⁩",
+          "url": "https://www.instagram.com/p/DZ1XlXBNm8R/",
+          "cover_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.71878-15/727952956_1013285091595813_1804159667337219610_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gH0nBcipdqdJtSWE9M1NG82TLMy8kfBEsuPhmmdClY6_XZ2_EJhUzp2dsUtDHIh0hU&_nc_ohc=jCKzYsRMuEQQ7kNvwFfZIT3&_nc_gid=TdWRua5-nqrnY5mibmDmLQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9VyO9tDv-E0xJlMU2Y4fel_FikPMNf3acFlv0HNgkhfQ&oe=6A3D4E41&_nc_sid=10d13b",
           "extra": {
-            "likes": 1424,
-            "comments": 17,
-            "views": null
+            "likes": 1710,
+            "comments": 136,
+            "views": 24705
           }
         },
         {
-          "posicao": 8,
-          "club": "Tunisia",
-          "handle": "ftf.tn",
-          "flag": "🇹🇳",
-          "liga": "CAF",
-          "metric_label": "Likes",
-          "metric_value": "1K",
-          "caption_clean": "KICK OFF X",
-          "url": "https://www.instagram.com/p/DZ1S5c8oXvF/",
-          "cover_url": "/covers/d63c9095a9a75bc1.jpg",
+          "posicao": 4,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "6.03%",
+          "caption_clean": "Es la herencia de mi viejo. Gracias Papá por guiar mis pasos, por ser mi fan incondicional y alentarme sin parar. ️ #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ33YSaNtBh/",
+          "cover_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/728969644_18601209973001168_79433554233463992_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEW9xLpgK4hMMFN2uvrCqfK4tbY9sJRyvWi9gMMTfrUx6GZq3_65OE8g2Ml44gI-1o&_nc_ohc=vz0Hns5P08IQ7kNvwEGYSW8&_nc_gid=9GeEV-LexgSTxFfXFrQWkA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9XPlIrn7fVFqLYQM44dxVPY0sGxEMcB5elRHKaNZCA4Q&oe=6A401032&_nc_sid=10d13b",
           "extra": {
-            "likes": 1253,
-            "comments": 161,
-            "views": null
+            "likes": 46126,
+            "comments": 215,
+            "views": 768523
           }
         },
         {
-          "posicao": 9,
-          "club": "Croatia",
-          "handle": "hns_cff",
-          "flag": "🇭🇷",
+          "posicao": 5,
+          "club": "Ecuador",
+          "handle": "latriecu",
+          "flag": "🇪🇨",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "5.23%",
+          "caption_clean": "Nos queda una batalla, y vamos a dejar la vida. Gracias por estar, lucharemos juntos.",
+          "url": "https://www.instagram.com/p/DZ1gSl_MGO5/",
+          "cover_url": "https://instagram.fmem1-1.fna.fbcdn.net/v/t51.82787-15/726914575_18110145544936841_3973976803072595236_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmem1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHyfr46Bq0rqo6xTqBuFunbbrB5xJR7djbdDmKZ5VvPRME9yDFIWKFnCftdU6s-zbg&_nc_ohc=leV_cZ6VqiQQ7kNvwG9rgOi&_nc_gid=bTBbnUCpoeocoDqCyr78qA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-PUGf_0IKDL1k95hJndRDVkgQ680M58Q60OZ9x-Sc17g&oe=6A3D554C&_nc_sid=10d13b",
+          "extra": {
+            "likes": 4748,
+            "comments": 406,
+            "views": 98478
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "46K",
+          "caption_clean": "Es la herencia de mi viejo. Gracias Papá por guiar mis pasos, por ser mi fan incondicional y alentarme sin parar. ️ #ConOrgulloColombiano",
+          "url": "https://www.instagram.com/p/DZ33YSaNtBh/",
+          "cover_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/728969644_18601209973001168_79433554233463992_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEW9xLpgK4hMMFN2uvrCqfK4tbY9sJRyvWi9gMMTfrUx6GZq3_65OE8g2Ml44gI-1o&_nc_ohc=vz0Hns5P08IQ7kNvwEGYSW8&_nc_gid=9GeEV-LexgSTxFfXFrQWkA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9XPlIrn7fVFqLYQM44dxVPY0sGxEMcB5elRHKaNZCA4Q&oe=6A401032&_nc_sid=10d13b",
+          "extra": {
+            "likes": 46126,
+            "comments": 215,
+            "views": 768523
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Germany",
+          "handle": "dfb_team",
+          "flag": "🇩🇪",
           "liga": "UEFA",
           "metric_label": "Likes",
-          "metric_value": "594",
-          "caption_clean": "Kada igra Hrvatska, zna se što se nosi shop.hns.family",
-          "url": "https://www.instagram.com/p/DZ1fltcDvPC/",
-          "cover_url": "/covers/d43ed7a91956364b.jpg",
+          "metric_value": "28K",
+          "caption_clean": "war guuuuut #fifaworldcup #dfbteam",
+          "url": "https://www.instagram.com/p/DZ1Xa6vsD4c/",
+          "cover_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/728606771_18603480793024110_6826956312093754109_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFqELVFa_JhusA5k65FicMKRzqMmZVw8mmQcPUkneKXpkcFCUEkkJLwCCvMbuB2q10&_nc_ohc=t_UxeMv4-VMQ7kNvwEqion1&_nc_gid=Bw4xiiGNEG2T80UJdMtxOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-nAiuCuh__8AUVvOr6SSG8pfcP9D-vG5P9jfD6SnQElw&oe=6A3D4B4C&_nc_sid=10d13b",
           "extra": {
-            "likes": 594,
-            "comments": 2,
-            "views": null
+            "likes": 27730,
+            "comments": 289,
+            "views": 321897
           }
         },
         {
-          "posicao": 10,
-          "club": "Tunisia",
-          "handle": "ftf.tn",
-          "flag": "🇹🇳",
-          "liga": "CAF",
+          "posicao": 3,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
           "metric_label": "Likes",
-          "metric_value": "578",
-          "caption_clean": "FULL TIME",
-          "url": "https://www.instagram.com/p/DZ1kUozoLhr/",
-          "cover_url": "/covers/c3308632178bbeb2.jpg",
+          "metric_value": "13K",
+          "caption_clean": "Een trots @KoninklijkHuis #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DZ1dagvsv6i/",
+          "cover_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.71878-15/728868175_1573631401122080_4103607112937744679_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGtTh4sYBULlYPWTC42KbbBZQAsysDlJ5huxepdpjSPkL3NQ9K9E7PNM1kDj_r81uE&_nc_ohc=YDVhK_0oNFcQ7kNvwHtRPit&_nc_gid=rkp6VCWOScVYyRiOHVy5mA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af95S4o-oLZ0LWfDsOfAJbHx5OJb7Nt1OP_JpELLQ8ujDw&oe=6A3D5621&_nc_sid=10d13b",
           "extra": {
-            "likes": 578,
-            "comments": 367,
-            "views": null
+            "likes": 13336,
+            "comments": 180,
+            "views": 154032
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Ecuador",
+          "handle": "latriecu",
+          "flag": "🇪🇨",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "5K",
+          "caption_clean": "Nos queda una batalla, y vamos a dejar la vida. Gracias por estar, lucharemos juntos.",
+          "url": "https://www.instagram.com/p/DZ1gSl_MGO5/",
+          "cover_url": "https://instagram.fmem1-1.fna.fbcdn.net/v/t51.82787-15/726914575_18110145544936841_3973976803072595236_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmem1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHyfr46Bq0rqo6xTqBuFunbbrB5xJR7djbdDmKZ5VvPRME9yDFIWKFnCftdU6s-zbg&_nc_ohc=leV_cZ6VqiQQ7kNvwG9rgOi&_nc_gid=bTBbnUCpoeocoDqCyr78qA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-PUGf_0IKDL1k95hJndRDVkgQ680M58Q60OZ9x-Sc17g&oe=6A3D554C&_nc_sid=10d13b",
+          "extra": {
+            "likes": 4748,
+            "comments": 406,
+            "views": 98478
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Saudi Arabia",
+          "handle": "saudint",
+          "flag": "🇸🇦",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "2K",
+          "caption_clean": "‏باسم الوطن يا أخضر ‏العب من أجل المجد ️ ‏⁧‫#قدام_بنفس_الروح‬⁩ | ⁦‪#FIFAWorldCup‬⁩",
+          "url": "https://www.instagram.com/p/DZ1XlXBNm8R/",
+          "cover_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.71878-15/727952956_1013285091595813_1804159667337219610_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gH0nBcipdqdJtSWE9M1NG82TLMy8kfBEsuPhmmdClY6_XZ2_EJhUzp2dsUtDHIh0hU&_nc_ohc=jCKzYsRMuEQQ7kNvwFfZIT3&_nc_gid=TdWRua5-nqrnY5mibmDmLQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9VyO9tDv-E0xJlMU2Y4fel_FikPMNf3acFlv0HNgkhfQ&oe=6A3D4E41&_nc_sid=10d13b",
+          "extra": {
+            "likes": 1710,
+            "comments": 136,
+            "views": 24705
           }
         }
       ]
@@ -362,6 +546,24 @@
       "posts": [
         {
           "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "17.38%",
+          "caption_clean": "Es la herencia de mi viejo. Gracias Papá por guiar mis pasos, por ser mi fan incondicional y alentarme sin parar. ️ #ConOrgulloColombiano",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7654056754359160082",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/okwSGejoGDxULTGIDxIWVoQIcC4QUe4AyejtdA~tplv-tiktokx-origin.image?dr=9636&x-expires=1782370800&x-signature=4HlR%2FCcH5Fq97oLmYfneOaZjdL0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "extra": {
+            "likes": 36600,
+            "comments": 136,
+            "views": 214500,
+            "shares": 539
+          }
+        },
+        {
+          "posicao": 2,
           "club": "Saudi Arabia",
           "handle": "saudint",
           "flag": "🇸🇦",
@@ -379,7 +581,25 @@
           }
         },
         {
-          "posicao": 2,
+          "posicao": 3,
+          "club": "Norway",
+          "handle": "thenffofficial",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "11.36%",
+          "caption_clean": "CAPTAIN’S CORNER Norge - Senegal",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7654051443015437590",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oomRtOEQ4e5C14k0EhBOp9gQDfA9FFDlSBHqKQ~tplv-tiktokx-origin.image?dr=9636&x-expires=1782370800&x-signature=V01OJX2GCEVEWcqS5fxVjTlVBW8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "extra": {
+            "likes": 16800,
+            "comments": 106,
+            "views": 149600,
+            "shares": 96
+          }
+        },
+        {
+          "posicao": 4,
           "club": "Japan",
           "handle": "japanfootballassociation",
           "flag": "🇯🇵",
@@ -397,7 +617,7 @@
           }
         },
         {
-          "posicao": 3,
+          "posicao": 5,
           "club": "Japan",
           "handle": "japanfootballassociation",
           "flag": "🇯🇵",
@@ -413,6 +633,24 @@
             "views": 57600,
             "shares": 34
           }
+        },
+        {
+          "posicao": 6,
+          "club": "New Zealand",
+          "handle": "nzallwhites",
+          "flag": "🇳🇿",
+          "liga": "OFC",
+          "metric_label": "ER",
+          "metric_value": "2.46%",
+          "caption_clean": "",
+          "url": "https://www.tiktok.com/@nz_football/video/7654049544941948181",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-i-photomode-sg/c2bc007481b348c9ab7230c50e1794fd~tplv-photomode-image.jpeg?dr=9616&x-expires=1782370800&x-signature=%2Bl5hhmYQ3f6dtzuYBevomvkYEaw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+          "extra": {
+            "likes": 3664,
+            "comments": 794,
+            "views": 192400,
+            "shares": 281
+          }
         }
       ]
     },
@@ -423,6 +661,42 @@
       "posts": [
         {
           "posicao": 1,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "37K",
+          "caption_clean": "Es la herencia de mi viejo. Gracias Papá por guiar mis pasos, por ser mi fan incondicional y alentarme sin parar. ️ #ConOrgulloColombiano",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7654056754359160082",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/okwSGejoGDxULTGIDxIWVoQIcC4QUe4AyejtdA~tplv-tiktokx-origin.image?dr=9636&x-expires=1782370800&x-signature=4HlR%2FCcH5Fq97oLmYfneOaZjdL0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+          "extra": {
+            "likes": 36600,
+            "comments": 136,
+            "views": 214500,
+            "shares": 539
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Norway",
+          "handle": "thenffofficial",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "17K",
+          "caption_clean": "CAPTAIN’S CORNER Norge - Senegal",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7654051443015437590",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oomRtOEQ4e5C14k0EhBOp9gQDfA9FFDlSBHqKQ~tplv-tiktokx-origin.image?dr=9636&x-expires=1782370800&x-signature=V01OJX2GCEVEWcqS5fxVjTlVBW8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "extra": {
+            "likes": 16800,
+            "comments": 106,
+            "views": 149600,
+            "shares": 96
+          }
+        },
+        {
+          "posicao": 3,
           "club": "Japan",
           "handle": "japanfootballassociation",
           "flag": "🇯🇵",
@@ -440,7 +714,7 @@
           }
         },
         {
-          "posicao": 2,
+          "posicao": 4,
           "club": "Japan",
           "handle": "japanfootballassociation",
           "flag": "🇯🇵",
@@ -458,7 +732,25 @@
           }
         },
         {
-          "posicao": 3,
+          "posicao": 5,
+          "club": "New Zealand",
+          "handle": "nzallwhites",
+          "flag": "🇳🇿",
+          "liga": "OFC",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "",
+          "url": "https://www.tiktok.com/@nz_football/video/7654049544941948181",
+          "cover_url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-i-photomode-sg/c2bc007481b348c9ab7230c50e1794fd~tplv-photomode-image.jpeg?dr=9616&x-expires=1782370800&x-signature=%2Bl5hhmYQ3f6dtzuYBevomvkYEaw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+          "extra": {
+            "likes": 3664,
+            "comments": 794,
+            "views": 192400,
+            "shares": 281
+          }
+        },
+        {
+          "posicao": 6,
           "club": "Saudi Arabia",
           "handle": "saudint",
           "flag": "🇸🇦",
@@ -479,6 +771,6 @@
     }
   ],
   "totals": {
-    "posts": 26
+    "posts": 42
   }
 }

@@ -107,6 +107,108 @@
             "comments": 42,
             "views": null
           }
+        },
+        {
+          "posicao": 7,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.43%",
+          "caption_clean": "️‍ @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DaHZ5wAhNme/",
+          "cover_url": "/covers/1f4912a13e0f9e87.jpg",
+          "extra": {
+            "likes": 7732,
+            "comments": 72,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Paraguay",
+          "handle": "albirroja",
+          "flag": "🇵🇾",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "0.31%",
+          "caption_clean": "¡Instalados en Boston! La #Albirroja ️ ya se encuentra en la ciudad sede del próximo duelo por la @fifaworldcup ¡Vamos por otro paso! #VamosParaguay",
+          "url": "https://www.instagram.com/p/DaHijz6DgY7/",
+          "cover_url": "/covers/d68940f453458357.jpg",
+          "extra": {
+            "likes": 3332,
+            "comments": 66,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "ER",
+          "metric_value": "0.24%",
+          "caption_clean": "Portraits 谷口彰悟|前田大然|鎌田大地|久保建英 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DaHZIWjgfVH/",
+          "cover_url": "/covers/5ef7aa206c06dcbf.jpg",
+          "extra": {
+            "likes": 4293,
+            "comments": 22,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Germany",
+          "handle": "dfb_team",
+          "flag": "🇩🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.06%",
+          "caption_clean": "knockouts coming closer ⏳ #fifaworldcup #dfbteam DFB/Max Galys",
+          "url": "https://www.instagram.com/p/DaHZR5ZgMxi/",
+          "cover_url": "/covers/ecc6a03c2f302c43.jpg",
+          "extra": {
+            "likes": 4266,
+            "comments": 28,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.03%",
+          "caption_clean": "Il y a des anniversaires un peu plus spéciaux que les autres... surtout quand ils se fêtent en Coupe du monde avec le groupe France On te souhaite tous un très joyeux 29e anniversa…",
+          "url": "https://www.instagram.com/p/DaHfybvF5cn/",
+          "cover_url": "/covers/0250302fe788290c.jpg",
+          "extra": {
+            "likes": 5552,
+            "comments": 18,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Bosnia & Herzegovina",
+          "handle": "nfsbih_official",
+          "flag": "🇧🇦",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.02%",
+          "caption_clean": "Danas su na rasporedu utakmice 1. kola u grupi B. #U19WEURO #NaseVrijemeNasRed",
+          "url": "https://www.instagram.com/p/DaHmRn6gdNF/",
+          "cover_url": "/covers/65f6f5400494b576.jpg",
+          "extra": {
+            "likes": 25,
+            "comments": 0,
+            "views": null
+          }
         }
       ]
     },
@@ -202,6 +304,91 @@
         },
         {
           "posicao": 6,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "8K",
+          "caption_clean": "️‍ @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DaHZ5wAhNme/",
+          "cover_url": "/covers/1f4912a13e0f9e87.jpg",
+          "extra": {
+            "likes": 7732,
+            "comments": 72,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "6K",
+          "caption_clean": "Il y a des anniversaires un peu plus spéciaux que les autres... surtout quand ils se fêtent en Coupe du monde avec le groupe France On te souhaite tous un très joyeux 29e anniversa…",
+          "url": "https://www.instagram.com/p/DaHfybvF5cn/",
+          "cover_url": "/covers/0250302fe788290c.jpg",
+          "extra": {
+            "likes": 5552,
+            "comments": 18,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Japan",
+          "handle": "japanfootballassociation",
+          "flag": "🇯🇵",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "Portraits 谷口彰悟|前田大然|鎌田大地|久保建英 @fifaworldcup #最高の景色を #サッカー日本代表",
+          "url": "https://www.instagram.com/p/DaHZIWjgfVH/",
+          "cover_url": "/covers/5ef7aa206c06dcbf.jpg",
+          "extra": {
+            "likes": 4293,
+            "comments": 22,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Germany",
+          "handle": "dfb_team",
+          "flag": "🇩🇪",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "4K",
+          "caption_clean": "knockouts coming closer ⏳ #fifaworldcup #dfbteam DFB/Max Galys",
+          "url": "https://www.instagram.com/p/DaHZR5ZgMxi/",
+          "cover_url": "/covers/ecc6a03c2f302c43.jpg",
+          "extra": {
+            "likes": 4266,
+            "comments": 28,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Paraguay",
+          "handle": "albirroja",
+          "flag": "🇵🇾",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "3K",
+          "caption_clean": "¡Instalados en Boston! La #Albirroja ️ ya se encuentra en la ciudad sede del próximo duelo por la @fifaworldcup ¡Vamos por otro paso! #VamosParaguay",
+          "url": "https://www.instagram.com/p/DaHijz6DgY7/",
+          "cover_url": "/covers/d68940f453458357.jpg",
+          "extra": {
+            "likes": 3332,
+            "comments": 66,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
           "club": "DR Congo",
           "handle": "fecofadrc",
           "flag": "🇨🇩",
@@ -215,6 +402,207 @@
             "likes": 1568,
             "comments": 42,
             "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Bosnia & Herzegovina",
+          "handle": "nfsbih_official",
+          "flag": "🇧🇦",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "25",
+          "caption_clean": "Danas su na rasporedu utakmice 1. kola u grupi B. #U19WEURO #NaseVrijemeNasRed",
+          "url": "https://www.instagram.com/p/DaHmRn6gdNF/",
+          "cover_url": "/covers/65f6f5400494b576.jpg",
+          "extra": {
+            "likes": 25,
+            "comments": 0,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Ecuador",
+          "handle": "latriecu",
+          "flag": "🇪🇨",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "25.65%",
+          "caption_clean": "Gracias Ohio, gracias por ser una extensión de nuestro país y por ser el calor que nos brindaron desde el día uno. También agradecer a nuestros sponsors por estar presentes en cada…",
+          "url": "https://www.instagram.com/p/DaJ2CP3jXah/",
+          "cover_url": "/covers/3c8baacbb0de2e0f.jpg",
+          "extra": {
+            "likes": 17434,
+            "comments": 137,
+            "views": 68506
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "VER",
+          "metric_value": "21.43%",
+          "caption_clean": "Un entrenamiento más completado. Seguimos trabajando de cara a nuestro compromiso en dieciseisavos. ¡Vamos que esto sigue! #SomosMéxico",
+          "url": "https://www.instagram.com/p/DaJ54VSj0rs/",
+          "cover_url": "/covers/0481730b9034341b.jpg",
+          "extra": {
+            "likes": 62127,
+            "comments": 402,
+            "views": 291768
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "18.88%",
+          "caption_clean": "Único ️ #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DaJ3ZxLsN2Q/",
+          "cover_url": "/covers/85ce44fd68977ad2.jpg",
+          "extra": {
+            "likes": 116341,
+            "comments": 606,
+            "views": 619586
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "VER",
+          "metric_value": "4.93%",
+          "caption_clean": "Trust that the Melburnian could taste the difference American or Australian coffee? ️ Your #Socceroos take the blind test, in partnership with our friends at Bluestone Lane",
+          "url": "https://www.instagram.com/p/DaHdksmpJPX/",
+          "cover_url": "/covers/41776e2bbc8946b2.jpg",
+          "extra": {
+            "likes": 1865,
+            "comments": 4,
+            "views": 37874
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "4.72%",
+          "caption_clean": "Hello, Spokane... The Pharaohs are back. #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DaHZvuYMxIT/",
+          "cover_url": "/covers/4cdebea20606fa03.jpg",
+          "extra": {
+            "likes": 2838,
+            "comments": 48,
+            "views": 61164
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Netherlands",
+          "handle": "onsoranje",
+          "flag": "🇳🇱",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "116K",
+          "caption_clean": "Único ️ #NothingLikeOranje #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DaJ3ZxLsN2Q/",
+          "cover_url": "/covers/85ce44fd68977ad2.jpg",
+          "extra": {
+            "likes": 116341,
+            "comments": 606,
+            "views": 619586
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "62K",
+          "caption_clean": "Un entrenamiento más completado. Seguimos trabajando de cara a nuestro compromiso en dieciseisavos. ¡Vamos que esto sigue! #SomosMéxico",
+          "url": "https://www.instagram.com/p/DaJ54VSj0rs/",
+          "cover_url": "/covers/0481730b9034341b.jpg",
+          "extra": {
+            "likes": 62127,
+            "comments": 402,
+            "views": 291768
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Ecuador",
+          "handle": "latriecu",
+          "flag": "🇪🇨",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "17K",
+          "caption_clean": "Gracias Ohio, gracias por ser una extensión de nuestro país y por ser el calor que nos brindaron desde el día uno. También agradecer a nuestros sponsors por estar presentes en cada…",
+          "url": "https://www.instagram.com/p/DaJ2CP3jXah/",
+          "cover_url": "/covers/3c8baacbb0de2e0f.jpg",
+          "extra": {
+            "likes": 17434,
+            "comments": 137,
+            "views": 68506
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "3K",
+          "caption_clean": "Hello, Spokane... The Pharaohs are back. #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DaHZvuYMxIT/",
+          "cover_url": "/covers/4cdebea20606fa03.jpg",
+          "extra": {
+            "likes": 2838,
+            "comments": 48,
+            "views": 61164
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Australia",
+          "handle": "socceroos",
+          "flag": "🇦🇺",
+          "liga": "AFC",
+          "metric_label": "Likes",
+          "metric_value": "2K",
+          "caption_clean": "Trust that the Melburnian could taste the difference American or Australian coffee? ️ Your #Socceroos take the blind test, in partnership with our friends at Bluestone Lane",
+          "url": "https://www.instagram.com/p/DaHdksmpJPX/",
+          "cover_url": "/covers/41776e2bbc8946b2.jpg",
+          "extra": {
+            "likes": 1865,
+            "comments": 4,
+            "views": 37874
           }
         }
       ]
@@ -955,6 +1343,6 @@
     }
   ],
   "totals": {
-    "posts": 52
+    "posts": 74
   }
 }
