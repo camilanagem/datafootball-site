@@ -1,5 +1,5 @@
 import { getAllReports } from "./aggregations";
-import { getEdition, isNationalTeam } from "./edition";
+import { getEdition, isNationalTeam, canonicalHandle } from "./edition";
 
 export type WeekLeader = {
   handle: string;
@@ -60,10 +60,11 @@ export function getThisWeek(maxLeaders = 6): ThisWeek {
   for (const r of recent) {
     for (const c of r.carousels) {
       for (const p of c.posts) {
+        const key = canonicalHandle(p.handle);  // colapsa clube/seleção que trocou de @
         const s =
-          stats[p.handle] ||
-          (stats[p.handle] = {
-            handle: p.handle,
+          stats[key] ||
+          (stats[key] = {
+            handle: key,
             club: p.club,
             flag: p.flag,
             appearances: 0,
@@ -77,13 +78,13 @@ export function getThisWeek(maxLeaders = 6): ThisWeek {
         const likes = p.extra?.likes ?? 0;
         if (likes > maxLikes) {
           maxLikes = likes;
-          topPost = { club: p.club, flag: p.flag, handle: p.handle, value: fmtLikes(likes), url: p.url, cover_url: p.cover_url };
+          topPost = { club: p.club, flag: p.flag, handle: canonicalHandle(p.handle), value: fmtLikes(likes), url: p.url, cover_url: p.cover_url };
         }
         if (c.ranking === "er" && p.metric_value.includes("%")) {
           const ev = parseFloat(p.metric_value);
           if (!isNaN(ev) && ev > maxEng) {
             maxEng = ev;
-            topEng = { club: p.club, flag: p.flag, handle: p.handle, value: p.metric_value, url: p.url, cover_url: p.cover_url };
+            topEng = { club: p.club, flag: p.flag, handle: canonicalHandle(p.handle), value: p.metric_value, url: p.url, cover_url: p.cover_url };
           }
         }
       }

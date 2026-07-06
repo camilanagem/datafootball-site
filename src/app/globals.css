@@ -6,7 +6,7 @@
 
 @theme {
   /* paletas — espelham o produto IG/TikTok */
-  --color-bg-light: #fafafa;
+  --color-bg-light: #efe9da;
   --color-fg-light: #000000;
   --color-bg-dark: #000000;
   --color-fg-dark: #ffffff;
@@ -41,6 +41,13 @@ body {
   font-feature-settings: "ss01", "cv01";
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+/* foco visível pra navegação por teclado (a11y) — funciona nos dois temas */
+:focus-visible {
+  outline: 2px solid var(--foreground);
+  outline-offset: 2px;
+  border-radius: 3px;
 }
 
 .font-serif { font-family: var(--font-serif); }
