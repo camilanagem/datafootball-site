@@ -17,7 +17,6 @@ export function Header() {
           { href: "/clubs", label: t("clubs") },
           { href: "/leagues", label: t("leagues") },
         ]),
-    { href: "/standings", label: t("standings") },
     { href: "/insights", label: t("insights") },
     { href: "/hall-of-fame", label: t("halloffame") },
     { href: "/methodology", label: t("methodology") },

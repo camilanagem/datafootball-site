@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
-import { getRecords, type Record_ } from "@/lib/aggregations";
-import { getEdition } from "@/lib/edition";
+import { Link } from "@/i18n/navigation";
+import { getRecords, aggregateByClub, type Record_ } from "@/lib/aggregations";
+import { getEdition, isNationalTeam } from "@/lib/edition";
 
 const LABEL_KEY: Record<string, string> = { ER: "er", VER: "ver", TER: "ter", Likes: "likes" };
 
@@ -30,6 +31,10 @@ export default async function HallOfFamePage({
   const t = await getTranslations();
   const { clubs, teams } = getRecords();
   const { isTournament } = getEdition();
+  const standings = Object.values(aggregateByClub())
+    .filter((c) => isNationalTeam(c.liga) === isTournament)
+    .sort((a, b) => b.topOnes - a.topOnes || b.appearances - a.appearances)
+    .slice(0, 20);
   const fmtDate = (d: string) =>
     new Date(`${d}T00:00:00`).toLocaleDateString(
       locale === "pt" ? "pt-BR" : locale === "es" ? "es-ES" : "en-US",
@@ -70,6 +75,35 @@ export default async function HallOfFamePage({
           </section>
         ))}
       </div>
+
+      {/* CLASSIFICAÇÃO (fundido do antigo /standings): placar acumulado */}
+      {standings.length > 0 && (
+        <section className="mt-16 pt-12 border-t border-current/15">
+          <h2 className="font-serif text-2xl mb-1">{t("standings.title")}</h2>
+          <p className="text-sm opacity-60 mb-6">{t("standings.lead")}</p>
+          <div className="rounded-xl border border-current/15 divide-y divide-current/10">
+            {standings.map((c, i) => (
+              <Link
+                key={c.handle}
+                href={`/club/${c.handle}`}
+                className="flex items-center gap-2 px-4 py-3 hover:bg-current/5"
+              >
+                <span className="w-7 shrink-0 font-serif text-lg opacity-40 tabular-nums">{i + 1}</span>
+                <span className="shrink-0" aria-hidden>{c.flag}</span>
+                <span className="flex-1 min-w-0 font-serif truncate">{c.club}</span>
+                <span className="w-16 text-right shrink-0">
+                  <span className="block font-serif text-lg tabular-nums leading-none">{c.topOnes}</span>
+                  <span className="block text-[9px] uppercase tracking-wide opacity-40 mt-0.5">{t("standings.firsts")}</span>
+                </span>
+                <span className="w-20 text-right shrink-0">
+                  <span className="block font-serif text-lg tabular-nums leading-none">{c.appearances}</span>
+                  <span className="block text-[9px] uppercase tracking-wide opacity-40 mt-0.5">{t("club.appearances")}</span>
+                </span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }
