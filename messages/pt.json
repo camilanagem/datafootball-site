@@ -21,7 +21,7 @@
     "insights": "Insights"
   },
   "home": {
-    "selectDay": "Selecione um dia pra ver o relatório",
+    "selectDay": "Ranking diário — escolha uma data e veja os conteúdos campeões.",
     "todayButton": "Hoje",
     "noPostsYet": "Sem relatórios pra este dia",
     "what": "Todo dia varremos {count} das maiores contas do futebol no Instagram e TikTok e rankeamos os posts de melhor desempenho. Puro engajamento — sem opinião, sem enrolação.",
@@ -33,7 +33,7 @@
     "step2Body": "Curtidas, comentários, views e compartilhamentos — pesos iguais, taxas padrão de mercado. Sem multiplicador secreto.",
     "step3Title": "Publicamos o índice",
     "step3Body": "Os melhores posts viram o ranking do dia — aqui no site e no @datafootball__.",
-    "browse": "Explore o índice diário"
+    "browse": "Explore o índice"
   },
   "thisWeek": {
     "title": "Esta semana",

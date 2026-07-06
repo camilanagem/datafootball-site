@@ -21,7 +21,7 @@
     "insights": "Insights"
   },
   "home": {
-    "selectDay": "Select a day to see the report",
+    "selectDay": "Daily ranking — pick a date and see the winning posts.",
     "todayButton": "Today",
     "noPostsYet": "No reports yet for this day",
     "what": "Every day we scan {count} of football's biggest accounts across Instagram and TikTok, then rank their best-performing posts. Pure engagement — no opinions, no fluff.",
@@ -33,7 +33,7 @@
     "step2Body": "Likes, comments, views and shares — equal weights, market-standard rates. No secret multipliers.",
     "step3Title": "We publish the index",
     "step3Body": "The best posts become the daily ranking — here on the site and on @datafootball__.",
-    "browse": "Browse the daily index"
+    "browse": "Browse the index"
   },
   "thisWeek": {
     "title": "This week",

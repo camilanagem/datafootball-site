@@ -7,7 +7,6 @@ import { getEdition } from "@/lib/edition";
 import { getThisWeek } from "@/lib/momentum";
 import { Cover } from "@/components/Cover";
 import { PostsCounter } from "@/components/PostsCounter";
-import { NewsletterBand } from "@/components/NewsletterBand";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -40,14 +39,26 @@ function Home() {
         </p>
       </section>
 
-      {/* CONTADOR — autoridade/escala */}
+      {/* COMO FUNCIONA — antes do calendário: explica o índice antes de navegar */}
+      <section className="mb-14 md:mb-20">
+        <h2 className="font-serif text-3xl md:text-4xl text-center mb-8 md:mb-10">{t("home.howTitle")}</h2>
+        <div className="grid md:grid-cols-3 gap-6 md:gap-8">
+          <Step n="1" title={t("home.step1Title")} body={t("home.step1Body", { count: accountCount })} />
+          <Step n="2" title={t("home.step2Title")} body={t("home.step2Body")} />
+          <Step n="3" title={t("home.step3Title")} body={t("home.step3Body")} />
+        </div>
+      </section>
+
+      {/* O ÍNDICE (calendário) — subiu pro topo: é o elemento principal */}
+      <section className="mb-12 md:mb-16">
+        <h2 className="font-serif text-2xl md:text-3xl mb-1">{t("home.browse")}</h2>
+        <p className="text-sm opacity-60 mb-6">{t("home.selectDay")}</p>
+        <CalendarHeatmap days={days} initialMonth={initialMonth} />
+      </section>
+
+      {/* CONTADOR — escala/autoridade, agora abaixo do calendário */}
       <div className="mb-12 md:mb-16">
         <PostsCounter />
-      </div>
-
-      {/* FAIXA DE NEWSLETTER (captura mais acima, além do rodapé) */}
-      <div className="mb-12 md:mb-16">
-        <NewsletterBand />
       </div>
 
       {/* FAIXA DE SELEÇÕES (só durante o torneio) */}
@@ -59,16 +70,6 @@ function Home() {
           <span className="text-sm opacity-75 align-middle"> — {t("tournament.body")}</span>
         </div>
       )}
-
-      {/* COMO FUNCIONA */}
-      <section className="mb-14 md:mb-20">
-        <h2 className="font-serif text-3xl md:text-4xl text-center mb-8 md:mb-10">{t("home.howTitle")}</h2>
-        <div className="grid md:grid-cols-3 gap-6 md:gap-8">
-          <Step n="1" title={t("home.step1Title")} body={t("home.step1Body", { count: accountCount })} />
-          <Step n="2" title={t("home.step2Title")} body={t("home.step2Body")} />
-          <Step n="3" title={t("home.step3Title")} body={t("home.step3Body")} />
-        </div>
-      </section>
 
       {/* ESTA SEMANA — pulso da edição atual */}
       {week.leaders.length > 0 && (
@@ -128,13 +129,6 @@ function Home() {
           </div>
         </section>
       )}
-
-      {/* O ÍNDICE (calendário) */}
-      <section>
-        <h2 className="font-serif text-2xl md:text-3xl mb-1">{t("home.browse")}</h2>
-        <p className="text-sm opacity-60 mb-6">{t("home.selectDay")}</p>
-        <CalendarHeatmap days={days} initialMonth={initialMonth} />
-      </section>
     </div>
   );
 }
