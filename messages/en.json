@@ -111,19 +111,19 @@
   },
   "methodology": {
     "title": "How we rank",
-    "intro": "How the rankings are built — every metric, and why we measure it this way.",
+    "intro": "What goes into each ranking, and why we measure it this way. No black box.",
     "erTitle": "Engagement Rate (ER)",
-    "erDesc": "For static posts. The standard engagement rate — likes and comments counted equally, divided by followers — so it's directly comparable to any industry benchmark.",
+    "erDesc": "For photos and carousels. We add up likes and comments and divide by the account's followers. It's the same math the whole industry uses — so any account can be compared to any other.",
     "verTitle": "Video Engagement Rate (VER)",
-    "verDesc": "For Reels. We divide by views instead of followers because a video's reach can far exceed the follower base — measuring against views reflects what was actually watched.",
+    "verDesc": "For Reels. Here we divide by views, not followers — a video can reach far more people than the account has followers. Views show who actually watched.",
     "terTitle": "TikTok Engagement Rate (TER)",
-    "terDesc": "Same logic as Reels, plus shares — TikTok exposes shares publicly (Instagram doesn't), and a share is a strong engagement signal, so we count it.",
+    "terDesc": "Same as Reels, plus shares. On TikTok shares are public (on Instagram they aren't), and a share is one of the strongest signs the content landed.",
     "equalTitle": "Equal weights, on purpose",
-    "equalDesc": "We don't weight comments or shares more than likes. A clean, equal-weight rate is what the market recognizes and can compare — no secret multipliers.",
+    "equalDesc": "A like, a comment and a share all count the same. No secret formula, no hidden weighting — a simple rate anyone can check and compare.",
     "dontTitle": "What we don't track",
-    "dontDesc": "Saves — Instagram doesn't expose them publicly. Shares too, on Instagram (on TikTok they're public, so we count them there). We track only what's public.",
-    "windowTitle": "Time window",
-    "windowDesc": "24 hours in each account's local timezone — a given day for a Brazilian side means BRT, for a European one means CET."
+    "dontDesc": "Only public numbers count. Saves are out (Instagram doesn't show them), and so are Instagram shares — on TikTok they're visible, so there they count.",
+    "windowTitle": "What counts as a day",
+    "windowDesc": "A day is a full day, measured in each account's own time zone — so every team gets the same 24 hours, wherever they are."
   },
   "club": {
     "metaTitle": "{club} — Instagram & TikTok engagement",
@@ -152,11 +152,11 @@
   },
   "about": {
     "title": "About",
-    "lead": "DataFootball is the daily index of football's most-engaged posts.",
-    "p1": "Every day we scan the biggest football accounts on Instagram and TikTok and rank their best-performing posts — clubs in the regular season, national teams during major tournaments. No opinions, no hot takes. Just what the audience actually engaged with.",
-    "p2": "We rank by engagement rate, likes, comments, views and shares — equal weights, the same way the industry measures it. The full breakdown is on the methodology page.",
-    "p3": "Every metric comes from public data on the post itself. We never use private or estimated numbers — only what anyone can see.",
-    "p4": "The index is published here and every day on @datafootball__, across Instagram and TikTok."
+    "lead": "We rank football by real engagement — not by follower count. Every day.",
+    "p1": "Every day we look at the biggest football accounts on Instagram and TikTok and see which posts the fans actually got behind — clubs in season, national teams during the big tournaments. No opinions, no takes: the ranking is what the audience did, not what we think.",
+    "p2": "We count likes, comments, views and shares at equal weight, the same way the industry measures it — no secret formula. The math behind every number is all there on the methodology page.",
+    "p3": "Every number comes from what's public on the post itself. We never guess or use private data — only what anyone can see and check.",
+    "p4": "The index goes out here on the site and every day on @datafootball__, on Instagram and TikTok."
   },
   "footer": {
     "follow": "Follow us",

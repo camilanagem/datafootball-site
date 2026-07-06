@@ -111,19 +111,19 @@
   },
   "methodology": {
     "title": "Cómo rankeamos",
-    "intro": "Cómo se construyen los rankings — cada métrica, y por qué la medimos así.",
+    "intro": "Qué entra en cada ranking, y por qué lo medimos así. Sin caja negra.",
     "erTitle": "Tasa de Engagement (ER)",
-    "erDesc": "Para posts estáticos. La tasa de engagement estándar — likes y comentarios cuentan igual, divididos por los seguidores — comparable a cualquier benchmark del mercado.",
+    "erDesc": "Para fotos y carruseles. Sumamos likes y comentarios y dividimos por los seguidores de la cuenta. Es la misma cuenta que usa el mercado — así cualquier cuenta se compara con otra.",
     "verTitle": "Tasa de Engagement de Video (VER)",
-    "verDesc": "Para Reels. Dividimos por visualizaciones en vez de seguidores porque el alcance de un video puede superar de lejos la base de seguidores — medir por las views refleja lo que de verdad se vio.",
+    "verDesc": "Para Reels. Aquí dividimos por las visualizaciones, no por los seguidores — un video puede llegar a mucha más gente de la que la cuenta tiene como seguidores. Las views muestran quién de verdad lo vio.",
     "terTitle": "Tasa de Engagement de TikTok (TER)",
-    "terDesc": "Misma lógica que Reels, más compartidos — TikTok expone los compartidos públicamente (Instagram no), y compartir es una señal fuerte de engagement, así que lo contamos.",
+    "terDesc": "Igual que los Reels, más los compartidos. En TikTok son públicos (en Instagram no), y compartir es una de las señales más fuertes de que el contenido importó.",
     "equalTitle": "Pesos iguales, a propósito",
-    "equalDesc": "No damos más peso a comentarios o compartidos que a likes. Una tasa limpia, de peso igual, es lo que el mercado reconoce y puede comparar — sin multiplicadores secretos.",
+    "equalDesc": "Un like, un comentario y un compartido valen lo mismo. Sin fórmula secreta ni peso escondido — una tasa simple que cualquiera puede verificar y comparar.",
     "dontTitle": "Lo que no medimos",
-    "dontDesc": "Guardados — Instagram no los expone públicamente. Compartidos también, en Instagram (en TikTok son públicos, así que los contamos ahí). Medimos solo lo público.",
-    "windowTitle": "Ventana de tiempo",
-    "windowDesc": "24 horas en la zona horaria de cada cuenta — un día para una selección brasileña es BRT, para una europea es CET."
+    "dontDesc": "Solo cuenta lo que es público. Los guardados quedan fuera (Instagram no los muestra) y los compartidos de Instagram también — en TikTok sí aparecen, así que ahí cuentan.",
+    "windowTitle": "Qué cuenta como un día",
+    "windowDesc": "Un día es un día completo, medido en la zona horaria de cada cuenta — así todos los equipos tienen las mismas 24 horas, estén donde estén."
   },
   "club": {
     "metaTitle": "{club} — engagement en Instagram y TikTok",
@@ -152,11 +152,11 @@
   },
   "about": {
     "title": "Acerca",
-    "lead": "DataFootball es el índice diario de los posts más engagados del fútbol.",
-    "p1": "Cada día escaneamos las cuentas de fútbol más grandes en Instagram y TikTok y rankeamos sus mejores posts — clubes en la temporada, selecciones en los grandes torneos. Sin opiniones, sin hot takes. Solo lo que el público realmente engagó.",
-    "p2": "Rankeamos por tasa de engagement, likes, comentarios, views y compartidos — pesos iguales, igual que lo mide la industria. El desglose completo está en la página de metodología.",
-    "p3": "Cada métrica viene de datos públicos del propio post. Nunca usamos números privados o estimados — solo lo que cualquiera puede ver.",
-    "p4": "El índice se publica aquí y cada día en @datafootball__, en Instagram y TikTok."
+    "lead": "Rankeamos el fútbol por el engagement de verdad — no por número de seguidores. Cada día.",
+    "p1": "Cada día miramos las cuentas de fútbol más grandes en Instagram y TikTok y vemos qué posts la afición realmente abrazó — clubes en temporada, selecciones en los grandes torneos. Sin opiniones ni hot takes: el ranking es lo que hizo el público, no lo que pensamos nosotros.",
+    "p2": "Contamos likes, comentarios, views y compartidos con peso igual, igual que lo mide el mercado — sin fórmula secreta. La cuenta detrás de cada número está toda abierta en la metodología.",
+    "p3": "Cada número viene de lo que es público en el propio post. Nunca adivinamos ni usamos datos privados — solo lo que cualquiera puede ver y verificar.",
+    "p4": "El índice se publica aquí en el sitio y cada día en @datafootball__, en Instagram y TikTok."
   },
   "footer": {
     "follow": "Síguenos",
