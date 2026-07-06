@@ -160,16 +160,6 @@ export default async function DayPage({
     .sort((a, b) => b.carousels.size - a.carousels.size);
   const clubOfDay = ranked[0] ?? null;
 
-  const mvps = ranked
-    .filter(({ carousels }) => carousels.size >= 2)
-    .map(({ post, carousels }) => ({
-      handle: post.handle,
-      club:   post.club,
-      flag:   post.flag,
-      count:  carousels.size,
-      slots:  [...carousels].sort(),
-    }));
-
   const totalSlots = report.carousels.length;
 
   const jsonLd = {
@@ -248,34 +238,6 @@ export default async function DayPage({
         )}
       </div>
 
-      {/* cross-carousel MVPs */}
-      {mvps.length > 0 && (
-        <section className="mb-14">
-          <div className="text-xs uppercase tracking-widest opacity-60 mb-4">{t("day.mvps")}</div>
-          <div className="divide-y divide-current/10 rounded-xl border border-current/10 overflow-hidden">
-            {mvps.map(({ handle, club, flag, count, slots }) => (
-              <div key={handle} className="flex items-center gap-4 px-5 py-3">
-                <div className="w-5 text-center shrink-0">{flag}</div>
-                <div className="flex-1 min-w-0">
-                  <span className="font-serif">{club}</span>
-                  <span className="text-xs opacity-40 ml-2">@{handle}</span>
-                </div>
-                <div className="flex gap-1.5 flex-wrap justify-end">
-                  {slots.map(s => (
-                    <span
-                      key={s}
-                      className="text-[10px] uppercase tracking-wide px-2 py-0.5 rounded-full border border-current/20 opacity-70 whitespace-nowrap"
-                    >
-                      {CAROUSEL_SHORT[s] ?? s}
-                    </span>
-                  ))}
-                </div>
-                <div className="text-xs opacity-40 shrink-0 w-12 text-right">{count}/{totalSlots}</div>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
 
       {/* carousels */}
       <div className="space-y-16">
