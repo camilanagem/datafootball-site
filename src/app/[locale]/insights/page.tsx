@@ -1,9 +1,21 @@
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
+import { Cover } from "@/components/Cover";
 import ptData from "@/data/insights/latest.pt.json";
 import enData from "@/data/insights/latest.en.json";
 import esData from "@/data/insights/latest.es.json";
 
+type Post = {
+  club: string;
+  flag: string;
+  handle: string;
+  kind: string;
+  kindLabel: string;
+  type: "engagement" | "likes";
+  metric: string;
+  cover_url: string | null;
+  url: string;
+};
 type Insights = {
   week: { ini: string; fim: string; label: string };
   manchete: string;
@@ -11,6 +23,7 @@ type Insights = {
   contraste: string;
   pra_acompanhar: string;
   numeros: { label: string; value: string }[];
+  posts?: Post[];
   legenda: string;
   assunto: string;
 };
@@ -93,6 +106,46 @@ export default async function InsightsPage({
               </div>
             ))}
           </dl>
+        </section>
+      )}
+
+      {data.posts && data.posts.length > 0 && (
+        <section className="mb-16">
+          <h2 className="text-xs uppercase tracking-[0.2em] opacity-60 mb-6">{t("posts")}</h2>
+          {(["engagement", "likes"] as const).map((typ) => {
+            const group = data.posts!.filter((p) => p.type === typ);
+            if (group.length === 0) return null;
+            return (
+              <div key={typ} className="mb-8 last:mb-0">
+                <h3 className="text-[11px] uppercase tracking-widest opacity-50 mb-4">
+                  {typ === "engagement" ? t("mostEngaged") : t("mostLiked")}
+                </h3>
+                <div className="grid grid-cols-3 gap-3 md:gap-4">
+                  {group.map((p, i) => (
+                    <a
+                      key={i}
+                      href={p.url}
+                      target="_blank"
+                      rel="noopener"
+                      className="group block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition"
+                    >
+                      <div className="aspect-[4/5] bg-current/5">
+                        <Cover src={p.cover_url} className="w-full h-full object-cover" />
+                      </div>
+                      <div className="p-3">
+                        <div className="font-serif text-sm flex items-center gap-1.5">
+                          <span aria-hidden>{p.flag}</span>
+                          <span className="truncate">{p.club}</span>
+                        </div>
+                        <div className="text-[11px] opacity-50 mt-0.5">{p.kindLabel}</div>
+                        <div className="font-serif text-base tabular-nums mt-1">{p.metric}</div>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            );
+          })}
         </section>
       )}
 

@@ -191,7 +191,10 @@
     "ctaTitle": "Los números cada semana, en tu correo.",
     "ctaSub": "El análisis que nadie más hace — engagement, sorpresas y el contraste entre alcance y conexión.",
     "ctaScroll": "suscríbete abajo",
-    "numbers": "Los números de la semana"
+    "numbers": "Los números de la semana",
+    "posts": "Los posts de la semana",
+    "mostEngaged": "Más engajados",
+    "mostLiked": "Más gustados"
   },
   "counter": {
     "label": "posts analizados",

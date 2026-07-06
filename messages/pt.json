@@ -191,7 +191,10 @@
     "ctaTitle": "Os números toda semana, no seu email.",
     "ctaSub": "A análise que ninguém mais faz — engajamento, zebras e o contraste entre alcance e conexão.",
     "ctaScroll": "assine logo abaixo",
-    "numbers": "Os números da semana"
+    "numbers": "Os números da semana",
+    "posts": "Os posts da semana",
+    "mostEngaged": "Mais engajados",
+    "mostLiked": "Mais curtidos"
   },
   "counter": {
     "label": "posts analisados",

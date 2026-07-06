@@ -1,36 +1,103 @@
 {
-  "manchete": "Cabo Verde contuvo a España. Internet contuvo el aliento. Y el número que nadie esperaba llegó.",
+  "week": {
+    "ini": "2026-06-29",
+    "fim": "2026-07-05",
+    "label": "29 JUN – 05 JUL 2026"
+  },
+  "manchete": "Senegal manda callar a los gigantes: 48% ER contra 40.3M de vistas que no convierten",
   "insights": [
-    "El portero de Cabo Verde frenó a España en un histórico 0 a 0 — el debut de todo un país en la Copa del Mundo. La hinchada de una nación que apenas cabía en el mapa explotó en las redes, y la foto del escudo verde se convirtió en el post más eficiente de la semana: 61% de engagement. Ningún gigante se le acercó.",
-    "Edin Dzeko tiene 40 años, sobrevivió a una guerra y fue capitán de Bosnia en la Copa. La historia se viralizó — y la selección respondió en las redes con presencia en el top de engagement durante tres días consecutivos, incluyendo el día inaugural. El dragón vuela, y la hinchada lo acompaña.",
-    "Haití entró al campo con una camiseta diferente a la que planeaba usar — la FIFA ordenó cambiarla antes del debut porque el diseño recordaba la bandera de Polonia. La polémica se convirtió en titular mundial. Senegal no tuvo nada de eso, pero arrasó el ranking de reels: los cuatro posts más eficientes de la semana en video fueron todos de la selección senegalesa, con hasta 20.2% de VER.",
-    "Portugal tuvo el reel más visto de la semana — 34 millones de views y más de 3 millones de likes, números de superpotencia. Pero dominar el alcance es diferente a dominar la conexión. Mientras Portugal era el más visto, Cabo Verde era el más sentido."
+    "Senegal lidera la semana con 48.0% ER en Reel — casi 3.3x el promedio semanal, sin necesitar el alcance masivo de los grandes.",
+    "Portugal domina en views (40.3M) y en likes (1.8M), pero el volumen no se traduce en el ranking de engagement real.",
+    "El formato Reel se impone: Senegal, Ecuador (39.7% ER) y Paraguay (38.4% ER) ocupan el podio de engagement, todos en el mismo formato."
   ],
-  "contraste": "Portugal rompió récords de visualización — 34 millones de views en un único video, el mayor de la semana. Pero quien hizo temblar a la hinchada de verdad fue un archipiélago africano en su primera Copa del Mundo. Cabo Verde con 61% de ER es el recordatorio semanal de que el alcance es fama, el engagement es amor.",
-  "pra_acompanhar": "Bosnia enfrenta a Suiza — y Dzeko todavía tiene historias que contar dentro y fuera del campo. Si la narrativa sigue creciendo, el engagement viene junto. Estén atentos.",
+  "contraste": "Portugal acumula 40.3M de vistas y 1.8M de likes, pero es Senegal quien manda con 48% ER — alcance no es lo mismo que conexión real.",
+  "pra_acompanhar": "Con Mexico presente 75 veces en el top-10, la pregunta es si esa constancia empieza a traducirse en picos de engagement como los de Senegal.",
   "numeros": [
     {
       "label": "Más visto",
-      "value": "Portugal · 34.4M views"
+      "value": "Portugal · 40.3M views"
     },
     {
       "label": "Más engajado",
-      "value": "Cabo Verde · 61% ER"
+      "value": "Senegal · 48% ER"
     },
     {
-      "label": "Por encima de la media",
-      "value": "7.5× la media de la semana"
+      "label": "Sobre la media",
+      "value": "3.3× la media de la semana"
     },
     {
       "label": "Más presente",
-      "value": "Portugal · 42× en el top-10"
+      "value": "Mexico · 75× en el top-10"
     }
   ],
-  "legenda": "Portugal teve 34 milhões de views. Cabo Verde teve 61% de engajamento. Sabe qual número importa mais? Todo domingo a gente te manda a análise que o futebol mainstream não faz — link na bio pra assinar a newsletter. 📊🌍",
-  "assunto": "Cabo Verde vs Portugal: quem engajou mais forte na Copa?",
-  "week": {
-    "ini": "2026-06-09",
-    "fim": "2026-06-15",
-    "label": "09–15 JUN 2026"
-  }
+  "posts": [
+    {
+      "club": "Senegal",
+      "flag": "🇸🇳",
+      "handle": "fsfofficielle",
+      "kind": "reels",
+      "kindLabel": "Reel (IG)",
+      "type": "engagement",
+      "metric": "48.0% ER",
+      "cover_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/728937189_18598225480022664_2353658928602038548_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=BqqdUEzX5MwQ7kNvwFIEfM0&_nc_oc=AdouwBrhaBteh7TWWPvoPd8PJBtpOSsp9CukGTbv7YhM0-FFS6KVsShzE1ipMFSwdLU&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_gid=-xySco-pOIwQWQjzwBNxUQ&_nc_ss=72a8c&oh=00_AQCzv_sGjzuM-HHiXsHahpttGg9i60gkQoMhqjFkSqQ02A&oe=6A492CD0",
+      "url": "https://www.instagram.com/p/DaKavUrqZfY/"
+    },
+    {
+      "club": "Ecuador",
+      "flag": "🇪🇨",
+      "handle": "latriecu",
+      "kind": "reels",
+      "kindLabel": "Reel (IG)",
+      "type": "engagement",
+      "metric": "39.7% ER",
+      "cover_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/730083606_18111102724936841_2386442612344555555_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ywfXVAHfhLoQ7kNvwEQ3q8e&_nc_oc=AdojBJ9OlnAHntAUP8ycXWqEP6k789OeOx0C08A5sCAwfP0PGs7Fvk92UDwd8Tr6RQg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=5YSlHK9C8BuGXws0RNcd_Q&_nc_ss=72a8c&oh=00_AQDitqDEuz2X3cztwSsjyMMzk6tunLWJ76aRiyMVNgUmVw&oe=6A49302E",
+      "url": "https://www.instagram.com/p/DaMqfwLMMy1/"
+    },
+    {
+      "club": "Paraguay",
+      "flag": "🇵🇾",
+      "handle": "albirroja",
+      "kind": "reels",
+      "kindLabel": "Reel (IG)",
+      "type": "engagement",
+      "metric": "38.4% ER",
+      "cover_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/730226179_2495354927583070_7047109185563006220_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jTug4ekm8NYQ7kNvwHO4zOC&_nc_oc=Adp8BQQSb6-PI_wDTnhTcrMwxc6QwuJrTxw_AIJ-l9lW_LMojhHTGYQOglsbGNRumlo&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=FiQw6yHYjDaErgKSv1rkqA&_nc_ss=72289&oh=00_AQAunsjanARO793j98QQ-4rFVuVSxEr3LvnOcJFyHPDCrw&oe=6A492C77",
+      "url": "https://www.instagram.com/p/DaLiAgxyAp3/"
+    },
+    {
+      "club": "Portugal",
+      "flag": "🇵🇹",
+      "handle": "portugal",
+      "kind": "photos",
+      "kindLabel": "Foto (IG)",
+      "type": "likes",
+      "metric": "1.8M ❤",
+      "cover_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.82787-15/731423254_18605676283054533_9097114555846087645_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=MzkzMjczOTMyMjU5MDEzNzM3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTc0NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n6QCA14gqagQ7kNvwGZUbJP&_nc_oc=AdpgkAbqZY0vODmbWTMJL9WUu0eINMte_bZBCZBmUpD1_ZDaD8EXnwFtXeL0t-BdLiw&_nc_zt=23&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_gid=kPwr-lUkXkyFkKWeDfwyvg&_nc_ss=72a8c&oh=00_AQA0MBezyyzN9tLAKRLIAJwh3dSCR4B94R7iFUpMvV0Iiw&oe=6A4D3F7E",
+      "url": "https://www.instagram.com/p/DaT5gDADP-N/"
+    },
+    {
+      "club": "Brazil",
+      "flag": "🇧🇷",
+      "handle": "brasil",
+      "kind": "photos",
+      "kindLabel": "Foto (IG)",
+      "type": "likes",
+      "metric": "1.6M ❤",
+      "cover_url": "https://instagram.fbtr1-1.fna.fbcdn.net/v/t51.82787-15/736371990_18598895029012594_8308220497690370961_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbtr1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gEqrtppXDz1nOLW28hs1FAxtbdn-LoVaslWzVefkbrCfMBkeCSoNRiDYfbKPLC0CqY&_nc_ohc=2b4ojWwkLbYQ7kNvwGzxv8h&_nc_gid=pUzvWeGdS5HfGLPW_028Hg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBnU8RMVH-r2d9PEcuKoyw-kEqlpZvtsUIGmGd7FppAcA&oe=6A510F0F&_nc_sid=c6f216",
+      "url": "https://www.instagram.com/p/DabZrSHI6L5/"
+    },
+    {
+      "club": "France",
+      "flag": "🇫🇷",
+      "handle": "equipedefrance",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
+      "type": "likes",
+      "metric": "1.3M ❤",
+      "cover_url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/o8eTlDFipxNaHhaHGeLIAeGxRHAGr1WII1ePYS~tplv-tiktokx-dmt-logom:tos-useast2a-i-0068-euttp/oMEAHqeEoC0ADQRFxsIABFED5TD79RAm8fRZlm.image?dr=9634&x-expires=1783328400&x-signature=iqT87P2ebBjUV1j2K6igYZhnCpg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "url": "https://www.tiktok.com/@equipedefrance/video/7658175802038668577"
+    }
+  ],
+  "legenda": "Vistas no ganan esta semana. Gana el engagement. Senegal al frente. 📊⚽",
+  "assunto": "Engagement semanal"
 }
