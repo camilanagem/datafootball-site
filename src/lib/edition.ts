@@ -25,3 +25,22 @@ export const CONFEDERATIONS = ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OF
 export function isNationalTeam(liga: string | undefined | null): boolean {
   return CONFEDERATIONS.includes((liga || "").toUpperCase());
 }
+
+// Seleções que trocaram de handle no Instagram durante a Copa: as duas contas
+// (antiga + atual) acumularam histórico nos dados, então o diretório listava a mesma
+// seleção 2x. Mapa handle-antigo → handle-canônico (o que está hoje no
+// accounts_worldcup.yaml) pra colapsar tudo numa seleção só. Revisar pós-Copa.
+export const HANDLE_ALIASES: Record<string, string> = {
+  "nz_football": "nzallwhites",
+  "hns.family": "hns_cff",
+  "lesverts.faf": "fafalgeria_officiel",
+  "iraq.nt": "iraqnt_en",
+  "jfa_samuraiblue": "japanfootballassociation",
+  "equipedefootcotedivoire": "fif.ci",
+  "bafanabafana": "bafanabafanaofficial",
+};
+
+export function canonicalHandle(handle: string | undefined | null): string {
+  const h = (handle || "").trim();
+  return HANDLE_ALIASES[h] ?? h;
+}
