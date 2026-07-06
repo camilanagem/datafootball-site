@@ -10,6 +10,7 @@ import esData from "@/data/insights/latest.es.json";
 type Post = {
   club: string;
   flag: string;
+  crest?: string | null;
   handle: string;
   kind: string;
   kindLabel: string;
@@ -137,7 +138,12 @@ export default async function InsightsPage({
                       </div>
                       <div className="p-3">
                         <div className="font-serif text-sm flex items-center gap-1.5">
-                          <span aria-hidden>{p.flag}</span>
+                          {p.crest ? (
+                            // eslint-disable-next-line @next/next/no-img-element
+                            <img src={p.crest} alt="" className="w-4 h-4 object-contain shrink-0" />
+                          ) : (
+                            <span aria-hidden>{p.flag}</span>
+                          )}
                           <span className="truncate">{p.club}</span>
                         </div>
                         <div className="text-[11px] opacity-50 mt-0.5">{p.kindLabel}</div>
