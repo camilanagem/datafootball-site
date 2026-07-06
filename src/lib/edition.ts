@@ -31,6 +31,7 @@ export function isNationalTeam(liga: string | undefined | null): boolean {
 // seleção 2x. Mapa handle-antigo → handle-canônico (o que está hoje no
 // accounts_worldcup.yaml) pra colapsar tudo numa seleção só. Revisar pós-Copa.
 export const HANDLE_ALIASES: Record<string, string> = {
+  // seleções
   "nz_football": "nzallwhites",
   "hns.family": "hns_cff",
   "lesverts.faf": "fafalgeria_officiel",
@@ -38,6 +39,22 @@ export const HANDLE_ALIASES: Record<string, string> = {
   "jfa_samuraiblue": "japanfootballassociation",
   "equipedefootcotedivoire": "fif.ci",
   "bafanabafana": "bafanabafanaofficial",
+  "dfb": "dfb_team",
+  "oefb1904": "footballaustria",
+  "royalbelgianfa": "belgianreddevils",
+  "fcfseleccioncolombia": "fcfseleccioncol",
+  "ghanafa": "ghana_fa_official",
+  "herrelandslaget": "thenffofficial",
+  "fepafutpa": "fepafut",
+  "swiss_football_sfv_asf": "swissnatimen",
+  "ussoccer": "usmnt",
+  // clubes
+  "bocajuniors": "bocajrs",
+  "bvb": "bvb09",
+  "ol_officiel": "ol",
+  "sporting_cp": "sportingcp",
+  "sscnapoli": "officialsscnapoli",
+  "vasco": "vascodagama",
 };
 
 export function canonicalHandle(handle: string | undefined | null): string {

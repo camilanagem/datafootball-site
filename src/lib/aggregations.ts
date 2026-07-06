@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { type DayReport, getAvailableDays } from "./data";
-import { isNationalTeam } from "./edition";
+import { isNationalTeam, canonicalHandle } from "./edition";
 
 const DATA_DIR = path.join(process.cwd(), "src", "data", "days");
 
@@ -57,10 +57,10 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
   for (const r of reports) {
     for (const c of r.carousels) {
       for (const p of c.posts) {
-        const key = p.handle;
+        const key = canonicalHandle(p.handle);
         if (!out[key]) {
           out[key] = {
-            handle: p.handle,
+            handle: key,
             club: p.club,
             flag: p.flag,
             liga: p.liga,
