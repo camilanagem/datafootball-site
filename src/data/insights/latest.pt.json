@@ -1,17 +1,13 @@
 {
-  "week": {
-    "ini": "2026-06-29",
-    "fim": "2026-07-05",
-    "label": "29 JUN – 05 JUL 2026"
-  },
-  "manchete": "Senegal bate 48% de ER e expõe a diferença entre ser visto e ser sentido",
+  "manchete": "Vozinha virou rua em Cabo Verde. A Argentina trouxe 50 mil pessoas pra Miami. Mas quem engajou mais nessa semana foi quem você menos esperava.",
   "insights": [
-    "Senegal (Reel, IG) lidera a semana com 48.0% de ER — número que é 3.3x a média da semana.",
-    "Ecuador (39.7%) e Paraguay (38.4%) completam o pódio de engajamento, todos via Reel — o formato dominou a conversa real.",
-    "Mexico apareceu 75× no top-10 da semana: constância que nenhum outro perfil chegou perto de igualar."
+    "O Japão que ninguém viu vencer — Ancelotti foi testado, o Japão fez a festa, e enquanto o mundo inteiro discutia se o Brasil merecia passar, as fotos da seleção japonesa viralizavam por outro motivo: conexão pura com a torcida. O ER chegou a 23,8% — o maior de qualquer foto da semana, em qualquer seleção do mundo.",
+    "Cabo Verde: o herói virou rua, o engajamento virou recorde — Vozinha parou a Argentina o suficiente pra ganhar uma rua com seu nome em casa. A campanha histórica dos Tubarões Azuis não ficou só nas manchetes: no dia 5 de julho, Cabo Verde foi o nº 1 de engajamento tanto em fotos quanto em reels — algo que seleções com dezenas de milhões de seguidores não conseguiram em toda a semana.",
+    "O Senegal caiu, mas foi sentido — Nicolas Jackson negou que bebeu, Mané e Koulibaly estavam em crise nos bastidores, e a Bélgica passou. Mesmo assim, o Senegal entregou o post mais eficiente da semana inteira em reels: 48,0% de VER — quase metade de quem viu, curtiu. Derrota no campo, vitória no feed.",
+    "México: dominância sem discussão — Aguirre se despediu com orgulho, a cervejaria afundou 4% na bolsa depois da eliminação, e mesmo assim o México acumulou 75 aparições nos top-10 da semana — mais do que França, Portugal e Argentina juntos em dias de destaque. Ninguém dominou o TikTok como eles, com ER de 33,6% no post mais engajado da plataforma."
   ],
-  "contraste": "Portugal levou 40.3M de views e 1.8M de curtidas — o maior alcance da semana — mas ficou fora do pódio de ER; alcance recorde não é o mesmo que audiência engajada.",
-  "pra_acompanhar": "Vale observar se Senegal sustenta o ritmo de ER ou se foi pico isolado, e se Mexico converte presença constante em algum top de engajamento.",
+  "contraste": "Portugal teve o post mais curtido da semana — 1,8 milhão de likes — e o reel mais visto, com 40 milhões de views. Números que nenhuma outra seleção chegou perto. Mas no ranking de engajamento, Portugal não aparece nem uma vez. A audiência viu. O Japão, o Senegal e Cabo Verde foram *sentidos*.",
+  "pra_acompanhar": "Cabo Verde vs. Argentina nas oitavas promete ser o confronto mais desigual no papel — e possivelmente o mais engajado do torneio. Se os Tubarões Azuis já eram top-1 antes do jogo, imagina depois.",
   "numeros": [
     {
       "label": "Mais visto",
@@ -19,17 +15,24 @@
     },
     {
       "label": "Mais engajado",
-      "value": "Senegal · 48% ER"
+      "value": "Japão · 24% ER"
     },
     {
       "label": "Acima da média",
-      "value": "3.3× a média da semana"
+      "value": "3.1× a média da semana"
     },
     {
       "label": "Mais presente",
-      "value": "Mexico · 75× no top-10"
+      "value": "México · 75× no top-10"
     }
   ],
+  "legenda": "Portugal teve 40 milhões de views. Cabo Verde tinha Vozinha — e engajou mais. É isso que a gente mede aqui: não quem foi mais visto, mas quem foi mais *sentido*. Toda semana a gente traz os números que o mainstream ignora. Link na bio pra assinar a newsletter 👇",
+  "assunto": "Vozinha vs. CR7: a torcida de quem reagiu mais forte na Copa?",
+  "week": {
+    "ini": "2026-06-29",
+    "fim": "2026-07-05",
+    "label": "29–05 JUL 2026"
+  },
   "posts": [
     {
       "club": "Senegal",
@@ -97,7 +100,5 @@
       "cover_url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/o8eTlDFipxNaHhaHGeLIAeGxRHAGr1WII1ePYS~tplv-tiktokx-dmt-logom:tos-useast2a-i-0068-euttp/oMEAHqeEoC0ADQRFxsIABFED5TD79RAm8fRZlm.image?dr=9634&x-expires=1783328400&x-signature=iqT87P2ebBjUV1j2K6igYZhnCpg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
       "url": "https://www.tiktok.com/@equipedefrance/video/7658175802038668577"
     }
-  ],
-  "legenda": "48% de ER não se compra com alcance. Semana confirma: reach é vaidade, engagement é métrica.",
-  "assunto": "Engajamento vs Alcance"
+  ]
 }
