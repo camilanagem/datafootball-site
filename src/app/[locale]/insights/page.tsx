@@ -120,7 +120,7 @@ export default async function InsightsPage({
                 <h3 className="text-[11px] uppercase tracking-widest opacity-50 mb-4">
                   {typ === "engagement" ? t("mostEngaged") : t("mostLiked")}
                 </h3>
-                <div className="grid grid-cols-3 gap-3 md:gap-4">
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 md:gap-4">
                   {group.map((p, i) => (
                     <a
                       key={i}

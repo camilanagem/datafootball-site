@@ -1,9 +1,9 @@
 {
   "site": {
     "title": "DataFootball",
-    "tagline": "Índice diario de los posts más engagados del fútbol",
+    "tagline": "Índice diario de los posts con más engagement del fútbol",
     "metaTitle": "DataFootball — Ranking diario de engagement en Instagram y TikTok",
-    "metaDescription": "El índice diario de los posts más engagados del fútbol. Rankeamos clubes y selecciones por engagement, likes y views en Instagram y TikTok — cada día.",
+    "metaDescription": "El índice diario de los posts con más engagement del fútbol. Rankeamos clubes y selecciones por engagement, likes y views en Instagram y TikTok — cada día.",
     "subscribe": "Suscribirse",
     "subscribePlaceholder": "tu email"
   },
@@ -113,7 +113,7 @@
     "title": "Cómo rankeamos",
     "intro": "Qué entra en cada ranking, y por qué lo medimos así. Sin caja negra.",
     "erTitle": "Tasa de Engagement (ER)",
-    "erDesc": "Para fotos y carruseles. Sumamos likes y comentarios y dividimos por los seguidores de la cuenta. Es la misma cuenta que usa el mercado — así cualquier cuenta se compara con otra.",
+    "erDesc": "Para fotos y carruseles. Sumamos likes y comentarios y dividimos por los seguidores de la cuenta. Es el mismo cálculo que usa el mercado — así cualquier cuenta se compara con otra.",
     "verTitle": "Tasa de Engagement de Video (VER)",
     "verDesc": "Para Reels. Aquí dividimos por las visualizaciones, no por los seguidores — un video puede llegar a mucha más gente de la que la cuenta tiene como seguidores. Las views muestran quién de verdad lo vio.",
     "terTitle": "Tasa de Engagement de TikTok (TER)",
@@ -154,7 +154,7 @@
     "title": "Acerca",
     "lead": "Rankeamos el fútbol por el engagement de verdad — no por número de seguidores. Cada día.",
     "p1": "Cada día miramos las cuentas de fútbol más grandes en Instagram y TikTok y vemos qué posts la afición realmente abrazó — clubes en temporada, selecciones en los grandes torneos. Sin opiniones ni hot takes: el ranking es lo que hizo el público, no lo que pensamos nosotros.",
-    "p2": "Contamos likes, comentarios, views y compartidos con peso igual, igual que lo mide el mercado — sin fórmula secreta. La cuenta detrás de cada número está toda abierta en la metodología.",
+    "p2": "Contamos likes, comentarios, views y compartidos con peso igual, igual que lo mide el mercado — sin fórmula secreta. El cálculo detrás de cada número está todo abierto en la metodología.",
     "p3": "Cada número viene de lo que es público en el propio post. Nunca adivinamos ni usamos datos privados — solo lo que cualquiera puede ver y verificar.",
     "p4": "El índice se publica aquí en el sitio y cada día en @datafootball__, en Instagram y TikTok."
   },
@@ -193,8 +193,8 @@
     "ctaScroll": "suscríbete abajo",
     "numbers": "Los números de la semana",
     "posts": "Los posts de la semana",
-    "mostEngaged": "Más engajados",
-    "mostLiked": "Más gustados"
+    "mostEngaged": "Con más engagement",
+    "mostLiked": "Con más likes"
   },
   "counter": {
     "label": "posts analizados",
