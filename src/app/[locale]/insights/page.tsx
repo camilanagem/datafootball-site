@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import { Cover } from "@/components/Cover";
+import { NewsletterSignup } from "@/components/NewsletterSignup";
 import ptData from "@/data/insights/latest.pt.json";
 import enData from "@/data/insights/latest.en.json";
 import esData from "@/data/insights/latest.es.json";
@@ -58,6 +60,7 @@ export default async function InsightsPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("insights");
+  const tRoot = await getTranslations();
   const data = pick(locale);
 
   return (
@@ -151,8 +154,13 @@ export default async function InsightsPage({
 
       <section className="text-center border-t border-current/15 pt-12">
         <p className="font-serif text-2xl md:text-3xl leading-snug mb-2">{t("ctaTitle")}</p>
-        <p className="opacity-70 mb-6">{t("ctaSub")}</p>
-        <p className="text-sm uppercase tracking-[0.2em] opacity-50 animate-pulse">↓ {t("ctaScroll")}</p>
+        <p className="opacity-70 mb-6 max-w-md mx-auto">{t("ctaSub")}</p>
+        <NewsletterSignup compact />
+        <nav className="mt-10 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm">
+          <Link href="/" className="opacity-60 hover:opacity-100">{tRoot("home.browse")}</Link>
+          <Link href="/hall-of-fame" className="opacity-60 hover:opacity-100">{tRoot("nav.halloffame")}</Link>
+          <Link href="/methodology" className="opacity-60 hover:opacity-100">{tRoot("nav.methodology")}</Link>
+        </nav>
       </section>
     </div>
   );
