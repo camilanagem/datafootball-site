@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 type State = "idle" | "loading" | "success" | "error";
 
@@ -75,8 +76,13 @@ export function NewsletterSignup({ compact = false }: { compact?: boolean }) {
           <h2 className="font-serif text-2xl md:text-3xl leading-tight mb-3">
             {t("title")}
           </h2>
-          <p className="text-sm md:text-base opacity-70 mb-6 max-w-md">
+          <p className="text-sm md:text-base opacity-70 mb-4 max-w-md">
             {t("subtitle")}
+          </p>
+          <p className="mb-6">
+            <Link href="/insights" className="text-sm underline underline-offset-4 opacity-70 hover:opacity-100">
+              {t("sample")}
+            </Link>
           </p>
           {formBlock}
         </div>
