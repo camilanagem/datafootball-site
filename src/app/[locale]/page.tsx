@@ -39,6 +39,12 @@ function Home() {
         </p>
       </section>
 
+      {/* TESE DA MARCA — engajamento ≠ seguidores */}
+      <Link href="/engagement" className="group block mb-12 md:mb-16 rounded-xl border border-current/20 px-6 py-5 hover:bg-current/5 transition text-center">
+        <span className="font-serif text-xl md:text-2xl">{t("whyEngagement.title")}</span>
+        <span className="ml-3 opacity-40 group-hover:opacity-80">→</span>
+      </Link>
+
       {/* COMO FUNCIONA — antes do calendário: explica o índice antes de navegar */}
       <section className="mb-14 md:mb-20">
         <h2 className="font-serif text-3xl md:text-4xl text-center mb-8 md:mb-10">{t("home.howTitle")}</h2>

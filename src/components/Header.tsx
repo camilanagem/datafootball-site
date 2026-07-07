@@ -12,6 +12,7 @@ export function Header() {
   const navItems = [
     { href: "/", label: t("home") },
     { href: "/insights", label: t("insights") },
+    { href: "/engagement", label: t("engagement") },
     { href: "/hall-of-fame", label: t("halloffame") },
     // diretório (menos "destino" que índice/editorial/recordes) vai depois
     ...(isTournament

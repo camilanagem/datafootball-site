@@ -16,7 +16,8 @@
     "about": "Sobre",
     "nationalTeams": "Seleções",
     "clubsTracked": "{count} clubes no índice",
-    "insights": "Insights"
+    "insights": "Insights",
+    "engagement": "Engajamento"
   },
   "home": {
     "selectDay": "Ranking diário — escolha uma data e veja os conteúdos campeões.",
@@ -147,6 +148,16 @@
     "lead": "Total de aparições somadas em todos os relatórios — qual liga aparece mais.",
     "clubsN": "{count} clubes",
     "top": "líder"
+  },
+  "whyEngagement": {
+    "title": "Engajamento ≠ Seguidores",
+    "lead": "Rankeamos o futebol por quanto a torcida engaja — não pelo tamanho da audiência. As duas tabelas quase não se cruzam.",
+    "byEngagement": "Por engajamento",
+    "byEngagementSub": "quem a torcida mais sentiu · ER médio",
+    "byPopularity": "Por popularidade",
+    "byPopularitySub": "quem teve o maior pico de curtidas",
+    "punchline": "Só {overlap} de 10 aparecem nas duas listas. Ser visto não é ser sentido.",
+    "cta": "É isso que a gente mede — todo dia."
   },
   "about": {
     "title": "Sobre",

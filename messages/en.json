@@ -16,7 +16,8 @@
     "about": "About",
     "nationalTeams": "National Teams",
     "clubsTracked": "{count} clubs tracked",
-    "insights": "Insights"
+    "insights": "Insights",
+    "engagement": "Engagement"
   },
   "home": {
     "selectDay": "Daily ranking — pick a date and see the winning posts.",
@@ -147,6 +148,16 @@
     "lead": "Total appearances across every report — which league shows up the most.",
     "clubsN": "{count} clubs",
     "top": "top"
+  },
+  "whyEngagement": {
+    "title": "Engagement ≠ Followers",
+    "lead": "We rank football by how hard fans engage — not by audience size. The two tables barely overlap.",
+    "byEngagement": "By engagement",
+    "byEngagementSub": "who fans felt most · avg ER",
+    "byPopularity": "By popularity",
+    "byPopularitySub": "who got the biggest like spike",
+    "punchline": "Only {overlap} of 10 appear on both lists. Being seen isn't being felt.",
+    "cta": "This is what we measure — every day."
   },
   "about": {
     "title": "About",

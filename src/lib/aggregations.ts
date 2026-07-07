@@ -129,6 +129,37 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
   return out;
 }
 
+export type EngPopRow = { handle: string; club: string; flag: string; er: number; likes: number };
+
+// A tese da marca: engajamento ≠ popularidade. Retorna os top-10 por ER médio
+// (os "sentidos") vs os top-10 por pico de curtidas (os "vistos") — normalmente
+// listas quase disjuntas. isNT filtra seleção vs clube (edição atual).
+export function engagementVsPopularity(isNT: boolean): { byEngagement: EngPopRow[]; byPopularity: EngPopRow[]; overlap: number } {
+  const stats: Record<string, { club: string; flag: string; liga: string; erSum: number; erN: number; peakLikes: number }> = {};
+  for (const r of getAllReports()) {
+    for (const c of r.carousels) {
+      for (const p of c.posts) {
+        const key = canonicalHandle(p.handle);
+        const s = stats[key] || (stats[key] = { club: p.club, flag: p.flag, liga: p.liga, erSum: 0, erN: 0, peakLikes: 0 });
+        if (c.ranking === "er" && p.metric_value.includes("%")) {
+          const v = parseFloat(p.metric_value);
+          if (!isNaN(v)) { s.erSum += v; s.erN += 1; }
+        }
+        const l = p.extra?.likes ?? 0;
+        if (l > s.peakLikes) s.peakLikes = l;
+      }
+    }
+  }
+  const rows = Object.entries(stats)
+    .filter(([, s]) => isNationalTeam(s.liga) === isNT && s.erN > 0)
+    .map(([handle, s]) => ({ handle, club: s.club, flag: s.flag, er: s.erSum / s.erN, likes: s.peakLikes }));
+  const byEngagement = [...rows].sort((a, b) => b.er - a.er).slice(0, 10);
+  const byPopularity = [...rows].sort((a, b) => b.likes - a.likes).slice(0, 10);
+  const popSet = new Set(byPopularity.map((r) => r.handle));
+  const overlap = byEngagement.filter((r) => popSet.has(r.handle)).length;
+  return { byEngagement, byPopularity, overlap };
+}
+
 export type LeagueAggregate = {
   liga: string;
   flag: string;
