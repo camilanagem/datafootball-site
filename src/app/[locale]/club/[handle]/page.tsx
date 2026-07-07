@@ -2,7 +2,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
 import type { Metadata } from "next";
-import { aggregateByClub } from "@/lib/aggregations";
+import { aggregateByClub, erTimeSeries } from "@/lib/aggregations";
 import { Cover } from "@/components/Cover";
 import { isNationalTeam } from "@/lib/edition";
 
@@ -42,6 +42,19 @@ export default async function ClubPage({
   for (const a of club.recentAppearances) byDay[a.date] = (byDay[a.date] || 0) + 1;
   const trend = Object.entries(byDay).sort((x, y) => x[0].localeCompare(y[0])).slice(-12);
   const maxDay = Math.max(...trend.map(([, n]) => n), 1);
+
+  // ER: série do time + percentil entre os pares (top X%)
+  const allEr = erTimeSeries(isNT);
+  const avgOf = (s: { series: { er: number }[] }) => s.series.reduce((a, p) => a + p.er, 0) / s.series.length;
+  const mineEr = allEr.find((s) => s.handle === handle);
+  let erPct = 0, avgEr = 0, erMax = 1;
+  if (mineEr) {
+    const ranked = allEr.map((s) => ({ h: s.handle, a: avgOf(s) })).sort((x, y) => y.a - x.a);
+    const idx = ranked.findIndex((r) => r.h === handle);
+    avgEr = ranked[idx].a;
+    erPct = Math.ceil(((idx + 1) / ranked.length) * 100);
+    erMax = Math.max(...mineEr.series.map((p) => p.er), 1);
+  }
 
   return (
     <div className="max-w-3xl mx-auto px-6 py-12">
@@ -92,6 +105,24 @@ export default async function ClubPage({
               />
             ))}
           </div>
+        </section>
+      )}
+
+      {mineEr && mineEr.series.length > 1 && (
+        <section className="mb-10">
+          <div className="flex items-baseline justify-between gap-4 mb-3">
+            <div className="text-xs uppercase tracking-widest opacity-50">{t("club.erTrend")}</div>
+            <div className="text-sm whitespace-nowrap">
+              <span className="font-serif text-lg">{t("club.topPct", { pct: erPct })}</span>
+              <span className="opacity-50 ml-2 tabular-nums">{avgEr.toFixed(1)}% {t("club.avgEr")}</span>
+            </div>
+          </div>
+          <svg viewBox="0 0 320 60" className="w-full h-14" preserveAspectRatio="none">
+            <polyline
+              points={mineEr.series.map((p, i) => `${(i / (mineEr!.series.length - 1)) * 320},${58 - (p.er / erMax) * 54}`).join(" ")}
+              fill="none" stroke="currentColor" strokeWidth={2} vectorEffect="non-scaling-stroke" strokeOpacity={0.85}
+            />
+          </svg>
         </section>
       )}
 
