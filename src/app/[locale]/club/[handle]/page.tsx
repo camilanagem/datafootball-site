@@ -101,7 +101,7 @@ export default async function ClubPage({
       </section>
 
       <section className="mb-12 rounded-xl border border-current/15 overflow-hidden">
-        <div className="flex items-center px-4 py-2 text-[10px] uppercase tracking-widest opacity-50 border-b border-current/10">
+        <div className="flex items-center px-4 py-2 text-[10px] uppercase tracking-widest opacity-60 border-b border-current/10">
           <span className="flex-1 font-bold opacity-100">{t("club.best")}</span>
           <span className="w-24 text-right">{t("club.engagement")}</span>
           <span className="w-24 text-right">{t("club.mostLikes")}</span>

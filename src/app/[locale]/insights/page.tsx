@@ -48,8 +48,11 @@ export async function generateMetadata({
   return {
     title: `Insights · ${data.week.label}`,
     description: data.manchete,
-    alternates: { canonical: `${path}/insights` },
-    openGraph: { title: `Insights · ${data.week.label}`, description: data.manchete, images: ["/og.png"] },
+    alternates: {
+      canonical: `https://datafootball.co${path}/insights`,
+      languages: { en: "https://datafootball.co/insights", pt: "https://datafootball.co/pt/insights", es: "https://datafootball.co/es/insights" },
+    },
+    openGraph: { title: `Insights · ${data.week.label}`, description: data.manchete, images: ["https://datafootball.co/og.png"] },
   };
 }
 

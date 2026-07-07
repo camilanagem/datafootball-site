@@ -66,7 +66,7 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
 
       <div className="grid grid-cols-7 gap-px bg-current/15 border border-current/15 rounded-xl overflow-hidden">
         {weekdays.map((w, i) => (
-          <div key={i} className="bg-[var(--background)] text-center text-[10px] uppercase tracking-widest opacity-50 py-2">
+          <div key={i} className="bg-[var(--background)] text-center text-[10px] uppercase tracking-widest opacity-60 py-2">
             {w}
           </div>
         ))}

@@ -85,7 +85,7 @@ function metricNum(v: string): number {
 function StatTile({ label, value, sub, href }: { label: string; value: string; sub: string; href?: string }) {
   const inner = (
     <>
-      <div className="text-[10px] uppercase tracking-widest opacity-50 mb-1">{label}</div>
+      <div className="text-[10px] uppercase tracking-widest opacity-60 mb-1">{label}</div>
       <div className="font-serif text-2xl leading-none mb-1">{value}</div>
       <div className="text-xs opacity-50 truncate">{sub}</div>
     </>

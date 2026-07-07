@@ -55,7 +55,7 @@ export function PostCard({
       href={post.url}
       target="_blank"
       rel="noopener"
-      className="group block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition-all"
+      className="group block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition"
     >
       <div className="relative aspect-[4/3] bg-current/5">
         <Cover src={post.cover_url} className="w-full h-full object-cover" />
@@ -74,7 +74,7 @@ export function PostCard({
             <span className="font-serif text-2xl leading-none block" style={{ color: accentColor }}>
               {String(post.posicao).padStart(2, "0")}
             </span>
-            <span className="text-[10px] uppercase tracking-widest opacity-50 block">
+            <span className="text-[10px] uppercase tracking-widest opacity-60 block">
               {posLabel}
             </span>
           </div>
@@ -95,7 +95,7 @@ export function PostCard({
           <div className="mt-3 pt-3 border-t border-current/10 flex gap-4">
             {metrics.map(m => (
               <div key={m.label}>
-                <div className="text-[10px] uppercase tracking-wider opacity-40">{m.label}</div>
+                <div className="text-[10px] uppercase tracking-wider opacity-60">{m.label}</div>
                 <div className="text-sm font-medium">{m.value}</div>
               </div>
             ))}

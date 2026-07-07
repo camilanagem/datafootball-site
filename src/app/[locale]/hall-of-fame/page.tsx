@@ -93,11 +93,11 @@ export default async function HallOfFamePage({
                 <span className="flex-1 min-w-0 font-serif truncate">{c.club}</span>
                 <span className="w-16 text-right shrink-0">
                   <span className="block font-serif text-lg tabular-nums leading-none">{c.topOnes}</span>
-                  <span className="block text-[9px] uppercase tracking-wide opacity-40 mt-0.5">{t("standings.firsts")}</span>
+                  <span className="block text-[9px] uppercase tracking-wide opacity-60 mt-0.5">{t("standings.firsts")}</span>
                 </span>
                 <span className="w-20 text-right shrink-0">
                   <span className="block font-serif text-lg tabular-nums leading-none">{c.appearances}</span>
-                  <span className="block text-[9px] uppercase tracking-wide opacity-40 mt-0.5">{t("club.appearances")}</span>
+                  <span className="block text-[9px] uppercase tracking-wide opacity-60 mt-0.5">{t("club.appearances")}</span>
                 </span>
               </Link>
             ))}
