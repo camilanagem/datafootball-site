@@ -11,14 +11,15 @@ export function Header() {
 
   const navItems = [
     { href: "/", label: t("home") },
+    { href: "/insights", label: t("insights") },
+    { href: "/hall-of-fame", label: t("halloffame") },
+    // diretório (menos "destino" que índice/editorial/recordes) vai depois
     ...(isTournament
       ? [{ href: "/national-teams", label: t("nationalTeams") }]
       : [
           { href: "/clubs", label: t("clubs") },
           { href: "/leagues", label: t("leagues") },
         ]),
-    { href: "/insights", label: t("insights") },
-    { href: "/hall-of-fame", label: t("halloffame") },
     { href: "/methodology", label: t("methodology") },
     { href: "/about", label: t("about") },
   ];
