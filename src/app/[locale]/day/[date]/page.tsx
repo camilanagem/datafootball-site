@@ -29,7 +29,7 @@ export async function generateMetadata({
     title,
     description,
     alternates: { canonical: `${path}/day/${date}` },
-    openGraph: { title, description, images: ["/og.png"] },
+    openGraph: { title, description },  // og:image vem do opengraph-image.tsx (dinâmico)
   };
 }
 

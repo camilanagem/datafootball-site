@@ -52,7 +52,7 @@ export async function generateMetadata({
       canonical: `https://datafootball.co${path}/insights`,
       languages: { en: "https://datafootball.co/insights", pt: "https://datafootball.co/pt/insights", es: "https://datafootball.co/es/insights" },
     },
-    openGraph: { title: `Insights · ${data.week.label}`, description: data.manchete, images: ["https://datafootball.co/og.png"] },
+    openGraph: { title: `Insights · ${data.week.label}`, description: data.manchete },  // og:image vem do opengraph-image.tsx
   };
 }
 
