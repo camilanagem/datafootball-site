@@ -17,7 +17,8 @@
     "nationalTeams": "Seleções",
     "clubsTracked": "{count} clubes no índice",
     "insights": "Insights",
-    "engagement": "Engajamento"
+    "engagement": "Engajamento",
+    "compare": "Comparar"
   },
   "home": {
     "selectDay": "Ranking diário — escolha uma data e veja os conteúdos campeões.",
@@ -32,7 +33,8 @@
     "step2Body": "Curtidas, comentários, views e compartilhamentos — pesos iguais, taxas padrão de mercado. Sem multiplicador secreto.",
     "step3Title": "Publicamos o índice",
     "step3Body": "Os melhores posts viram o ranking do dia — aqui no site e no @datafootball__.",
-    "browse": "Explore o índice"
+    "browse": "Explore o índice",
+    "topToday": "Top de engajamento"
   },
   "thisWeek": {
     "title": "Esta semana",
@@ -158,6 +160,11 @@
     "byPopularitySub": "quem teve o maior pico de curtidas",
     "punchline": "Só {overlap} de 10 aparecem nas duas listas. Ser visto não é ser sentido.",
     "cta": "É isso que a gente mede — todo dia."
+  },
+  "compare": {
+    "title": "Comparar times",
+    "lead": "Escolha times e veja o engajamento ao longo do tempo — o que nenhuma conta de popularidade mostra.",
+    "pick": "Escolha ao menos um time."
   },
   "about": {
     "title": "Sobre",

@@ -13,6 +13,7 @@ export function Header() {
     { href: "/", label: t("home") },
     { href: "/insights", label: t("insights") },
     { href: "/engagement", label: t("engagement") },
+    { href: "/compare", label: t("compare") },
     { href: "/hall-of-fame", label: t("halloffame") },
     // diretório (menos "destino" que índice/editorial/recordes) vai depois
     ...(isTournament

@@ -160,6 +160,38 @@ export function engagementVsPopularity(isNT: boolean): { byEngagement: EngPopRow
   return { byEngagement, byPopularity, overlap };
 }
 
+export type TeamSeries = { handle: string; club: string; flag: string; series: { date: string; er: number }[] };
+
+// Série temporal de ER (por followers, fotos+reels) por time — pra ferramenta de
+// comparação. Só times com ≥3 pontos. isNT filtra seleção vs clube.
+export function erTimeSeries(isNT: boolean): TeamSeries[] {
+  const map: Record<string, { club: string; flag: string; liga: string; byDate: Record<string, { sum: number; n: number }> }> = {};
+  for (const r of getAllReports()) {
+    for (const c of r.carousels) {
+      if (c.ranking !== "er" || c.kind === "tiktok") continue; // ER por followers, consistente
+      for (const p of c.posts) {
+        const v = parseFloat(p.metric_value);
+        if (isNaN(v)) continue;
+        const key = canonicalHandle(p.handle);
+        const s = map[key] || (map[key] = { club: p.club, flag: p.flag, liga: p.liga, byDate: {} });
+        const d = s.byDate[r.date] || (s.byDate[r.date] = { sum: 0, n: 0 });
+        d.sum += v; d.n += 1;
+      }
+    }
+  }
+  const out: TeamSeries[] = [];
+  for (const [handle, s] of Object.entries(map)) {
+    if (isNationalTeam(s.liga) !== isNT) continue;
+    const series = Object.entries(s.byDate)
+      .map(([date, { sum, n }]) => ({ date, er: sum / n }))
+      .sort((a, b) => a.date.localeCompare(b.date))
+      .slice(-40);
+    if (series.length >= 3) out.push({ handle, club: s.club, flag: s.flag, series });
+  }
+  out.sort((a, b) => a.club.localeCompare(b.club));
+  return out;
+}
+
 export type LeagueAggregate = {
   liga: string;
   flag: string;

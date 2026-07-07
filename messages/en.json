@@ -17,7 +17,8 @@
     "nationalTeams": "National Teams",
     "clubsTracked": "{count} clubs tracked",
     "insights": "Insights",
-    "engagement": "Engagement"
+    "engagement": "Engagement",
+    "compare": "Compare"
   },
   "home": {
     "selectDay": "Daily ranking — pick a date and see the winning posts.",
@@ -32,7 +33,8 @@
     "step2Body": "Likes, comments, views and shares — equal weights, market-standard rates. No secret multipliers.",
     "step3Title": "We publish the index",
     "step3Body": "The best posts become the daily ranking — here on the site and on @datafootball__.",
-    "browse": "Browse the index"
+    "browse": "Browse the index",
+    "topToday": "Top engagement"
   },
   "thisWeek": {
     "title": "This week",
@@ -158,6 +160,11 @@
     "byPopularitySub": "who got the biggest like spike",
     "punchline": "Only {overlap} of 10 appear on both lists. Being seen isn't being felt.",
     "cta": "This is what we measure — every day."
+  },
+  "compare": {
+    "title": "Compare teams",
+    "lead": "Pick teams and watch engagement over time — what no popularity account shows you.",
+    "pick": "Pick at least one team."
   },
   "about": {
     "title": "About",

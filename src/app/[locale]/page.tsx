@@ -2,7 +2,7 @@ import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { CalendarHeatmap } from "@/components/CalendarHeatmap";
-import { getCalendarDays } from "@/lib/data";
+import { getCalendarDays, getAvailableDays, getDayReport } from "@/lib/data";
 import { getEdition } from "@/lib/edition";
 import { getThisWeek } from "@/lib/momentum";
 import { Cover } from "@/components/Cover";
@@ -11,10 +11,10 @@ import { PostsCounter } from "@/components/PostsCounter";
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <Home />;
+  return <Home locale={locale} />;
 }
 
-function Home() {
+function Home({ locale }: { locale: string }) {
   const t = useTranslations();
   const days = getCalendarDays();
   const initialMonth = days[0]
@@ -22,6 +22,26 @@ function Home() {
     : new Date();
   const { isTournament, accountCount } = getEdition();
   const week = getThisWeek();
+
+  // o #1 do dia mais recente (maior ER entre os carrosséis de engajamento do IG)
+  const latestDate = getAvailableDays()[0];
+  const latestReport = latestDate ? getDayReport(latestDate) : null;
+  let winner: { club: string; flag: string; cover_url?: string; metric_value: string } | null = null;
+  let wv = 0;
+  if (latestReport) {
+    for (const c of latestReport.carousels) {
+      if (c.ranking !== "er" || c.kind === "tiktok") continue;
+      for (const p of c.posts) {
+        const v = parseFloat(p.metric_value);
+        if (!isNaN(v) && v > wv) { wv = v; winner = p; }
+      }
+    }
+  }
+  const winnerDate = latestDate
+    ? new Date(`${latestDate}T00:00:00`).toLocaleDateString(
+        locale === "pt" ? "pt-BR" : locale === "es" ? "es-ES" : "en-US",
+        { day: "2-digit", month: "short", year: "numeric" }).toUpperCase()
+    : "";
 
   return (
     <div className="max-w-6xl mx-auto px-4 md:px-6 py-8 md:py-14">
@@ -38,6 +58,26 @@ function Home() {
           {t("home.statline", { count: accountCount })}
         </p>
       </section>
+
+      {/* HERÓI — o #1 do dia mais recente */}
+      {winner && latestDate && (
+        <Link href={`/day/${latestDate}`} className="group block mb-12 md:mb-16 rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition">
+          <div className="grid sm:grid-cols-[1fr_1.3fr]">
+            <div className="aspect-[4/3] bg-current/5">
+              <Cover src={winner.cover_url} className="w-full h-full object-cover" />
+            </div>
+            <div className="p-6 md:p-8 flex flex-col justify-center">
+              <div className="text-xs uppercase tracking-widest opacity-60 mb-2">{t("home.topToday")} · {winnerDate}</div>
+              <div className="font-serif text-3xl md:text-4xl leading-tight flex items-center gap-2">
+                <span aria-hidden>{winner.flag}</span><span>{winner.club}</span>
+              </div>
+              <div className="font-serif text-2xl md:text-3xl mt-2 tabular-nums">
+                {winner.metric_value} <span className="text-base opacity-50">{t("day.bestER")}</span>
+              </div>
+            </div>
+          </div>
+        </Link>
+      )}
 
       {/* TESE DA MARCA — engajamento ≠ seguidores */}
       <Link href="/engagement" className="group block mb-12 md:mb-16 rounded-xl border border-current/20 px-6 py-5 hover:bg-current/5 transition text-center">
