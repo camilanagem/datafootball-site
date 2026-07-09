@@ -124,7 +124,34 @@
     "dontTitle": "O que não medimos",
     "dontDesc": "Só entra o que é público. Salvamentos ficam de fora (o Instagram não mostra) e os compartilhamentos do Instagram também — no TikTok eles aparecem, então lá contam.",
     "windowTitle": "O que conta como um dia",
-    "windowDesc": "Um dia é um dia inteiro, contado no fuso de cada conta — assim toda equipe tem as mesmas 24 horas, esteja onde estiver."
+    "windowDesc": "Um dia é um dia inteiro, contado no fuso de cada conta — assim toda equipe tem as mesmas 24 horas, esteja onde estiver.",
+    "faqTitle": "Perguntas frequentes",
+    "faq": [
+      {
+        "q": "Qual clube de futebol tem a maior taxa de engajamento no Instagram?",
+        "a": "Muda todo dia. O DataFootball ranqueia diariamente os clubes e seleções de futebol mais engajados por taxa de engajamento — não por número de seguidores — no Instagram e no TikTok. Veja o ranking de hoje na página inicial."
+      },
+      {
+        "q": "O que é taxa de engajamento e como é calculada?",
+        "a": "A taxa de engajamento (ER) mede o quanto o público reage a um post. Para fotos, ER = (curtidas + comentários) ÷ seguidores × 100. Para vídeos e reels, é (curtidas + comentários) ÷ visualizações × 100. No TikTok, os compartilhamentos também entram."
+      },
+      {
+        "q": "Como o DataFootball ranqueia clubes e seleções?",
+        "a": "Todo dia ranqueamos posts públicos por engajamento, curtidas e visualizações no Instagram e no TikTok. Posts patrocinados ficam de fora e cada conta entra no máximo três vezes num top 10, pra um post viral não dominar a lista."
+      },
+      {
+        "q": "Por que ranquear por engajamento e não por seguidores?",
+        "a": "Seguidores medem o tamanho do público; engajamento mede o quanto esse público realmente reage. Um clube menor pode engajar mais que um gigante. O DataFootball ranqueia quem ganha atenção, não quem tem o maior número."
+      },
+      {
+        "q": "Qual seleção ganha nas redes sociais?",
+        "a": "O ranking de seleções é atualizado diariamente, ordenando os times por engajamento, curtidas e visualizações no Instagram e no TikTok."
+      },
+      {
+        "q": "De onde vêm os dados do DataFootball?",
+        "a": "De métricas públicas dos posts (curtidas, comentários, visualizações, compartilhamentos) coletadas todo dia das contas oficiais no Instagram e TikTok dos clubes e seleções que monitoramos."
+      }
+    ]
   },
   "club": {
     "metaTitle": "{club} — engajamento no Instagram e TikTok",

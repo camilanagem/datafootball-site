@@ -124,7 +124,34 @@
     "dontTitle": "What we don't track",
     "dontDesc": "Only public numbers count. Saves are out (Instagram doesn't show them), and so are Instagram shares — on TikTok they're visible, so there they count.",
     "windowTitle": "What counts as a day",
-    "windowDesc": "A day is a full day, measured in each account's own time zone — so every team gets the same 24 hours, wherever they are."
+    "windowDesc": "A day is a full day, measured in each account's own time zone — so every team gets the same 24 hours, wherever they are.",
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Which football club has the highest engagement rate on Instagram?",
+        "a": "It changes every day. DataFootball ranks the most-engaged football clubs and national teams daily by engagement rate — not by follower count — across Instagram and TikTok. See today's ranking on the homepage."
+      },
+      {
+        "q": "What is engagement rate and how is it calculated?",
+        "a": "Engagement rate (ER) measures how much an audience reacts to a post. For photos, ER = (likes + comments) ÷ followers × 100. For videos and reels, it is (likes + comments) ÷ views × 100. On TikTok, shares are also included."
+      },
+      {
+        "q": "How does DataFootball rank clubs and national teams?",
+        "a": "Every day we rank public posts by engagement, likes and views across Instagram and TikTok. Sponsored posts are excluded and each account is capped at three posts in a top 10, so one viral post can't dominate the list."
+      },
+      {
+        "q": "Why rank by engagement instead of followers?",
+        "a": "Followers measure audience size; engagement measures how much that audience actually reacts. A smaller club can out-engage a giant. DataFootball ranks who wins attention, not who has the biggest number."
+      },
+      {
+        "q": "Which national team wins on social media?",
+        "a": "The national teams ranking is updated daily, ordering teams by engagement, likes and views across Instagram and TikTok."
+      },
+      {
+        "q": "Where does DataFootball's data come from?",
+        "a": "From public post metrics (likes, comments, views, shares) collected every day from the official Instagram and TikTok accounts of the clubs and national teams we monitor."
+      }
+    ]
   },
   "club": {
     "metaTitle": "{club} — Instagram & TikTok engagement",

@@ -10,6 +10,8 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { NewsletterPopup } from "@/components/NewsletterPopup";
+import { JsonLd } from "@/components/JsonLd";
+import { organizationLd, websiteLd } from "@/lib/jsonld";
 import "../globals.css";
 
 const inter = Inter({
@@ -100,6 +102,7 @@ export default async function LocaleLayout({
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col">
+        <JsonLd data={[organizationLd(), websiteLd()]} />
         <ThemeProvider>
           <NextIntlClientProvider messages={messages}>
             <Header />

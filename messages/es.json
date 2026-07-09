@@ -124,7 +124,34 @@
     "dontTitle": "Lo que no medimos",
     "dontDesc": "Solo cuenta lo que es público. Los guardados quedan fuera (Instagram no los muestra) y los compartidos de Instagram también — en TikTok sí aparecen, así que ahí cuentan.",
     "windowTitle": "Qué cuenta como un día",
-    "windowDesc": "Un día es un día completo, medido en la zona horaria de cada cuenta — así todos los equipos tienen las mismas 24 horas, estén donde estén."
+    "windowDesc": "Un día es un día completo, medido en la zona horaria de cada cuenta — así todos los equipos tienen las mismas 24 horas, estén donde estén.",
+    "faqTitle": "Preguntas frecuentes",
+    "faq": [
+      {
+        "q": "¿Qué club de fútbol tiene la mayor tasa de interacción en Instagram?",
+        "a": "Cambia cada día. DataFootball clasifica diariamente los clubes y selecciones de fútbol con más interacción por tasa de engagement — no por número de seguidores — en Instagram y TikTok. Mira el ranking de hoy en la página principal."
+      },
+      {
+        "q": "¿Qué es la tasa de interacción y cómo se calcula?",
+        "a": "La tasa de interacción (ER) mide cuánto reacciona la audiencia a una publicación. Para fotos, ER = (me gusta + comentarios) ÷ seguidores × 100. Para vídeos y reels, es (me gusta + comentarios) ÷ visualizaciones × 100. En TikTok también se incluyen los compartidos."
+      },
+      {
+        "q": "¿Cómo clasifica DataFootball a los clubes y selecciones?",
+        "a": "Cada día clasificamos publicaciones públicas por interacción, me gusta y visualizaciones en Instagram y TikTok. Las publicaciones patrocinadas se excluyen y cada cuenta aparece como máximo tres veces en un top 10, para que una publicación viral no domine la lista."
+      },
+      {
+        "q": "¿Por qué clasificar por interacción y no por seguidores?",
+        "a": "Los seguidores miden el tamaño de la audiencia; la interacción mide cuánto reacciona realmente esa audiencia. Un club pequeño puede superar en engagement a un gigante. DataFootball clasifica quién gana atención, no quién tiene el número más grande."
+      },
+      {
+        "q": "¿Qué selección gana en las redes sociales?",
+        "a": "El ranking de selecciones se actualiza a diario, ordenando los equipos por interacción, me gusta y visualizaciones en Instagram y TikTok."
+      },
+      {
+        "q": "¿De dónde vienen los datos de DataFootball?",
+        "a": "De métricas públicas de las publicaciones (me gusta, comentarios, visualizaciones, compartidos) recopiladas cada día de las cuentas oficiales de Instagram y TikTok de los clubes y selecciones que monitoreamos."
+      }
+    ]
   },
   "club": {
     "metaTitle": "{club} — engagement en Instagram y TikTok",

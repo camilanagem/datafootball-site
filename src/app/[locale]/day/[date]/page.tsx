@@ -5,6 +5,8 @@ import { Link } from "@/i18n/navigation";
 import { getDayReport, type Post } from "@/lib/data";
 import { PostCard } from "@/components/PostCard";
 import { getEdition } from "@/lib/edition";
+import { JsonLd } from "@/components/JsonLd";
+import { SITE, datasetLd, breadcrumbLd } from "@/lib/jsonld";
 
 function fmtDate(date: string, locale: string): string {
   return new Date(`${date}T00:00:00`).toLocaleDateString(
@@ -162,7 +164,7 @@ export default async function DayPage({
 
   const totalSlots = report.carousels.length;
 
-  const jsonLd = {
+  const itemListLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: `Most-engaged football posts · ${formatted}`,
@@ -180,9 +182,22 @@ export default async function DayPage({
       .filter(Boolean),
   };
 
+  const path = locale === "en" ? "" : `/${locale}`;
+  const dayUrl = `${SITE.url}${path}/day/${date}`;
+  const datasetJson = datasetLd({
+    name: `Football Instagram & TikTok engagement ranking — ${formatted}`,
+    description: `Ranking of the most-engaged football posts on Instagram and TikTok for ${formatted}, by engagement rate, likes and views. Data by DataFootball.`,
+    url: dayUrl,
+    temporalCoverage: date,
+  });
+  const breadcrumbJson = breadcrumbLd([
+    { name: "DataFootball", url: `${SITE.url}${path}/` },
+    { name: formatted, url: dayUrl },
+  ]);
+
   return (
     <div className="max-w-6xl mx-auto px-6 py-12">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <JsonLd data={[datasetJson, itemListLd, breadcrumbJson]} />
       <Link href="/" className="inline-flex items-center gap-1 text-sm opacity-60 hover:opacity-100 mb-8">
         <ChevronLeft />
         <span>{t("nav.home")}</span>
