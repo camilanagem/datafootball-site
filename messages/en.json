@@ -174,7 +174,9 @@
     "mostLikes": "Most likes",
     "photos": "Photos",
     "reels": "Reels",
-    "tiktok": "TikTok"
+    "tiktok": "TikTok",
+    "summary": "{club} has appeared {appearances} times in DataFootball's football social-media engagement rankings, reaching number one {topOnes} times.",
+    "summaryEr": "Its engagement rate ranks in the top {pct}% of the accounts we track, averaging {avgEr}% across recent posts."
   },
   "leagues": {
     "lead": "Total appearances across every report — which league shows up the most.",

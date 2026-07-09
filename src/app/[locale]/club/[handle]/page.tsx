@@ -5,6 +5,8 @@ import type { Metadata } from "next";
 import { aggregateByClub, erTimeSeries } from "@/lib/aggregations";
 import { Cover } from "@/components/Cover";
 import { isNationalTeam } from "@/lib/edition";
+import { JsonLd } from "@/components/JsonLd";
+import { SITE, datasetLd, breadcrumbLd } from "@/lib/jsonld";
 
 export async function generateMetadata({
   params,
@@ -16,7 +18,12 @@ export async function generateMetadata({
   if (!club) return {};
   const t = await getTranslations({ locale });
   const title = t("club.metaTitle", { club: club.club });
-  const description = t("club.metaDescription", { club: club.club });
+  // descrição rica em dado (citável no snippet do Google e por IA)
+  const description = t("club.summary", {
+    club: club.club,
+    appearances: club.appearances,
+    topOnes: club.topOnes,
+  });
   const path = locale === "en" ? "" : `/${locale}`;
   return {
     title,
@@ -56,13 +63,31 @@ export default async function ClubPage({
     erMax = Math.max(...mineEr.series.map((p) => p.er), 1);
   }
 
+  // structured data por entidade (Dataset + Breadcrumb) — dado citável por entidade
+  const path = locale === "en" ? "" : `/${locale}`;
+  const clubUrl = `${SITE.url}${path}/club/${handle}`;
+  const dates = club.recentAppearances.map((a) => a.date).sort();
+  const coverage = dates.length ? `${dates[0]}/${dates[dates.length - 1]}` : "";
+  const datasetJson = datasetLd({
+    name: `${club.club} — football social media engagement statistics`,
+    description: `${club.club} (@${club.handle}) engagement rate, likes, best posts and daily ranking history on Instagram and TikTok, tracked by DataFootball.`,
+    url: clubUrl,
+    temporalCoverage: coverage,
+  });
+  const breadcrumbJson = breadcrumbLd([
+    { name: "DataFootball", url: `${SITE.url}${path}/` },
+    { name: isNT ? "National teams" : "Clubs", url: `${SITE.url}${path}/${isNT ? "national-teams" : "clubs"}` },
+    { name: club.club, url: clubUrl },
+  ]);
+
   return (
     <div className="max-w-3xl mx-auto px-6 py-12">
+      <JsonLd data={[datasetJson, breadcrumbJson]} />
       <Link href={isNT ? "/national-teams" : "/clubs"} className="text-sm opacity-60 hover:opacity-100 mb-6 inline-block">
         ← {t(isNT ? "nav.nationalTeams" : "nav.clubs")}
       </Link>
 
-      <header className="mb-10 border-b border-current/15 pb-8">
+      <header className="mb-6 border-b border-current/15 pb-8">
         <div className="text-xs uppercase tracking-widest opacity-60 mb-2 flex items-center gap-2">
           <span>{club.flag}</span>
           <span>{club.liga}</span>
@@ -72,6 +97,12 @@ export default async function ClubPage({
           <span>@{club.handle}</span>
         </p>
       </header>
+
+      {/* frase citável — fato de entidade que a IA extrai e o Google usa no snippet */}
+      <p className="mb-10 text-base opacity-75 leading-relaxed">
+        {t("club.summary", { club: club.club, appearances: club.appearances, topOnes: club.topOnes })}
+        {mineEr ? " " + t("club.summaryEr", { pct: erPct, avgEr: avgEr.toFixed(1) }) : ""}
+      </p>
 
       {club.bestPost && (
         <a

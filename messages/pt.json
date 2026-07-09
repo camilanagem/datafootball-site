@@ -174,7 +174,9 @@
     "mostLikes": "Mais curtidas",
     "photos": "Fotos",
     "reels": "Reels",
-    "tiktok": "TikTok"
+    "tiktok": "TikTok",
+    "summary": "{club} apareceu {appearances} vezes nos rankings de engajamento de futebol do DataFootball, chegando ao primeiro lugar {topOnes} vezes.",
+    "summaryEr": "Sua taxa de engajamento está no top {pct}% das contas que acompanhamos, com média de {avgEr}% nos posts recentes."
   },
   "leagues": {
     "lead": "Total de aparições somadas em todos os relatórios — qual liga aparece mais.",
