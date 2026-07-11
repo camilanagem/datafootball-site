@@ -130,7 +130,7 @@
     "faq": [
       {
         "q": "Which football club has the highest engagement rate on Instagram?",
-        "a": "It changes every day. DataFootball ranks the most-engaged football clubs and national teams daily by engagement rate — not by follower count — across Instagram and TikTok. See today's ranking on the homepage."
+        "a": "It changes every day. DataFootball ranks the football clubs and national teams whose content works best each day — by engagement rate, likes and views across Instagram and TikTok. See today's ranking on the homepage."
       },
       {
         "q": "What is engagement rate and how is it calculated?",
@@ -142,7 +142,7 @@
       },
       {
         "q": "Why rank by engagement instead of followers?",
-        "a": "Followers measure audience size; engagement measures how much that audience actually reacts. A smaller club can out-engage a giant. DataFootball ranks who wins attention, not who has the biggest number."
+        "a": "Because engagement is what shows the content actually working — how much the audience likes, comments and shares, not just how many follow. It's the standard rate the whole industry uses, so any account compares fairly to any other, big or small."
       },
       {
         "q": "Which national team wins on social media?",
@@ -186,12 +186,12 @@
   },
   "compare": {
     "title": "Compare teams",
-    "lead": "Pick teams and watch engagement over time — what no popularity account shows you.",
+    "lead": "Pick teams and watch their engagement over time — see whose content actually works.",
     "pick": "Pick at least one team."
   },
   "about": {
     "title": "About",
-    "lead": "We rank football by real engagement — not by follower count. Every day.",
+    "lead": "We show the football content that works — every day.",
     "p1": "Every day we look at the biggest football accounts on Instagram and TikTok and see which posts the fans actually got behind — clubs in season, national teams during the big tournaments. No opinions, no takes: the ranking is what the audience did, not what we think.",
     "p2": "We count likes, comments, views and shares at equal weight, the same way the industry measures it — no secret formula. The math behind every number is all there on the methodology page.",
     "p3": "Every number comes from what's public on the post itself. We never guess or use private data — only what anyone can see and check.",

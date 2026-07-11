@@ -22,7 +22,7 @@ export default async function Image() {
         </div>
         <div style={{ display: "flex", fontSize: 62, lineHeight: 1.12 }}>{manchete}</div>
         <div style={{ display: "flex", fontSize: 26, opacity: 0.5 }}>
-          datafootball.co — engagement, not followers
+          datafootball.co — the football content that works
         </div>
       </div>
     ),

@@ -45,11 +45,11 @@ export default async function Image({ params }: { params: Promise<{ date: string
             {club ? "TOP ENGAGEMENT OF THE DAY" : "DAILY ENGAGEMENT RANKING"}
           </div>
           <div style={{ fontSize: club ? 108 : 76, lineHeight: 1.02 }}>
-            {club || "Football, ranked by engagement."}
+            {club || "The football content that works."}
           </div>
           {metric && <div style={{ fontSize: 60, opacity: 0.85, marginTop: 16 }}>{metric}</div>}
         </div>
-        <div style={{ fontSize: 26, opacity: 0.5 }}>datafootball.co — engagement, not followers</div>
+        <div style={{ fontSize: 26, opacity: 0.5 }}>datafootball.co — the football content that works</div>
       </div>
     ),
     { ...size, fonts: [{ name: "Geist", data: font, style: "normal", weight: 400 }] },

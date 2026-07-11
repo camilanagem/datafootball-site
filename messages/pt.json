@@ -130,7 +130,7 @@
     "faq": [
       {
         "q": "Qual clube de futebol tem a maior taxa de engajamento no Instagram?",
-        "a": "Muda todo dia. O DataFootball ranqueia diariamente os clubes e seleções de futebol mais engajados por taxa de engajamento — não por número de seguidores — no Instagram e no TikTok. Veja o ranking de hoje na página inicial."
+        "a": "Muda todo dia. O DataFootball ranqueia diariamente os clubes e seleções cujo conteúdo mais funciona — por taxa de engajamento, curtidas e views no Instagram e no TikTok. Veja o ranking de hoje na página inicial."
       },
       {
         "q": "O que é taxa de engajamento e como é calculada?",
@@ -142,7 +142,7 @@
       },
       {
         "q": "Por que ranquear por engajamento e não por seguidores?",
-        "a": "Seguidores medem o tamanho do público; engajamento mede o quanto esse público realmente reage. Um clube menor pode engajar mais que um gigante. O DataFootball ranqueia quem ganha atenção, não quem tem o maior número."
+        "a": "Porque o engajamento é o que mostra o conteúdo funcionando de verdade — o quanto o público curte, comenta e compartilha, não só quantos seguem. É a taxa padrão que o mercado usa, então dá pra comparar qualquer conta com outra, grande ou pequena."
       },
       {
         "q": "Qual seleção ganha nas redes sociais?",
@@ -186,12 +186,12 @@
   },
   "compare": {
     "title": "Comparar times",
-    "lead": "Escolha times e veja o engajamento ao longo do tempo — o que nenhuma conta de popularidade mostra.",
+    "lead": "Escolha times e acompanhe o engajamento ao longo do tempo — veja qual conteúdo funciona de verdade.",
     "pick": "Escolha ao menos um time."
   },
   "about": {
     "title": "Sobre",
-    "lead": "Rankeamos o futebol pelo engajamento de verdade — não por número de seguidores. Todo dia.",
+    "lead": "Mostramos o conteúdo de futebol que funciona — todo dia.",
     "p1": "Todo dia olhamos as maiores contas de futebol do Instagram e do TikTok e vemos quais posts a torcida mais abraçou — clubes na temporada, seleções nos grandes torneios. Sem opinião nem palpite: o ranking mostra o que o público fez, não o que a gente acha.",
     "p2": "Contamos curtidas, comentários, views e compartilhamentos com peso igual, do mesmo jeito que o mercado mede — sem fórmula secreta. A conta por trás de cada número está toda aberta na metodologia.",
     "p3": "Todo número vem do que é público no próprio post. Nunca chutamos nem usamos dado privado — só o que qualquer um consegue ver e conferir.",

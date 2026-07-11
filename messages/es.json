@@ -130,7 +130,7 @@
     "faq": [
       {
         "q": "¿Qué club de fútbol tiene la mayor tasa de interacción en Instagram?",
-        "a": "Cambia cada día. DataFootball clasifica diariamente los clubes y selecciones de fútbol con más interacción por tasa de engagement — no por número de seguidores — en Instagram y TikTok. Mira el ranking de hoy en la página principal."
+        "a": "Cambia cada día. DataFootball clasifica diariamente los clubes y selecciones cuyo contenido mejor funciona — por tasa de engagement, likes y views en Instagram y TikTok. Mira el ranking de hoy en la página principal."
       },
       {
         "q": "¿Qué es la tasa de interacción y cómo se calcula?",
@@ -142,7 +142,7 @@
       },
       {
         "q": "¿Por qué clasificar por interacción y no por seguidores?",
-        "a": "Los seguidores miden el tamaño de la audiencia; la interacción mide cuánto reacciona realmente esa audiencia. Un club pequeño puede superar en engagement a un gigante. DataFootball clasifica quién gana atención, no quién tiene el número más grande."
+        "a": "Porque la interacción es lo que muestra que el contenido realmente funciona — cuánto le da like, comenta y comparte la audiencia, no solo cuántos siguen. Es la tasa estándar que usa el mercado, así cualquier cuenta se compara de forma justa con otra, grande o pequeña."
       },
       {
         "q": "¿Qué selección gana en las redes sociales?",
@@ -186,12 +186,12 @@
   },
   "compare": {
     "title": "Comparar equipos",
-    "lead": "Elige equipos y mira el engagement a lo largo del tiempo — lo que ninguna cuenta de popularidad te muestra.",
+    "lead": "Elige equipos y sigue el engagement a lo largo del tiempo — mira qué contenido funciona de verdad.",
     "pick": "Elige al menos un equipo."
   },
   "about": {
     "title": "Acerca",
-    "lead": "Rankeamos el fútbol por el engagement de verdad — no por número de seguidores. Cada día.",
+    "lead": "Mostramos el contenido de fútbol que funciona — cada día.",
     "p1": "Cada día miramos las cuentas de fútbol más grandes en Instagram y TikTok y vemos qué posts la afición realmente abrazó — clubes en temporada, selecciones en los grandes torneos. Sin opiniones ni hot takes: el ranking es lo que hizo el público, no lo que pensamos nosotros.",
     "p2": "Contamos likes, comentarios, views y compartidos con peso igual, igual que lo mide el mercado — sin fórmula secreta. El cálculo detrás de cada número está todo abierto en la metodología.",
     "p3": "Cada número viene de lo que es público en el propio post. Nunca adivinamos ni usamos datos privados — solo lo que cualquiera puede ver y verificar.",
