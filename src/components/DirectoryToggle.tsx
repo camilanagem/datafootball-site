@@ -23,7 +23,7 @@ export async function DirectoryToggle({ current }: { current: "clubs" | "teams" 
             className={
               "px-4 py-1.5 rounded-full transition " +
               (active
-                ? "bg-current/90 text-[var(--background)]"
+                ? "bg-[var(--foreground)] text-[var(--background)]"
                 : "opacity-60 hover:opacity-100")
             }
           >
