@@ -3,6 +3,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { aggregateByClub } from "@/lib/aggregations";
 import { CONFEDERATIONS } from "@/lib/edition";
+import { DirectoryToggle } from "@/components/DirectoryToggle";
 
 const CONFED_ORDER = ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"];
 
@@ -55,8 +56,8 @@ export default async function NationalTeamsPage({
   return (
     <div className="max-w-5xl mx-auto px-6 py-12">
       <header className="mb-12 border-b border-current/15 pb-8">
-        <div className="text-xs uppercase tracking-widest opacity-60 mb-2">{t("nav.nationalTeams")}</div>
-        <h1 className="font-serif text-4xl md:text-6xl leading-none">{t("nationalTeams.title")}</h1>
+        <DirectoryToggle current="teams" />
+        <h1 className="font-serif text-4xl md:text-6xl leading-none mt-5">{t("nationalTeams.title")}</h1>
         <p className="mt-3 max-w-xl opacity-70">{t("nationalTeams.lead")}</p>
         <p className="mt-1 text-sm opacity-50">{t("nationalTeams.count", { count: teams.length })}</p>
       </header>

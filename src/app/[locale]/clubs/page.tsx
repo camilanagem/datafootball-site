@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { aggregateByClub } from "@/lib/aggregations";
 import { isNationalTeam } from "@/lib/edition";
+import { DirectoryToggle } from "@/components/DirectoryToggle";
 
 export default async function ClubsPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -20,9 +21,12 @@ export default async function ClubsPage({ params }: { params: Promise<{ locale: 
   return (
     <div className="max-w-5xl mx-auto px-6 py-12">
       <header className="mb-12 border-b border-current/15 pb-8">
-        <div className="text-xs uppercase tracking-widest opacity-60 mb-2">{t("nav.clubs")}</div>
-        <h1 className="font-serif text-4xl md:text-6xl leading-none">{t("nav.clubs")}</h1>
+        <DirectoryToggle current="clubs" />
+        <h1 className="font-serif text-4xl md:text-6xl leading-none mt-5">{t("nav.clubs")}</h1>
         <p className="mt-3 opacity-70">{t("nav.clubsTracked", { count: clubs.length })}</p>
+        <Link href="/leagues" className="inline-block mt-3 text-sm opacity-60 hover:opacity-100">
+          {t("nav.leagues")} →
+        </Link>
       </header>
 
       <div className="space-y-12">

@@ -11,19 +11,14 @@ export function Header() {
 
   const navItems = [
     { href: "/", label: t("home") },
+    // Rankings = diretório unificado (toggle Clubs | Teams dentro da página).
+    // Aponta pro default da edição: seleções no torneio, clubes fora dele — mas
+    // as duas sempre acessíveis pelo toggle (a Copa não some do site).
+    { href: isTournament ? "/national-teams" : "/clubs", label: t("rankings") },
     { href: "/insights", label: t("insights") },
-    { href: "/engagement", label: t("engagement") },
     { href: "/compare", label: t("compare") },
     { href: "/hall-of-fame", label: t("halloffame") },
-    // diretório (menos "destino" que índice/editorial/recordes) vai depois
-    ...(isTournament
-      ? [{ href: "/national-teams", label: t("nationalTeams") }]
-      : [
-          { href: "/clubs", label: t("clubs") },
-          { href: "/leagues", label: t("leagues") },
-        ]),
     { href: "/methodology", label: t("methodology") },
-    { href: "/about", label: t("about") },
   ];
   const mobileItems = navItems;
 
