@@ -1,0 +1,2026 @@
+{
+  "date": "2026-07-11",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "4.37%",
+          "caption_clean": "#FIFAWorldCup Cuartos de Final ️ #Argentina 3 (Alexis Mac Allister, Julián Álvarez y Lautaro Martínez) - Suiza 1 (Ndoye) ¡GANÓÓÓÓÓ LA SELECCIÓN! Y SÍ, ESTÁ OTRA VEZ ENTRE LOS CUATR…",
+          "url": "https://www.instagram.com/p/DaraQpmn42G/",
+          "cover_url": "/covers/626d85f56ac9ecf5.jpg",
+          "extra": {
+            "likes": 702930,
+            "comments": 5232,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "4.35%",
+          "caption_clean": "Já dizia uma lenda: “É feriado hoje *******!” ‍ As a #PortugalLegend once said: “It’s a holiday today, *******!” ‍",
+          "url": "https://www.instagram.com/p/DapYVgbDNW4/",
+          "cover_url": "/covers/3e1112cabd99f801.jpg",
+          "extra": {
+            "likes": 1096417,
+            "comments": 3907,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "3.95%",
+          "caption_clean": "Sufrir, alentar, ganar. Está en nuestro ADN y por eso se disfruta el doble La mística sigue intacta y este grupo va por todo. ¡Próxima parada: las semifinales! ️",
+          "url": "https://www.instagram.com/p/DaraoUAH2YW/",
+          "cover_url": "/covers/feb74302eb78022e.jpg",
+          "extra": {
+            "likes": 634477,
+            "comments": 5301,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "3.50%",
+          "caption_clean": "Jude's double does the job. WE ARE WORLD CUP SEMI-FINALISTS!",
+          "url": "https://www.instagram.com/p/Daq-qBUDjm5/",
+          "cover_url": "/covers/17fb0da58ec47d88.jpg",
+          "extra": {
+            "likes": 453701,
+            "comments": 5631,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "3.14%",
+          "caption_clean": "#FIFAWorldCup Golazo de Alexis, que fue preciso de cabeza, tras asistencia de Messi, para que #Argentina supere parcialmente 1-0 a Suiza Flashes del grito sagrado en Kansas #TodosJ…",
+          "url": "https://www.instagram.com/p/DarJvOnH-ZY/",
+          "cover_url": "/covers/8969d25956aa7465.jpg",
+          "extra": {
+            "likes": 507866,
+            "comments": 1211,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "3.09%",
+          "caption_clean": "Head held high, grateful for the support.",
+          "url": "https://www.instagram.com/p/DapZiHWHBiG/",
+          "cover_url": "/covers/5fd2a5bfa2ec6bb6.jpg",
+          "extra": {
+            "likes": 39583,
+            "comments": 486,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "3.08%",
+          "caption_clean": "A fifth goal of this @fifaworldcup for Jude!",
+          "url": "https://www.instagram.com/p/DaqxolkDFq7/",
+          "cover_url": "/covers/257392fe6f3b723c.jpg",
+          "extra": {
+            "likes": 400879,
+            "comments": 2685,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "3.03%",
+          "caption_clean": "Proud of the journey.",
+          "url": "https://www.instagram.com/p/Dap4Kzvip1T/",
+          "cover_url": "/covers/c05c1df1cfce91e9.jpg",
+          "extra": {
+            "likes": 38752,
+            "comments": 526,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "3.01%",
+          "caption_clean": "Ndoooooooooyeeee ️‍️‍ The game is level again!",
+          "url": "https://www.instagram.com/p/DarRVpkthHm/",
+          "cover_url": "/covers/7867fab5b894098f.jpg",
+          "extra": {
+            "likes": 11912,
+            "comments": 525,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "2.93%",
+          "caption_clean": "Nos unimos a la pena que embarga al futbol mundial por el fallecimiento de Jayden Adams. Adams participó en el partido inaugural de la Copa del Mundo 2026 entre nuestra Selección y…",
+          "url": "https://www.instagram.com/p/Daq9ITIRFSW/",
+          "cover_url": "/covers/0741de2d1ef28b11.jpg",
+          "extra": {
+            "likes": 301052,
+            "comments": 574,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "2.92%",
+          "caption_clean": "Gemeinsam für den ersten Schweizer WM-Halbfinal! Ensemble pour la première demi-finale suisse en Coupe du monde ! Insieme verso la prima semifinale svizzera ai Mondiali! SRF 2, RTS…",
+          "url": "https://www.instagram.com/p/Dapt2RfjXZN/",
+          "cover_url": "/covers/69642b6bf4926f27.jpg",
+          "extra": {
+            "likes": 11662,
+            "comments": 389,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "2.86%",
+          "caption_clean": "3 AM in Switzerland, but no one is sleeping ️",
+          "url": "https://www.instagram.com/p/DarQnlRjCDR/",
+          "cover_url": "/covers/fc669460205602ca.jpg",
+          "extra": {
+            "likes": 11723,
+            "comments": 83,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "2.69%",
+          "caption_clean": "Into the final four of the @FIFAWorldCup. GET IN THERE!",
+          "url": "https://www.instagram.com/p/Daq-7PqlMre/",
+          "cover_url": "/covers/e0a235509766ce30.jpg",
+          "extra": {
+            "likes": 347826,
+            "comments": 5490,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "1.79%",
+          "caption_clean": "الميكا كاميليون مستخبي في صور الفراعنة .. تقدر تلاقيه؟ Can you spot the hidden MECCHA CHAMELEON? #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DaqvEIQGiSA/",
+          "cover_url": "/covers/7015d5d0cdbc77f8.jpg",
+          "extra": {
+            "likes": 45967,
+            "comments": 263,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "1.47%",
+          "caption_clean": "Suena el pitido final y SE DESATA LA ALEGRÍA. #VamosEspaña | #CopaMundialFIFA",
+          "url": "https://www.instagram.com/p/DapcqwzlZZv/",
+          "cover_url": "/covers/44f0e7268000365b.jpg",
+          "extra": {
+            "likes": 116143,
+            "comments": 299,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "1.42%",
+          "caption_clean": "⭐️ Hace 16 años, tocamos el cielo en Sudáfrica. ⭐️ Hace 16 años, bordamos una estrella sobre nuestro escudo. ⭐️ Hace 16 años, una noche como esta, fuimos CAMPEONES DEL MUNDO. ¿Vale…",
+          "url": "https://www.instagram.com/p/Daqo6bcklR5/",
+          "cover_url": "/covers/e2cf7faffc0c6156.jpg",
+          "extra": {
+            "likes": 111874,
+            "comments": 429,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Paraguay",
+          "handle": "albirroja",
+          "flag": "🇵🇾",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "1.12%",
+          "caption_clean": "Saludamos al mediocampista albirrojo Damián Bobadilla en este día especial. ¡Feliz cumpleaños, @damibobadilla_8 ️! #VamosParaguay",
+          "url": "https://www.instagram.com/p/DapngO9yGYz/",
+          "cover_url": "/covers/82348977faddd262.jpg",
+          "extra": {
+            "likes": 13399,
+            "comments": 157,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "1.06%",
+          "caption_clean": "Dicen que siempre hay que volver, al menos una vez, al lugar donde uno fue feliz. Así que nos vemos en unas horas, Dallas . #VamosEspaña | #CopaMundialFIFA",
+          "url": "https://www.instagram.com/p/DapG-JmIj8L/",
+          "cover_url": "/covers/99fc751b66d3ecb4.jpg",
+          "extra": {
+            "likes": 83641,
+            "comments": 408,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.90%",
+          "caption_clean": "Photo souvenir avec @thierryhenry, de passage au camp de base des Bleus avant le quart de finale face au Maroc ! A photo to remember with Thierry Henry.",
+          "url": "https://www.instagram.com/p/DaqFuW3tC4u/",
+          "cover_url": "/covers/09769890c535a5bd.jpg",
+          "extra": {
+            "likes": 164561,
+            "comments": 721,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "0.62%",
+          "caption_clean": "Our Red Devil family just got a little bigger. Congratulations to Brandon Mechele and his wife on welcoming baby Celestine into the world. ️",
+          "url": "https://www.instagram.com/p/DaqZnzsnB0M/",
+          "cover_url": "/covers/8bdec41d8844cfee.jpg",
+          "extra": {
+            "likes": 8003,
+            "comments": 38,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "1.1M",
+          "caption_clean": "Já dizia uma lenda: “É feriado hoje *******!” ‍ As a #PortugalLegend once said: “It’s a holiday today, *******!” ‍",
+          "url": "https://www.instagram.com/p/DapYVgbDNW4/",
+          "cover_url": "/covers/3e1112cabd99f801.jpg",
+          "extra": {
+            "likes": 1096417,
+            "comments": 3907,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "703K",
+          "caption_clean": "#FIFAWorldCup Cuartos de Final ️ #Argentina 3 (Alexis Mac Allister, Julián Álvarez y Lautaro Martínez) - Suiza 1 (Ndoye) ¡GANÓÓÓÓÓ LA SELECCIÓN! Y SÍ, ESTÁ OTRA VEZ ENTRE LOS CUATR…",
+          "url": "https://www.instagram.com/p/DaraQpmn42G/",
+          "cover_url": "/covers/626d85f56ac9ecf5.jpg",
+          "extra": {
+            "likes": 702930,
+            "comments": 5232,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "634K",
+          "caption_clean": "Sufrir, alentar, ganar. Está en nuestro ADN y por eso se disfruta el doble La mística sigue intacta y este grupo va por todo. ¡Próxima parada: las semifinales! ️",
+          "url": "https://www.instagram.com/p/DaraoUAH2YW/",
+          "cover_url": "/covers/feb74302eb78022e.jpg",
+          "extra": {
+            "likes": 634477,
+            "comments": 5301,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "508K",
+          "caption_clean": "#FIFAWorldCup Golazo de Alexis, que fue preciso de cabeza, tras asistencia de Messi, para que #Argentina supere parcialmente 1-0 a Suiza Flashes del grito sagrado en Kansas #TodosJ…",
+          "url": "https://www.instagram.com/p/DarJvOnH-ZY/",
+          "cover_url": "/covers/8969d25956aa7465.jpg",
+          "extra": {
+            "likes": 507866,
+            "comments": 1211,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "454K",
+          "caption_clean": "Jude's double does the job. WE ARE WORLD CUP SEMI-FINALISTS!",
+          "url": "https://www.instagram.com/p/Daq-qBUDjm5/",
+          "cover_url": "/covers/17fb0da58ec47d88.jpg",
+          "extra": {
+            "likes": 453701,
+            "comments": 5631,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "401K",
+          "caption_clean": "A fifth goal of this @fifaworldcup for Jude!",
+          "url": "https://www.instagram.com/p/DaqxolkDFq7/",
+          "cover_url": "/covers/257392fe6f3b723c.jpg",
+          "extra": {
+            "likes": 400879,
+            "comments": 2685,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "348K",
+          "caption_clean": "Into the final four of the @FIFAWorldCup. GET IN THERE!",
+          "url": "https://www.instagram.com/p/Daq-7PqlMre/",
+          "cover_url": "/covers/e0a235509766ce30.jpg",
+          "extra": {
+            "likes": 347826,
+            "comments": 5490,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "301K",
+          "caption_clean": "Nos unimos a la pena que embarga al futbol mundial por el fallecimiento de Jayden Adams. Adams participó en el partido inaugural de la Copa del Mundo 2026 entre nuestra Selección y…",
+          "url": "https://www.instagram.com/p/Daq9ITIRFSW/",
+          "cover_url": "/covers/0741de2d1ef28b11.jpg",
+          "extra": {
+            "likes": 301052,
+            "comments": 574,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "165K",
+          "caption_clean": "Photo souvenir avec @thierryhenry, de passage au camp de base des Bleus avant le quart de finale face au Maroc ! A photo to remember with Thierry Henry.",
+          "url": "https://www.instagram.com/p/DaqFuW3tC4u/",
+          "cover_url": "/covers/09769890c535a5bd.jpg",
+          "extra": {
+            "likes": 164561,
+            "comments": 721,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "116K",
+          "caption_clean": "Suena el pitido final y SE DESATA LA ALEGRÍA. #VamosEspaña | #CopaMundialFIFA",
+          "url": "https://www.instagram.com/p/DapcqwzlZZv/",
+          "cover_url": "/covers/44f0e7268000365b.jpg",
+          "extra": {
+            "likes": 116143,
+            "comments": 299,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "112K",
+          "caption_clean": "️ Toujours une bataille. Always a battle.",
+          "url": "https://www.instagram.com/p/Dapn6JsjeLM/",
+          "cover_url": "/covers/1c7a541530a69a23.jpg",
+          "extra": {
+            "likes": 111874,
+            "comments": 792,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "112K",
+          "caption_clean": "⭐️ Hace 16 años, tocamos el cielo en Sudáfrica. ⭐️ Hace 16 años, bordamos una estrella sobre nuestro escudo. ⭐️ Hace 16 años, una noche como esta, fuimos CAMPEONES DEL MUNDO. ¿Vale…",
+          "url": "https://www.instagram.com/p/Daqo6bcklR5/",
+          "cover_url": "/covers/e2cf7faffc0c6156.jpg",
+          "extra": {
+            "likes": 111874,
+            "comments": 429,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "100K",
+          "caption_clean": "Les Bleus vus du ciel Les Bleus from above",
+          "url": "https://www.instagram.com/p/DapadKbjZ7H/",
+          "cover_url": "/covers/0fd86953ecf020cb.jpg",
+          "extra": {
+            "likes": 100397,
+            "comments": 281,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "84K",
+          "caption_clean": "Dicen que siempre hay que volver, al menos una vez, al lugar donde uno fue feliz. Así que nos vemos en unas horas, Dallas . #VamosEspaña | #CopaMundialFIFA",
+          "url": "https://www.instagram.com/p/DapG-JmIj8L/",
+          "cover_url": "/covers/99fc751b66d3ecb4.jpg",
+          "extra": {
+            "likes": 83641,
+            "comments": 408,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "46K",
+          "caption_clean": "الميكا كاميليون مستخبي في صور الفراعنة .. تقدر تلاقيه؟ Can you spot the hidden MECCHA CHAMELEON? #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.instagram.com/p/DaqvEIQGiSA/",
+          "cover_url": "/covers/7015d5d0cdbc77f8.jpg",
+          "extra": {
+            "likes": 45967,
+            "comments": 263,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "40K",
+          "caption_clean": "Head held high, grateful for the support.",
+          "url": "https://www.instagram.com/p/DapZiHWHBiG/",
+          "cover_url": "/covers/5fd2a5bfa2ec6bb6.jpg",
+          "extra": {
+            "likes": 39583,
+            "comments": 486,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Belgium",
+          "handle": "belgianreddevils",
+          "flag": "🇧🇪",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "39K",
+          "caption_clean": "Proud of the journey.",
+          "url": "https://www.instagram.com/p/Dap4Kzvip1T/",
+          "cover_url": "/covers/c05c1df1cfce91e9.jpg",
+          "extra": {
+            "likes": 38752,
+            "comments": 526,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Colombia",
+          "handle": "fcfseleccioncol",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "27K",
+          "caption_clean": "¡El Metropolitano avanza! ️️ Así continúan los trabajos en el Estadio Metropolitano de Barranquilla. Nuestro Presidente Ramón Jesurun estuvo visitando los avances de la remodelació…",
+          "url": "https://www.instagram.com/p/DaqV9tnkfcs/",
+          "cover_url": "/covers/90a39a487ec2cf2e.jpg",
+          "extra": {
+            "likes": 26995,
+            "comments": 0,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "27K",
+          "caption_clean": "Dia de soprar as velas, Míster! ‍ #Navegadoras It’s time to blow out the candles, Coach! ‍",
+          "url": "https://www.instagram.com/p/Dapi_-oMGrH/",
+          "cover_url": "/covers/2ccde1c185244674.jpg",
+          "extra": {
+            "likes": 26526,
+            "comments": 124,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Paraguay",
+          "handle": "albirroja",
+          "flag": "🇵🇾",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "13K",
+          "caption_clean": "Saludamos al mediocampista albirrojo Damián Bobadilla en este día especial. ¡Feliz cumpleaños, @damibobadilla_8 ️! #VamosParaguay",
+          "url": "https://www.instagram.com/p/DapngO9yGYz/",
+          "cover_url": "/covers/82348977faddd262.jpg",
+          "extra": {
+            "likes": 13399,
+            "comments": 157,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "10.51%",
+          "caption_clean": "#FIFAWorldCup ¡VAMOS NOSOTROS!",
+          "url": "https://www.instagram.com/p/Daq_0JbCKBN/",
+          "cover_url": "/covers/68fa888b80af7f11.jpg",
+          "extra": {
+            "likes": 148538,
+            "comments": 1648,
+            "views": 1428668
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "7.91%",
+          "caption_clean": "Checked in. Ready. Watch live on ITV.",
+          "url": "https://www.instagram.com/p/DaqlzISOvab/",
+          "cover_url": "/covers/5c6d447045796723.jpg",
+          "extra": {
+            "likes": 34560,
+            "comments": 289,
+            "views": 440382
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "7.43%",
+          "caption_clean": "⁨ ما أجمل العودة إلى أرض الوطن. Home, at last. #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP⁩",
+          "url": "https://www.instagram.com/p/DapdIZ-oRl_/",
+          "cover_url": "/covers/88727798a73e33ab.jpg",
+          "extra": {
+            "likes": 21260,
+            "comments": 299,
+            "views": 290055
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "7.41%",
+          "caption_clean": "Take it away lads",
+          "url": "https://www.instagram.com/p/DarDX-Ds6xi/",
+          "cover_url": "/covers/ad2b82bca4e02ab8.jpg",
+          "extra": {
+            "likes": 290576,
+            "comments": 3040,
+            "views": 3959871
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "VER",
+          "metric_value": "5.93%",
+          "caption_clean": "وصول منتخبنا الوطني إلى أرض الوطن وسط استقبال حار من الجماهير ️ Our National Team arrives home to a warm welcome from the fans. #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DarROwromz_/",
+          "cover_url": "/covers/2e6038e14cb886b6.jpg",
+          "extra": {
+            "likes": 63161,
+            "comments": 3896,
+            "views": 1130919
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "5.56%",
+          "caption_clean": "Incomparáveis. ️‍ Nothing else comes close. ️‍",
+          "url": "https://www.instagram.com/p/Daqy5GvMMcz/",
+          "cover_url": "/covers/5e0e78fe79023e25.jpg",
+          "extra": {
+            "likes": 58616,
+            "comments": 425,
+            "views": 1061785
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "5.49%",
+          "caption_clean": "“We need to show the best version of ourselves.” @harrykane believes there’s still more to come from this #ThreeLions team",
+          "url": "https://www.instagram.com/p/Dap0ubmMXHb/",
+          "cover_url": "/covers/3f748cdaed557873.jpg",
+          "extra": {
+            "likes": 23789,
+            "comments": 306,
+            "views": 438855
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "VER",
+          "metric_value": "5.25%",
+          "caption_clean": "#FIFAWorldCup ¡Once inicial confirmado!  Así formará #Argentina para el duelo ante #Suiza #TodosJuntos, alentando con el alma y el corazón",
+          "url": "https://www.instagram.com/p/DarCFTQFPN3/",
+          "cover_url": "/covers/87c6d99dbfa61c21.jpg",
+          "extra": {
+            "likes": 90540,
+            "comments": 990,
+            "views": 1742609
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "4.81%",
+          "caption_clean": "@jkeey4 souhaitait vous adresser quelques mots Jules Koundé wanted to share a few words with you!",
+          "url": "https://www.instagram.com/p/Daqs1CPSP0M/",
+          "cover_url": "/covers/9e479a56883bd6af.jpg",
+          "extra": {
+            "likes": 65399,
+            "comments": 939,
+            "views": 1378074
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "4.20%",
+          "caption_clean": "Our captain leading the way",
+          "url": "https://www.instagram.com/p/DarADLyOEX1/",
+          "cover_url": "/covers/ae6a7b233b1ac0a2.jpg",
+          "extra": {
+            "likes": 5122,
+            "comments": 107,
+            "views": 124594
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "4.17%",
+          "caption_clean": "El décimo Europeo no se conquista todos los días... Así han celebrado nuestros CAMPEONES DE EUROPA este título plagado de récords. 2-0 #U19EURO | #NuestraBase",
+          "url": "https://www.instagram.com/p/Daq9uGMo89R/",
+          "cover_url": "/covers/e7e4911df1b8956f.jpg",
+          "extra": {
+            "likes": 29486,
+            "comments": 70,
+            "views": 708167
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "3.84%",
+          "caption_clean": "La maison des Bleus est toujours ouverte à ses anciens @thierryhenry Once a Blue, always welcome!",
+          "url": "https://www.instagram.com/p/Dap3xautqJf/",
+          "cover_url": "/covers/667134e7138be2ca.jpg",
+          "extra": {
+            "likes": 212986,
+            "comments": 1296,
+            "views": 5579511
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "3.16%",
+          "caption_clean": "Ready to represent. ️",
+          "url": "https://www.instagram.com/p/DarBplpuY2t/",
+          "cover_url": "/covers/9785fda4ea82437b.jpg",
+          "extra": {
+            "likes": 2388,
+            "comments": 113,
+            "views": 79154
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "2.99%",
+          "caption_clean": "️ Cádiz, Madrid, Sevilla, Barcelona, Ávila, Salamanca, Extremadura, Seattle, Cantabria, México, Zaragoza, A Coruña... Diferentes lugares, pero una misma pasión por la Selección. Es…",
+          "url": "https://www.instagram.com/p/Dap7jrmBb8v/",
+          "cover_url": "/covers/018b30f06ae4cf86.jpg",
+          "extra": {
+            "likes": 12874,
+            "comments": 103,
+            "views": 434042
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "2.95%",
+          "caption_clean": "Let’s turn the streets red and white again ️‍ @luca.films.ch",
+          "url": "https://www.instagram.com/p/Daq5awduxMt/",
+          "cover_url": "/covers/fe0e6da659616108.jpg",
+          "extra": {
+            "likes": 3004,
+            "comments": 52,
+            "views": 103483
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "2.20%",
+          "caption_clean": "Nuestro momento ha llegado. #U19EURO | #NuestraBase",
+          "url": "https://www.instagram.com/p/DapYjI5IW7g/",
+          "cover_url": "/covers/24846490ba330b83.jpg",
+          "extra": {
+            "likes": 24896,
+            "comments": 171,
+            "views": 1139270
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "VER",
+          "metric_value": "1.09%",
+          "caption_clean": "¡Queremos recompensarte por tu apoyo! Lo que vivimos este verano quedará plasmado en nuestras memorias y tú puedes llevarte un jersey autografiado por los convocados. Participa en…",
+          "url": "https://www.instagram.com/p/Daqkbc-TNR0/",
+          "cover_url": "/covers/09ece59e1cfb3634.jpg",
+          "extra": {
+            "likes": 12087,
+            "comments": 123,
+            "views": 1122886
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "VER",
+          "metric_value": "1.06%",
+          "caption_clean": "Um treinador do povo português. Agora, o nosso Selecionador Nacional. #ViemosParaVencer A coach of the Portuguese people. Now, our National Team Head Coach. #HereToWin",
+          "url": "https://www.instagram.com/p/DaqXVY6s7HA/",
+          "cover_url": "/covers/1025838ba2e8affa.jpg",
+          "extra": {
+            "likes": 15701,
+            "comments": 162,
+            "views": 1500400
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "291K",
+          "caption_clean": "Take it away lads",
+          "url": "https://www.instagram.com/p/DarDX-Ds6xi/",
+          "cover_url": "/covers/ad2b82bca4e02ab8.jpg",
+          "extra": {
+            "likes": 290576,
+            "comments": 3040,
+            "views": 3959871
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "213K",
+          "caption_clean": "La maison des Bleus est toujours ouverte à ses anciens @thierryhenry Once a Blue, always welcome!",
+          "url": "https://www.instagram.com/p/Dap3xautqJf/",
+          "cover_url": "/covers/667134e7138be2ca.jpg",
+          "extra": {
+            "likes": 212986,
+            "comments": 1296,
+            "views": 5579511
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "149K",
+          "caption_clean": "#FIFAWorldCup ¡VAMOS NOSOTROS!",
+          "url": "https://www.instagram.com/p/Daq_0JbCKBN/",
+          "cover_url": "/covers/68fa888b80af7f11.jpg",
+          "extra": {
+            "likes": 148538,
+            "comments": 1648,
+            "views": 1428668
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "91K",
+          "caption_clean": "#FIFAWorldCup ¡Once inicial confirmado!  Así formará #Argentina para el duelo ante #Suiza #TodosJuntos, alentando con el alma y el corazón",
+          "url": "https://www.instagram.com/p/DarCFTQFPN3/",
+          "cover_url": "/covers/87c6d99dbfa61c21.jpg",
+          "extra": {
+            "likes": 90540,
+            "comments": 990,
+            "views": 1742609
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "65K",
+          "caption_clean": "@jkeey4 souhaitait vous adresser quelques mots Jules Koundé wanted to share a few words with you!",
+          "url": "https://www.instagram.com/p/Daqs1CPSP0M/",
+          "cover_url": "/covers/9e479a56883bd6af.jpg",
+          "extra": {
+            "likes": 65399,
+            "comments": 939,
+            "views": 1378074
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "63K",
+          "caption_clean": "وصول منتخبنا الوطني إلى أرض الوطن وسط استقبال حار من الجماهير ️ Our National Team arrives home to a warm welcome from the fans. #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/DarROwromz_/",
+          "cover_url": "/covers/2e6038e14cb886b6.jpg",
+          "extra": {
+            "likes": 63161,
+            "comments": 3896,
+            "views": 1130919
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "59K",
+          "caption_clean": "Incomparáveis. ️‍ Nothing else comes close. ️‍",
+          "url": "https://www.instagram.com/p/Daqy5GvMMcz/",
+          "cover_url": "/covers/5e0e78fe79023e25.jpg",
+          "extra": {
+            "likes": 58616,
+            "comments": 425,
+            "views": 1061785
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "35K",
+          "caption_clean": "Checked in. Ready. Watch live on ITV.",
+          "url": "https://www.instagram.com/p/DaqlzISOvab/",
+          "cover_url": "/covers/5c6d447045796723.jpg",
+          "extra": {
+            "likes": 34560,
+            "comments": 289,
+            "views": 440382
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "33K",
+          "caption_clean": "Feeling the energy of this team ️ Thomas Tuchel on the connection between the #ThreeLions and the nation 󠁧󠁢󠁥󠁮󠁧󠁿",
+          "url": "https://www.instagram.com/p/DapZSVpswdf/",
+          "cover_url": "/covers/3c17fdce7dadbae1.jpg",
+          "extra": {
+            "likes": 32729,
+            "comments": 438,
+            "views": 666141
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "29K",
+          "caption_clean": "El décimo Europeo no se conquista todos los días... Así han celebrado nuestros CAMPEONES DE EUROPA este título plagado de récords. 2-0 #U19EURO | #NuestraBase",
+          "url": "https://www.instagram.com/p/Daq9uGMo89R/",
+          "cover_url": "/covers/e7e4911df1b8956f.jpg",
+          "extra": {
+            "likes": 29486,
+            "comments": 70,
+            "views": 708167
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "25K",
+          "caption_clean": "Nuestro momento ha llegado. #U19EURO | #NuestraBase",
+          "url": "https://www.instagram.com/p/DapYjI5IW7g/",
+          "cover_url": "/covers/24846490ba330b83.jpg",
+          "extra": {
+            "likes": 24896,
+            "comments": 171,
+            "views": 1139270
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "21K",
+          "caption_clean": "⁨ ما أجمل العودة إلى أرض الوطن. Home, at last. #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP⁩",
+          "url": "https://www.instagram.com/p/DapdIZ-oRl_/",
+          "cover_url": "/covers/88727798a73e33ab.jpg",
+          "extra": {
+            "likes": 21260,
+            "comments": 299,
+            "views": 290055
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Portugal",
+          "handle": "portugal",
+          "flag": "🇵🇹",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "16K",
+          "caption_clean": "Um treinador do povo português. Agora, o nosso Selecionador Nacional. #ViemosParaVencer A coach of the Portuguese people. Now, our National Team Head Coach. #HereToWin",
+          "url": "https://www.instagram.com/p/DaqXVY6s7HA/",
+          "cover_url": "/covers/1025838ba2e8affa.jpg",
+          "extra": {
+            "likes": 15701,
+            "comments": 162,
+            "views": 1500400
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "13K",
+          "caption_clean": "️ Cádiz, Madrid, Sevilla, Barcelona, Ávila, Salamanca, Extremadura, Seattle, Cantabria, México, Zaragoza, A Coruña... Diferentes lugares, pero una misma pasión por la Selección. Es…",
+          "url": "https://www.instagram.com/p/Dap7jrmBb8v/",
+          "cover_url": "/covers/018b30f06ae4cf86.jpg",
+          "extra": {
+            "likes": 12874,
+            "comments": 103,
+            "views": 434042
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "12K",
+          "caption_clean": "¡Queremos recompensarte por tu apoyo! Lo que vivimos este verano quedará plasmado en nuestras memorias y tú puedes llevarte un jersey autografiado por los convocados. Participa en…",
+          "url": "https://www.instagram.com/p/Daqkbc-TNR0/",
+          "cover_url": "/covers/09ece59e1cfb3634.jpg",
+          "extra": {
+            "likes": 12087,
+            "comments": 123,
+            "views": 1122886
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "9K",
+          "caption_clean": "Small country - big dream!",
+          "url": "https://www.instagram.com/p/DaqCiSuDNXn/",
+          "cover_url": "/covers/2f360c96bf8fa128.jpg",
+          "extra": {
+            "likes": 8681,
+            "comments": 196,
+            "views": 403511
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "7K",
+          "caption_clean": "Doesn’t matter who’s the best actor... we just want to see you guys perform in New York soon.",
+          "url": "https://www.instagram.com/p/DapSaJdhB0O/",
+          "cover_url": "/covers/4dc83b9839fa3f98.jpg",
+          "extra": {
+            "likes": 7443,
+            "comments": 45,
+            "views": 285575
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Switzerland",
+          "handle": "swissnatimen",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "5K",
+          "caption_clean": "Our captain leading the way",
+          "url": "https://www.instagram.com/p/DarADLyOEX1/",
+          "cover_url": "/covers/ae6a7b233b1ac0a2.jpg",
+          "extra": {
+            "likes": 5122,
+            "comments": 107,
+            "views": 124594
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "30.67%",
+          "caption_clean": "#FIFAWorldCup ¡VAMOS NOSOTROS!",
+          "url": "https://www.tiktok.com/@afaseleccion/video/7661424397059771655",
+          "cover_url": "/covers/00377866a49c2016.jpg",
+          "extra": {
+            "likes": 94900,
+            "comments": 1066,
+            "views": 319000,
+            "shares": 1887
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "27.28%",
+          "caption_clean": "Eyes on the next one #EquipeDeFrance #FIFAWorldCup #SportsTiktok #Football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7661312230255840545",
+          "cover_url": "/covers/b16ee685796eff41.jpg",
+          "extra": {
+            "likes": 294700,
+            "comments": 1671,
+            "views": 1100000,
+            "shares": 3707
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "23.35%",
+          "caption_clean": "JUDE BELLINGHAM EVERYBODY #england #threelions #fifaworldcup #judebellingham",
+          "url": "https://www.tiktok.com/@england/video/7661414625619070230",
+          "cover_url": "/covers/8928f6a4c4f18f3b.jpg",
+          "extra": {
+            "likes": 122500,
+            "comments": 729,
+            "views": 542000,
+            "shares": 3321
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "22.10%",
+          "caption_clean": "@Jules Koundé wanted to share a few words with you! #kounde #equipedefrance #fifaworldcup #sportstiktok #football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7661386522117164320",
+          "cover_url": "/covers/1bf6442c0144d126.jpg",
+          "extra": {
+            "likes": 153700,
+            "comments": 1478,
+            "views": 707100,
+            "shares": 1086
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "21.78%",
+          "caption_clean": "Amor entre hermanos. @Lamine Yamal y el peque siempre se buscan. #VamosEspaña | #CopaMundialFIFA | #tiktokfootballacademy | #fifaworldcup | #España",
+          "url": "https://www.tiktok.com/@sefutbol/video/7661129658762611990",
+          "cover_url": "/covers/60b64b42d151a538.jpg",
+          "extra": {
+            "likes": 29600,
+            "comments": 194,
+            "views": 138500,
+            "shares": 375
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "21.45%",
+          "caption_clean": "Live for scenes like this 󠁧󠁢󠁥󠁮󠁧󠁿️ #england #threelions #fifaworldcup",
+          "url": "https://www.tiktok.com/@england/video/7661432971404086550",
+          "cover_url": "/covers/4bcb926c4966922c.jpg",
+          "extra": {
+            "likes": 105500,
+            "comments": 623,
+            "views": 513800,
+            "shares": 4062
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "21.21%",
+          "caption_clean": "POV. Merino marca el 2-1 en el minuto 88. Y la Plaza Selección suena así #VamosEspaña #deportesentiktok #CopaMundialFIFA",
+          "url": "https://www.tiktok.com/@sefutbol/video/7661170866239048982",
+          "cover_url": "/covers/28c98e206aa7263d.jpg",
+          "extra": {
+            "likes": 62300,
+            "comments": 411,
+            "views": 299200,
+            "shares": 747
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "18.69%",
+          "caption_clean": "FIVE goals at the @FIFA World Cup for Jude #england #threelions #fifaworldcup #judebellingham",
+          "url": "https://www.tiktok.com/@england/video/7661393090938162454",
+          "cover_url": "/covers/099f50a707b6fefd.jpg",
+          "extra": {
+            "likes": 49400,
+            "comments": 415,
+            "views": 273400,
+            "shares": 1297
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "18.17%",
+          "caption_clean": "ما أجمل العودة إلى أرض الوطن. Home, at last. #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@egyptnt/video/7661204352807259412",
+          "cover_url": "/covers/1faa1ac47e185bbf.jpg",
+          "extra": {
+            "likes": 78100,
+            "comments": 588,
+            "views": 436100,
+            "shares": 567
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Switzerland",
+          "handle": "swiss_football_sfv_asf",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "17.75%",
+          "caption_clean": "One nation, one team, one mission ️",
+          "url": "https://www.tiktok.com/@swiss_football_sfv_asf/video/7661363470486588694",
+          "cover_url": "/covers/5171bde0d4c0e38b.jpg",
+          "extra": {
+            "likes": 2954,
+            "comments": 92,
+            "views": 17600,
+            "shares": 78
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "16.19%",
+          "caption_clean": "Dicen que siempre hay que volver, al menos una vez, al lugar donde uno fue feliz. #VamosEspaña | #tiktokfootballacademy | #FIFAWorldCup | #CopaMundialFIFA | #España #deportesentikt…",
+          "url": "https://www.tiktok.com/@sefutbol/video/7661149272523410710",
+          "cover_url": "/covers/da618643e37e5ad7.jpg",
+          "extra": {
+            "likes": 17900,
+            "comments": 229,
+            "views": 114000,
+            "shares": 324
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "15.50%",
+          "caption_clean": "Some matchups never get old. #EquipeDeFrance #FIFAWorldCup #SportsTiktok #Football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7661211294854352161",
+          "cover_url": "/covers/8a99d3920435da14.jpg",
+          "extra": {
+            "likes": 119900,
+            "comments": 510,
+            "views": 787300,
+            "shares": 1596
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "ER",
+          "metric_value": "13.96%",
+          "caption_clean": "¡Queremos agradecerles por su apoyo, Incondicionales! Solo entren al link de nuestra bio #SomosMexico",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7661342746992495893",
+          "cover_url": "/covers/68b76d890c12063c.jpg",
+          "extra": {
+            "likes": 79300,
+            "comments": 1191,
+            "views": 590800,
+            "shares": 1965
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Norway",
+          "handle": "herrelandslaget",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "13.62%",
+          "caption_clean": "Miami Stadium ️",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7661447821639355670",
+          "cover_url": "/covers/3f7fb28791af7f14.jpg",
+          "extra": {
+            "likes": 29600,
+            "comments": 1026,
+            "views": 226000,
+            "shares": 162
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Switzerland",
+          "handle": "swiss_football_sfv_asf",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "13.38%",
+          "caption_clean": "Das tut so weh. Wir unterliegen Argentinien. C'est tellement douloureux. Nous perdons contre l'Argentine. Che delusione. Abbiamo perso contro l'Argentina.",
+          "url": "https://www.tiktok.com/@swiss_football_sfv_asf/video/7661483577095359766",
+          "cover_url": "/covers/063c814b06c5acc7.jpg",
+          "extra": {
+            "likes": 2163,
+            "comments": 250,
+            "views": 18500,
+            "shares": 62
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Norway",
+          "handle": "herrelandslaget",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "12.63%",
+          "caption_clean": "Captain’s Corner EP5 England awaits in Miami󠁧󠁢󠁥󠁮󠁧󠁿",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7661147367424478486",
+          "cover_url": "/covers/ccadae6419b89511.jpg",
+          "extra": {
+            "likes": 48100,
+            "comments": 634,
+            "views": 391800,
+            "shares": 738
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "ER",
+          "metric_value": "11.48%",
+          "caption_clean": "وصول منتخبنا الوطني إلى أرض الوطن وسط استقبال حار من الجماهير ️ Our National Team arrives home to a warm welcome from the fans. #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@equipedumaroc/video/7661465734819613959",
+          "cover_url": "/covers/dd4331642e018c89.jpg",
+          "extra": {
+            "likes": 19600,
+            "comments": 816,
+            "views": 183200,
+            "shares": 623
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Switzerland",
+          "handle": "swiss_football_sfv_asf",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "ER",
+          "metric_value": "11.08%",
+          "caption_clean": "SRF 2, RTS 2, RSI La 2",
+          "url": "https://www.tiktok.com/@swiss_football_sfv_asf/video/7661240225099828502",
+          "cover_url": "/covers/45e1a362c8dbc6ed.jpg",
+          "extra": {
+            "likes": 2249,
+            "comments": 87,
+            "views": 21800,
+            "shares": 79
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Colombia",
+          "handle": "fcfseleccioncolombia",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "ER",
+          "metric_value": "8.70%",
+          "caption_clean": "¡A puro talento nuestra Femenina Sub 20! ¿Cuánto se calificación le das a nuestras cracks? #LaSeleNosUne",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7661409412698869010",
+          "cover_url": "/covers/2e8c1528372206c9.jpg",
+          "extra": {
+            "likes": 20600,
+            "comments": 99,
+            "views": 241600,
+            "shares": 318
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "441K",
+          "caption_clean": "Like a flashback to the Olympics #EquipeDeFrance #FIFAWorldCup #SportsTiktok #Football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7661261114281446689",
+          "cover_url": "/covers/a38b4a64c5acc2ea.jpg",
+          "extra": {
+            "likes": 441400,
+            "comments": 1696,
+            "views": 2900000,
+            "shares": 5045
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "295K",
+          "caption_clean": "Eyes on the next one #EquipeDeFrance #FIFAWorldCup #SportsTiktok #Football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7661312230255840545",
+          "cover_url": "/covers/b16ee685796eff41.jpg",
+          "extra": {
+            "likes": 294700,
+            "comments": 1671,
+            "views": 1100000,
+            "shares": 3707
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "France",
+          "handle": "equipedefrance",
+          "flag": "🇫🇷",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "154K",
+          "caption_clean": "@Jules Koundé wanted to share a few words with you! #kounde #equipedefrance #fifaworldcup #sportstiktok #football",
+          "url": "https://www.tiktok.com/@equipedefrance/video/7661386522117164320",
+          "cover_url": "/covers/1bf6442c0144d126.jpg",
+          "extra": {
+            "likes": 153700,
+            "comments": 1478,
+            "views": 707100,
+            "shares": 1086
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "122K",
+          "caption_clean": "JUDE BELLINGHAM EVERYBODY #england #threelions #fifaworldcup #judebellingham",
+          "url": "https://www.tiktok.com/@england/video/7661414625619070230",
+          "cover_url": "/covers/8928f6a4c4f18f3b.jpg",
+          "extra": {
+            "likes": 122500,
+            "comments": 729,
+            "views": 542000,
+            "shares": 3321
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "119K",
+          "caption_clean": "ENGLAND ARE SEMI-FINALISTS 󠁧󠁢󠁥󠁮󠁧󠁿 GET IN THERE #england #threelions #fifaworldcup #norwayvsengland",
+          "url": "https://www.tiktok.com/@england/video/7661421894360403222",
+          "cover_url": "/covers/9d4eb6a70d630680.jpg",
+          "extra": {
+            "likes": 118700,
+            "comments": 1138,
+            "views": 677200,
+            "shares": 5911
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "England",
+          "handle": "england",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "106K",
+          "caption_clean": "Live for scenes like this 󠁧󠁢󠁥󠁮󠁧󠁿️ #england #threelions #fifaworldcup",
+          "url": "https://www.tiktok.com/@england/video/7661432971404086550",
+          "cover_url": "/covers/4bcb926c4966922c.jpg",
+          "extra": {
+            "likes": 105500,
+            "comments": 623,
+            "views": 513800,
+            "shares": 4062
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Argentina",
+          "handle": "afaseleccion",
+          "flag": "🇦🇷",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "95K",
+          "caption_clean": "#FIFAWorldCup ¡VAMOS NOSOTROS!",
+          "url": "https://www.tiktok.com/@afaseleccion/video/7661424397059771655",
+          "cover_url": "/covers/00377866a49c2016.jpg",
+          "extra": {
+            "likes": 94900,
+            "comments": 1066,
+            "views": 319000,
+            "shares": 1887
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Mexico",
+          "handle": "miseleccionmx",
+          "flag": "🇲🇽",
+          "liga": "CONCACAF",
+          "metric_label": "Likes",
+          "metric_value": "79K",
+          "caption_clean": "¡Queremos agradecerles por su apoyo, Incondicionales! Solo entren al link de nuestra bio #SomosMexico",
+          "url": "https://www.tiktok.com/@miseleccionmx/video/7661342746992495893",
+          "cover_url": "/covers/68b76d890c12063c.jpg",
+          "extra": {
+            "likes": 79300,
+            "comments": 1191,
+            "views": 590800,
+            "shares": 1965
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Egypt",
+          "handle": "egyptnt",
+          "flag": "🇪🇬",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "78K",
+          "caption_clean": "ما أجمل العودة إلى أرض الوطن. Home, at last. #شجع_مصر #منتخب_الفراعنة #الفراعنة_في_كأس_العالم #egyptnt #FIFAWORLDCUP",
+          "url": "https://www.tiktok.com/@egyptnt/video/7661204352807259412",
+          "cover_url": "/covers/1faa1ac47e185bbf.jpg",
+          "extra": {
+            "likes": 78100,
+            "comments": 588,
+            "views": 436100,
+            "shares": 567
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "62K",
+          "caption_clean": "POV. Merino marca el 2-1 en el minuto 88. Y la Plaza Selección suena así #VamosEspaña #deportesentiktok #CopaMundialFIFA",
+          "url": "https://www.tiktok.com/@sefutbol/video/7661170866239048982",
+          "cover_url": "/covers/28c98e206aa7263d.jpg",
+          "extra": {
+            "likes": 62300,
+            "comments": 411,
+            "views": 299200,
+            "shares": 747
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Norway",
+          "handle": "herrelandslaget",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "48K",
+          "caption_clean": "Captain’s Corner EP5 England awaits in Miami󠁧󠁢󠁥󠁮󠁧󠁿",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7661147367424478486",
+          "cover_url": "/covers/ccadae6419b89511.jpg",
+          "extra": {
+            "likes": 48100,
+            "comments": 634,
+            "views": 391800,
+            "shares": 738
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "30K",
+          "caption_clean": "Amor entre hermanos. @Lamine Yamal y el peque siempre se buscan. #VamosEspaña | #CopaMundialFIFA | #tiktokfootballacademy | #fifaworldcup | #España",
+          "url": "https://www.tiktok.com/@sefutbol/video/7661129658762611990",
+          "cover_url": "/covers/60b64b42d151a538.jpg",
+          "extra": {
+            "likes": 29600,
+            "comments": 194,
+            "views": 138500,
+            "shares": 375
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Norway",
+          "handle": "herrelandslaget",
+          "flag": "🇳🇴",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "30K",
+          "caption_clean": "Miami Stadium ️",
+          "url": "https://www.tiktok.com/@herrelandslaget/video/7661447821639355670",
+          "cover_url": "/covers/3f7fb28791af7f14.jpg",
+          "extra": {
+            "likes": 29600,
+            "comments": 1026,
+            "views": 226000,
+            "shares": 162
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Colombia",
+          "handle": "fcfseleccioncolombia",
+          "flag": "🇨🇴",
+          "liga": "CONMEBOL",
+          "metric_label": "Likes",
+          "metric_value": "21K",
+          "caption_clean": "¡A puro talento nuestra Femenina Sub 20! ¿Cuánto se calificación le das a nuestras cracks? #LaSeleNosUne",
+          "url": "https://www.tiktok.com/@fcfseleccioncolombia/video/7661409412698869010",
+          "cover_url": "/covers/2e8c1528372206c9.jpg",
+          "extra": {
+            "likes": 20600,
+            "comments": 99,
+            "views": 241600,
+            "shares": 318
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Morocco",
+          "handle": "equipedumaroc",
+          "flag": "🇲🇦",
+          "liga": "CAF",
+          "metric_label": "Likes",
+          "metric_value": "20K",
+          "caption_clean": "وصول منتخبنا الوطني إلى أرض الوطن وسط استقبال حار من الجماهير ️ Our National Team arrives home to a warm welcome from the fans. #DimaMaghrib #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@equipedumaroc/video/7661465734819613959",
+          "cover_url": "/covers/dd4331642e018c89.jpg",
+          "extra": {
+            "likes": 19600,
+            "comments": 816,
+            "views": 183200,
+            "shares": 623
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Spain",
+          "handle": "sefutbol",
+          "flag": "🇪🇸",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "18K",
+          "caption_clean": "Cádiz, Madrid, Sevilla, Barcelona, Ávila, Salamanca, Extremadura, Seattle, Cantabria, México, Zaragoza, A Coruña... Diferentes lugares, pero una misma pasión por la @sefutbol Es mu…",
+          "url": "https://www.tiktok.com/@sefutbol/video/7661184018473340182",
+          "cover_url": "/covers/f499aac685042270.jpg",
+          "extra": {
+            "likes": 18000,
+            "comments": 158,
+            "views": 125400,
+            "shares": 101
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Switzerland",
+          "handle": "swiss_football_sfv_asf",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "3K",
+          "caption_clean": "One nation, one team, one mission ️",
+          "url": "https://www.tiktok.com/@swiss_football_sfv_asf/video/7661363470486588694",
+          "cover_url": "/covers/5171bde0d4c0e38b.jpg",
+          "extra": {
+            "likes": 2954,
+            "comments": 92,
+            "views": 17600,
+            "shares": 78
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Switzerland",
+          "handle": "swiss_football_sfv_asf",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "3K",
+          "caption_clean": "Doesn’t matter who’s the best actor... we just want to see you guys perform in New York soon.",
+          "url": "https://www.tiktok.com/@swiss_football_sfv_asf/video/7661179174194793731",
+          "cover_url": "/covers/95f50ecebb30d263.jpg",
+          "extra": {
+            "likes": 2863,
+            "comments": 30,
+            "views": 39000,
+            "shares": 20
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Switzerland",
+          "handle": "swiss_football_sfv_asf",
+          "flag": "🇨🇭",
+          "liga": "UEFA",
+          "metric_label": "Likes",
+          "metric_value": "2K",
+          "caption_clean": "SRF 2, RTS 2, RSI La 2",
+          "url": "https://www.tiktok.com/@swiss_football_sfv_asf/video/7661240225099828502",
+          "cover_url": "/covers/45e1a362c8dbc6ed.jpg",
+          "extra": {
+            "likes": 2249,
+            "comments": 87,
+            "views": 21800,
+            "shares": 79
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 114
+  }
+}
