@@ -1,0 +1,2130 @@
+{
+  "date": "2026-07-12",
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "6.13%",
+          "caption_clean": "JULIÁN ÁLVAREZ ️",
+          "url": "https://www.instagram.com/p/DaraKlfs2iy/",
+          "cover_url": "/covers/8e55c9bde3919063.jpg",
+          "extra": {
+            "likes": 550712,
+            "comments": 5928,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Boca Juniors",
+          "handle": "bocajrs",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "4.49%",
+          "caption_clean": "Leandro Daniel Paredes: nuestro capitán y semifinalista del mundial",
+          "url": "https://www.instagram.com/p/Darcf4iDXbj/",
+          "cover_url": "/covers/f8a1aaa1edde9859.jpg",
+          "extra": {
+            "likes": 459639,
+            "comments": 2100,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Athletic Bilbao",
+          "handle": "athleticclub",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "3.25%",
+          "caption_clean": "️ El cachorro se convirtió en león. Zorionak, @nicolas_williams9! #AthleticClub",
+          "url": "https://www.instagram.com/p/Dar-P-kDBwv/",
+          "cover_url": "/covers/ede7e2e62232d8f8.jpg",
+          "extra": {
+            "likes": 53868,
+            "comments": 193,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "3.23%",
+          "caption_clean": "La araña que pica.",
+          "url": "https://www.instagram.com/p/DarbbfFsjwk/",
+          "cover_url": "/covers/8017feaa2e3f6491.jpg",
+          "extra": {
+            "likes": 292884,
+            "comments": 843,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "2.67%",
+          "caption_clean": "Argentina a semifinales del @fifaworldcup",
+          "url": "https://www.instagram.com/p/DarioscFutf/",
+          "cover_url": "/covers/4e2f4ca8346cbc6d.jpg",
+          "extra": {
+            "likes": 241872,
+            "comments": 566,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "2.37%",
+          "caption_clean": "¡Feliz domingo!",
+          "url": "https://www.instagram.com/p/Dasyx4ixRyU/",
+          "cover_url": "/covers/cc7c1ba0f22f5bbc.jpg",
+          "extra": {
+            "likes": 105764,
+            "comments": 128,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "2.24%",
+          "caption_clean": "Tem greengo na semifinal! Nosso camisa 4️⃣2️⃣ contribuiu com uma assistência para a vitória sobre a Suíça, que colocou a Argentina entre as quatro melhores seleções do mundo. Avant…",
+          "url": "https://www.instagram.com/p/DasgWntnRMQ/",
+          "cover_url": "/covers/f52fa0325fe68047.jpg",
+          "extra": {
+            "likes": 169016,
+            "comments": 2164,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "ER",
+          "metric_value": "2.06%",
+          "caption_clean": "Nathan Aké: “Çok mutluyum ve heyecanlıyım. Burada harika karşılandım. Taraftarlarımıza destekleri için teşekkür ediyorum. Hep birlikte güzel bir sezon geçirmek için sonuna kadar mü…",
+          "url": "https://www.instagram.com/p/DasE7C3sBGt/",
+          "cover_url": "/covers/ac09430db5976707.jpg",
+          "extra": {
+            "likes": 240202,
+            "comments": 1042,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.99%",
+          "caption_clean": "HOJE TEM CRUZEIROOOO!!! O CABULOSO ENFRENTA O GRÊMIO EM JOGO AMISTOSO, NO MANÉ GARRINCHA, EM BRASÍLIA!! #CRUxGRE",
+          "url": "https://www.instagram.com/p/DarU26NEbvR/",
+          "cover_url": "/covers/fc56e5d846c108f2.jpg",
+          "extra": {
+            "likes": 70899,
+            "comments": 557,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.94%",
+          "caption_clean": "PARTIDAS DO KAIO JORGE! Titular no amistoso deste domingo, Kaio Jorge entra em campo pela centésima vez com o manto celeste! Parabéns pela marca e que venham muito mais, KJ!",
+          "url": "https://www.instagram.com/p/DatJUgkjwaQ/",
+          "cover_url": "/covers/3c943e03ef9cf295.jpg",
+          "extra": {
+            "likes": 69317,
+            "comments": 496,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "ER",
+          "metric_value": "1.91%",
+          "caption_clean": "Günün ilk antrenmanından fotoğraflar.",
+          "url": "https://www.instagram.com/p/DasTJdejYR-/",
+          "cover_url": "/covers/2c77393f01afc327.jpg",
+          "extra": {
+            "likes": 222028,
+            "comments": 1417,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.90%",
+          "caption_clean": "Em um dia como o de hoje, no primeiro ano do novo milênio, veio ao mundo um menino que ainda seria admirado pelo mundo inteiro. Logo ali, em São Gonçalo, nascia um dos nomes dessa…",
+          "url": "https://www.instagram.com/p/DaqwPxKT5X_/",
+          "cover_url": "/covers/75ad3e236c067402.jpg",
+          "extra": {
+            "likes": 470583,
+            "comments": 2681,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Boca Juniors",
+          "handle": "bocajrs",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "1.85%",
+          "caption_clean": "Y aquí gracias a Dios uno no cree en lo que oye",
+          "url": "https://www.instagram.com/p/DarfFBVtN6d/",
+          "cover_url": "/covers/2cb1e29ff5e7b09f.jpg",
+          "extra": {
+            "likes": 189897,
+            "comments": 465,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.64%",
+          "caption_clean": "VITÓRIA EM BRASÍLIA ! #Grêmio 3x1 Cruzeiro Jogando na capital brasileira, vencemos o Cruzeiro no último amistoso preparatório para o restante da temporada. Gabriel Grando defendeu…",
+          "url": "https://www.instagram.com/p/DatX8XVAcgV/",
+          "cover_url": "/covers/abb8e95141b453f3.jpg",
+          "extra": {
+            "likes": 59066,
+            "comments": 1225,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.59%",
+          "caption_clean": "GOOOOOOOOOOOOOOOOOOOLLL DO CRUZEIRO!!!! GABRIEL ROJAS CRUZA E SINISTERRA, COM MUITA CATEGORIA, MANDA DE CHAPA PARA O FUNDO DA REDE!! ️ Transmissão TV Cruzeiro! #CRUxGRE | 1-1 | #Pá…",
+          "url": "https://www.instagram.com/p/DatNR6eACY7/",
+          "cover_url": "/covers/f8ff5d5941b6f28d.jpg",
+          "extra": {
+            "likes": 56849,
+            "comments": 503,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Corinthians",
+          "handle": "corinthians",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.57%",
+          "caption_clean": "Após uma longa espera, finalmente, hoje tem Corinthians! ️ SALVE O CORINTHIANS... Cascavel x Corinthians Amistoso preparatório ⏰ 16h (horário de Brasília) ️ Estádio Municipal Arnal…",
+          "url": "https://www.instagram.com/p/DarU0Kojq59/",
+          "cover_url": "/covers/fe27b83a6070e71d.jpg",
+          "extra": {
+            "likes": 244261,
+            "comments": 3107,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.53%",
+          "caption_clean": "VIM PRA TORCER VIM PRA GRITAR E POR VOCÊ A VIDA INTEIRA EU VOU CANTAR CHEGOU MAIS UM #SUPERDIADEFLU! É DIA DE FLUMINENSE FOOTBALL CLUB EM CAMPO! VAAAMMMOOOOSSS, TRICOLOOORRRR!",
+          "url": "https://www.instagram.com/p/Daq5RwiPNaf/",
+          "cover_url": "/covers/88be719d14814aaa.jpg",
+          "extra": {
+            "likes": 41480,
+            "comments": 206,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Napoli",
+          "handle": "officialsscnapoli",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "ER",
+          "metric_value": "1.32%",
+          "caption_clean": "Vietato ai deboli di cuore azzurro #ProudToBeNapoli",
+          "url": "https://www.instagram.com/p/Dasz9GfgrUL/",
+          "cover_url": "/covers/3a6f0bd26218e924.jpg",
+          "extra": {
+            "likes": 69616,
+            "comments": 158,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "ER",
+          "metric_value": "1.29%",
+          "caption_clean": "Akşam antrenmanı",
+          "url": "https://www.instagram.com/p/DatFcYNjcj4/",
+          "cover_url": "/covers/bac9d6aab5242214.jpg",
+          "extra": {
+            "likes": 150325,
+            "comments": 709,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Inter Miami",
+          "handle": "intermiamicf",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "ER",
+          "metric_value": "1.27%",
+          "caption_clean": "¡@leomessi y @rodridepaul festejando el pase a semifinales!",
+          "url": "https://www.instagram.com/p/Darh_bWjS2g/",
+          "cover_url": "/covers/91e19551bbaa0d98.jpg",
+          "extra": {
+            "likes": 232041,
+            "comments": 814,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "917K",
+          "caption_clean": "‍ We’ve broken the record for goals scored by players from the same club in a #FIFAWorldCup! ¡Batimos el récord de goles de jugadores del mismo club en un Mundial!",
+          "url": "https://www.instagram.com/p/DasTTSJoVzt/",
+          "cover_url": "/covers/ee9cbffe91014452.jpg",
+          "extra": {
+            "likes": 916665,
+            "comments": 2989,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "756K",
+          "caption_clean": "HAPPY BIRTHDAY, @ViniJr! ¡FELIZ CUMPLEAÑOS, Vini Jr.!",
+          "url": "https://www.instagram.com/p/DasAR20o5J6/",
+          "cover_url": "/covers/b5fe383b4cbd4c89.jpg",
+          "extra": {
+            "likes": 756418,
+            "comments": 6003,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "704K",
+          "caption_clean": "1-2 󠁧󠁢󠁥󠁮󠁧󠁿 @JudeBellingham Quarter-finals | Cuartos de final #FIFAWorldCup",
+          "url": "https://www.instagram.com/p/Dar6l8eI5_o/",
+          "cover_url": "/covers/0b377f541793a73a.jpg",
+          "extra": {
+            "likes": 704299,
+            "comments": 2061,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "566K",
+          "caption_clean": "Hi haurà presència blaugrana a la final del Mundial",
+          "url": "https://www.instagram.com/p/DasSnLnDBWB/",
+          "cover_url": "/covers/40929d3642c0d614.jpg",
+          "extra": {
+            "likes": 565728,
+            "comments": 1647,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "551K",
+          "caption_clean": "JULIÁN ÁLVAREZ ️",
+          "url": "https://www.instagram.com/p/DaraKlfs2iy/",
+          "cover_url": "/covers/8e55c9bde3919063.jpg",
+          "extra": {
+            "likes": 550712,
+            "comments": 5928,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "471K",
+          "caption_clean": "Em um dia como o de hoje, no primeiro ano do novo milênio, veio ao mundo um menino que ainda seria admirado pelo mundo inteiro. Logo ali, em São Gonçalo, nascia um dos nomes dessa…",
+          "url": "https://www.instagram.com/p/DaqwPxKT5X_/",
+          "cover_url": "/covers/75ad3e236c067402.jpg",
+          "extra": {
+            "likes": 470583,
+            "comments": 2681,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Boca Juniors",
+          "handle": "bocajrs",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "460K",
+          "caption_clean": "Leandro Daniel Paredes: nuestro capitán y semifinalista del mundial",
+          "url": "https://www.instagram.com/p/Darcf4iDXbj/",
+          "cover_url": "/covers/f8a1aaa1edde9859.jpg",
+          "extra": {
+            "likes": 459639,
+            "comments": 2100,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "420K",
+          "caption_clean": "\"¡VAMOS!\"",
+          "url": "https://www.instagram.com/p/Dar6nL3H2xW/",
+          "cover_url": "/covers/1b2b1bd974beaab7.jpg",
+          "extra": {
+            "likes": 419722,
+            "comments": 8740,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "386K",
+          "caption_clean": "WORLD CUP 2026 Anthony Gordon featured and provided an assist in England's 2-1 win over Norway, helping the Three Lions secure their place in the 2026 World Cup semi-finals. @fifa",
+          "url": "https://www.instagram.com/p/Daq_OnIFXQl/",
+          "cover_url": "/covers/3ddfffdb8a7ab6c0.jpg",
+          "extra": {
+            "likes": 385964,
+            "comments": 943,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "363K",
+          "caption_clean": "BTS X FC Bayern - the crossover we needed in our lives ️ Big shout-out to @uarmyhope & @thv! @bts.bighitofficial #BTS #FCBayern #BTS_WORLDTOUR_ARIRANG_MUNICH",
+          "url": "https://www.instagram.com/p/Dar-EoJCHyF/",
+          "cover_url": "/covers/7ed411cfaa77b83d.jpg",
+          "extra": {
+            "likes": 362652,
+            "comments": 2658,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "293K",
+          "caption_clean": "La araña que pica.",
+          "url": "https://www.instagram.com/p/DarbbfFsjwk/",
+          "cover_url": "/covers/8017feaa2e3f6491.jpg",
+          "extra": {
+            "likes": 292884,
+            "comments": 843,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "257K",
+          "caption_clean": "THE FINAL FOUR. One step from the final. ⏳",
+          "url": "https://www.instagram.com/p/Dar3Mi8DRf8/",
+          "cover_url": "/covers/2e0deff7603f9e17.jpg",
+          "extra": {
+            "likes": 256655,
+            "comments": 2618,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Corinthians",
+          "handle": "corinthians",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "244K",
+          "caption_clean": "Após uma longa espera, finalmente, hoje tem Corinthians! ️ SALVE O CORINTHIANS... Cascavel x Corinthians Amistoso preparatório ⏰ 16h (horário de Brasília) ️ Estádio Municipal Arnal…",
+          "url": "https://www.instagram.com/p/DarU0Kojq59/",
+          "cover_url": "/covers/fe27b83a6070e71d.jpg",
+          "extra": {
+            "likes": 244261,
+            "comments": 3107,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "242K",
+          "caption_clean": "Argentina a semifinales del @fifaworldcup",
+          "url": "https://www.instagram.com/p/DarioscFutf/",
+          "cover_url": "/covers/4e2f4ca8346cbc6d.jpg",
+          "extra": {
+            "likes": 241872,
+            "comments": 566,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "Likes",
+          "metric_value": "240K",
+          "caption_clean": "Nathan Aké: “Çok mutluyum ve heyecanlıyım. Burada harika karşılandım. Taraftarlarımıza destekleri için teşekkür ediyorum. Hep birlikte güzel bir sezon geçirmek için sonuna kadar mü…",
+          "url": "https://www.instagram.com/p/DasE7C3sBGt/",
+          "cover_url": "/covers/ac09430db5976707.jpg",
+          "extra": {
+            "likes": 240202,
+            "comments": 1042,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "235K",
+          "caption_clean": "Always together, always família blaugrana ️ Sempre junte, sempre en família Una sesión de fotos divertida",
+          "url": "https://www.instagram.com/p/Das70rKjnj9/",
+          "cover_url": "/covers/99910bf1a72b6a4a.jpg",
+          "extra": {
+            "likes": 234561,
+            "comments": 352,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Inter Miami",
+          "handle": "intermiamicf",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "Likes",
+          "metric_value": "232K",
+          "caption_clean": "¡@leomessi y @rodridepaul festejando el pase a semifinales!",
+          "url": "https://www.instagram.com/p/Darh_bWjS2g/",
+          "cover_url": "/covers/91e19551bbaa0d98.jpg",
+          "extra": {
+            "likes": 232041,
+            "comments": 814,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Liverpool",
+          "handle": "liverpoolfc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "231K",
+          "caption_clean": "Love it, Macca! Alexis was on target in Argentina's win as they progress into the World Cup semi-finals",
+          "url": "https://www.instagram.com/p/Dar6E7UllCs/",
+          "cover_url": "/covers/44ad6faa85768002.jpg",
+          "extra": {
+            "likes": 230813,
+            "comments": 1853,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "Likes",
+          "metric_value": "222K",
+          "caption_clean": "Günün ilk antrenmanından fotoğraflar.",
+          "url": "https://www.instagram.com/p/DasTJdejYR-/",
+          "cover_url": "/covers/2c77393f01afc327.jpg",
+          "extra": {
+            "likes": 222028,
+            "comments": 1417,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "PSG",
+          "handle": "psg",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "Likes",
+          "metric_value": "205K",
+          "caption_clean": "How many can you guess correctly?",
+          "url": "https://www.instagram.com/p/DasxMskjZrl/",
+          "cover_url": "/covers/772c7b5314a6f272.jpg",
+          "extra": {
+            "likes": 205198,
+            "comments": 851,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "VER",
+          "metric_value": "12.22%",
+          "caption_clean": "Tonight @thv took a turn in the Allianz Arena – as Kim Minjae! #BTS #FCBayern",
+          "url": "https://www.instagram.com/p/DatPybeoj-t/",
+          "cover_url": "/covers/d4a78dbaefec2f6e.jpg",
+          "extra": {
+            "likes": 553081,
+            "comments": 4199,
+            "views": 4560776
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "11.39%",
+          "caption_clean": "É só o começo, @hulkparaiba! Vamos juntos! ️",
+          "url": "https://www.instagram.com/p/DatZCyeBLA_/",
+          "cover_url": "/covers/4db62effb274c567.jpg",
+          "extra": {
+            "likes": 13817,
+            "comments": 174,
+            "views": 122799
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "VER",
+          "metric_value": "11.28%",
+          "caption_clean": "Xabi at Cobham.",
+          "url": "https://www.instagram.com/p/Dar4uhXIrh2/",
+          "cover_url": "/covers/a552ed4bac2388de.jpg",
+          "extra": {
+            "likes": 96929,
+            "comments": 545,
+            "views": 864200
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "9.80%",
+          "caption_clean": "Se tem funk, tem passinho. E no Mengão, isso faz parte do nosso DNA! Entra no ritmo, Nação! Como já dizia a música: “Balança o ombrin!” 12/07 - Dia Nacional do Funk",
+          "url": "https://www.instagram.com/p/DasgYDnBSpO/",
+          "cover_url": "/covers/c22fa036ff62a6a7.jpg",
+          "extra": {
+            "likes": 262203,
+            "comments": 1511,
+            "views": 2689784
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "VER",
+          "metric_value": "8.68%",
+          "caption_clean": "Bayern Bangtan @thv & @uarmyhope wearing custom FC Bayern jerseys! #BTS #FCBayern #BTS_WORLDTOUR_ARIRANG_MUNICH",
+          "url": "https://www.instagram.com/p/DaqyEsEIWgA/",
+          "cover_url": "/covers/661fbfd5d6d3b842.jpg",
+          "extra": {
+            "likes": 125761,
+            "comments": 1762,
+            "views": 1469063
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Sporting",
+          "handle": "sportingcp",
+          "flag": "🇵🇹",
+          "liga": "Primeira Liga",
+          "metric_label": "VER",
+          "metric_value": "8.30%",
+          "caption_clean": "Farás sempre parte da família verde e branca Obrigado, Capitão",
+          "url": "https://www.instagram.com/p/DasEpjtMIng/",
+          "cover_url": "/covers/5961d8ba6f6db4f9.jpg",
+          "extra": {
+            "likes": 113005,
+            "comments": 5698,
+            "views": 1430801
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Botafogo",
+          "handle": "botafogo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "8.22%",
+          "caption_clean": "MEU PACE FERVE POR VOCÊ A Botafogo Run começou e você assiste tudo AO VIVO no canal alvinegro! O link tá nos stories! #BFR",
+          "url": "https://www.instagram.com/p/DasF9_6RqP4/",
+          "cover_url": "/covers/13a388b636c6f5d3.jpg",
+          "extra": {
+            "likes": 17255,
+            "comments": 288,
+            "views": 213424
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "7.77%",
+          "caption_clean": "GERMÁAAAANNNN CANNNNNNNOOOOO! SEUS GOLS SÃO ESPECIAIS, 01! O SEGUNDO DO #SUPERDIADEFLU É DELLE!",
+          "url": "https://www.instagram.com/p/DatPzBnh7wX/",
+          "cover_url": "https://instagram.fjan1-1.fna.fbcdn.net/v/t51.82787-15/743050064_18610159999061617_4442794653617924816_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fjan1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gH2vHd3s9iuqIJgiCkIJfO7rjAlRR7QESTbF5_wN8QijEp39IxikbYy2L4v-RAAm48&_nc_ohc=CkwfXq4y3OgQ7kNvwF9AGRc&_nc_gid=XDDHVgPX7-o8d_5H9SV3wg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDT1V8y85NDXW-R4U4mgHGpTCyI9W7Vlo5B485Ans6nqA&oe=6A5A5434&_nc_sid=c6f216",
+          "extra": {
+            "likes": 25054,
+            "comments": 621,
+            "views": 330349
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "VER",
+          "metric_value": "7.39%",
+          "caption_clean": "Blessing your timeline with Bapsae Hoseok in a FC Bayern jersey #BTS #FCBayern #BTS_WORLDTOUR_ARIRANG_MUNICH ️ @dash_of_purple",
+          "url": "https://www.instagram.com/p/DasnT74Kgl0/",
+          "cover_url": "/covers/11504664b9101728.jpg",
+          "extra": {
+            "likes": 187464,
+            "comments": 2209,
+            "views": 2566566
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "VER",
+          "metric_value": "7.21%",
+          "caption_clean": "Hitting the gym.",
+          "url": "https://www.instagram.com/p/DasTgdoIps6/",
+          "cover_url": "/covers/9b21df839e4f9a13.jpg",
+          "extra": {
+            "likes": 106269,
+            "comments": 1785,
+            "views": 1499431
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Borussia Dortmund",
+          "handle": "bvb09",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "VER",
+          "metric_value": "7.12%",
+          "caption_clean": "@jobebellingham never stop running!",
+          "url": "https://www.instagram.com/p/DatGHbtxwks/",
+          "cover_url": "/covers/a2fe72bac58dad8e.jpg",
+          "extra": {
+            "likes": 304347,
+            "comments": 595,
+            "views": 4284510
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Fluminense",
+          "handle": "fluminensefc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "6.98%",
+          "caption_clean": "FLUMINENSE FOOTBALL CLUB NO MARACA! VAAAAAAMOOOS!",
+          "url": "https://www.instagram.com/p/Das63WYxlyF/",
+          "cover_url": "/covers/ae2aa94acb5ab46f.jpg",
+          "extra": {
+            "likes": 5807,
+            "comments": 60,
+            "views": 84038
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "6.92%",
+          "caption_clean": "Um dia inesquecível e repleto de alegrias! O palmeirense Estevan, que viralizou ao criar sua própria camisa da Seleção Brasileira, conheceu seus ídolos e viveu uma experiência únic…",
+          "url": "https://www.instagram.com/p/Das1D2UkuK7/",
+          "cover_url": "/covers/16bee694f46d6464.jpg",
+          "extra": {
+            "likes": 69027,
+            "comments": 853,
+            "views": 1010021
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Botafogo",
+          "handle": "botafogo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "6.88%",
+          "caption_clean": "A CHEGADA NA NOSSA CASA! A Família Botafogo finalizou a primeira BotafogoRun no estádio mais bonito do mundo! #BFR Acompanhe AO VIVO na Botafogo TV!",
+          "url": "https://www.instagram.com/p/DasS1l7xIMQ/",
+          "cover_url": "/covers/1fcf2471b3144bcd.jpg",
+          "extra": {
+            "likes": 6418,
+            "comments": 113,
+            "views": 94862
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "6.25%",
+          "caption_clean": "MUITO FELIZ! #GRExCRU",
+          "url": "https://www.instagram.com/p/DatbMYuJ4iA/",
+          "cover_url": "/covers/7eb914f34089526c.jpg",
+          "extra": {
+            "likes": 26892,
+            "comments": 346,
+            "views": 435928
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "6.18%",
+          "caption_clean": "Quem foi o melhor? Carlos Miguel palpitou sobre alguns dos maiores arqueiros da história do futebol Gostou da resenha? Conheça mais sobre o Gigante no Palmeiras Cast!",
+          "url": "https://www.instagram.com/p/DatXZvmEgNo/",
+          "cover_url": "/covers/3ad41a0dba9a59b5.jpg",
+          "extra": {
+            "likes": 39626,
+            "comments": 609,
+            "views": 650803
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Borussia Dortmund",
+          "handle": "bvb09",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "VER",
+          "metric_value": "5.82%",
+          "caption_clean": "️ Learned to score a brace in Dortmund 󠁧󠁢󠁥󠁮󠁧󠁿",
+          "url": "https://www.instagram.com/p/Dar8vJnqbK2/",
+          "cover_url": "/covers/be384c76f1a0a115.jpg",
+          "extra": {
+            "likes": 29911,
+            "comments": 50,
+            "views": 515143
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "VER",
+          "metric_value": "5.77%",
+          "caption_clean": "All eyes on the season ahead.",
+          "url": "https://www.instagram.com/p/DatIvbjssg0/",
+          "cover_url": "/covers/fe2ef98fc2148ddb.jpg",
+          "extra": {
+            "likes": 119710,
+            "comments": 881,
+            "views": 2089293
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Botafogo",
+          "handle": "botafogo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "VER",
+          "metric_value": "5.66%",
+          "caption_clean": "QUINTA É NO NILTON SANTOS! ️ Na última partida na nossa casa, Arthur Cabral marcou três vezes incluindo esse GOLAÇO! ️ #VamosBOTAFOGO Acesse botafogo.com.br/ingresso e garanta seu…",
+          "url": "https://www.instagram.com/p/DatLciDxQ_J/",
+          "cover_url": "/covers/703cd2409ec3817e.jpg",
+          "extra": {
+            "likes": 11382,
+            "comments": 135,
+            "views": 203553
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "LA Galaxy",
+          "handle": "lagalaxy",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "VER",
+          "metric_value": "5.60%",
+          "caption_clean": "Back to business.",
+          "url": "https://www.instagram.com/p/DatVPAayV3_/",
+          "cover_url": "/covers/4dc39a63a9a11c6f.jpg",
+          "extra": {
+            "likes": 1193,
+            "comments": 5,
+            "views": 21404
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "553K",
+          "caption_clean": "Tonight @thv took a turn in the Allianz Arena – as Kim Minjae! #BTS #FCBayern",
+          "url": "https://www.instagram.com/p/DatPybeoj-t/",
+          "cover_url": "/covers/d4a78dbaefec2f6e.jpg",
+          "extra": {
+            "likes": 553081,
+            "comments": 4199,
+            "views": 4560776
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "387K",
+          "caption_clean": "Pedri's name and number are transformed into art in our new kit 8️⃣ @alexchipi11",
+          "url": "https://www.instagram.com/p/Dar3SqQFMtU/",
+          "cover_url": "/covers/f91134e2d72ec7f8.jpg",
+          "extra": {
+            "likes": 387172,
+            "comments": 908,
+            "views": 18587060
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Borussia Dortmund",
+          "handle": "bvb09",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "304K",
+          "caption_clean": "@jobebellingham never stop running!",
+          "url": "https://www.instagram.com/p/DatGHbtxwks/",
+          "cover_url": "/covers/a2fe72bac58dad8e.jpg",
+          "extra": {
+            "likes": 304347,
+            "comments": 595,
+            "views": 4284510
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "262K",
+          "caption_clean": "Se tem funk, tem passinho. E no Mengão, isso faz parte do nosso DNA! Entra no ritmo, Nação! Como já dizia a música: “Balança o ombrin!” 12/07 - Dia Nacional do Funk",
+          "url": "https://www.instagram.com/p/DasgYDnBSpO/",
+          "cover_url": "/covers/c22fa036ff62a6a7.jpg",
+          "extra": {
+            "likes": 262203,
+            "comments": 1511,
+            "views": 2689784
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "250K",
+          "caption_clean": "⏳ It’s ALMOST time! ¡MAÑANA! #RMCity",
+          "url": "https://www.instagram.com/p/Das73s4IrSf/",
+          "cover_url": "/covers/4b372bc7258fd6a8.jpg",
+          "extra": {
+            "likes": 249983,
+            "comments": 964,
+            "views": 10756614
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "187K",
+          "caption_clean": "Blessing your timeline with Bapsae Hoseok in a FC Bayern jersey #BTS #FCBayern #BTS_WORLDTOUR_ARIRANG_MUNICH ️ @dash_of_purple",
+          "url": "https://www.instagram.com/p/DasnT74Kgl0/",
+          "cover_url": "/covers/11504664b9101728.jpg",
+          "extra": {
+            "likes": 187464,
+            "comments": 2209,
+            "views": 2566566
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "186K",
+          "caption_clean": "Always one step ahead.",
+          "url": "https://www.instagram.com/p/DaseYiGIrCH/",
+          "cover_url": "/covers/cb7df6c7ad26a15c.jpg",
+          "extra": {
+            "likes": 185982,
+            "comments": 388,
+            "views": 11379215
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "Likes",
+          "metric_value": "177K",
+          "caption_clean": "Teknik Direktörümüz İsmail Kartal yönetiminde yeni sezon hazırlıklarımız tüm hızıyla sürüyor!",
+          "url": "https://www.instagram.com/p/DatAQCLMx1M/",
+          "cover_url": "/covers/3c3d69bd509976ee.jpg",
+          "extra": {
+            "likes": 176671,
+            "comments": 1221,
+            "views": 3292985
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "166K",
+          "caption_clean": "UNIVERSO REAL MADRID: DUBAI “They were the best years of my life.” ️ “Son los mejores años de mi vida”. @TheRealSalgado Ep.7 | EXCLUSIVE: Socios, Madridistas Premium & Platinum LIN…",
+          "url": "https://www.instagram.com/p/DasMJGEIrxT/",
+          "cover_url": "/covers/0bdde2936262d5a9.jpg",
+          "extra": {
+            "likes": 166449,
+            "comments": 307,
+            "views": 11307002
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "129K",
+          "caption_clean": "The first goalscorer in our 2026/27 home shirt: Luke Shaw! ️‍",
+          "url": "https://www.instagram.com/p/DasLvZqN48t/",
+          "cover_url": "/covers/20b706627e4fa566.jpg",
+          "extra": {
+            "likes": 128591,
+            "comments": 218,
+            "views": 3930260
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "Likes",
+          "metric_value": "120K",
+          "caption_clean": "All eyes on the season ahead.",
+          "url": "https://www.instagram.com/p/DatIvbjssg0/",
+          "cover_url": "/covers/fe2ef98fc2148ddb.jpg",
+          "extra": {
+            "likes": 119710,
+            "comments": 881,
+            "views": 2089293
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Sporting",
+          "handle": "sportingcp",
+          "flag": "🇵🇹",
+          "liga": "Primeira Liga",
+          "metric_label": "Likes",
+          "metric_value": "113K",
+          "caption_clean": "Farás sempre parte da família verde e branca Obrigado, Capitão",
+          "url": "https://www.instagram.com/p/DasEpjtMIng/",
+          "cover_url": "/covers/5961d8ba6f6db4f9.jpg",
+          "extra": {
+            "likes": 113005,
+            "comments": 5698,
+            "views": 1430801
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "106K",
+          "caption_clean": "Hitting the gym.",
+          "url": "https://www.instagram.com/p/DasTgdoIps6/",
+          "cover_url": "/covers/9b21df839e4f9a13.jpg",
+          "extra": {
+            "likes": 106269,
+            "comments": 1785,
+            "views": 1499431
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "99K",
+          "caption_clean": "Baila, Vini! Os lances do nosso aniversariante com o Manto Sagrado, no embalo de Travis Scott, parceiro do nosso Vini Jr!",
+          "url": "https://www.instagram.com/p/DasnPOohGjd/",
+          "cover_url": "/covers/f267e330ea736b38.jpg",
+          "extra": {
+            "likes": 98952,
+            "comments": 588,
+            "views": 1847543
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "97K",
+          "caption_clean": "Xabi at Cobham.",
+          "url": "https://www.instagram.com/p/Dar4uhXIrh2/",
+          "cover_url": "/covers/a552ed4bac2388de.jpg",
+          "extra": {
+            "likes": 96929,
+            "comments": 545,
+            "views": 864200
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Corinthians",
+          "handle": "corinthians",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "81K",
+          "caption_clean": "A espera acabou! O Timão volta a campo em partida amistosa neste domingo! ️ #VaiCorinthians",
+          "url": "https://www.instagram.com/p/DasZOc-xQmA/",
+          "cover_url": "/covers/01c9ca1cabfbfbc4.jpg",
+          "extra": {
+            "likes": 81155,
+            "comments": 569,
+            "views": 2088967
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Corinthians",
+          "handle": "corinthians",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "79K",
+          "caption_clean": "2T | 15 min: TIMÃO NA FRENTE!!! André Carrillo cruzou na área, o zagueiro afastou e o Filho do Terrão bateu de primeira, sem chances ao goleiro. ABRE O PLACAR O CORINGÃO!!! #FCCxSC…",
+          "url": "https://www.instagram.com/p/DatMr9CJ58p/",
+          "cover_url": "/covers/3b5cb9166bcf5dbb.jpg",
+          "extra": {
+            "likes": 78717,
+            "comments": 984,
+            "views": 1625382
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "72K",
+          "caption_clean": "Let’s hustle #ShotOnSnapdragon",
+          "url": "https://www.instagram.com/p/DasuFLPNfbo/",
+          "cover_url": "/covers/958eaa6eff321501.jpg",
+          "extra": {
+            "likes": 71585,
+            "comments": 435,
+            "views": 1295760
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "69K",
+          "caption_clean": "Um dia inesquecível e repleto de alegrias! O palmeirense Estevan, que viralizou ao criar sua própria camisa da Seleção Brasileira, conheceu seus ídolos e viveu uma experiência únic…",
+          "url": "https://www.instagram.com/p/Das1D2UkuK7/",
+          "cover_url": "/covers/16bee694f46d6464.jpg",
+          "extra": {
+            "likes": 69027,
+            "comments": 853,
+            "views": 1010021
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Corinthians",
+          "handle": "corinthians",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "60K",
+          "caption_clean": "Recado do ídolo! Gamarra está presente no amistoso do Coringão e mandou um alô para a Fiel Torcida! ️ #VaiCorinthians",
+          "url": "https://www.instagram.com/p/Das_21vDLRT/",
+          "cover_url": "/covers/b572d8ba0dfc1f15.jpg",
+          "extra": {
+            "likes": 59500,
+            "comments": 1802,
+            "views": 1510016
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "37.19%",
+          "caption_clean": "1-2 󠁧󠁢󠁥󠁮󠁧󠁿 Bellingham Quarter-finals | Cuartos de final #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@realmadrid/video/7661564644443573526",
+          "cover_url": "/covers/863c15ab6fa5c6bd.jpg",
+          "extra": {
+            "likes": 304600,
+            "comments": 2585,
+            "views": 830700,
+            "shares": 1734
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "36.89%",
+          "caption_clean": "Xabi at Cobham. #ChelseaFC #CFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7661554856108231958",
+          "cover_url": "/covers/9f21b417ab85e9f6.jpg",
+          "extra": {
+            "likes": 145700,
+            "comments": 719,
+            "views": 400100,
+            "shares": 1186
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "33.43%",
+          "caption_clean": "#flamengo #funk #paqueta #tiktokesportes",
+          "url": "https://www.tiktok.com/@flamengo/video/7661655632184970516",
+          "cover_url": "/covers/75ba254365e4ed61.jpg",
+          "extra": {
+            "likes": 71600,
+            "comments": 768,
+            "views": 220300,
+            "shares": 1278
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "29.82%",
+          "caption_clean": "Let’s hustle #ShotOnSnapdragon",
+          "url": "https://www.tiktok.com/@manutd/video/7661623793705635094",
+          "cover_url": "/covers/88b4ed0db88208ca.jpg",
+          "extra": {
+            "likes": 117600,
+            "comments": 742,
+            "views": 399800,
+            "shares": 882
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Inter Miami",
+          "handle": "intermiamicf",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "ER",
+          "metric_value": "28.99%",
+          "caption_clean": "¡Leo Messi y Rodrigo De Paul festejando el pase a semifinales!",
+          "url": "https://www.tiktok.com/@intermiamicf/video/7661500282794282254",
+          "cover_url": "/covers/bc93cca703e45649.jpg",
+          "extra": {
+            "likes": 51800,
+            "comments": 309,
+            "views": 180600,
+            "shares": 254
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Corinthians",
+          "handle": "corinthians",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "27.75%",
+          "caption_clean": "A espera acabou! O Timão volta a campo em partida amistosa neste domingo! ️ #VaiCorinthians",
+          "url": "https://www.tiktok.com/@corinthians/video/7661626196462980373",
+          "cover_url": "/covers/c91a413638461993.jpg",
+          "extra": {
+            "likes": 11700,
+            "comments": 88,
+            "views": 43300,
+            "shares": 227
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "ER",
+          "metric_value": "25.73%",
+          "caption_clean": "Blessing your timeline with Bapsae Hoseok in a FC Bayern jersey @hobipower #BTS #FCBayern #BTS_WORLDTOUR_ARIRANG_MUNICH ️ IG: dash_of_purple",
+          "url": "https://www.tiktok.com/@fcbayern/video/7661654744770809121",
+          "cover_url": "/covers/a78f63039d3eea58.jpg",
+          "extra": {
+            "likes": 79900,
+            "comments": 1240,
+            "views": 324900,
+            "shares": 2454
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "ER",
+          "metric_value": "25.72%",
+          "caption_clean": "Big shout-out to @hobipower & V @bts.bighitofficial #BTS #FCBayern #BTS_WORLDTOUR_ARIRANG_MUNICH",
+          "url": "https://www.tiktok.com/@fcbayern/video/7661565721448615200",
+          "cover_url": "/covers/39b82573d23c6a8f.jpg",
+          "extra": {
+            "likes": 177000,
+            "comments": 1458,
+            "views": 716400,
+            "shares": 5788
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Boca Juniors",
+          "handle": "bocajuniors",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "25.39%",
+          "caption_clean": "",
+          "url": "https://www.tiktok.com/@bocajuniors/video/7661488503133424916",
+          "cover_url": "/covers/dd0a530a68136306.jpg",
+          "extra": {
+            "likes": 36000,
+            "comments": 244,
+            "views": 146700,
+            "shares": 999
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "ER",
+          "metric_value": "24.47%",
+          "caption_clean": "Throwback On this day in 2017 James Rodríguez joined us for a 2 year loan Happy Birthday, James! #FCBayern #James",
+          "url": "https://www.tiktok.com/@fcbayern/video/7661606104404741409",
+          "cover_url": "/covers/527bf9fb7098dbca.jpg",
+          "extra": {
+            "likes": 216500,
+            "comments": 811,
+            "views": 914000,
+            "shares": 6314
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Liverpool",
+          "handle": "liverpoolfc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "24.15%",
+          "caption_clean": "Alexis was on target for Argentina as they progressed to the semi-finals of the World Cup #Argentina #MacAllister #WorldCup #LiverpoolFC",
+          "url": "https://www.tiktok.com/@liverpoolfc/video/7661599958818245910",
+          "cover_url": "/covers/0c835f94d59dc49f.jpg",
+          "extra": {
+            "likes": 57100,
+            "comments": 292,
+            "views": 239000,
+            "shares": 329
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "23.87%",
+          "caption_clean": "Hitting the gym. #ChelseaFC #CFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7661624391398198550",
+          "cover_url": "/covers/0d085cda90e4f81b.jpg",
+          "extra": {
+            "likes": 135500,
+            "comments": 1101,
+            "views": 576200,
+            "shares": 942
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "23.26%",
+          "caption_clean": "⏳ It's ALMOST time! #RealMadrid #RMCity",
+          "url": "https://www.tiktok.com/@realmadrid/video/7661702939865746711",
+          "cover_url": "/covers/43bad9291b3298c7.jpg",
+          "extra": {
+            "likes": 251900,
+            "comments": 2337,
+            "views": 1100000,
+            "shares": 1640
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Corinthians",
+          "handle": "corinthians",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "22.47%",
+          "caption_clean": "Após uma longa espera, finalmente, hoje tem Corinthians! ️ SALVE O CORINTHIANS... Cascavel x Corinthians Amistoso preparatório ⏰ 16h (horário de Brasília) ️ Estádio Municipal Arnal…",
+          "url": "https://www.tiktok.com/@corinthians/video/7661479263907958024",
+          "cover_url": "/covers/79933ddcb479afa5.jpg",
+          "extra": {
+            "likes": 32100,
+            "comments": 632,
+            "views": 162700,
+            "shares": 3828
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "22.41%",
+          "caption_clean": "Scroll through pics from day two of pre-season, as we upped the intensity at Carrington",
+          "url": "https://www.tiktok.com/@manutd/video/7661639850612772118",
+          "cover_url": "/covers/115a9bbe9a40ce2a.jpg",
+          "extra": {
+            "likes": 61300,
+            "comments": 256,
+            "views": 276600,
+            "shares": 438
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Marseille",
+          "handle": "om",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "ER",
+          "metric_value": "21.62%",
+          "caption_clean": "Marseille #om #views #marseille #ligue1",
+          "url": "https://www.tiktok.com/@om/video/7661618756631678241",
+          "cover_url": "/covers/448be0b1e310e5c3.jpg",
+          "extra": {
+            "likes": 11800,
+            "comments": 82,
+            "views": 56100,
+            "shares": 248
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Al-Nassr",
+          "handle": "alnassr",
+          "flag": "🇸🇦",
+          "liga": "Saudi Pro League",
+          "metric_label": "ER",
+          "metric_value": "21.49%",
+          "caption_clean": "Abha welcomes the champions #النصر #foryou #alnassr #foryoupage #fyp",
+          "url": "https://www.tiktok.com/@alnassr/video/7661592411419790599",
+          "cover_url": "/covers/eff25816386bcf61.jpg",
+          "extra": {
+            "likes": 49100,
+            "comments": 1032,
+            "views": 235300,
+            "shares": 438
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Inter de Milão",
+          "handle": "inter",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "ER",
+          "metric_value": "21.18%",
+          "caption_clean": "",
+          "url": "https://www.tiktok.com/@inter/video/7661568140786142496",
+          "cover_url": "/covers/646c00912a9d3663.jpg",
+          "extra": {
+            "likes": 32600,
+            "comments": 255,
+            "views": 156900,
+            "shares": 384
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "21.17%",
+          "caption_clean": "Vini Day Parabéns, melhor do mundo! Vamos por mais, #GarotoDoNinho! #flamengo #vinijr #viniciusjunior #tiktokesportes",
+          "url": "https://www.tiktok.com/@flamengo/video/7661716734096739604",
+          "cover_url": "/covers/16a85c206b9b1376.jpg",
+          "extra": {
+            "likes": 15100,
+            "comments": 96,
+            "views": 72200,
+            "shares": 90
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "20.60%",
+          "caption_clean": "@Marc Cucurella @Ibrahima Konate @Aurelien Tchouameni #Mbappe #Bellingham #RealMadrid",
+          "url": "https://www.tiktok.com/@realmadrid/video/7661636980920290582",
+          "cover_url": "/covers/6af72631888bd11a.jpg",
+          "extra": {
+            "likes": 125300,
+            "comments": 823,
+            "views": 615400,
+            "shares": 666
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "305K",
+          "caption_clean": "1-2 󠁧󠁢󠁥󠁮󠁧󠁿 Bellingham Quarter-finals | Cuartos de final #FIFAWorldCup",
+          "url": "https://www.tiktok.com/@realmadrid/video/7661564644443573526",
+          "cover_url": "/covers/863c15ab6fa5c6bd.jpg",
+          "extra": {
+            "likes": 304600,
+            "comments": 2585,
+            "views": 830700,
+            "shares": 1734
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "259K",
+          "caption_clean": "Pedri's name and number become art in our new kit @alexchipi11 #fcbarcelona #barçaontiktok #Barcelona #deportesentiktok #Pedri",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7661231388858846486",
+          "cover_url": "/covers/79c94e9afaf0c983.jpg",
+          "extra": {
+            "likes": 259000,
+            "comments": 1917,
+            "views": 1900000,
+            "shares": 3349
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "252K",
+          "caption_clean": "⏳ It's ALMOST time! #RealMadrid #RMCity",
+          "url": "https://www.tiktok.com/@realmadrid/video/7661702939865746711",
+          "cover_url": "/covers/43bad9291b3298c7.jpg",
+          "extra": {
+            "likes": 251900,
+            "comments": 2337,
+            "views": 1100000,
+            "shares": 1640
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "216K",
+          "caption_clean": "Throwback On this day in 2017 James Rodríguez joined us for a 2 year loan Happy Birthday, James! #FCBayern #James",
+          "url": "https://www.tiktok.com/@fcbayern/video/7661606104404741409",
+          "cover_url": "/covers/527bf9fb7098dbca.jpg",
+          "extra": {
+            "likes": 216500,
+            "comments": 811,
+            "views": 914000,
+            "shares": 6314
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "177K",
+          "caption_clean": "Big shout-out to @hobipower & V @bts.bighitofficial #BTS #FCBayern #BTS_WORLDTOUR_ARIRANG_MUNICH",
+          "url": "https://www.tiktok.com/@fcbayern/video/7661565721448615200",
+          "cover_url": "/covers/39b82573d23c6a8f.jpg",
+          "extra": {
+            "likes": 177000,
+            "comments": 1458,
+            "views": 716400,
+            "shares": 5788
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "146K",
+          "caption_clean": "Xabi at Cobham. #ChelseaFC #CFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7661554856108231958",
+          "cover_url": "/covers/9f21b417ab85e9f6.jpg",
+          "extra": {
+            "likes": 145700,
+            "comments": 719,
+            "views": 400100,
+            "shares": 1186
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Juventus",
+          "handle": "juventus",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "144K",
+          "caption_clean": "Paul Pogba @Angry Birds 2 #edit #pogba #angrybirds #juventus #sportstiktok",
+          "url": "https://www.tiktok.com/@juventus/video/7661582712813161761",
+          "cover_url": "/covers/75e3a058a9360ea4.jpg",
+          "extra": {
+            "likes": 143500,
+            "comments": 1024,
+            "views": 740800,
+            "shares": 7017
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "136K",
+          "caption_clean": "Hitting the gym. #ChelseaFC #CFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7661624391398198550",
+          "cover_url": "/covers/0d085cda90e4f81b.jpg",
+          "extra": {
+            "likes": 135500,
+            "comments": 1101,
+            "views": 576200,
+            "shares": 942
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "125K",
+          "caption_clean": "@Marc Cucurella @Ibrahima Konate @Aurelien Tchouameni #Mbappe #Bellingham #RealMadrid",
+          "url": "https://www.tiktok.com/@realmadrid/video/7661636980920290582",
+          "cover_url": "/covers/6af72631888bd11a.jpg",
+          "extra": {
+            "likes": 125300,
+            "comments": 823,
+            "views": 615400,
+            "shares": 666
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "118K",
+          "caption_clean": "Let’s hustle #ShotOnSnapdragon",
+          "url": "https://www.tiktok.com/@manutd/video/7661623793705635094",
+          "cover_url": "/covers/88b4ed0db88208ca.jpg",
+          "extra": {
+            "likes": 117600,
+            "comments": 742,
+            "views": 399800,
+            "shares": 882
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Borussia Dortmund",
+          "handle": "bvb",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "112K",
+          "caption_clean": "Jobe Bellingham never stops running",
+          "url": "https://www.tiktok.com/@bvb/video/7661737432974462240",
+          "cover_url": "/covers/9349d7b1b1ba5c77.jpg",
+          "extra": {
+            "likes": 112200,
+            "comments": 579,
+            "views": 1200000,
+            "shares": 3452
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "Likes",
+          "metric_value": "87K",
+          "caption_clean": "Tonight Kim Taehyung took a turn in the Allianz Arena – as Kim Minjae @BTS #FCBayern #Taehyung #BTS_WORLDTOUR_ARIRANG_MUNICH",
+          "url": "https://www.tiktok.com/@fcbayern/video/7661749523324079392",
+          "cover_url": "/covers/67c68f54e84f48e6.jpg",
+          "extra": {
+            "likes": 87200,
+            "comments": 1342,
+            "views": 488300,
+            "shares": 4884
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "72K",
+          "caption_clean": "#flamengo #funk #paqueta #tiktokesportes",
+          "url": "https://www.tiktok.com/@flamengo/video/7661655632184970516",
+          "cover_url": "/covers/75ba254365e4ed61.jpg",
+          "extra": {
+            "likes": 71600,
+            "comments": 768,
+            "views": 220300,
+            "shares": 1278
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "61K",
+          "caption_clean": "Scroll through pics from day two of pre-season, as we upped the intensity at Carrington",
+          "url": "https://www.tiktok.com/@manutd/video/7661639850612772118",
+          "cover_url": "/covers/115a9bbe9a40ce2a.jpg",
+          "extra": {
+            "likes": 61300,
+            "comments": 256,
+            "views": 276600,
+            "shares": 438
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Liverpool",
+          "handle": "liverpoolfc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "57K",
+          "caption_clean": "Alexis was on target for Argentina as they progressed to the semi-finals of the World Cup #Argentina #MacAllister #WorldCup #LiverpoolFC",
+          "url": "https://www.tiktok.com/@liverpoolfc/video/7661599958818245910",
+          "cover_url": "/covers/0c835f94d59dc49f.jpg",
+          "extra": {
+            "likes": 57100,
+            "comments": 292,
+            "views": 239000,
+            "shares": 329
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "53K",
+          "caption_clean": "It’s Luke Shaw’s birthday",
+          "url": "https://www.tiktok.com/@manutd/video/7660833519853178134",
+          "cover_url": "/covers/f144e6a69cf1de87.jpg",
+          "extra": {
+            "likes": 53000,
+            "comments": 391,
+            "views": 284200,
+            "shares": 381
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Inter Miami",
+          "handle": "intermiamicf",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "Likes",
+          "metric_value": "52K",
+          "caption_clean": "¡Leo Messi y Rodrigo De Paul festejando el pase a semifinales!",
+          "url": "https://www.tiktok.com/@intermiamicf/video/7661500282794282254",
+          "cover_url": "/covers/bc93cca703e45649.jpg",
+          "extra": {
+            "likes": 51800,
+            "comments": 309,
+            "views": 180600,
+            "shares": 254
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Al-Nassr",
+          "handle": "alnassr",
+          "flag": "🇸🇦",
+          "liga": "Saudi Pro League",
+          "metric_label": "Likes",
+          "metric_value": "49K",
+          "caption_clean": "Abha welcomes the champions #النصر #foryou #alnassr #foryoupage #fyp",
+          "url": "https://www.tiktok.com/@alnassr/video/7661592411419790599",
+          "cover_url": "/covers/eff25816386bcf61.jpg",
+          "extra": {
+            "likes": 49100,
+            "comments": 1032,
+            "views": 235300,
+            "shares": 438
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Napoli",
+          "handle": "sscnapoli",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "48K",
+          "caption_clean": "Scusa @Ferran Torres ma noi abbiamo Antonio il malessere #ForzaNapoliSempre #blowthisupforme #mundial #españa #FifaWorldCup",
+          "url": "https://www.tiktok.com/@sscnapoli/video/7661676708734487841",
+          "cover_url": "/covers/a6da3234d6a64613.jpg",
+          "extra": {
+            "likes": 47600,
+            "comments": 188,
+            "views": 401200,
+            "shares": 943
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Sporting",
+          "handle": "sporting_cp",
+          "flag": "🇵🇹",
+          "liga": "Primeira Liga",
+          "metric_label": "Likes",
+          "metric_value": "46K",
+          "caption_clean": "Farás sempre parte da família verde e branca Obrigado, Capitão #SportingCP #Hjulmand #MortenHjulmand #SCP #TikTokDesporto",
+          "url": "https://www.tiktok.com/@sporting_cp/video/7661580375151381782",
+          "cover_url": "/covers/2cbeebe53d87388d.jpg",
+          "extra": {
+            "likes": 46000,
+            "comments": 875,
+            "views": 383000,
+            "shares": 2534
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 120
+  }
+}
