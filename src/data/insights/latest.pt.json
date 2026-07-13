@@ -1,104 +1,110 @@
 {
-  "manchete": "Vozinha virou rua em Cabo Verde. A Argentina trouxe 50 mil pessoas pra Miami. Mas quem engajou mais nessa semana foi quem você menos esperava.",
+  "manchete": "Egito foi roubado (ou não), mas uma coisa é certa: ninguém reagiu mais forte do que a torcida deles essa semana.",
   "insights": [
-    "O Japão que ninguém viu vencer — Ancelotti foi testado, o Japão fez a festa, e enquanto o mundo inteiro discutia se o Brasil merecia passar, as fotos da seleção japonesa viralizavam por outro motivo: conexão pura com a torcida. O ER chegou a 23,8% — o maior de qualquer foto da semana, em qualquer seleção do mundo.",
-    "Cabo Verde: o herói virou rua, o engajamento virou recorde — Vozinha parou a Argentina o suficiente pra ganhar uma rua com seu nome em casa. A campanha histórica dos Tubarões Azuis não ficou só nas manchetes: no dia 5 de julho, Cabo Verde foi o nº 1 de engajamento tanto em fotos quanto em reels — algo que seleções com dezenas de milhões de seguidores não conseguiram em toda a semana.",
-    "O Senegal caiu, mas foi sentido — Nicolas Jackson negou que bebeu, Mané e Koulibaly estavam em crise nos bastidores, e a Bélgica passou. Mesmo assim, o Senegal entregou o post mais eficiente da semana inteira em reels: 48,0% de VER — quase metade de quem viu, curtiu. Derrota no campo, vitória no feed.",
-    "México: dominância sem discussão — Aguirre se despediu com orgulho, a cervejaria afundou 4% na bolsa depois da eliminação, e mesmo assim o México acumulou 75 aparições nos top-10 da semana — mais do que França, Portugal e Argentina juntos em dias de destaque. Ninguém dominou o TikTok como eles, com ER de 33,6% no post mais engajado da plataforma."
+    "O prefeito de Nova York disse que o Egito foi roubado contra a Argentina. A internet explodiu. E enquanto todo mundo debatia o VAR, a seleção do Egito silenciosamente postava a foto mais eficiente da semana inteira — 45,4% de ER, num campeonato dominado por gigantes com 100x mais seguidores.",
+    "Merino chutou Portugal pra fora da Copa no último minuto, Ronaldo saiu sem resposta, e a Espanha celebrou com um reel que converteu 12,1% das visualizações em curtidas — acima de Portugal, que teve o vídeo mais visto da semana inteira com 27,5 milhões de views. Ver não é sentir.",
+    "Maná cantou no intervalo do jogo do México, \"previu\" a eliminação e virou meme instantâneo. A torcida mexicana transformou a vergonha em conteúdo — e o TikTok do México terminou a semana com 33,3% de ER, quarto melhor engajamento geral entre todas as plataformas.",
+    "Argentina bateu o coração do Egito em uma \"Copa clássica\" e ainda dominou o sábado inteiro: foto, reel e TikTok — tudo número 1 em engajamento no dia 11. Julián Álvarez se prepara pra semifinal, e a torcida já está no modo final."
   ],
-  "contraste": "Portugal teve o post mais curtido da semana — 1,8 milhão de likes — e o reel mais visto, com 40 milhões de views. Números que nenhuma outra seleção chegou perto. Mas no ranking de engajamento, Portugal não aparece nem uma vez. A audiência viu. O Japão, o Senegal e Cabo Verde foram *sentidos*.",
-  "pra_acompanhar": "Cabo Verde vs. Argentina nas oitavas promete ser o confronto mais desigual no papel — e possivelmente o mais engajado do torneio. Se os Tubarões Azuis já eram top-1 antes do jogo, imagina depois.",
+  "contraste": "Portugal teve o vídeo mais assistido da semana — 27,5 milhões de views. Mas na hora de medir quem foi realmente *sentido*, o Egito (com uma fração do alcance) registrou o maior ER em fotos. Gigante em views, anão em conexão. Pequeno em seguidores, gigante em engajamento. É exatamente isso que a gente mede aqui.",
+  "pra_acompanhar": "Argentina x Inglaterra está chegando — rivalidade histórica, Messi de um lado, provocação de Joe Cole do outro. A torcida já está aquecida fora de campo. O engajamento dessa semifinal pode ser o maior da Copa.",
   "numeros": [
     {
       "label": "Mais visto",
-      "value": "Portugal · 40.3M views"
+      "value": "Portugal · 27.5M views"
     },
     {
       "label": "Mais engajado",
-      "value": "Japão · 24% ER"
+      "value": "Egito · 45% ER"
     },
     {
       "label": "Acima da média",
-      "value": "3.1× a média da semana"
+      "value": "9.1× a média da semana"
     },
     {
       "label": "Mais presente",
-      "value": "México · 75× no top-10"
+      "value": "França · 57× no top-10"
     }
   ],
-  "legenda": "Portugal teve 40 milhões de views. Cabo Verde tinha Vozinha — e engajou mais. É isso que a gente mede aqui: não quem foi mais visto, mas quem foi mais *sentido*. Toda semana a gente traz os números que o mainstream ignora. Link na bio pra assinar a newsletter 👇",
-  "assunto": "Vozinha vs. CR7: a torcida de quem reagiu mais forte na Copa?",
+  "legenda": "O Egito foi roubado? Talvez. Mas uma coisa ninguém roubou deles: o maior engajamento da semana, acima de Argentina, Portugal e França. Aqui a gente não mede quem ganhou o jogo — mede quem ganhou a internet. Toda semana, um número que ninguém mais mediu. Link na bio pra receber o relatório completo no seu email. 👇",
+  "assunto": "Egito vs Argentina: a torcida de quem reagiu mais forte?",
   "week": {
-    "ini": "2026-06-29",
-    "fim": "2026-07-05",
-    "label": "29–05 JUL 2026"
+    "ini": "2026-07-06",
+    "fim": "2026-07-12",
+    "label": "06–12 JUL 2026"
   },
   "posts": [
     {
-      "club": "Senegal",
-      "flag": "🇸🇳",
-      "handle": "fsfofficielle",
-      "kind": "reels",
-      "kindLabel": "Reel (IG)",
+      "club": "Egypt",
+      "flag": "🇪🇬",
+      "crest": null,
+      "handle": "egyptnt",
+      "kind": "photos",
+      "kindLabel": "Foto (IG)",
       "type": "engagement",
-      "metric": "48.0% ER",
-      "cover_url": "/covers/61358b5fedbef4d2.jpg",
-      "url": "https://www.instagram.com/p/DaKavUrqZfY/"
+      "metric": "45.4% ER",
+      "cover_url": "/covers/24e0230ea14a28a0.jpg",
+      "url": "https://www.instagram.com/p/DagE6WPEdVE/"
     },
     {
-      "club": "Ecuador",
-      "flag": "🇪🇨",
-      "handle": "latriecu",
-      "kind": "reels",
-      "kindLabel": "Reel (IG)",
+      "club": "Real Madrid",
+      "flag": "🏳️",
+      "crest": "/logos/realmadrid.png",
+      "handle": "realmadrid",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
       "type": "engagement",
-      "metric": "39.7% ER",
-      "cover_url": "/covers/f389360b9c2b3226.jpg",
-      "url": "https://www.instagram.com/p/DaMqfwLMMy1/"
+      "metric": "37.2% ER",
+      "cover_url": "/covers/863c15ab6fa5c6bd.jpg",
+      "url": "https://www.tiktok.com/@realmadrid/video/7661564644443573526"
     },
     {
-      "club": "Paraguay",
-      "flag": "🇵🇾",
-      "handle": "albirroja",
-      "kind": "reels",
-      "kindLabel": "Reel (IG)",
+      "club": "Chelsea",
+      "flag": "🏳️",
+      "crest": "/logos/chelseafc.png",
+      "handle": "chelseafc",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
       "type": "engagement",
-      "metric": "38.4% ER",
-      "cover_url": "/covers/50e4fc0d50cef057.jpg",
-      "url": "https://www.instagram.com/p/DaLiAgxyAp3/"
+      "metric": "36.9% ER",
+      "cover_url": "/covers/9f21b417ab85e9f6.jpg",
+      "url": "https://www.tiktok.com/@chelseafc/video/7661554856108231958"
     },
     {
-      "club": "Portugal",
-      "flag": "🇵🇹",
-      "handle": "portugal",
+      "club": "Argentina",
+      "flag": "🇦🇷",
+      "crest": null,
+      "handle": "afaseleccion",
       "kind": "photos",
       "kindLabel": "Foto (IG)",
       "type": "likes",
-      "metric": "1.8M ❤",
-      "cover_url": "/covers/02ecffffcf5392b5.jpg",
-      "url": "https://www.instagram.com/p/DaT5gDADP-N/"
+      "metric": "2.6M ❤",
+      "cover_url": "/covers/ca5a0bab6cf169a5.jpg",
+      "url": "https://www.instagram.com/p/DagG2Jcn7vY/"
     },
     {
-      "club": "Brazil",
-      "flag": "🇧🇷",
-      "handle": "brasil",
-      "kind": "photos",
-      "kindLabel": "Foto (IG)",
-      "type": "likes",
-      "metric": "1.6M ❤",
-      "cover_url": "/covers/7df578b2850186e8.jpg",
-      "url": "https://www.instagram.com/p/DabZrSHI6L5/"
-    },
-    {
-      "club": "France",
-      "flag": "🇫🇷",
-      "handle": "equipedefrance",
+      "club": "Mexico",
+      "flag": "🇲🇽",
+      "crest": null,
+      "handle": "miseleccionmx",
       "kind": "tiktok",
       "kindLabel": "TikTok",
       "type": "likes",
-      "metric": "1.3M ❤",
-      "cover_url": "/covers/5df56ff250165f30.jpg",
-      "url": "https://www.tiktok.com/@equipedefrance/video/7658175802038668577"
+      "metric": "1.7M ❤",
+      "cover_url": "/covers/d44ce4da9ef4b0ef.jpg",
+      "url": "https://www.tiktok.com/@miseleccionmx/video/7660343177823685908"
+    },
+    {
+      "club": "Egypt",
+      "flag": "🇪🇬",
+      "crest": null,
+      "handle": "egyptnt",
+      "kind": "photos",
+      "kindLabel": "Foto (IG)",
+      "type": "likes",
+      "metric": "1.1M ❤",
+      "cover_url": "/covers/24e0230ea14a28a0.jpg",
+      "url": "https://www.instagram.com/p/DagE6WPEdVE/"
     }
   ]
 }
