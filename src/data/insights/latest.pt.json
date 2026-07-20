@@ -1,110 +1,110 @@
 {
-  "manchete": "Egito foi roubado (ou não), mas uma coisa é certa: ninguém reagiu mais forte do que a torcida deles essa semana.",
+  "manchete": "A Chivas não ganhou nenhuma Copa — mas a torcida reagiu como se tivesse.",
   "insights": [
-    "O prefeito de Nova York disse que o Egito foi roubado contra a Argentina. A internet explodiu. E enquanto todo mundo debatia o VAR, a seleção do Egito silenciosamente postava a foto mais eficiente da semana inteira — 45,4% de ER, num campeonato dominado por gigantes com 100x mais seguidores.",
-    "Merino chutou Portugal pra fora da Copa no último minuto, Ronaldo saiu sem resposta, e a Espanha celebrou com um reel que converteu 12,1% das visualizações em curtidas — acima de Portugal, que teve o vídeo mais visto da semana inteira com 27,5 milhões de views. Ver não é sentir.",
-    "Maná cantou no intervalo do jogo do México, \"previu\" a eliminação e virou meme instantâneo. A torcida mexicana transformou a vergonha em conteúdo — e o TikTok do México terminou a semana com 33,3% de ER, quarto melhor engajamento geral entre todas as plataformas.",
-    "Argentina bateu o coração do Egito em uma \"Copa clássica\" e ainda dominou o sábado inteiro: foto, reel e TikTok — tudo número 1 em engajamento no dia 11. Julián Álvarez se prepara pra semifinal, e a torcida já está no modo final."
+    "A Espanha foi à final do Mundial batendo a França, com Pedro Porro eleito MVP da semifinal e o país inteiro em delírio. Enquanto isso, o Barcelona — dono de mais campeões mundiais no elenco do que qualquer outro clube — inundou o Instagram com conteúdo da festa. Resultado? 2,8 milhões de curtidas no post mais likado da semana. Número impressionante. Mas não foi o mais engajado da semana nem de perto.",
+    "No TikTok, a Chivas Guadalajara lançou as novas camisas 2026-2027 com a Nike — e a torcida enlouqueceu. Sem Copa, sem estrela individual dominando as manchetes, sem Mbappé ou Vini Jr. no elenco. Só camisa nova, identidade e pertencimento. O resultado foi 40,7% de engajamento — o recorde absoluto da semana em qualquer formato.",
+    "O Botafogo não tem 50 milhões de seguidores, não está numa janela de transferências bilionária, e não apareceu em nenhuma manchete global. Mas quando postou no Instagram essa semana, 15,7% de quem viu o Reel reagiu — o maior VER da semana entre todos os clubes do mundo, gigantes incluídos. Isso não é viralidade. É vínculo.",
+    "Enquanto o PSG dominou o TikTok em volume absoluto — 22 milhões de views e 3,6 milhões de likes, de longe o post mais curtido da plataforma na semana —, a Chivas acumulou 53 aparições nos top-10 diários, mais do que Real Madrid e Barcelona juntos somaram em dominância. O clube mais falado da semana não foi o mais caro. Foi o de Guadalajara."
   ],
-  "contraste": "Portugal teve o vídeo mais assistido da semana — 27,5 milhões de views. Mas na hora de medir quem foi realmente *sentido*, o Egito (com uma fração do alcance) registrou o maior ER em fotos. Gigante em views, anão em conexão. Pequeno em seguidores, gigante em engajamento. É exatamente isso que a gente mede aqui.",
-  "pra_acompanhar": "Argentina x Inglaterra está chegando — rivalidade histórica, Messi de um lado, provocação de Joe Cole do outro. A torcida já está aquecida fora de campo. O engajamento dessa semifinal pode ser o maior da Copa.",
+  "contraste": "O PSG reuniu 3,6 milhões de likes num único post — o número que todo diretor de marketing quer mostrar na apresentação. A Chivas não chegou perto disso em nenhum post isolado. Mas foi o clube que mais vezes apareceu entre os mais engajados do planeta durante a semana inteira. Alcance é o que todo mundo vê. Engajamento é o que a torcida sente.",
+  "pra_acompanhar": "O Botafogo apareceu duas vezes entre os Reels mais eficientes da semana — e está em plena janela de contratações. Se o clube acertar reforços de impacto nas próximas semanas, o engajamento pode explodir. Fique de olho.",
   "numeros": [
     {
       "label": "Mais visto",
-      "value": "Portugal · 27.5M views"
+      "value": "Galatasaray · 22.7M views"
     },
     {
       "label": "Mais engajado",
-      "value": "Egito · 45% ER"
+      "value": "Boca Juniors · 9% ER"
     },
     {
       "label": "Acima da média",
-      "value": "9.1× a média da semana"
+      "value": "3.0× a média da semana"
     },
     {
       "label": "Mais presente",
-      "value": "França · 57× no top-10"
+      "value": "Chivas · 55× no top-10"
     }
   ],
-  "legenda": "O Egito foi roubado? Talvez. Mas uma coisa ninguém roubou deles: o maior engajamento da semana, acima de Argentina, Portugal e França. Aqui a gente não mede quem ganhou o jogo — mede quem ganhou a internet. Toda semana, um número que ninguém mais mediu. Link na bio pra receber o relatório completo no seu email. 👇",
-  "assunto": "Egito vs Argentina: a torcida de quem reagiu mais forte?",
+  "legenda": "O Barcelona teve 2,8 milhões de curtidas. A Chivas teve 40,7% de engajamento. Sabe a diferença entre os dois números — e por que o segundo importa mais? A gente explica toda semana. Link na bio pra assinar o relatório. 📊",
+  "assunto": "Chivas vs Barcelona: qual torcida reagiu mais forte essa semana?",
   "week": {
-    "ini": "2026-07-06",
-    "fim": "2026-07-12",
-    "label": "06–12 JUL 2026"
+    "ini": "2026-07-13",
+    "fim": "2026-07-19",
+    "label": "13–19 JUL 2026"
   },
   "posts": [
     {
-      "club": "Egypt",
-      "flag": "🇪🇬",
+      "club": "Chivas",
+      "flag": "🏳️",
       "crest": null,
-      "handle": "egyptnt",
+      "handle": "chivas",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
+      "type": "engagement",
+      "metric": "40.7% ER",
+      "cover_url": "/covers/4e8e82f5991e35c4.jpg",
+      "url": "https://www.tiktok.com/@chivas/video/7662171194157731080"
+    },
+    {
+      "club": "Inter Miami",
+      "flag": "🏳️",
+      "crest": "/logos/intermiamicf.png",
+      "handle": "intermiamicf",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
+      "type": "engagement",
+      "metric": "37.9% ER",
+      "cover_url": "/covers/f7785be826efc5ee.jpg",
+      "url": "https://www.tiktok.com/@intermiamicf/video/7662876119258991885"
+    },
+    {
+      "club": "Manchester United",
+      "flag": "🏳️",
+      "crest": "/logos/manutd.png",
+      "handle": "manutd",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
+      "type": "engagement",
+      "metric": "34.7% ER",
+      "cover_url": "/covers/c87fe932166e4648.jpg",
+      "url": "https://www.tiktok.com/@manutd/video/7662655187202346262"
+    },
+    {
+      "club": "Barcelona",
+      "flag": "🏳️",
+      "crest": "/logos/fcbarcelona.png",
+      "handle": "fcbarcelona",
       "kind": "photos",
       "kindLabel": "Foto (IG)",
-      "type": "engagement",
-      "metric": "45.4% ER",
-      "cover_url": "/covers/24e0230ea14a28a0.jpg",
-      "url": "https://www.instagram.com/p/DagE6WPEdVE/"
+      "type": "likes",
+      "metric": "6.9M ❤",
+      "cover_url": "/covers/e3d8c36d1c919e59.jpg",
+      "url": "https://www.instagram.com/p/Da_Hee1OypZ/"
+    },
+    {
+      "club": "PSG",
+      "flag": "🏳️",
+      "crest": "/logos/psg.png",
+      "handle": "psg",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
+      "type": "likes",
+      "metric": "3.6M ❤",
+      "cover_url": "/covers/b0b87e56eced768e.jpg",
+      "url": "https://www.tiktok.com/@psg/video/7662307880703495457"
     },
     {
       "club": "Real Madrid",
       "flag": "🏳️",
       "crest": "/logos/realmadrid.png",
       "handle": "realmadrid",
-      "kind": "tiktok",
-      "kindLabel": "TikTok",
-      "type": "engagement",
-      "metric": "37.2% ER",
-      "cover_url": "/covers/863c15ab6fa5c6bd.jpg",
-      "url": "https://www.tiktok.com/@realmadrid/video/7661564644443573526"
-    },
-    {
-      "club": "Chelsea",
-      "flag": "🏳️",
-      "crest": "/logos/chelseafc.png",
-      "handle": "chelseafc",
-      "kind": "tiktok",
-      "kindLabel": "TikTok",
-      "type": "engagement",
-      "metric": "36.9% ER",
-      "cover_url": "/covers/9f21b417ab85e9f6.jpg",
-      "url": "https://www.tiktok.com/@chelseafc/video/7661554856108231958"
-    },
-    {
-      "club": "Argentina",
-      "flag": "🇦🇷",
-      "crest": null,
-      "handle": "afaseleccion",
       "kind": "photos",
       "kindLabel": "Foto (IG)",
       "type": "likes",
-      "metric": "2.6M ❤",
-      "cover_url": "/covers/ca5a0bab6cf169a5.jpg",
-      "url": "https://www.instagram.com/p/DagG2Jcn7vY/"
-    },
-    {
-      "club": "Mexico",
-      "flag": "🇲🇽",
-      "crest": null,
-      "handle": "miseleccionmx",
-      "kind": "tiktok",
-      "kindLabel": "TikTok",
-      "type": "likes",
-      "metric": "1.7M ❤",
-      "cover_url": "/covers/d44ce4da9ef4b0ef.jpg",
-      "url": "https://www.tiktok.com/@miseleccionmx/video/7660343177823685908"
-    },
-    {
-      "club": "Egypt",
-      "flag": "🇪🇬",
-      "crest": null,
-      "handle": "egyptnt",
-      "kind": "photos",
-      "kindLabel": "Foto (IG)",
-      "type": "likes",
-      "metric": "1.1M ❤",
-      "cover_url": "/covers/24e0230ea14a28a0.jpg",
-      "url": "https://www.instagram.com/p/DagE6WPEdVE/"
+      "metric": "1.9M ❤",
+      "cover_url": "/covers/59f598f1b3e9c32e.jpg",
+      "url": "https://www.instagram.com/p/Da907NTCKSm/"
     }
   ]
 }
