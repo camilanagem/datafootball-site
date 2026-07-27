@@ -1,21 +1,21 @@
 {
-  "manchete": "A Chivas não ganhou nenhuma Copa — mas a torcida reagiu como se tivesse.",
+  "manchete": "Chivas postou, a internet respondeu — e o número que prova isso é o maior da semana inteira.",
   "insights": [
-    "A Espanha foi à final do Mundial batendo a França, com Pedro Porro eleito MVP da semifinal e o país inteiro em delírio. Enquanto isso, o Barcelona — dono de mais campeões mundiais no elenco do que qualquer outro clube — inundou o Instagram com conteúdo da festa. Resultado? 6,9 milhões de curtidas no post mais likado da semana — Messi e Lamine Yamal frente a frente na final. Número impressionante. Mas não foi o mais engajado da semana nem de perto.",
-    "No TikTok, a Chivas Guadalajara lançou as novas camisas 2026-2027 com a Nike — e a torcida enlouqueceu. Sem Copa, sem estrela individual dominando as manchetes, sem Mbappé ou Vini Jr. no elenco. Só camisa nova, identidade e pertencimento. O resultado foi 40,7% de engajamento — o recorde absoluto da semana em qualquer formato.",
-    "O Botafogo não tem 50 milhões de seguidores, não está numa janela de transferências bilionária, e não apareceu em nenhuma manchete global. Mas quando postou no Instagram essa semana, 15,7% de quem viu o Reel reagiu — o maior VER da semana entre todos os clubes do mundo, gigantes incluídos. Isso não é viralidade. É vínculo.",
-    "Enquanto o PSG dominou o TikTok em volume absoluto — 22 milhões de views e 3,6 milhões de likes, de longe o post mais curtido da plataforma na semana —, a Chivas acumulou 55 aparições nos top-10 diários — à frente de Real Madrid (52) e Barcelona (54). O clube mais falado da semana não foi o mais caro. Foi o de Guadalajara."
+    "Todo mundo estava falando de Barcelona e Real Madrid depois do Mundial — os números de views e likes provam que o hype é real. Mas quando a pergunta muda de \"quem foi mais visto?\" para \"quem conectou de verdade?\", entra em cena um clube mexicano que nem aparece no trending global. O Chivas registrou 46.8% de ER no TikTok — recorde absoluto da semana.",
+    "Leandro Paredes voltou para o Abraço do Boca Juniors com a Copa do Mundo embaixo do braço e o barulho foi enorme na Argentina — pelas agressões a jogadores espanhóis na final, pelas teorias conspiratórias, pela dúvida sobre a Seleção. E os dados acompanham: o River Plate foi o segundo maior ER em fotos no Instagram da semana, com 7.6%, sinalizando que o futebol argentino estava com a torcida elétrica.",
+    "Santos, Fluminense e Botafogo dominaram o ranking de engajamento em Reels — três clubes brasileiros ocupando as três primeiras posições, com VER acima de 11.9%. Enquanto o mercado europeu vivia a febre das transferências (Rogers pro Chelsea, Durán pro Benfica, Real Madrid atrás de Diomandé), o Brasileirão respondia nas métricas com uma conexão que o dinheiro europeu não comprou.",
+    "A Roma foi a foto mais eficiente da semana no Instagram com 8.1% de ER — e isso num momento em que o clube italiano estava sendo ultrapassado pelo Al-Hilal na corrida por Summerville. Perder uma contratação e ainda liderar o engajamento fotográfico: às vezes a narrativa de \"quase\" engaja mais do que o anúncio em si."
   ],
-  "contraste": "O PSG reuniu 3,6 milhões de likes num único post — o número que todo diretor de marketing quer mostrar na apresentação. A Chivas não chegou perto disso em nenhum post isolado. Mas foi o clube que mais vezes apareceu entre os mais engajados do planeta durante a semana inteira. Alcance é o que todo mundo vê. Engajamento é o que a torcida sente.",
-  "pra_acompanhar": "O Botafogo apareceu duas vezes entre os Reels mais eficientes da semana — e está em plena janela de contratações. Se o clube acertar reforços de impacto nas próximas semanas, o engajamento pode explodir. Fique de olho.",
+  "contraste": "O Real Madrid foi o mais visto da semana — 31 milhões de views num único Reel, um número que a maioria dos clubes nunca vai alcançar numa temporada inteira. Mas quem liderou o engajamento real, o índice de quem parou, assistiu e reagiu, foi o Chivas — um clube que nem entrou nas grandes manchetes de transferência. É exatamente essa a diferença entre ser grande e ser sentido.",
+  "pra_acompanhar": "O Chivas apareceu 30 vezes no top-10 semanal e liderou o TikTok por cinco dias seguidos — isso não é acidente, é tendência. Se a pré-temporada continuar movimentada, a semana que vem pode confirmar se estamos diante de um novo padrão ou de um pico isolado.",
   "numeros": [
     {
       "label": "Mais visto",
-      "value": "Galatasaray · 22.7M views"
+      "value": "Real Madrid · 31.7M views"
     },
     {
       "label": "Mais engajado",
-      "value": "Chivas · 40,7% ER"
+      "value": "Roma · 8% ER"
     },
     {
       "label": "Acima da média",
@@ -23,15 +23,15 @@
     },
     {
       "label": "Mais presente",
-      "value": "Chivas · 55× no top-10"
+      "value": "Barcelona · 62× no top-10"
     }
   ],
-  "legenda": "O Barcelona teve 6,9 milhões de curtidas. A Chivas teve 40,7% de engajamento. Sabe a diferença entre os dois números — e por que o segundo importa mais? A gente explica toda semana. Link na bio pra assinar o relatório. 📊",
-  "assunto": "Chivas vs Barcelona: qual torcida reagiu mais forte essa semana?",
+  "legenda": "31 milhões de views. 860 mil curtidas. O maior Reel da semana foi do Real Madrid — e mesmo assim não foi o post que mais engajou. Um clube mexicano fez isso com uma fração do alcance. Todo domingo a gente publica o número que ninguém mais mede. Quer receber antes de todo mundo? Link na bio. 👇",
+  "assunto": "Chivas vs Real Madrid: quem engajou mais forte essa semana?",
   "week": {
-    "ini": "2026-07-13",
-    "fim": "2026-07-19",
-    "label": "13–19 JUL 2026"
+    "ini": "2026-07-20",
+    "fim": "2026-07-26",
+    "label": "20–26 JUL 2026"
   },
   "posts": [
     {
@@ -42,33 +42,33 @@
       "kind": "tiktok",
       "kindLabel": "TikTok",
       "type": "engagement",
-      "metric": "40.7% ER",
-      "cover_url": "/covers/4e8e82f5991e35c4.jpg",
-      "url": "https://www.tiktok.com/@chivas/video/7662171194157731080"
+      "metric": "46.8% ER",
+      "cover_url": "/covers/cb640fb429a54d90.jpg",
+      "url": "https://www.tiktok.com/@chivas/video/7665534751897341192"
     },
     {
-      "club": "Inter Miami",
+      "club": "Flamengo",
       "flag": "🏳️",
-      "crest": "/logos/intermiamicf.png",
-      "handle": "intermiamicf",
+      "crest": "/logos/flamengo.png",
+      "handle": "flamengo",
       "kind": "tiktok",
       "kindLabel": "TikTok",
       "type": "engagement",
-      "metric": "37.9% ER",
-      "cover_url": "/covers/f7785be826efc5ee.jpg",
-      "url": "https://www.tiktok.com/@intermiamicf/video/7662876119258991885"
+      "metric": "35.1% ER",
+      "cover_url": "/covers/c0c757e4b76611b2.jpg",
+      "url": "https://www.tiktok.com/@flamengo/video/7665688277541801234"
     },
     {
-      "club": "Manchester United",
+      "club": "Chelsea",
       "flag": "🏳️",
-      "crest": "/logos/manutd.png",
-      "handle": "manutd",
+      "crest": "/logos/chelseafc.png",
+      "handle": "chelseafc",
       "kind": "tiktok",
       "kindLabel": "TikTok",
       "type": "engagement",
-      "metric": "34.7% ER",
-      "cover_url": "/covers/c87fe932166e4648.jpg",
-      "url": "https://www.tiktok.com/@manutd/video/7662655187202346262"
+      "metric": "34.9% ER",
+      "cover_url": "/covers/7b1cd35aab49cb49.jpg",
+      "url": "https://www.tiktok.com/@chelseafc/video/7665264728389733654"
     },
     {
       "club": "Barcelona",
@@ -78,21 +78,9 @@
       "kind": "photos",
       "kindLabel": "Foto (IG)",
       "type": "likes",
-      "metric": "6.9M ❤",
-      "cover_url": "/covers/e3d8c36d1c919e59.jpg",
-      "url": "https://www.instagram.com/p/Da_Hee1OypZ/"
-    },
-    {
-      "club": "PSG",
-      "flag": "🏳️",
-      "crest": "/logos/psg.png",
-      "handle": "psg",
-      "kind": "tiktok",
-      "kindLabel": "TikTok",
-      "type": "likes",
-      "metric": "3.6M ❤",
-      "cover_url": "/covers/b0b87e56eced768e.jpg",
-      "url": "https://www.tiktok.com/@psg/video/7662307880703495457"
+      "metric": "5.2M ❤",
+      "cover_url": "/covers/bedd4d2fe4834372.jpg",
+      "url": "https://www.instagram.com/p/Da_grcWDC40/"
     },
     {
       "club": "Real Madrid",
@@ -102,9 +90,21 @@
       "kind": "photos",
       "kindLabel": "Foto (IG)",
       "type": "likes",
-      "metric": "1.9M ❤",
-      "cover_url": "/covers/59f598f1b3e9c32e.jpg",
-      "url": "https://www.instagram.com/p/Da907NTCKSm/"
+      "metric": "3.3M ❤",
+      "cover_url": "/covers/0fb7d5fe2c26c369.jpg",
+      "url": "https://www.instagram.com/p/Da_gLuyIwCf/"
+    },
+    {
+      "club": "Bayern de Munique",
+      "flag": "🏳️",
+      "crest": "/logos/fcbayern.png",
+      "handle": "fcbayern",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
+      "type": "likes",
+      "metric": "808K ❤",
+      "cover_url": "/covers/bf3a84f2ddae3b57.jpg",
+      "url": "https://www.tiktok.com/@fcbayern/video/7664550127255751968"
     }
   ]
 }
