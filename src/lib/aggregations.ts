@@ -169,22 +169,23 @@ export function engagementVsPopularity(isNT: boolean): { byEngagement: EngPopRow
   return { byEngagement, byPopularity, overlap };
 }
 
-export type TeamSeries = { handle: string; club: string; flag: string; series: { date: string; er: number }[] };
+export type TeamSeries = { handle: string; club: string; flag: string; series: { date: string; value: number }[] };
 
-// Série temporal de ER (por followers, fotos+reels) por time — pra ferramenta de
-// comparação. Só times com ≥3 pontos. isNT filtra seleção vs clube.
-export function erTimeSeries(isNT: boolean): TeamSeries[] {
-  const map: Record<string, { club: string; flag: string; liga: string; byDate: Record<string, { sum: number; n: number }> }> = {};
+// Série temporal por time (ER por followers OU likes brutos) — pra ferramenta de comparação.
+// likes inclui todas as categorias (RM domina em likes; em ER quase não aparece). ≥3 pontos.
+export function metricTimeSeries(isNT: boolean, metric: "er" | "likes"): TeamSeries[] {
+  const map: Record<string, { club: string; flag: string; liga: string; byDate: Record<string, { sum: number; n: number; max: number }> }> = {};
   for (const r of getAllReports()) {
     for (const c of r.carousels) {
-      if (c.ranking !== "er" || c.kind === "tiktok") continue; // ER por followers, consistente
+      if (metric === "er" ? (c.ranking !== "er" || c.kind === "tiktok") : c.ranking !== "likes") continue;
       for (const p of c.posts) {
-        const v = parseFloat(p.metric_value);
-        if (isNaN(v)) continue;
+        if (!isMonitored(p.handle, p.liga)) continue;
+        const v = metric === "er" ? parseFloat(p.metric_value) : ((p as any).extra?.likes ?? 0);
+        if (!v || isNaN(v)) continue;
         const key = canonicalHandle(p.handle);
         const s = map[key] || (map[key] = { club: p.club, flag: p.flag, liga: p.liga, byDate: {} });
-        const d = s.byDate[r.date] || (s.byDate[r.date] = { sum: 0, n: 0 });
-        d.sum += v; d.n += 1;
+        const d = s.byDate[r.date] || (s.byDate[r.date] = { sum: 0, n: 0, max: 0 });
+        d.sum += v; d.n += 1; d.max = Math.max(d.max, v);
       }
     }
   }
@@ -192,7 +193,7 @@ export function erTimeSeries(isNT: boolean): TeamSeries[] {
   for (const [handle, s] of Object.entries(map)) {
     if (isNationalTeam(s.liga) !== isNT) continue;
     const series = Object.entries(s.byDate)
-      .map(([date, { sum, n }]) => ({ date, er: sum / n }))
+      .map(([date, d]) => ({ date, value: metric === "er" ? d.sum / d.n : d.max }))
       .sort((a, b) => a.date.localeCompare(b.date))
       .slice(-40);
     if (series.length >= 3) out.push({ handle, club: s.club, flag: s.flag, series });
@@ -200,6 +201,7 @@ export function erTimeSeries(isNT: boolean): TeamSeries[] {
   out.sort((a, b) => a.club.localeCompare(b.club));
   return out;
 }
+export const erTimeSeries = (isNT: boolean) => metricTimeSeries(isNT, "er");   // compat
 
 export type LeagueAggregate = {
   liga: string;

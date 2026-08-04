@@ -235,7 +235,8 @@
     "numbers": "Los números de la semana",
     "posts": "Los posts de la semana",
     "mostEngaged": "Con más engagement",
-    "mostLiked": "Con más likes"
+    "mostLiked": "Con más likes",
+    "allEditions": "Todas las ediciones"
   },
   "counter": {
     "label": "posts analizados",

@@ -52,7 +52,7 @@ export default async function ClubPage({
 
   // ER: série do time + percentil entre os pares (top X%)
   const allEr = erTimeSeries(isNT);
-  const avgOf = (s: { series: { er: number }[] }) => s.series.reduce((a, p) => a + p.er, 0) / s.series.length;
+  const avgOf = (s: { series: { value: number }[] }) => s.series.reduce((a, p) => a + p.value, 0) / s.series.length;
   const mineEr = allEr.find((s) => s.handle === handle);
   let erPct = 0, avgEr = 0, erMax = 1;
   if (mineEr) {
@@ -60,7 +60,7 @@ export default async function ClubPage({
     const idx = ranked.findIndex((r) => r.h === handle);
     avgEr = ranked[idx].a;
     erPct = Math.ceil(((idx + 1) / ranked.length) * 100);
-    erMax = Math.max(...mineEr.series.map((p) => p.er), 1);
+    erMax = Math.max(...mineEr.series.map((p) => p.value), 1);
   }
 
   // structured data por entidade (Dataset + Breadcrumb) — dado citável por entidade
@@ -150,7 +150,7 @@ export default async function ClubPage({
           </div>
           <svg viewBox="0 0 320 60" className="w-full h-14" preserveAspectRatio="none">
             <polyline
-              points={mineEr.series.map((p, i) => `${(i / (mineEr!.series.length - 1)) * 320},${58 - (p.er / erMax) * 54}`).join(" ")}
+              points={mineEr.series.map((p, i) => `${(i / (mineEr!.series.length - 1)) * 320},${58 - (p.value / erMax) * 54}`).join(" ")}
               fill="none" stroke="currentColor" strokeWidth={2} vectorEffect="non-scaling-stroke" strokeOpacity={0.85}
             />
           </svg>
