@@ -7,6 +7,7 @@ import { getEdition } from "@/lib/edition";
 import { getThisWeek } from "@/lib/momentum";
 import { Cover } from "@/components/Cover";
 import { PostsCounter } from "@/components/PostsCounter";
+import { Sparkle } from "@/components/Sparkle";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -23,18 +24,28 @@ function Home({ locale }: { locale: string }) {
   const { isTournament, accountCount } = getEdition();
   const week = getThisWeek();
 
+  // frase de pulo do gato ("We rank impact. Not followers.") — 2ª sentença em verde (o foil da marca)
+  const tag = t("home.tagline");
+  const tagIdx = tag.indexOf(". ");
+  const tag1 = tagIdx >= 0 ? tag.slice(0, tagIdx + 1) : tag;
+  const tag2 = tagIdx >= 0 ? tag.slice(tagIdx + 2) : "";
+
   return (
     <div className="max-w-6xl mx-auto px-4 md:px-6 py-8 md:py-14">
       {/* HERO — logo + o que é */}
       <section className="text-center mb-8 md:mb-10">
+        {/* logo em UMA LINHA (preenche a largura) — preta no claro, branca no escuro */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/brand/logo-black.png" alt="DATA FOOTBALL" className="block dark:hidden mx-auto w-64 md:w-[26rem] h-auto" />
+        <img src="/brand/logo-line-black.png" alt="DATA FOOTBALL" className="block dark:hidden mx-auto w-full max-w-3xl md:max-w-5xl h-auto" />
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/brand/logo-white.png" alt="DATA FOOTBALL" className="hidden dark:block mx-auto w-64 md:w-[26rem] h-auto" />
-        <p className="mt-6 max-w-2xl mx-auto text-lg md:text-xl opacity-80 leading-relaxed">
+        <img src="/brand/logo-line-white.png" alt="DATA FOOTBALL" className="hidden dark:block mx-auto w-full max-w-3xl md:max-w-5xl h-auto" />
+        <p className="mt-8 font-accent text-5xl md:text-7xl leading-[1.02]">
+          {tag1} {tag2 && <span className="text-tt-red">{tag2}</span>}
+        </p>
+        <p className="mt-6 max-w-4xl mx-auto text-lg md:text-2xl opacity-80 leading-snug">
           {t("home.what", { count: accountCount })}
         </p>
-        <p className="mt-4 text-[11px] md:text-xs uppercase tracking-widest opacity-50">
+        <p className="mt-5 font-display text-xs md:text-sm uppercase tracking-[0.2em] opacity-50">
           {t("home.statline", { count: accountCount })}
         </p>
       </section>
@@ -49,6 +60,11 @@ function Home({ locale }: { locale: string }) {
         </div>
       </section>
 
+      {/* CONTADOR — escala/autoridade, logo abaixo do "how it works" */}
+      <div className="mb-14 md:mb-20">
+        <PostsCounter />
+      </div>
+
       {/* O ÍNDICE (calendário) — subiu pro topo: é o elemento principal */}
       <section className="mb-12 md:mb-16">
         <h2 className="font-serif text-2xl md:text-3xl mb-1">{t("home.browse")}</h2>
@@ -56,18 +72,13 @@ function Home({ locale }: { locale: string }) {
         <CalendarHeatmap days={days} initialMonth={initialMonth} />
       </section>
 
-      {/* CONTADOR — escala/autoridade, agora abaixo do calendário */}
-      <div className="mb-12 md:mb-16">
-        <PostsCounter />
-      </div>
-
       {/* FAIXA DE SELEÇÕES (só durante o torneio) */}
       {isTournament && (
         <div className="mb-12 md:mb-16 max-w-2xl mx-auto rounded-xl border border-current/20 px-5 py-4 text-center">
           <span className="font-display text-sm uppercase tracking-wide align-middle">
             ★ {t("tournament.label")}
           </span>
-          <span className="text-sm opacity-75 align-middle"> — {t("tournament.body")}</span>
+          <span className="text-sm opacity-75 align-middle"> · {t("tournament.body")}</span>
         </div>
       )}
 
@@ -76,28 +87,28 @@ function Home({ locale }: { locale: string }) {
         <section className="mb-14 md:mb-20">
           <div className="flex items-baseline justify-between gap-4 mb-6">
             <Link href="/insights" className="group inline-flex items-baseline gap-2">
-              <h2 className="font-serif text-3xl md:text-4xl group-hover:opacity-70">{t("thisWeek.title")}</h2>
-              <span className="text-lg opacity-40 group-hover:opacity-70">→</span>
+              <h2 className="font-display text-4xl md:text-6xl group-hover:opacity-70">{t("thisWeek.title")}</h2>
+              <span className="text-2xl text-accent2">→</span>
             </Link>
-            <span className="text-xs uppercase tracking-widest opacity-50 whitespace-nowrap">
+            <span className="font-display text-xs md:text-sm uppercase tracking-widest opacity-50 whitespace-nowrap">
               {t("thisWeek.window", { count: week.dayCount })}
             </span>
           </div>
           <div className="grid md:grid-cols-3 gap-6 md:gap-8">
             <div className="md:col-span-2">
-              <div className="text-xs uppercase tracking-widest opacity-50 mb-3">{t("thisWeek.mostActive")}</div>
+              <div className="font-display text-xs md:text-sm uppercase tracking-widest opacity-50 mb-4">{t("thisWeek.mostActive")}</div>
               <div className="rounded-xl border border-current/15 divide-y divide-current/10">
                 {week.leaders.map((l, i) => (
-                  <Link key={l.handle} href={`/club/${l.handle}`} className="flex items-center gap-3 px-4 py-3 hover:bg-current/5">
-                    <span className="font-serif text-lg opacity-40 w-5 tabular-nums shrink-0">{i + 1}</span>
-                    <span aria-hidden className="shrink-0">{l.flag}</span>
+                  <Link key={l.handle} href={`/club/${l.handle}`} className="flex items-center gap-4 px-5 py-4 md:py-6 hover:bg-current/5">
+                    <span className="font-display text-xl md:text-3xl text-accent w-8 tabular-nums shrink-0">{i + 1}</span>
+                    <span aria-hidden className="shrink-0 text-xl">{l.flag}</span>
                     <div className="flex-1 min-w-0">
-                      <div className="font-serif truncate">{l.club}</div>
+                      <div className="font-sans text-lg md:text-2xl font-medium truncate">{l.club}</div>
                       {l.topOnes > 0 && (
-                        <div className="text-xs opacity-50">{t("thisWeek.firsts", { count: l.topOnes })}</div>
+                        <div className="text-sm opacity-50">{t("thisWeek.firsts", { count: l.topOnes })}</div>
                       )}
                     </div>
-                    <span className="text-xs shrink-0 whitespace-nowrap opacity-70">
+                    <span className="text-sm shrink-0 whitespace-nowrap opacity-70">
                       {t("thisWeek.timesThisWeek", { count: l.appearances })}
                     </span>
                   </Link>
@@ -135,10 +146,11 @@ function Home({ locale }: { locale: string }) {
 
 function Step({ n, title, body }: { n: string; title: string; body: string }) {
   return (
-    <div className="rounded-xl border border-current/15 p-6">
-      <div className="font-serif text-3xl mb-3 opacity-30">{n}</div>
-      <h3 className="font-serif text-xl mb-2">{title}</h3>
-      <p className="text-sm opacity-70 leading-relaxed">{body}</p>
+    <div className="card relative overflow-hidden p-7 md:p-8">
+      <Sparkle className="absolute top-5 right-5 w-4 h-4 text-accent" />
+      <div className="font-display text-xl mb-2 text-accent">{n}</div>
+      <h3 className="font-display text-xl md:text-2xl uppercase tracking-wide mb-3">{title}</h3>
+      <p className="text-base opacity-70 leading-relaxed">{body}</p>
     </div>
   );
 }

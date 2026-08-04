@@ -43,10 +43,10 @@ export function PostsCounter() {
   return (
     <section ref={ref} className="border-y border-current/15">
       <div className="max-w-6xl mx-auto px-6 py-12 text-center">
-        <div className="font-serif text-6xl md:text-8xl leading-none tabular-nums">
+        <div className="font-display text-7xl md:text-9xl leading-none tabular-nums text-accent">
           {count.toLocaleString("pt-BR")}
         </div>
-        <p className="mt-3 text-sm uppercase tracking-[0.2em] opacity-60">{t("label")}</p>
+        <p className="mt-3 font-display text-sm md:text-base uppercase tracking-[0.2em] opacity-60">{t("label")}</p>
         <p className="mt-1 text-xs opacity-50">
           {t("detail", {
             ig: stats.instagram.toLocaleString("pt-BR"),

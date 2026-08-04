@@ -1,12 +1,11 @@
 import { redirect } from "@/i18n/navigation";
 
-// /standings foi fundido no Hall of Fame (fica a classificação como seção de lá).
-// Redireciona pra não quebrar links/SEO antigos.
+// /standings → /clubs (a classificação por clube vive na página de clubes agora, 04/ago).
 export default async function StandingsRedirect({
   params,
 }: {
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  redirect({ href: "/hall-of-fame", locale });
+  redirect({ href: "/clubs", locale });
 }

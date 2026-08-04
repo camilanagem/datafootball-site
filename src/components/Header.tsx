@@ -3,18 +3,14 @@ import { useTranslations } from "next-intl";
 import { ThemeToggle } from "./ThemeToggle";
 import { LocaleSwitcher } from "./LocaleSwitcher";
 import { MobileNav } from "./MobileNav";
-import { getEdition } from "@/lib/edition";
 
 export function Header() {
   const t = useTranslations("nav");
-  const { isTournament } = getEdition();
 
   const navItems = [
     { href: "/", label: t("home") },
-    // Rankings = diretório unificado (toggle Clubs | Teams dentro da página).
-    // Aponta pro default da edição: seleções no torneio, clubes fora dele — mas
-    // as duas sempre acessíveis pelo toggle (a Copa não some do site).
-    { href: isTournament ? "/national-teams" : "/clubs", label: t("rankings") },
+    // Diretório de clubes (renomeado de "Rankings" → "Clubs", sem aba Teams — decisão 04/ago).
+    { href: "/clubs", label: t("clubs") },
     { href: "/insights", label: t("insights") },
     { href: "/compare", label: t("compare") },
     { href: "/hall-of-fame", label: t("halloffame") },
@@ -33,9 +29,9 @@ export function Header() {
           <img src="/brand/logo-line-white.png" alt="DATA FOOTBALL" className="hidden dark:block h-6 w-auto" />
         </Link>
 
-        <nav className="hidden lg:flex items-center gap-5 text-sm font-sans tracking-wide">
+        <nav className="hidden lg:flex items-center gap-5 text-xs font-display uppercase tracking-[0.15em]">
           {navItems.map((it) => (
-            <Link key={it.href} href={it.href} className="hover:opacity-70">{it.label}</Link>
+            <Link key={it.href} href={it.href} className="hover:text-accent2 transition-colors">{it.label}</Link>
           ))}
         </nav>
 

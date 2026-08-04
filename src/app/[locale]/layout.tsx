@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import { Inter, Playfair_Display } from "next/font/google";
+import { Barlow, Playfair_Display, Chakra_Petch, Instrument_Serif } from "next/font/google";
 import localFont from "next/font/local";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
@@ -16,15 +16,32 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "../globals.css";
 
-const inter = Inter({
-  variable: "--font-inter",
+// Corpo = Barlow (sans do brand book 2.0). Inter saiu — não estava na identidade.
+const barlow = Barlow({
+  variable: "--font-barlow",
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
   display: "swap",
 });
 
 const playfair = Playfair_Display({
   variable: "--font-playfair",
   subsets: ["latin"],
+  display: "swap",
+});
+
+// Identidade 2.0 — Chakra Petch (display/kickers) + Instrument Serif (serifa de acento).
+const chakra = Chakra_Petch({
+  variable: "--font-chakra",
+  subsets: ["latin"],
+  weight: ["600", "700"],
+  display: "swap",
+});
+
+const instrument = Instrument_Serif({
+  variable: "--font-instrument",
+  subsets: ["latin"],
+  weight: "400",
   display: "swap",
 });
 
@@ -100,7 +117,7 @@ export default async function LocaleLayout({
   return (
     <html
       lang={locale}
-      className={`${inter.variable} ${playfair.variable} ${squad.variable} h-full antialiased`}
+      className={`${barlow.variable} ${playfair.variable} ${chakra.variable} ${instrument.variable} ${squad.variable} h-full antialiased`}
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col">

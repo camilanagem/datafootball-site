@@ -5,33 +5,42 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  /* paletas — espelham o produto IG/TikTok */
-  --color-bg-light: #efe9da;
-  --color-fg-light: #000000;
-  --color-bg-dark: #000000;
-  --color-fg-dark: #ffffff;
-  --color-tt-red: #c8102e;
+  /* Identidade 2.0 — "estádio à noite" (ago/2026). Espelha o produto IG/TikTok novo. */
+  --color-bg-light: #eef2fb;   /* claro gelo (par do gelo #D2E7FE) */
+  --color-fg-light: #010e0c;   /* preto verde-noite */
+  --color-bg-dark: #010e0c;    /* fundo estádio à noite (A base) */
+  --color-fg-dark: #d2e7fe;    /* gelo — nunca branco puro */
+  --color-green: #00f65b;      /* verde gramado = A COR da marca */
+  --color-blue: #1e77bd;
+  --color-red: #ff1e1e;
+  --color-tt-red: #ff1e1e;     /* nome mantido (usado em mensagens de erro) */
   --color-tt-sage: #b8c49a;
   --color-tt-cream: #fff5e1;
-  --color-muted: #5a5a5a;
+  --color-muted: #5a6b66;
 
-  --font-serif: var(--font-playfair, Didot, 'Bodoni 72', serif);
-  --font-sans: var(--font-inter, Helvetica, system-ui, sans-serif);
-  --font-display: var(--font-squad, 'Arial Narrow', sans-serif);
+  /* títulos = Chakra (legível/sporty). Instrument é só ACENTO (.font-accent), grande e pontual. */
+  --font-serif: var(--font-chakra, var(--font-squad, 'Arial Narrow', sans-serif));
+  --font-sans: var(--font-barlow, Helvetica, system-ui, sans-serif);
+  --font-display: var(--font-chakra, var(--font-squad, 'Arial Narrow', sans-serif));
+  --font-accent: var(--font-instrument, Didot, 'Bodoni 72', serif);
 }
 
 :root {
   --background: var(--color-bg-light);
   --foreground: var(--color-fg-light);
+  --accent: #00a848;                    /* verde mais fechado no claro (legível) */
+  --accent-2: #1866a8;                  /* azul (navegação) — fechado p/ ler no claro */
   --muted: var(--color-muted);
-  --hairline: rgba(0, 0, 0, 0.18);
+  --hairline: rgba(1, 14, 12, 0.16);
 }
 
 .dark {
   --background: var(--color-bg-dark);
   --foreground: var(--color-fg-dark);
-  --muted: rgba(255, 255, 255, 0.55);
-  --hairline: rgba(255, 255, 255, 0.18);
+  --accent: #00f65b;                    /* verde gramado neon no escuro */
+  --accent-2: #1e77bd;                  /* azul da marca no escuro */
+  --muted: rgba(210, 231, 254, 0.55);
+  --hairline: rgba(210, 231, 254, 0.16);
 }
 
 body {
@@ -52,7 +61,35 @@ body {
 
 .font-serif { font-family: var(--font-serif); }
 .font-sans { font-family: var(--font-sans); }
+/* acento Instrument — só p/ momentos grandes/pontuais (contraste, quebra de ritmo) */
+.font-accent { font-family: var(--font-accent); }
 /* wordmark no estilo da logo IG (Squad Black Italic — face única, já pesada+itálica) */
 .font-display { font-family: var(--font-display); }
 
 .hairline { background: var(--hairline); }
+
+/* acento da marca 2.0 — verde (dado/impacto) e azul (navegação) */
+.text-accent { color: var(--accent); }
+.bg-accent { background: var(--accent); }
+.border-accent { border-color: var(--accent); }
+.text-accent2 { color: var(--accent-2); }
+.bg-accent2 { background: var(--accent-2); }
+.hover\:text-accent2:hover { color: var(--accent-2); }
+
+/* PÍLULA da cover card — cor sólida da categoria + texto escuro, cantos redondos. */
+.pill { display: inline-block; border-radius: 9999px; }
+.pill-photos { background: #00f65b; color: #0a1512; }
+.pill-reels  { background: #1e77bd; color: #eaf3ff; }
+.pill-tiktok { background: #ff1e1e; color: #fff; }
+
+/* CARD branca — igual à cover card do IG. Contexto próprio: texto/acentos escuros,
+   fica branca nos dois temas (pop no dark). currentColor e .text-accent herdam daqui. */
+.card {
+  background: #f6f9fd;
+  color: #0a1512;
+  --foreground: #0a1512;
+  --accent: #00a848;     /* verde legível no branco */
+  --accent-2: #1866a8;   /* azul legível no branco */
+  border: 1px solid rgba(10, 21, 18, 0.10);
+  border-radius: 1.25rem;
+}

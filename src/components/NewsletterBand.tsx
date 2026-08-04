@@ -30,8 +30,8 @@ export function NewsletterBand() {
   return (
     <section className="border border-current/20 px-6 py-8 md:px-10 md:py-9 flex flex-col md:flex-row md:items-center gap-6 md:gap-10">
       <div className="md:flex-1">
-        <p className="text-[11px] uppercase tracking-[0.2em] opacity-60 mb-2">{t("kicker")}</p>
-        <h3 className="font-serif text-xl md:text-2xl leading-snug">{t("barTitle")}</h3>
+        <p className="font-display text-xs uppercase tracking-[0.2em] text-accent mb-2">{t("kicker")}</p>
+        <h3 className="font-serif text-2xl md:text-3xl leading-snug">{t("barTitle")}</h3>
       </div>
       {state === "success" ? (
         <p className="text-sm font-sans border border-current/30 px-4 py-3 md:whitespace-nowrap">{t("success")}</p>

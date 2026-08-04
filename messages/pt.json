@@ -2,8 +2,8 @@
   "site": {
     "title": "DataFootball",
     "tagline": "O conteúdo de futebol que funciona",
-    "metaTitle": "DataFootball — Ranking diário de engajamento no Instagram e TikTok",
-    "metaDescription": "O índice diário dos posts mais engajados do futebol. Rankeamos clubes e seleções por engajamento, curtidas e views no Instagram e TikTok — todo dia.",
+    "metaTitle": "DataFootball, Ranking diário de engajamento no Instagram e TikTok",
+    "metaDescription": "O índice diário dos posts mais engajados do futebol. Rankeamos clubes e seleções por engajamento, curtidas e views no Instagram e TikTok, todo dia.",
     "subscribe": "Assinar",
     "subscribePlaceholder": "seu email"
   },
@@ -22,20 +22,21 @@
     "compare": "Comparar"
   },
   "home": {
-    "selectDay": "Ranking diário — escolha uma data e veja os conteúdos campeões.",
+    "selectDay": "Ranking diário, escolha uma data e veja os conteúdos campeões.",
     "todayButton": "Hoje",
     "noPostsYet": "Sem relatórios pra este dia",
-    "what": "Todo dia varremos {count} das maiores contas do futebol no Instagram e TikTok e rankeamos os posts de melhor desempenho. Puro engajamento — sem opinião, sem enrolação.",
+    "what": "Todo dia varremos {count} das maiores contas do futebol no Instagram e TikTok e rankeamos os posts de melhor desempenho. Puro engajamento, sem opinião, sem enrolação.",
     "statline": "{count} contas · Instagram + TikTok · índice novo todo dia",
     "howTitle": "Como funciona",
     "step1Title": "Coletamos os posts",
     "step1Body": "Todos os posts de {count} das contas de futebol mais seguidas, todo santo dia.",
     "step2Title": "Rankeamos por engajamento",
-    "step2Body": "Curtidas, comentários, views e compartilhamentos — pesos iguais, taxas padrão de mercado. Sem multiplicador secreto.",
+    "step2Body": "Curtidas, comentários, views e compartilhamentos, pesos iguais, taxas padrão de mercado. Sem multiplicador secreto.",
     "step3Title": "Publicamos o índice",
-    "step3Body": "Os melhores posts viram o ranking do dia — aqui no site e no @datafootball__.",
+    "step3Body": "Os melhores posts viram o ranking do dia, aqui no site e no @datafootball__.",
     "browse": "Explore o índice",
-    "topToday": "Top de engajamento"
+    "topToday": "Top de engajamento",
+    "tagline": "A gente ranqueia impacto. Não seguidores."
   },
   "thisWeek": {
     "title": "Esta semana",
@@ -52,7 +53,7 @@
   },
   "standings": {
     "title": "Classificação",
-    "lead": "De todos os tempos — quem mais ficou em 1º desde o início do índice.",
+    "lead": "De todos os tempos, quem mais ficou em 1º desde o início do índice.",
     "firsts": "Em 1º"
   },
   "calendar": {
@@ -73,22 +74,23 @@
   },
   "nationalTeams": {
     "title": "Seleções",
-    "lead": "Qual seleção domina as redes? O índice diário de engajamento — os clubes voltam depois do torneio.",
+    "lead": "Qual seleção domina as redes? O índice diário de engajamento, os clubes voltam depois do torneio.",
     "count": "{count} seleções no índice",
     "battle": "Batalha das confederações",
-    "battleLead": "Qual confederação domina o feed — por total de aparições nos rankings.",
-    "metaTitle": "Seleções — Ranking de engajamento no Instagram e TikTok",
+    "battleLead": "Qual confederação domina o feed, por total de aparições nos rankings.",
+    "metaTitle": "Seleções, Ranking de engajamento no Instagram e TikTok",
     "metaDescription": "Qual seleção vence nas redes? Ranking diário das seleções por engajamento, curtidas e views no Instagram e TikTok."
   },
   "halloffame": {
-    "lead": "Recordes de todos os tempos — entre cada clube e seleção que o índice já acompanhou. Um por categoria; bateu, assumiu o lugar.",
+    "lead": "Recordes de todos os tempos, entre cada clube e seleção que o índice já acompanhou. Um por categoria; bateu, assumiu o lugar.",
     "editionNote": "Agora o índice acompanha as 48 seleções do torneio. Os clubes voltam depois de 20 de julho.",
     "club": "Clube",
     "team": "Seleção",
     "er": "Maior engajamento em foto",
     "ver": "Maior engajamento em reel",
     "ter": "Maior engajamento no TikTok",
-    "likes": "Post mais curtido"
+    "likes": "Post mais curtido",
+    "tiktokLikes": "TikTok mais curtido"
   },
   "day": {
     "headline": "Relatório",
@@ -105,32 +107,32 @@
     "mostViews": "Mais Views",
     "clubOfDay": "Clube do Dia",
     "teamOfDay": "Seleção do Dia",
-    "story": "{team} dominou o dia — em {count} de {total} rankings.",
+    "story": "{team} dominou o dia, em {count} de {total} rankings.",
     "slots": "carrosséis",
     "mvps": "Destaques do Dia",
     "metaTitle": "Ranking de engajamento do futebol · {date}",
-    "metaDescription": "Os posts de futebol que venceram o Instagram e o TikTok em {date} — por engajamento, curtidas e views."
+    "metaDescription": "Os posts de futebol que venceram o Instagram e o TikTok em {date}, por engajamento, curtidas e views."
   },
   "methodology": {
     "title": "Como rankeamos",
     "intro": "O que entra em cada ranking, e por que medimos desse jeito. Sem caixa-preta.",
     "erTitle": "Taxa de Engajamento (ER)",
-    "erDesc": "Para fotos e carrosséis. Somamos curtidas e comentários e dividimos pelo número de seguidores. É a mesma conta que o mercado usa — dá pra comparar qualquer conta com qualquer outra.",
+    "erDesc": "Para fotos e carrosséis. Somamos curtidas e comentários e dividimos pelo número de seguidores. É a mesma conta que o mercado usa, dá pra comparar qualquer conta com qualquer outra.",
     "verTitle": "Taxa de Engajamento de Vídeo (VER)",
-    "verDesc": "Para Reels. Aqui dividimos pelas visualizações, não pelos seguidores — um vídeo pode alcançar muito mais gente do que a conta tem de seguidor. As views mostram quem de fato assistiu.",
+    "verDesc": "Para Reels. Aqui dividimos pelas visualizações, não pelos seguidores, um vídeo pode alcançar muito mais gente do que a conta tem de seguidor. As views mostram quem de fato assistiu.",
     "terTitle": "Taxa de Engajamento do TikTok (TER)",
     "terDesc": "Igual aos Reels, só que também somamos os compartilhamentos. No TikTok eles são públicos (no Instagram não), e compartilhar é um dos sinais mais fortes de que o conteúdo importou.",
     "equalTitle": "Pesos iguais, de propósito",
-    "equalDesc": "Curtida, comentário e compartilhamento valem o mesmo. Sem fórmula secreta e sem peso escondido — uma conta simples que qualquer um pode conferir e comparar.",
+    "equalDesc": "Curtida, comentário e compartilhamento valem o mesmo. Sem fórmula secreta e sem peso escondido, uma conta simples que qualquer um pode conferir e comparar.",
     "dontTitle": "O que não medimos",
-    "dontDesc": "Só entra o que é público. Salvamentos ficam de fora (o Instagram não mostra) e os compartilhamentos do Instagram também — no TikTok eles aparecem, então lá contam.",
+    "dontDesc": "Só entra o que é público. Salvamentos ficam de fora (o Instagram não mostra) e os compartilhamentos do Instagram também, no TikTok eles aparecem, então lá contam.",
     "windowTitle": "O que conta como um dia",
-    "windowDesc": "Um dia é um dia inteiro, contado no fuso de cada conta — assim toda equipe tem as mesmas 24 horas, esteja onde estiver.",
+    "windowDesc": "Um dia é um dia inteiro, contado no fuso de cada conta, assim toda equipe tem as mesmas 24 horas, esteja onde estiver.",
     "faqTitle": "Perguntas frequentes",
     "faq": [
       {
         "q": "Qual clube de futebol tem a maior taxa de engajamento no Instagram?",
-        "a": "Muda todo dia. O DataFootball ranqueia diariamente os clubes e seleções cujo conteúdo mais funciona — por taxa de engajamento, curtidas e views no Instagram e no TikTok. Veja o ranking de hoje na página inicial."
+        "a": "Muda todo dia. O DataFootball ranqueia diariamente os clubes e seleções cujo conteúdo mais funciona, por taxa de engajamento, curtidas e views no Instagram e no TikTok. Veja o ranking de hoje na página inicial."
       },
       {
         "q": "O que é taxa de engajamento e como é calculada?",
@@ -142,7 +144,7 @@
       },
       {
         "q": "Por que ranquear por engajamento e não por seguidores?",
-        "a": "Porque o engajamento é o que mostra o conteúdo funcionando de verdade — o quanto o público curte, comenta e compartilha, não só quantos seguem. É a taxa padrão que o mercado usa, então dá pra comparar qualquer conta com outra, grande ou pequena."
+        "a": "Porque o engajamento é o que mostra o conteúdo funcionando de verdade, o quanto o público curte, comenta e compartilha, não só quantos seguem. É a taxa padrão que o mercado usa, então dá pra comparar qualquer conta com outra, grande ou pequena."
       },
       {
         "q": "Qual seleção ganha nas redes sociais?",
@@ -155,8 +157,8 @@
     ]
   },
   "club": {
-    "metaTitle": "{club} — engajamento no Instagram e TikTok",
-    "metaDescription": "Como o {club} se sai no índice diário de engajamento do futebol — aparições, números 1 e melhores taxas no Instagram e TikTok.",
+    "metaTitle": "{club}, engajamento no Instagram e TikTok",
+    "metaDescription": "Como o {club} se sai no índice diário de engajamento do futebol, aparições, números 1 e melhores taxas no Instagram e TikTok.",
     "appearances": "Aparições",
     "topSpots": "Vezes em 1º",
     "bestER": "Melhor ER",
@@ -180,21 +182,21 @@
     "summaryEr": "Sua taxa de engajamento está no top {pct}% das contas que acompanhamos, com média de {avgEr}% nos posts recentes."
   },
   "leagues": {
-    "lead": "Total de aparições somadas em todos os relatórios — qual liga aparece mais.",
+    "lead": "Total de aparições somadas em todos os relatórios, qual liga aparece mais.",
     "clubsN": "{count} clubes",
     "top": "líder"
   },
   "compare": {
     "title": "Comparar times",
-    "lead": "Escolha times e acompanhe o engajamento ao longo do tempo — veja qual conteúdo funciona de verdade.",
+    "lead": "Escolha times e acompanhe o engajamento ao longo do tempo, veja qual conteúdo funciona de verdade.",
     "pick": "Escolha ao menos um time."
   },
   "about": {
     "title": "Sobre",
-    "lead": "Mostramos o conteúdo de futebol que funciona — todo dia.",
-    "p1": "Todo dia olhamos as maiores contas de futebol do Instagram e do TikTok e vemos quais posts a torcida mais abraçou — clubes na temporada, seleções nos grandes torneios. Sem opinião nem palpite: o ranking mostra o que o público fez, não o que a gente acha.",
-    "p2": "Contamos curtidas, comentários, views e compartilhamentos com peso igual, do mesmo jeito que o mercado mede — sem fórmula secreta. A conta por trás de cada número está toda aberta na metodologia.",
-    "p3": "Todo número vem do que é público no próprio post. Nunca chutamos nem usamos dado privado — só o que qualquer um consegue ver e conferir.",
+    "lead": "Mostramos o conteúdo de futebol que funciona, todo dia.",
+    "p1": "Todo dia olhamos as maiores contas de futebol do Instagram e do TikTok e vemos quais posts a torcida mais abraçou, clubes na temporada, seleções nos grandes torneios. Sem opinião nem palpite: o ranking mostra o que o público fez, não o que a gente acha.",
+    "p2": "Contamos curtidas, comentários, views e compartilhamentos com peso igual, do mesmo jeito que o mercado mede, sem fórmula secreta. A conta por trás de cada número está toda aberta na metodologia.",
+    "p3": "Todo número vem do que é público no próprio post. Nunca chutamos nem usamos dado privado, só o que qualquer um consegue ver e conferir.",
     "p4": "O índice sai aqui no site e todo dia no @datafootball__, no Instagram e no TikTok."
   },
   "footer": {
@@ -213,7 +215,7 @@
   "newsletter": {
     "kicker": "Newsletter semanal",
     "title": "Os insights que ninguém mede.",
-    "subtitle": "Toda semana, o que os números do futebol dizem e a mídia não conta — engajamento, zebras e o contraste entre alcance e conexão. Direto no seu email.",
+    "subtitle": "Toda semana, o que os números do futebol dizem e a mídia não conta, engajamento, zebras e o contraste entre alcance e conexão. Direto no seu email.",
     "sample": "Ver a edição desta semana →",
     "placeholder": "seu@email.com",
     "cta": "Assinar",
@@ -229,7 +231,7 @@
     "contrast": "O contraste",
     "watch": "Pra acompanhar",
     "ctaTitle": "Os números toda semana, no seu email.",
-    "ctaSub": "A análise que ninguém mais faz — engajamento, zebras e o contraste entre alcance e conexão.",
+    "ctaSub": "A análise que ninguém mais faz, engajamento, zebras e o contraste entre alcance e conexão.",
     "numbers": "Os números da semana",
     "posts": "Os posts da semana",
     "mostEngaged": "Mais engajados",

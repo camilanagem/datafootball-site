@@ -2,8 +2,8 @@
   "site": {
     "title": "DataFootball",
     "tagline": "The football content that works",
-    "metaTitle": "DataFootball — Daily Instagram & TikTok engagement ranking",
-    "metaDescription": "The daily index of football's most-engaged posts. We rank clubs and national teams by engagement, likes and views across Instagram and TikTok — every day.",
+    "metaTitle": "DataFootball, Daily Instagram & TikTok engagement ranking",
+    "metaDescription": "The daily index of football's most-engaged posts. We rank clubs and national teams by engagement, likes and views across Instagram and TikTok, every day.",
     "subscribe": "Subscribe",
     "subscribePlaceholder": "your email"
   },
@@ -22,20 +22,21 @@
     "compare": "Compare"
   },
   "home": {
-    "selectDay": "Daily ranking — pick a date and see the winning posts.",
+    "selectDay": "Daily ranking, pick a date and see the winning posts.",
     "todayButton": "Today",
     "noPostsYet": "No reports yet for this day",
-    "what": "Every day we scan {count} of football's biggest accounts across Instagram and TikTok, then rank their best-performing posts. Pure engagement — no opinions, no fluff.",
+    "what": "Every day we scan {count} of football's biggest accounts across Instagram and TikTok, then rank their best-performing posts. Pure engagement, no opinions, no fluff.",
     "statline": "{count} accounts · Instagram + TikTok · new index every day",
     "howTitle": "How it works",
     "step1Title": "We pull the posts",
     "step1Body": "Every post from {count} of the most-followed football accounts, every single day.",
     "step2Title": "We rank by engagement",
-    "step2Body": "Likes, comments, views and shares — equal weights, market-standard rates. No secret multipliers.",
+    "step2Body": "Likes, comments, views and shares, equal weights, market-standard rates. No secret multipliers.",
     "step3Title": "We publish the index",
-    "step3Body": "The best posts become the daily ranking — here on the site and on @datafootball__.",
+    "step3Body": "The best posts become the daily ranking, here on the site and on @datafootball__.",
     "browse": "Browse the index",
-    "topToday": "Top engagement"
+    "topToday": "Top engagement",
+    "tagline": "We rank impact. Not followers."
   },
   "thisWeek": {
     "title": "This week",
@@ -52,7 +53,7 @@
   },
   "standings": {
     "title": "Standings",
-    "lead": "All-time — most #1 finishes since the index began.",
+    "lead": "All-time, most #1 finishes since the index began.",
     "firsts": "At #1"
   },
   "calendar": {
@@ -73,22 +74,23 @@
   },
   "nationalTeams": {
     "title": "National Teams",
-    "lead": "Which national team owns social media? The daily engagement index — clubs return after the tournament.",
+    "lead": "Which national team owns social media? The daily engagement index, clubs return after the tournament.",
     "count": "{count} national teams indexed",
     "battle": "Confederation battle",
-    "battleLead": "Which confederation owns the feed — by total ranking appearances.",
-    "metaTitle": "National Teams — Instagram & TikTok engagement ranking",
+    "battleLead": "Which confederation owns the feed, by total ranking appearances.",
+    "metaTitle": "National Teams, Instagram & TikTok engagement ranking",
     "metaDescription": "Which national team wins social media? Daily ranking of national teams by engagement, likes and views across Instagram and TikTok."
   },
   "halloffame": {
-    "lead": "All-time records — across every club and national team the index has tracked. One per category; beat it and you take the spot.",
+    "lead": "All-time records, across every club and national team the index has tracked. One per category; beat it and you take the spot.",
     "editionNote": "Right now the index follows the 48 national teams of the tournament. Clubs return after July 20.",
     "club": "Club",
     "team": "National team",
     "er": "Best photo engagement",
     "ver": "Best reel engagement",
     "ter": "Best TikTok engagement",
-    "likes": "Most-liked post"
+    "likes": "Most-liked post",
+    "tiktokLikes": "Most-liked TikTok"
   },
   "day": {
     "headline": "Report",
@@ -105,32 +107,32 @@
     "mostViews": "Most Views",
     "clubOfDay": "Club of the Day",
     "teamOfDay": "Team of the Day",
-    "story": "{team} led the day — in {count} of {total} rankings.",
+    "story": "{team} led the day, in {count} of {total} rankings.",
     "slots": "slots",
     "mvps": "Day's MVPs",
     "metaTitle": "Football engagement ranking · {date}",
-    "metaDescription": "The football posts that won Instagram and TikTok on {date} — ranked by engagement, likes and views."
+    "metaDescription": "The football posts that won Instagram and TikTok on {date}, ranked by engagement, likes and views."
   },
   "methodology": {
     "title": "How we rank",
     "intro": "What goes into each ranking, and why we measure it this way. No black box.",
     "erTitle": "Engagement Rate (ER)",
-    "erDesc": "For photos and carousels. We add up likes and comments and divide by the account's followers. It's the same math the whole industry uses — so any account can be compared to any other.",
+    "erDesc": "For photos and carousels. We add up likes and comments and divide by the account's followers. It's the same math the whole industry uses, so any account can be compared to any other.",
     "verTitle": "Video Engagement Rate (VER)",
-    "verDesc": "For Reels. Here we divide by views, not followers — a video can reach far more people than the account has followers. Views show who actually watched.",
+    "verDesc": "For Reels. Here we divide by views, not followers, a video can reach far more people than the account has followers. Views show who actually watched.",
     "terTitle": "TikTok Engagement Rate (TER)",
     "terDesc": "Same as Reels, plus shares. On TikTok shares are public (on Instagram they aren't), and a share is one of the strongest signs the content landed.",
     "equalTitle": "Equal weights, on purpose",
-    "equalDesc": "A like, a comment and a share all count the same. No secret formula, no hidden weighting — a simple rate anyone can check and compare.",
+    "equalDesc": "A like, a comment and a share all count the same. No secret formula, no hidden weighting, a simple rate anyone can check and compare.",
     "dontTitle": "What we don't track",
-    "dontDesc": "Only public numbers count. Saves are out (Instagram doesn't show them), and so are Instagram shares — on TikTok they're visible, so there they count.",
+    "dontDesc": "Only public numbers count. Saves are out (Instagram doesn't show them), and so are Instagram shares, on TikTok they're visible, so there they count.",
     "windowTitle": "What counts as a day",
-    "windowDesc": "A day is a full day, measured in each account's own time zone — so every team gets the same 24 hours, wherever they are.",
+    "windowDesc": "A day is a full day, measured in each account's own time zone, so every team gets the same 24 hours, wherever they are.",
     "faqTitle": "Frequently asked questions",
     "faq": [
       {
         "q": "Which football club has the highest engagement rate on Instagram?",
-        "a": "It changes every day. DataFootball ranks the football clubs and national teams whose content works best each day — by engagement rate, likes and views across Instagram and TikTok. See today's ranking on the homepage."
+        "a": "It changes every day. DataFootball ranks the football clubs and national teams whose content works best each day, by engagement rate, likes and views across Instagram and TikTok. See today's ranking on the homepage."
       },
       {
         "q": "What is engagement rate and how is it calculated?",
@@ -142,7 +144,7 @@
       },
       {
         "q": "Why rank by engagement instead of followers?",
-        "a": "Because engagement is what shows the content actually working — how much the audience likes, comments and shares, not just how many follow. It's the standard rate the whole industry uses, so any account compares fairly to any other, big or small."
+        "a": "Because engagement is what shows the content actually working, how much the audience likes, comments and shares, not just how many follow. It's the standard rate the whole industry uses, so any account compares fairly to any other, big or small."
       },
       {
         "q": "Which national team wins on social media?",
@@ -155,8 +157,8 @@
     ]
   },
   "club": {
-    "metaTitle": "{club} — Instagram & TikTok engagement",
-    "metaDescription": "How {club} performs in the daily football engagement index — appearances, #1 spots and best rates across Instagram and TikTok.",
+    "metaTitle": "{club}, Instagram & TikTok engagement",
+    "metaDescription": "How {club} performs in the daily football engagement index, appearances, #1 spots and best rates across Instagram and TikTok.",
     "appearances": "Appearances",
     "topSpots": "#1 finishes",
     "bestER": "Best ER",
@@ -180,21 +182,21 @@
     "summaryEr": "Its engagement rate ranks in the top {pct}% of the accounts we track, averaging {avgEr}% across recent posts."
   },
   "leagues": {
-    "lead": "Total appearances across every report — which league shows up the most.",
+    "lead": "Total appearances across every report, which league shows up the most.",
     "clubsN": "{count} clubs",
     "top": "top"
   },
   "compare": {
     "title": "Compare teams",
-    "lead": "Pick teams and watch their engagement over time — see whose content actually works.",
+    "lead": "Pick teams and watch their engagement over time, see whose content actually works.",
     "pick": "Pick at least one team."
   },
   "about": {
     "title": "About",
-    "lead": "We show the football content that works — every day.",
-    "p1": "Every day we look at the biggest football accounts on Instagram and TikTok and see which posts the fans actually got behind — clubs in season, national teams during the big tournaments. No opinions, no takes: the ranking is what the audience did, not what we think.",
-    "p2": "We count likes, comments, views and shares at equal weight, the same way the industry measures it — no secret formula. The math behind every number is all there on the methodology page.",
-    "p3": "Every number comes from what's public on the post itself. We never guess or use private data — only what anyone can see and check.",
+    "lead": "We show the football content that works, every day.",
+    "p1": "Every day we look at the biggest football accounts on Instagram and TikTok and see which posts the fans actually got behind, clubs in season, national teams during the big tournaments. No opinions, no takes: the ranking is what the audience did, not what we think.",
+    "p2": "We count likes, comments, views and shares at equal weight, the same way the industry measures it, no secret formula. The math behind every number is all there on the methodology page.",
+    "p3": "Every number comes from what's public on the post itself. We never guess or use private data, only what anyone can see and check.",
     "p4": "The index goes out here on the site and every day on @datafootball__, on Instagram and TikTok."
   },
   "footer": {
@@ -213,7 +215,7 @@
   "newsletter": {
     "kicker": "Weekly newsletter",
     "title": "The insights nobody else measures.",
-    "subtitle": "Every week, what football's numbers say and the media won't — engagement, underdogs, and the gap between reach and real connection. Straight to your inbox.",
+    "subtitle": "Every week, what football's numbers say and the media won't, engagement, underdogs, and the gap between reach and real connection. Straight to your inbox.",
     "sample": "See this week's edition →",
     "placeholder": "you@email.com",
     "cta": "Subscribe",
@@ -229,7 +231,7 @@
     "contrast": "The contrast",
     "watch": "What to watch",
     "ctaTitle": "The numbers every week, in your inbox.",
-    "ctaSub": "The analysis nobody else does — engagement, underdogs, and the gap between reach and connection.",
+    "ctaSub": "The analysis nobody else does, engagement, underdogs, and the gap between reach and connection.",
     "numbers": "The week in numbers",
     "posts": "The week's posts",
     "mostEngaged": "Most engaged",

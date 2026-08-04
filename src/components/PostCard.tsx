@@ -29,16 +29,23 @@ function ordinal(n: number, locale: string): string {
 
 export function PostCard({
   post,
+  kind,
   locale = "en",
   pct,
 }: {
   post: Post;
+  kind?: string;
   accent?: "default" | "tt-red" | "tt-sage";
   locale?: string;
   pct?: number;
 }) {
-  // P&B puro — sem cor de acento (igual ao feed @datafootball__)
-  const accentColor = "currentColor";
+  // ID 2.0 — cor por categoria (igual aos cards do produto): photos verde · reels azul · tiktok vermelho
+  const KIND: Record<string, { text: string; bg: string }> = {
+    photos: { text: "text-accent", bg: "bg-accent" },
+    reels: { text: "text-accent2", bg: "bg-accent2" },
+    tiktok: { text: "text-tt-red", bg: "bg-tt-red" },
+  };
+  const kc = KIND[kind ?? ""] ?? KIND.photos;
 
   const ex = post.extra;
   const metrics = ex ? [
@@ -55,7 +62,7 @@ export function PostCard({
       href={post.url}
       target="_blank"
       rel="noopener"
-      className="group block rounded-xl border border-current/15 overflow-hidden hover:border-current/40 transition"
+      className="card group block overflow-hidden hover:opacity-95 transition"
     >
       <div className="relative aspect-[4/3] bg-current/5">
         <Cover src={post.cover_url} className="w-full h-full object-cover" />
@@ -66,37 +73,36 @@ export function PostCard({
 
       <div className="p-4">
         <div className="flex items-start justify-between gap-3 mb-1">
-          <div className="flex items-center gap-2 text-xs uppercase tracking-widest opacity-60">
+          <div className="flex items-center gap-2 font-display text-xs uppercase tracking-widest opacity-60">
             <span>{post.flag}</span>
             <span>{post.liga}</span>
           </div>
           <div className="text-right shrink-0">
-            <span className="font-serif text-2xl leading-none block" style={{ color: accentColor }}>
+            <span className={`font-display text-3xl leading-none block ${kc.text}`}>
               {String(post.posicao).padStart(2, "0")}
             </span>
-            <span className="text-[10px] uppercase tracking-widest opacity-60 block">
+            <span className="font-display text-[10px] uppercase tracking-widest opacity-60 block">
               {posLabel}
             </span>
           </div>
         </div>
-        <div className="font-serif text-lg leading-tight mb-3">{post.club}</div>
+        <div className="font-sans text-lg md:text-xl font-medium leading-tight mb-3">{post.club}</div>
         <p className="text-sm opacity-80 line-clamp-2 mb-3">{post.caption_clean}</p>
         <div className="flex items-baseline gap-2">
-          <span className="font-serif text-2xl">{post.metric_value}</span>
-          <span className="text-xs uppercase tracking-widest opacity-60">{post.metric_label}</span>
+          <span className="font-display text-3xl leading-none">{post.metric_value}</span>
+          <span className="font-display text-xs uppercase tracking-widest opacity-60">{post.metric_label}</span>
         </div>
-        {pct !== undefined && (
-          <div className="mt-2 h-1 rounded-full bg-current/10 overflow-hidden">
-            <div className="h-full bg-current/40" style={{ width: `${Math.max(3, Math.min(100, pct * 100))}%` }} />
-          </div>
-        )}
+        {/* a barra — preenchida na cor da categoria, como o card do produto */}
+        <div className="mt-3 h-2 rounded-full bg-current/10 overflow-hidden">
+          <div className={`h-full rounded-full ${kc.bg}`} style={{ width: `${Math.max(6, Math.min(100, (pct ?? 1) * 100))}%` }} />
+        </div>
 
         {metrics.length > 0 && (
           <div className="mt-3 pt-3 border-t border-current/10 flex gap-4">
             {metrics.map(m => (
               <div key={m.label}>
-                <div className="text-[10px] uppercase tracking-wider opacity-60">{m.label}</div>
-                <div className="text-sm font-medium">{m.value}</div>
+                <div className="font-display text-[10px] uppercase tracking-wider opacity-60">{m.label}</div>
+                <div className="text-sm font-medium tabular-nums">{m.value}</div>
               </div>
             ))}
           </div>

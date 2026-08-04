@@ -60,13 +60,13 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
     <div className="font-sans">
       <div className="flex items-center justify-between mb-6">
         <button onClick={goPrev} aria-label={t("calendar.prevMonth")} className="px-3 py-2 hover:opacity-70 text-sm">‹</button>
-        <h2 className="font-serif text-2xl md:text-3xl tracking-tight uppercase">{monthName}</h2>
+        <h2 className="font-display text-2xl md:text-3xl tracking-tight uppercase">{monthName}</h2>
         <button onClick={goNext} aria-label={t("calendar.nextMonth")} className="px-3 py-2 hover:opacity-70 text-sm">›</button>
       </div>
 
       <div className="grid grid-cols-7 gap-px bg-current/15 border border-current/15 rounded-xl overflow-hidden">
         {weekdays.map((w, i) => (
-          <div key={i} className="bg-[var(--background)] text-center text-[10px] uppercase tracking-widest opacity-60 py-2">
+          <div key={i} className="bg-[var(--background)] text-center font-display text-[11px] uppercase tracking-widest opacity-60 py-2">
             {w}
           </div>
         ))}
@@ -89,7 +89,7 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
               <span className={[
                 "font-sans text-[11px] md:text-sm leading-none mb-0.5 self-end pr-1",
                 isToday
-                  ? "bg-current text-[var(--background)] rounded-full w-5 h-5 md:w-6 md:h-6 flex items-center justify-center font-bold"
+                  ? "bg-accent text-[var(--background)] rounded-full w-5 h-5 md:w-6 md:h-6 flex items-center justify-center font-bold"
                   : "opacity-80",
               ].join(" ")}>
                 {cell.getDate()}
@@ -97,7 +97,7 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
               {/* mobile: contagem em pontinhos (célula compacta) */}
               <div className="md:hidden flex flex-wrap gap-1 mt-1">
                 {chips.map((_, idx) => (
-                  <span key={idx} className="w-1.5 h-1.5 rounded-full bg-current opacity-50" aria-hidden />
+                  <span key={idx} className="w-1.5 h-1.5 rounded-full bg-accent" aria-hidden />
                 ))}
               </div>
               {/* desktop: chips detalhados */}
@@ -115,15 +115,21 @@ export function CalendarHeatmap({ days, initialMonth }: Props) {
   );
 }
 
+const CHIP_KIND: Record<string, { emoji: string; cls: string }> = {
+  photos: { emoji: "📸", cls: "text-accent" },
+  reels: { emoji: "🎥", cls: "text-accent2" },
+  tiktok: { emoji: "🎵", cls: "text-tt-red" },
+};
+const CHIP_METRIC: Record<string, string> = { er: "Engagement", likes: "Likes" };
+
 function ChipRow({ chip }: { chip: DayChip }) {
+  const k = CHIP_KIND[chip.kind] ?? { emoji: "•", cls: "opacity-70" };
   return (
-    <div className="flex items-center gap-1 md:gap-1.5 text-[8.5px] md:text-[11px] leading-tight w-full">
-      <span
-        className="shrink-0 w-1.5 h-1.5 md:w-2 md:h-2 rounded-full bg-current opacity-50"
-        aria-hidden
-      />
-      <span className="font-mono opacity-70 shrink-0">{chip.time}</span>
-      <span className="truncate">{chip.label}</span>
+    <div className="flex items-center gap-1.5 md:gap-2 text-[11px] md:text-base leading-tight w-full">
+      <span aria-hidden className="shrink-0">{k.emoji}</span>
+      <span className={`truncate font-display uppercase tracking-wide text-[9px] md:text-xs ${k.cls}`}>
+        {CHIP_METRIC[chip.ranking] ?? chip.ranking}
+      </span>
     </div>
   );
 }

@@ -277,6 +277,7 @@ export default async function DayPage({
                   <PostCard
                     key={`${post.posicao}-${post.url}`}
                     post={post}
+                    kind={carousel.kind}
                     accent={accent}
                     locale={locale}
                     pct={metricNum(post.metric_value) / max}

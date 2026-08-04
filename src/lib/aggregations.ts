@@ -2,6 +2,14 @@ import fs from "node:fs";
 import path from "node:path";
 import { type DayReport, getAvailableDays } from "./data";
 import { isNationalTeam, canonicalHandle } from "./edition";
+import monitoredList from "../data/monitored_clubs.json";
+
+// 57 clubes monitorados hoje (accounts.yaml). Clube fora daqui (ex.: Villarreal, que só
+// aparece no histórico) NÃO entra nas listagens do site. Seleções passam (isNationalTeam).
+const MONITORED = new Set((monitoredList as string[]).map((h) => canonicalHandle(h)));
+export function isMonitored(handle: string, liga: string): boolean {
+  return isNationalTeam(liga) || MONITORED.has(canonicalHandle(handle));
+}
 
 const DATA_DIR = path.join(process.cwd(), "src", "data", "days");
 
@@ -58,6 +66,7 @@ export function aggregateByClub(): Record<string, ClubAggregate> {
     for (const c of r.carousels) {
       for (const p of c.posts) {
         const key = canonicalHandle(p.handle);
+        if (!isMonitored(p.handle, p.liga)) continue;   // fora dos 57 monitorados (ex.: Villarreal) → ignora
         if (!out[key]) {
           out[key] = {
             handle: key,
@@ -225,7 +234,8 @@ export function aggregateByLeague(): LeagueAggregate[] {
 }
 
 export type Record_ = {
-  type: "ER" | "Likes" | "VER" | "TER";
+  type: "ER" | "Likes" | "VER" | "TER" | "TikTok Likes";
+  kind: "photos" | "reels" | "tiktok";
   value: string;
   club: string;
   handle: string;
@@ -237,16 +247,23 @@ export type Record_ = {
 
 type BestRecord = { val: number; club: string; handle: string; flag: string; liga: string; date: string; url: string };
 
+// sorteio/patrocinado co-marca não vale recorde (o #1 era um sorteio com marca de cerveja)
+const GIVEAWAY = /\b(sorteio|giveaway|sorteo|concurso|regal\w*|ganhe|gána|patrocinad)/i;
+const fmtLikes = (v: number) => (v >= 1_000_000 ? `${(v / 1_000_000).toFixed(1)}M` : `${Math.round(v / 1000)}K`);
+
 function computeRecords(reports: DayReport[], keep: (liga: string) => boolean): Record_[] {
   let bestEr: BestRecord | null = null;
   let bestVer: BestRecord | null = null;
   let bestTer: BestRecord | null = null;
   let bestLikes: BestRecord | null = null;
+  let bestTtLikes: BestRecord | null = null;
 
   for (const r of reports) {
     for (const c of r.carousels) {
       for (const p of c.posts) {
         if (!keep(p.liga || "")) continue;
+        if (!isNationalTeam(p.liga) && !MONITORED.has(canonicalHandle(p.handle))) continue;  // fora dos 57
+        if (GIVEAWAY.test(p.caption_clean || "")) continue;                                    // sorteio não conta
         const ctx = { club: p.club, handle: p.handle, flag: p.flag, liga: p.liga, date: r.date, url: p.url };
 
         if (c.kind === "photos" && c.ranking === "er") {
@@ -264,20 +281,18 @@ function computeRecords(reports: DayReport[], keep: (liga: string) => boolean): 
         if (c.ranking === "likes") {
           const likes = (p as any).extra?.likes ?? 0;
           if (likes && (!bestLikes || likes > bestLikes.val)) bestLikes = { ...ctx, val: likes };
+          if (c.kind === "tiktok" && likes && (!bestTtLikes || likes > bestTtLikes.val)) bestTtLikes = { ...ctx, val: likes };
         }
       }
     }
   }
 
   const records: Record_[] = [];
-  if (bestEr) records.push({ type: "ER", value: `${bestEr.val.toFixed(2)}%`, ...bestEr });
-  if (bestVer) records.push({ type: "VER", value: `${bestVer.val.toFixed(2)}%`, ...bestVer });
-  if (bestTer) records.push({ type: "TER", value: `${bestTer.val.toFixed(2)}%`, ...bestTer });
-  if (bestLikes) records.push({
-    type: "Likes",
-    value: bestLikes.val >= 1_000_000 ? `${(bestLikes.val / 1_000_000).toFixed(1)}M` : `${Math.round(bestLikes.val / 1000)}K`,
-    ...bestLikes,
-  });
+  if (bestEr) records.push({ type: "ER", kind: "photos", value: `${bestEr.val.toFixed(2)}%`, ...bestEr });
+  if (bestVer) records.push({ type: "VER", kind: "reels", value: `${bestVer.val.toFixed(2)}%`, ...bestVer });
+  if (bestTer) records.push({ type: "TER", kind: "tiktok", value: `${bestTer.val.toFixed(2)}%`, ...bestTer });
+  if (bestLikes) records.push({ type: "Likes", kind: "photos", value: fmtLikes(bestLikes.val), ...bestLikes });
+  if (bestTtLikes) records.push({ type: "TikTok Likes", kind: "tiktok", value: fmtLikes(bestTtLikes.val), ...bestTtLikes });
   return records;
 }
 

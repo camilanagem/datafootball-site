@@ -8,8 +8,10 @@ export async function DirectoryToggle({ current }: { current: "clubs" | "teams" 
   const t = await getTranslations("nav");
   const seg = [
     { key: "clubs", href: "/clubs", label: t("clubs") },
-    { key: "teams", href: "/national-teams", label: t("teams") },
+    // aba "Teams" removida do diretório (decisão 04/ago) — seleções saem do site.
   ] as const;
+
+  if (seg.length <= 1) return null;   // 1 segmento só → toggle não faz sentido
 
   return (
     <div className="inline-flex rounded-full border border-current/20 p-1 text-sm font-sans">

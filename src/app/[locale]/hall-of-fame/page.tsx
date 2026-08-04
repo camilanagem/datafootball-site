@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { getRecords, aggregateByClub, type Record_ } from "@/lib/aggregations";
-import { getEdition, isNationalTeam } from "@/lib/edition";
+import { getRecords, type Record_ } from "@/lib/aggregations";
+import { getEdition } from "@/lib/edition";
+import { Sparkle } from "@/components/Sparkle";
 
-const LABEL_KEY: Record<string, string> = { ER: "er", VER: "ver", TER: "ter", Likes: "likes" };
+const LABEL_KEY: Record<string, string> = { ER: "er", VER: "ver", TER: "ter", Likes: "likes", "TikTok Likes": "tiktokLikes" };
 
 export async function generateMetadata({
   params,
@@ -29,24 +30,16 @@ export default async function HallOfFamePage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
-  const { clubs, teams } = getRecords();
+  const { clubs } = getRecords();
   const { isTournament } = getEdition();
-  const standings = Object.values(aggregateByClub())
-    .filter((c) => isNationalTeam(c.liga) === isTournament)
-    .sort((a, b) => b.topOnes - a.topOnes || b.appearances - a.appearances)
-    .slice(0, 20);
   const fmtDate = (d: string) =>
     new Date(`${d}T00:00:00`).toLocaleDateString(
       locale === "pt" ? "pt-BR" : locale === "es" ? "es-ES" : "en-US",
       { year: "numeric", month: "short", day: "numeric" },
     );
 
-  const teamsSection = { title: t("nationalTeams.title"), records: teams };
   const clubsSection = { title: t("nav.clubs"), records: clubs };
-  const sections = (isTournament
-    ? [teamsSection, clubsSection]
-    : [clubsSection, teamsSection]
-  ).filter((s) => s.records.length > 0);
+  const sections = [clubsSection].filter((s) => s.records.length > 0);
 
   return (
     <div className="max-w-3xl mx-auto px-6 py-12">
@@ -76,55 +69,37 @@ export default async function HallOfFamePage({
         ))}
       </div>
 
-      {/* CLASSIFICAÇÃO (fundido do antigo /standings): placar acumulado */}
-      {standings.length > 0 && (
-        <section className="mt-16 pt-12 border-t border-current/15">
-          <h2 className="font-serif text-2xl mb-1">{t("standings.title")}</h2>
-          <p className="text-sm opacity-60 mb-6">{t("standings.lead")}</p>
-          <div className="rounded-xl border border-current/15 divide-y divide-current/10">
-            {standings.map((c, i) => (
-              <Link
-                key={c.handle}
-                href={`/club/${c.handle}`}
-                className="flex items-center gap-2 px-4 py-3 hover:bg-current/5"
-              >
-                <span className="w-7 shrink-0 font-serif text-lg opacity-40 tabular-nums">{i + 1}</span>
-                <span className="shrink-0" aria-hidden>{c.flag}</span>
-                <span className="flex-1 min-w-0 font-serif truncate">{c.club}</span>
-                <span className="w-16 text-right shrink-0">
-                  <span className="block font-serif text-lg tabular-nums leading-none">{c.topOnes}</span>
-                  <span className="block text-[9px] uppercase tracking-wide opacity-60 mt-0.5">{t("standings.firsts")}</span>
-                </span>
-                <span className="w-20 text-right shrink-0">
-                  <span className="block font-serif text-lg tabular-nums leading-none">{c.appearances}</span>
-                  <span className="block text-[9px] uppercase tracking-wide opacity-60 mt-0.5">{t("club.appearances")}</span>
-                </span>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
+      {/* classificação por clube saiu daqui → vive na página /clubs (evita duplicação, 04/ago) */}
+      <div className="mt-16 pt-12 border-t border-current/15 text-center">
+        <Link href="/clubs" className="font-display text-sm uppercase tracking-widest hover:text-accent2 transition-colors">
+          {t("nav.clubs")} →
+        </Link>
+      </div>
     </div>
   );
 }
 
+const REC_KIND: Record<string, string> = { photos: "text-accent", reels: "text-accent2", tiktok: "text-tt-red" };
+
 function RecordCard({ r, label, date }: { r: Record_; label: string; date: string }) {
+  const kc = REC_KIND[r.kind] ?? "text-accent";
   return (
     <a
       href={r.url}
       target="_blank"
       rel="noopener"
-      className="block rounded-xl border border-current/15 p-6 hover:border-current/40 transition"
+      className="card relative overflow-hidden block p-6 hover:opacity-95 transition"
     >
-      <div className="text-xs uppercase tracking-widest opacity-60 mb-3">{label}</div>
+      <Sparkle className={`absolute top-4 right-4 w-4 h-4 ${kc}`} />
+      <div className={`font-display text-xs uppercase tracking-widest mb-3 ${kc}`}>{label}</div>
       <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between sm:gap-4">
-        <div className="font-serif text-5xl md:text-6xl tabular-nums leading-none">{r.value}</div>
+        <div className={`font-display text-5xl md:text-6xl tabular-nums leading-none ${kc}`}>{r.value}</div>
         <div className="text-left sm:text-right">
-          <div className="font-serif text-xl flex items-center gap-2 justify-start sm:justify-end">
+          <div className="font-sans text-xl font-medium flex items-center gap-2 justify-start sm:justify-end">
             <span aria-hidden>{r.flag}</span>
             <span>{r.club}</span>
           </div>
-          <div className="text-xs uppercase tracking-widest opacity-50 mt-1">@{r.handle}</div>
+          <div className="font-display text-xs uppercase tracking-widest opacity-50 mt-1">@{r.handle}</div>
           <div className="text-xs opacity-50 mt-0.5">{date}</div>
         </div>
       </div>
