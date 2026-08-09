@@ -13,40 +13,6 @@
       "posts": [
         {
           "posicao": 1,
-          "club": "River Plate",
-          "handle": "riverplate",
-          "flag": "🇦🇷",
-          "liga": "Argentina",
-          "metric_label": "ER",
-          "metric_value": "5.27%",
-          "caption_clean": "Ante la triste noticia del fallecimiento de su padre, Jorge Messi, River acompaña con afecto al capitán de la Selección Argentina y a toda su familia en este difícil momento. Fuerz…",
-          "url": "https://www.instagram.com/p/DbyIq83xu1D/",
-          "cover_url": "/covers/8311da688e02d54b.jpg",
-          "extra": {
-            "likes": 479876,
-            "comments": 2193,
-            "views": null
-          }
-        },
-        {
-          "posicao": 2,
-          "club": "Boca Juniors",
-          "handle": "bocajrs",
-          "flag": "🇦🇷",
-          "liga": "Argentina",
-          "metric_label": "ER",
-          "metric_value": "4.94%",
-          "caption_clean": "El Club Atlético Boca Juniors lamenta con profundo dolor el fallecimiento de Jorge Messi. Acompañamos a su familia y seres queridos en este difícil momento, enviándoles nuestro abs…",
-          "url": "https://www.instagram.com/p/DbyPgsZOj0J/",
-          "cover_url": "/covers/ff84096637f828c0.jpg",
-          "extra": {
-            "likes": 512209,
-            "comments": 1075,
-            "views": null
-          }
-        },
-        {
-          "posicao": 3,
           "club": "LA Galaxy",
           "handle": "lagalaxy",
           "flag": "🇺🇸",
@@ -63,7 +29,7 @@
           }
         },
         {
-          "posicao": 4,
+          "posicao": 2,
           "club": "Grêmio",
           "handle": "gremio",
           "flag": "🇧🇷",
@@ -80,7 +46,7 @@
           }
         },
         {
-          "posicao": 5,
+          "posicao": 3,
           "club": "River Plate",
           "handle": "riverplate",
           "flag": "🇦🇷",
@@ -97,7 +63,7 @@
           }
         },
         {
-          "posicao": 6,
+          "posicao": 4,
           "club": "Chivas",
           "handle": "chivas",
           "flag": "🇲🇽",
@@ -114,24 +80,7 @@
           }
         },
         {
-          "posicao": 7,
-          "club": "Inter Miami",
-          "handle": "intermiamicf",
-          "flag": "🇺🇸",
-          "liga": "MLS",
-          "metric_label": "ER",
-          "metric_value": "2.31%",
-          "caption_clean": "Our hearts are with our captain, Leo, and the entire Messi family.",
-          "url": "https://www.instagram.com/p/DbyoXZ8x-LK/",
-          "cover_url": "/covers/d02a5c73774ea147.jpg",
-          "extra": {
-            "likes": 426692,
-            "comments": 2813,
-            "views": null
-          }
-        },
-        {
-          "posicao": 8,
+          "posicao": 5,
           "club": "Palmeiras",
           "handle": "palmeiras",
           "flag": "🇧🇷",
@@ -148,7 +97,7 @@
           }
         },
         {
-          "posicao": 9,
+          "posicao": 6,
           "club": "Chivas",
           "handle": "chivas",
           "flag": "🇲🇽",
@@ -165,24 +114,7 @@
           }
         },
         {
-          "posicao": 10,
-          "club": "Barcelona",
-          "handle": "fcbarcelona",
-          "flag": "🇪🇸",
-          "liga": "La Liga",
-          "metric_label": "ER",
-          "metric_value": "2.04%",
-          "caption_clean": "El nostre més sentit condol. Descansi en pau, Jorge Messi. Our deepest condolences. May Jorge Messi rest in peace. Nuestro más sentido pésame. Descanse en paz, Jorge Messi.",
-          "url": "https://www.instagram.com/p/DbyLS2PjJLD/",
-          "cover_url": "/covers/6698a7e7da51c4a6.jpg",
-          "extra": {
-            "likes": 2995447,
-            "comments": 15061,
-            "views": null
-          }
-        },
-        {
-          "posicao": 11,
+          "posicao": 7,
           "club": "Newcastle",
           "handle": "nufc",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -199,7 +131,7 @@
           }
         },
         {
-          "posicao": 12,
+          "posicao": 8,
           "club": "Grêmio",
           "handle": "gremio",
           "flag": "🇧🇷",
@@ -216,7 +148,7 @@
           }
         },
         {
-          "posicao": 13,
+          "posicao": 9,
           "club": "Chivas",
           "handle": "chivas",
           "flag": "🇲🇽",
@@ -233,7 +165,7 @@
           }
         },
         {
-          "posicao": 14,
+          "posicao": 10,
           "club": "Fenerbahçe",
           "handle": "fenerbahce",
           "flag": "🇹🇷",
@@ -250,7 +182,7 @@
           }
         },
         {
-          "posicao": 15,
+          "posicao": 11,
           "club": "Fenerbahçe",
           "handle": "fenerbahce",
           "flag": "🇹🇷",
@@ -267,7 +199,7 @@
           }
         },
         {
-          "posicao": 16,
+          "posicao": 12,
           "club": "Cruzeiro",
           "handle": "cruzeiro",
           "flag": "🇧🇷",
@@ -284,7 +216,7 @@
           }
         },
         {
-          "posicao": 17,
+          "posicao": 13,
           "club": "Arsenal",
           "handle": "arsenal",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -301,7 +233,7 @@
           }
         },
         {
-          "posicao": 18,
+          "posicao": 14,
           "club": "Cruzeiro",
           "handle": "cruzeiro",
           "flag": "🇧🇷",
@@ -318,7 +250,7 @@
           }
         },
         {
-          "posicao": 19,
+          "posicao": 15,
           "club": "Club América",
           "handle": "clubamerica",
           "flag": "🇲🇽",
@@ -335,7 +267,7 @@
           }
         },
         {
-          "posicao": 20,
+          "posicao": 16,
           "club": "River Plate",
           "handle": "riverplate",
           "flag": "🇦🇷",
@@ -350,6 +282,74 @@
             "comments": 2051,
             "views": null
           }
+        },
+        {
+          "posicao": 17,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "1.24%",
+          "caption_clean": "Estadio José Dellagiovanna. ¡ESTAMOS!",
+          "url": "https://www.instagram.com/p/DbylQGolqjc/",
+          "cover_url": "/covers/2c875157952ad394.jpg",
+          "extra": {
+            "likes": 112704,
+            "comments": 677,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Botafogo",
+          "handle": "botafogo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.19%",
+          "caption_clean": "ALEX TELLES 1️⃣0️⃣0️⃣ Ao lado de sua família, nosso ídolo Alex Telles recebeu uma homenagem do Glorioso pelas mãos do diretor de futebol Léo Coelho! Parabéns, Capitão, que venham m…",
+          "url": "https://www.instagram.com/p/DbzD2nPEaxg/",
+          "cover_url": "/covers/346c61886f75f8da.jpg",
+          "extra": {
+            "likes": 23850,
+            "comments": 343,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "1.15%",
+          "caption_clean": "Another Premier League powerhouse puts pen to paper",
+          "url": "https://www.instagram.com/p/DbxwpWiDh72/",
+          "cover_url": "/covers/65fcac433353b44d.jpg",
+          "extra": {
+            "likes": 368558,
+            "comments": 2523,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Vasco",
+          "handle": "vascodagama",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.07%",
+          "caption_clean": "️ O próximo jogo do Gigante da Colina no Brasileirão. VAMOS! #VascoDaGama",
+          "url": "https://www.instagram.com/p/Dbxu-K7lklU/",
+          "cover_url": "/covers/68cb6c6cde0f5f54.jpg",
+          "extra": {
+            "likes": 40972,
+            "comments": 420,
+            "views": null
+          }
         }
       ]
     },
@@ -360,40 +360,6 @@
       "posts": [
         {
           "posicao": 1,
-          "club": "Barcelona",
-          "handle": "fcbarcelona",
-          "flag": "🇪🇸",
-          "liga": "La Liga",
-          "metric_label": "Likes",
-          "metric_value": "3.0M",
-          "caption_clean": "El nostre més sentit condol. Descansi en pau, Jorge Messi. Our deepest condolences. May Jorge Messi rest in peace. Nuestro más sentido pésame. Descanse en paz, Jorge Messi.",
-          "url": "https://www.instagram.com/p/DbyLS2PjJLD/",
-          "cover_url": "/covers/6698a7e7da51c4a6.jpg",
-          "extra": {
-            "likes": 2995447,
-            "comments": 15061,
-            "views": null
-          }
-        },
-        {
-          "posicao": 2,
-          "club": "Real Madrid",
-          "handle": "realmadrid",
-          "flag": "🇪🇸",
-          "liga": "La Liga",
-          "metric_label": "Likes",
-          "metric_value": "1.6M",
-          "caption_clean": "COMUNICADO OFICIAL El Real Madrid C. F., su presidente y su Junta Directiva lamentan profundamente el fallecimiento de Jorge Messi, padre de Leo Messi. Nuestro club quiere mostrar…",
-          "url": "https://www.instagram.com/p/DbyKYZ0IMrY/",
-          "cover_url": "/covers/565c8e5bb3e7e925.jpg",
-          "extra": {
-            "likes": 1603797,
-            "comments": 18355,
-            "views": null
-          }
-        },
-        {
-          "posicao": 3,
           "club": "Real Madrid",
           "handle": "realmadrid",
           "flag": "🇪🇸",
@@ -410,7 +376,7 @@
           }
         },
         {
-          "posicao": 4,
+          "posicao": 2,
           "club": "Real Madrid",
           "handle": "realmadrid",
           "flag": "🇪🇸",
@@ -427,7 +393,24 @@
           }
         },
         {
-          "posicao": 5,
+          "posicao": 3,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "620K",
+          "caption_clean": "VICTORY. @emirates",
+          "url": "https://www.instagram.com/p/DbyjDQYoIbB/",
+          "cover_url": "/covers/2d14bae8a21399fa.jpg",
+          "extra": {
+            "likes": 620317,
+            "comments": 1959,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
           "club": "Barcelona",
           "handle": "fcbarcelona",
           "flag": "🇪🇸",
@@ -444,24 +427,7 @@
           }
         },
         {
-          "posicao": 6,
-          "club": "Boca Juniors",
-          "handle": "bocajrs",
-          "flag": "🇦🇷",
-          "liga": "Argentina",
-          "metric_label": "Likes",
-          "metric_value": "512K",
-          "caption_clean": "El Club Atlético Boca Juniors lamenta con profundo dolor el fallecimiento de Jorge Messi. Acompañamos a su familia y seres queridos en este difícil momento, enviándoles nuestro abs…",
-          "url": "https://www.instagram.com/p/DbyPgsZOj0J/",
-          "cover_url": "/covers/ff84096637f828c0.jpg",
-          "extra": {
-            "likes": 512209,
-            "comments": 1075,
-            "views": null
-          }
-        },
-        {
-          "posicao": 7,
+          "posicao": 5,
           "club": "Barcelona",
           "handle": "fcbarcelona",
           "flag": "🇪🇸",
@@ -478,24 +444,7 @@
           }
         },
         {
-          "posicao": 8,
-          "club": "River Plate",
-          "handle": "riverplate",
-          "flag": "🇦🇷",
-          "liga": "Argentina",
-          "metric_label": "Likes",
-          "metric_value": "480K",
-          "caption_clean": "Ante la triste noticia del fallecimiento de su padre, Jorge Messi, River acompaña con afecto al capitán de la Selección Argentina y a toda su familia en este difícil momento. Fuerz…",
-          "url": "https://www.instagram.com/p/DbyIq83xu1D/",
-          "cover_url": "/covers/8311da688e02d54b.jpg",
-          "extra": {
-            "likes": 479876,
-            "comments": 2193,
-            "views": null
-          }
-        },
-        {
-          "posicao": 9,
+          "posicao": 6,
           "club": "Arsenal",
           "handle": "arsenal",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -512,24 +461,24 @@
           }
         },
         {
-          "posicao": 10,
-          "club": "Inter Miami",
-          "handle": "intermiamicf",
-          "flag": "🇺🇸",
-          "liga": "MLS",
+          "posicao": 7,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
           "metric_label": "Likes",
-          "metric_value": "427K",
-          "caption_clean": "Our hearts are with our captain, Leo, and the entire Messi family.",
-          "url": "https://www.instagram.com/p/DbyoXZ8x-LK/",
-          "cover_url": "/covers/d02a5c73774ea147.jpg",
+          "metric_value": "416K",
+          "caption_clean": "Intercanvi de samarretes entre el vicepresident Rafael Yuste i l’exblaugrana Gerard Deulofeu",
+          "url": "https://www.instagram.com/p/Dbyes3yjkjH/",
+          "cover_url": "/covers/213e2f6bf3bb12a6.jpg",
           "extra": {
-            "likes": 426692,
-            "comments": 2813,
+            "likes": 415706,
+            "comments": 371,
             "views": null
           }
         },
         {
-          "posicao": 11,
+          "posicao": 8,
           "club": "Arsenal",
           "handle": "arsenal",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -546,7 +495,7 @@
           }
         },
         {
-          "posicao": 12,
+          "posicao": 9,
           "club": "River Plate",
           "handle": "riverplate",
           "flag": "🇦🇷",
@@ -563,7 +512,7 @@
           }
         },
         {
-          "posicao": 13,
+          "posicao": 10,
           "club": "Manchester United",
           "handle": "manutd",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -580,7 +529,7 @@
           }
         },
         {
-          "posicao": 14,
+          "posicao": 11,
           "club": "Chelsea",
           "handle": "chelseafc",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -597,7 +546,7 @@
           }
         },
         {
-          "posicao": 15,
+          "posicao": 12,
           "club": "PSG",
           "handle": "psg",
           "flag": "🇫🇷",
@@ -614,7 +563,7 @@
           }
         },
         {
-          "posicao": 16,
+          "posicao": 13,
           "club": "Manchester United",
           "handle": "manutd",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -631,7 +580,7 @@
           }
         },
         {
-          "posicao": 17,
+          "posicao": 14,
           "club": "Fenerbahçe",
           "handle": "fenerbahce",
           "flag": "🇹🇷",
@@ -648,7 +597,7 @@
           }
         },
         {
-          "posicao": 18,
+          "posicao": 15,
           "club": "Fenerbahçe",
           "handle": "fenerbahce",
           "flag": "🇹🇷",
@@ -665,7 +614,7 @@
           }
         },
         {
-          "posicao": 19,
+          "posicao": 16,
           "club": "Arsenal",
           "handle": "arsenal",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -682,7 +631,7 @@
           }
         },
         {
-          "posicao": 20,
+          "posicao": 17,
           "club": "Palmeiras",
           "handle": "palmeiras",
           "flag": "🇧🇷",
@@ -695,6 +644,57 @@
           "extra": {
             "likes": 163310,
             "comments": 500,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Milan",
+          "handle": "acmilan",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "161K",
+          "caption_clean": "Matchday in Jakarta ️",
+          "url": "https://www.instagram.com/p/DbxMslgj4XK/",
+          "cover_url": "/covers/56bc1b4832863f90.jpg",
+          "extra": {
+            "likes": 161248,
+            "comments": 1824,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "152K",
+          "caption_clean": "What a performance!",
+          "url": "https://www.instagram.com/p/DbyCmL4DYqb/",
+          "cover_url": "/covers/6241e9500a983a9a.jpg",
+          "extra": {
+            "likes": 151931,
+            "comments": 3171,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "143K",
+          "caption_clean": "Youri in red for the first time",
+          "url": "https://www.instagram.com/p/DbyTnw4DCiJ/",
+          "cover_url": "/covers/38f99709bc98a088.jpg",
+          "extra": {
+            "likes": 143483,
+            "comments": 903,
             "views": null
           }
         }
@@ -1545,24 +1545,6 @@
         },
         {
           "posicao": 9,
-          "club": "Barcelona",
-          "handle": "fcbarcelona",
-          "flag": "🇪🇸",
-          "liga": "La Liga",
-          "metric_label": "ER",
-          "metric_value": "27.92%",
-          "caption_clean": "A minute of silence in memory of Jorge Messi, the father of Leo Messi. May he rest in peace.",
-          "url": "https://www.tiktok.com/@fcbarcelona/video/7671745089579928854",
-          "cover_url": "/covers/6b00d968fd28093f.jpg",
-          "extra": {
-            "likes": 1200000,
-            "comments": 4848,
-            "views": 4400000,
-            "shares": 23700
-          }
-        },
-        {
-          "posicao": 10,
           "club": "Flamengo",
           "handle": "flamengo",
           "flag": "🇧🇷",
@@ -1580,7 +1562,7 @@
           }
         },
         {
-          "posicao": 11,
+          "posicao": 10,
           "club": "Flamengo",
           "handle": "flamengo",
           "flag": "🇧🇷",
@@ -1598,7 +1580,7 @@
           }
         },
         {
-          "posicao": 12,
+          "posicao": 11,
           "club": "Grêmio",
           "handle": "gremio",
           "flag": "🇧🇷",
@@ -1616,7 +1598,7 @@
           }
         },
         {
-          "posicao": 13,
+          "posicao": 12,
           "club": "Manchester United",
           "handle": "manutd",
           "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -1631,6 +1613,24 @@
             "comments": 698,
             "views": 462000,
             "shares": 1050
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "25.91%",
+          "caption_clean": "Big Adeyemi fan on board ️ #fcbarcelona #barçaontiktok #adeyemi #tek",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671614972127923478",
+          "cover_url": "/covers/0e857465578e7349.jpg",
+          "extra": {
+            "likes": 455600,
+            "comments": 2776,
+            "views": 1800000,
+            "shares": 8049
           }
         },
         {
@@ -1773,24 +1773,6 @@
           "flag": "🇪🇸",
           "liga": "La Liga",
           "metric_label": "Likes",
-          "metric_value": "1.2M",
-          "caption_clean": "A minute of silence in memory of Jorge Messi, the father of Leo Messi. May he rest in peace.",
-          "url": "https://www.tiktok.com/@fcbarcelona/video/7671745089579928854",
-          "cover_url": "/covers/6b00d968fd28093f.jpg",
-          "extra": {
-            "likes": 1200000,
-            "comments": 4848,
-            "views": 4400000,
-            "shares": 23700
-          }
-        },
-        {
-          "posicao": 2,
-          "club": "Barcelona",
-          "handle": "fcbarcelona",
-          "flag": "🇪🇸",
-          "liga": "La Liga",
-          "metric_label": "Likes",
           "metric_value": "572K",
           "caption_clean": "First lineup of the night #fcbarcelona #barçaontiktok",
           "url": "https://www.tiktok.com/@fcbarcelona/video/7671744135484722454",
@@ -1803,7 +1785,7 @@
           }
         },
         {
-          "posicao": 3,
+          "posicao": 2,
           "club": "Barcelona",
           "handle": "fcbarcelona",
           "flag": "🇪🇸",
@@ -1818,6 +1800,24 @@
             "comments": 2771,
             "views": 2300000,
             "shares": 5694
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "456K",
+          "caption_clean": "Big Adeyemi fan on board ️ #fcbarcelona #barçaontiktok #adeyemi #tek",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671614972127923478",
+          "cover_url": "/covers/0e857465578e7349.jpg",
+          "extra": {
+            "likes": 455600,
+            "comments": 2776,
+            "views": 1800000,
+            "shares": 8049
           }
         },
         {
