@@ -1,0 +1,2135 @@
+{
+  "date": "2026-08-08",
+  "metodo": {
+    "reels": "er_followers",
+    "photos": "er_followers",
+    "tiktok": "ver_views"
+  },
+  "carousels": [
+    {
+      "kind": "photos",
+      "ranking": "er",
+      "slot_time": "10:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "5.27%",
+          "caption_clean": "Ante la triste noticia del fallecimiento de su padre, Jorge Messi, River acompaña con afecto al capitán de la Selección Argentina y a toda su familia en este difícil momento. Fuerz…",
+          "url": "https://www.instagram.com/p/DbyIq83xu1D/",
+          "cover_url": "/covers/8311da688e02d54b.jpg",
+          "extra": {
+            "likes": 479876,
+            "comments": 2193,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Boca Juniors",
+          "handle": "bocajrs",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "4.94%",
+          "caption_clean": "El Club Atlético Boca Juniors lamenta con profundo dolor el fallecimiento de Jorge Messi. Acompañamos a su familia y seres queridos en este difícil momento, enviándoles nuestro abs…",
+          "url": "https://www.instagram.com/p/DbyPgsZOj0J/",
+          "cover_url": "/covers/ff84096637f828c0.jpg",
+          "extra": {
+            "likes": 512209,
+            "comments": 1075,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "LA Galaxy",
+          "handle": "lagalaxy",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "ER",
+          "metric_value": "4.78%",
+          "caption_clean": "Sergi Roberto is a G. We have signed midfielder Sergi Roberto as a free agent through June 30, 2028, with an option for the 2028-2029 season.",
+          "url": "https://www.instagram.com/p/DbyRY8bOGJl/",
+          "cover_url": "/covers/8cf805e43977874d.jpg",
+          "extra": {
+            "likes": 71763,
+            "comments": 267,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "3.01%",
+          "caption_clean": "ATÉ JÁ COMEMORO! #GRExSAO #Brasileirão2026",
+          "url": "https://www.instagram.com/p/Dby32rYhN1B/",
+          "cover_url": "/covers/e4438e0b63f3f409.jpg",
+          "extra": {
+            "likes": 109564,
+            "comments": 1112,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "2.68%",
+          "caption_clean": "COMUNICADO OFICIAL River Plate acordó con Atlético de Madrid la transferencia definitiva del jugador Thiago Almada. El futbolista viajará en las próximas horas al país para sumarse…",
+          "url": "https://www.instagram.com/p/Dbx6469RDFP/",
+          "cover_url": "/covers/7ae206d70c9c9cf7.jpg",
+          "extra": {
+            "likes": 241804,
+            "comments": 3555,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "2.57%",
+          "caption_clean": "¡Vamos por esa final!",
+          "url": "https://www.instagram.com/p/DbxOKsXlUhM/",
+          "cover_url": "/covers/ff74cd0e243f5803.jpg",
+          "extra": {
+            "likes": 123584,
+            "comments": 121,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Inter Miami",
+          "handle": "intermiamicf",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "ER",
+          "metric_value": "2.31%",
+          "caption_clean": "Our hearts are with our captain, Leo, and the entire Messi family.",
+          "url": "https://www.instagram.com/p/DbyoXZ8x-LK/",
+          "cover_url": "/covers/d02a5c73774ea147.jpg",
+          "extra": {
+            "likes": 426692,
+            "comments": 2813,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "2.14%",
+          "caption_clean": "Um Novo Dia, Um Novo Desafio! Amanhã, às 16h, no Nubank Parque! Contamos com você, #FamíliaPalmeiras! ️",
+          "url": "https://www.instagram.com/p/Dby_nH5jKJU/",
+          "cover_url": "/covers/e7f1f198029f80ba.jpg",
+          "extra": {
+            "likes": 163310,
+            "comments": 500,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "2.07%",
+          "caption_clean": "¡Seguimos dominando el partido! ¡A seguir así hasta obtener esa ventaja!",
+          "url": "https://www.instagram.com/p/DbzTF4GxW1M/",
+          "cover_url": "/covers/e02b61718f47282c.jpg",
+          "extra": {
+            "likes": 99295,
+            "comments": 398,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "2.04%",
+          "caption_clean": "El nostre més sentit condol. Descansi en pau, Jorge Messi. Our deepest condolences. May Jorge Messi rest in peace. Nuestro más sentido pésame. Descanse en paz, Jorge Messi.",
+          "url": "https://www.instagram.com/p/DbyLS2PjJLD/",
+          "cover_url": "/covers/6698a7e7da51c4a6.jpg",
+          "extra": {
+            "likes": 2995447,
+            "comments": 15061,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Newcastle",
+          "handle": "nufc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "1.92%",
+          "caption_clean": "“I will always be proud to have been part of this club’s journey.” We can announce that Bruno Guimarães has joined Arsenal for an undisclosed fee. He departs after making 195 appea…",
+          "url": "https://www.instagram.com/p/DbxtOBqDcNs/",
+          "cover_url": "/covers/c459e66e9ac46fa0.jpg",
+          "extra": {
+            "likes": 69873,
+            "comments": 1615,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.82%",
+          "caption_clean": "ISSO É SER GRÊMIO!!! #Grêmio 2x1 São Paulo Embalados pelas mais de 34 mil vozes gremistas na Arena e jogando com a Aura Gremista até o último minuto, vencemos o São Paulo de virada…",
+          "url": "https://www.instagram.com/p/DbyyAPRASfQ/",
+          "cover_url": "/covers/6ed1752deab31591.jpg",
+          "extra": {
+            "likes": 64660,
+            "comments": 2184,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "1.61%",
+          "caption_clean": "Nuestros muchachos clasificaron a @miseleccionsubs a los Juegos Olímpicos 2028",
+          "url": "https://www.instagram.com/p/DbxNFu6lFyY/",
+          "cover_url": "/covers/ec5fb65320f775f1.jpg",
+          "extra": {
+            "likes": 77687,
+            "comments": 69,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "ER",
+          "metric_value": "1.55%",
+          "caption_clean": "All for this badge.",
+          "url": "https://www.instagram.com/p/Dbx7oMZNjYs/",
+          "cover_url": "/covers/f51bed6be8e70be2.jpg",
+          "extra": {
+            "likes": 180790,
+            "comments": 1824,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "ER",
+          "metric_value": "1.53%",
+          "caption_clean": "Sturm Graz maçı hazırlıklarımıza devam ediyoruz.",
+          "url": "https://www.instagram.com/p/DbycbdHjMtZ/",
+          "cover_url": "/covers/af66da092061db8a.jpg",
+          "extra": {
+            "likes": 177141,
+            "comments": 2712,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.39%",
+          "caption_clean": "Nossa história inspira. Nossas estrelas guiam. ⭐ Chegou a nova terceira camisa do Cruzeiro. Garanta a sua nas lojas físicas do Cruzeiro ou pelo site loja.cruzeiro.com.br! #GuiadosP…",
+          "url": "https://www.instagram.com/p/DbygcTEGzZC/",
+          "cover_url": "/covers/248997292eed2ef6.jpg",
+          "extra": {
+            "likes": 50011,
+            "comments": 261,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "1.37%",
+          "caption_clean": "Our warrior. Welcome to The Arsenal, Bruno Guimaraes",
+          "url": "https://www.instagram.com/p/DbxvaKCOmMS/",
+          "cover_url": "/covers/c8e079c53d0907f7.jpg",
+          "extra": {
+            "likes": 438316,
+            "comments": 4125,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Cruzeiro",
+          "handle": "cruzeiro",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.33%",
+          "caption_clean": "Domingo de Mineirão LOTADO! Os ingressos para a partida contra o Mirassol estão esgotados!! #CRUxMFC #PáginasHeroicas",
+          "url": "https://www.instagram.com/p/DbzF-uaNBnU/",
+          "cover_url": "/covers/5f1c36291997a78d.jpg",
+          "extra": {
+            "likes": 46901,
+            "comments": 1013,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Club América",
+          "handle": "clubamerica",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "1.27%",
+          "caption_clean": "Rodrigo Dourado fue cedido a préstamo. ¡Te deseamos mucho éxito en este nuevo reto!",
+          "url": "https://www.instagram.com/p/DbynSIIAnKx/",
+          "cover_url": "/covers/1ee493edcd7f48f3.jpg",
+          "extra": {
+            "likes": 80467,
+            "comments": 703,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "ER",
+          "metric_value": "1.26%",
+          "caption_clean": "¡HOY JUEGA RIVER! ️️",
+          "url": "https://www.instagram.com/p/Dbw2XeoDvCA/",
+          "cover_url": "/covers/5230cb3dbcb87a42.jpg",
+          "extra": {
+            "likes": 112889,
+            "comments": 2051,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "photos",
+      "ranking": "likes",
+      "slot_time": "14:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "3.0M",
+          "caption_clean": "El nostre més sentit condol. Descansi en pau, Jorge Messi. Our deepest condolences. May Jorge Messi rest in peace. Nuestro más sentido pésame. Descanse en paz, Jorge Messi.",
+          "url": "https://www.instagram.com/p/DbyLS2PjJLD/",
+          "cover_url": "/covers/6698a7e7da51c4a6.jpg",
+          "extra": {
+            "likes": 2995447,
+            "comments": 15061,
+            "views": null
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "1.6M",
+          "caption_clean": "COMUNICADO OFICIAL El Real Madrid C. F., su presidente y su Junta Directiva lamentan profundamente el fallecimiento de Jorge Messi, padre de Leo Messi. Nuestro club quiere mostrar…",
+          "url": "https://www.instagram.com/p/DbyKYZ0IMrY/",
+          "cover_url": "/covers/565c8e5bb3e7e925.jpg",
+          "extra": {
+            "likes": 1603797,
+            "comments": 18355,
+            "views": null
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "1.1M",
+          "caption_clean": "HALA MADRID",
+          "url": "https://www.instagram.com/p/DbyYjCkiBFz/",
+          "cover_url": "/covers/51a0d54eb7e5609c.jpg",
+          "extra": {
+            "likes": 1071488,
+            "comments": 1793,
+            "views": null
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "762K",
+          "caption_clean": "VINI JR. 7️⃣",
+          "url": "https://www.instagram.com/p/DbylL4xo9LS/",
+          "cover_url": "/covers/2ab9a4d42e8617ff.jpg",
+          "extra": {
+            "likes": 761872,
+            "comments": 2613,
+            "views": null
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "563K",
+          "caption_clean": "Dia de partit per partida doble ️",
+          "url": "https://www.instagram.com/p/DbxbgAsul8l/",
+          "cover_url": "/covers/11c8919b62836bba.jpg",
+          "extra": {
+            "likes": 562719,
+            "comments": 1233,
+            "views": null
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Boca Juniors",
+          "handle": "bocajrs",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "512K",
+          "caption_clean": "El Club Atlético Boca Juniors lamenta con profundo dolor el fallecimiento de Jorge Messi. Acompañamos a su familia y seres queridos en este difícil momento, enviándoles nuestro abs…",
+          "url": "https://www.instagram.com/p/DbyPgsZOj0J/",
+          "cover_url": "/covers/ff84096637f828c0.jpg",
+          "extra": {
+            "likes": 512209,
+            "comments": 1075,
+            "views": null
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "497K",
+          "caption_clean": "Game two, blaugrana edition ️",
+          "url": "https://www.instagram.com/p/DbyxuwKDoFn/",
+          "cover_url": "/covers/549cf1bb2cb66239.jpg",
+          "extra": {
+            "likes": 496990,
+            "comments": 667,
+            "views": null
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "480K",
+          "caption_clean": "Ante la triste noticia del fallecimiento de su padre, Jorge Messi, River acompaña con afecto al capitán de la Selección Argentina y a toda su familia en este difícil momento. Fuerz…",
+          "url": "https://www.instagram.com/p/DbyIq83xu1D/",
+          "cover_url": "/covers/8311da688e02d54b.jpg",
+          "extra": {
+            "likes": 479876,
+            "comments": 2193,
+            "views": null
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "438K",
+          "caption_clean": "Our warrior. Welcome to The Arsenal, Bruno Guimaraes",
+          "url": "https://www.instagram.com/p/DbxvaKCOmMS/",
+          "cover_url": "/covers/c8e079c53d0907f7.jpg",
+          "extra": {
+            "likes": 438316,
+            "comments": 4125,
+            "views": null
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Inter Miami",
+          "handle": "intermiamicf",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "Likes",
+          "metric_value": "427K",
+          "caption_clean": "Our hearts are with our captain, Leo, and the entire Messi family.",
+          "url": "https://www.instagram.com/p/DbyoXZ8x-LK/",
+          "cover_url": "/covers/d02a5c73774ea147.jpg",
+          "extra": {
+            "likes": 426692,
+            "comments": 2813,
+            "views": null
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "369K",
+          "caption_clean": "Another Premier League powerhouse puts pen to paper",
+          "url": "https://www.instagram.com/p/DbxwpWiDh72/",
+          "cover_url": "/covers/65fcac433353b44d.jpg",
+          "extra": {
+            "likes": 368558,
+            "comments": 2523,
+            "views": null
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "River Plate",
+          "handle": "riverplate",
+          "flag": "🇦🇷",
+          "liga": "Argentina",
+          "metric_label": "Likes",
+          "metric_value": "242K",
+          "caption_clean": "COMUNICADO OFICIAL River Plate acordó con Atlético de Madrid la transferencia definitiva del jugador Thiago Almada. El futbolista viajará en las próximas horas al país para sumarse…",
+          "url": "https://www.instagram.com/p/Dbx6469RDFP/",
+          "cover_url": "/covers/7ae206d70c9c9cf7.jpg",
+          "extra": {
+            "likes": 241804,
+            "comments": 3555,
+            "views": null
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "203K",
+          "caption_clean": "Model professional. Popular member of our Academy. First-team ready. Thank you for everything over the last six years and good luck, Radek ️",
+          "url": "https://www.instagram.com/p/Dbxfr4Bm6U5/",
+          "cover_url": "/covers/30e450f838b3bca6.jpg",
+          "extra": {
+            "likes": 202895,
+            "comments": 645,
+            "views": null
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "203K",
+          "caption_clean": "Out and about in Jakarta. ️",
+          "url": "https://www.instagram.com/p/DbxirieE_Zd/",
+          "cover_url": "/covers/676ebf0c9b13df7a.jpg",
+          "extra": {
+            "likes": 202604,
+            "comments": 2288,
+            "views": null
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "PSG",
+          "handle": "psg",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "Likes",
+          "metric_value": "189K",
+          "caption_clean": "Our second pre-season game ends in a draw. Up next: the UEFA Super Cup. ️",
+          "url": "https://www.instagram.com/p/DbyVcbON2Z8/",
+          "cover_url": "/covers/971649f9cd946ec9.jpg",
+          "extra": {
+            "likes": 188657,
+            "comments": 587,
+            "views": null
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "187K",
+          "caption_clean": "Solid workout, Reds",
+          "url": "https://www.instagram.com/p/DbyVb_tF7Y-/",
+          "cover_url": "/covers/d66da4b2b1019a7f.jpg",
+          "extra": {
+            "likes": 187226,
+            "comments": 2691,
+            "views": null
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "Likes",
+          "metric_value": "181K",
+          "caption_clean": "All for this badge.",
+          "url": "https://www.instagram.com/p/Dbx7oMZNjYs/",
+          "cover_url": "/covers/f51bed6be8e70be2.jpg",
+          "extra": {
+            "likes": 180790,
+            "comments": 1824,
+            "views": null
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Fenerbahçe",
+          "handle": "fenerbahce",
+          "flag": "🇹🇷",
+          "liga": "Süper Lig",
+          "metric_label": "Likes",
+          "metric_value": "177K",
+          "caption_clean": "Sturm Graz maçı hazırlıklarımıza devam ediyoruz.",
+          "url": "https://www.instagram.com/p/DbycbdHjMtZ/",
+          "cover_url": "/covers/af66da092061db8a.jpg",
+          "extra": {
+            "likes": 177141,
+            "comments": 2712,
+            "views": null
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "168K",
+          "caption_clean": "Day one at The Arsenal",
+          "url": "https://www.instagram.com/p/DbydR2GASPZ/",
+          "cover_url": "/covers/3e2618102d7baabc.jpg",
+          "extra": {
+            "likes": 168174,
+            "comments": 447,
+            "views": null
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Palmeiras",
+          "handle": "palmeiras",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "163K",
+          "caption_clean": "Um Novo Dia, Um Novo Desafio! Amanhã, às 16h, no Nubank Parque! Contamos com você, #FamíliaPalmeiras! ️",
+          "url": "https://www.instagram.com/p/Dby_nH5jKJU/",
+          "cover_url": "/covers/e7f1f198029f80ba.jpg",
+          "extra": {
+            "likes": 163310,
+            "comments": 500,
+            "views": null
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "er",
+      "slot_time": "12:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "LA Galaxy",
+          "handle": "lagalaxy",
+          "flag": "🇺🇸",
+          "liga": "MLS",
+          "metric_label": "ER",
+          "metric_value": "2.49%",
+          "caption_clean": "Welcome to Los Ángeles, @sergiroberto",
+          "url": "https://www.instagram.com/p/DbyPY-NulwX/",
+          "cover_url": "/covers/ea70223f3dccb124.jpg",
+          "extra": {
+            "likes": 37229,
+            "comments": 307,
+            "views": 636812
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "2.34%",
+          "caption_clean": "A force of nature. Guimaraes is a Gunner ️",
+          "url": "https://www.instagram.com/p/Dbxsyo9uWHv/",
+          "cover_url": "/covers/16040d476e39f5cf.jpg",
+          "extra": {
+            "likes": 743068,
+            "comments": 15000,
+            "views": 10735396
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Brighton",
+          "handle": "officialbhafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "2.12%",
+          "caption_clean": "Zadok’s debut for Albion!",
+          "url": "https://www.instagram.com/p/DbyQW6yth3-/",
+          "cover_url": "/covers/7245e46b922879de.jpg",
+          "extra": {
+            "likes": 43788,
+            "comments": 811,
+            "views": 468163
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.71%",
+          "caption_clean": "PRIMEIRO GOL DO WALLACE COM O MANTO TRICOLOR! ️ #GRExSAO #Brasileirão2026",
+          "url": "https://www.instagram.com/p/Dby0EJzByfk/",
+          "cover_url": "/covers/0749494486cc05ec.jpg",
+          "extra": {
+            "likes": 60854,
+            "comments": 1901,
+            "views": 585035
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Santos",
+          "handle": "santosfc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.69%",
+          "caption_clean": "AQUI É SANTOS, P@%&! Acesse sociorei.com, compareça à bilheteria ou acesse o Santos APP para garantir seu ingresso.",
+          "url": "https://www.instagram.com/p/DbyHG2lRLkD/",
+          "cover_url": "/covers/1943073ee8abf212.jpg",
+          "extra": {
+            "likes": 140494,
+            "comments": 1756,
+            "views": 9278969
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Botafogo",
+          "handle": "botafogo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.36%",
+          "caption_clean": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOLLLLLLLLLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAÇOOOOOOOOOOO DOOOO BOOOOOOOOOOOOOTAAAAAAAAAAAFOOOOOOOOGOOOOOOOOOOOOOOOOOOOOOO ALEX TELLES ABRE O P…",
+          "url": "https://www.instagram.com/p/DbzLiHsRk6N/",
+          "cover_url": "/covers/68c86d336b633d95.jpg",
+          "extra": {
+            "likes": 25690,
+            "comments": 1962,
+            "views": 220644
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.32%",
+          "caption_clean": "SIMPLESMENTE: PAVON!!! #GRExSAO #Brasileirão2026",
+          "url": "https://www.instagram.com/p/Dby-KwVpDpy/",
+          "cover_url": "/covers/c131e425227ffcbf.jpg",
+          "extra": {
+            "likes": 47944,
+            "comments": 498,
+            "views": 629481
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Botafogo",
+          "handle": "botafogo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.24%",
+          "caption_clean": "Ídolo do BOTAFOGO, Alex Telles recebe a placa de homenagem pelos 1️⃣0️⃣0️⃣ jogos das mãos de Léo Coelho, Diretor de Futebol, e celebra com a família. VOCÊ É EXEMPLO, CAPITÃO! #oÍdo…",
+          "url": "https://www.instagram.com/p/DbzCfnIxsnD/",
+          "cover_url": "/covers/b72850715120f42d.jpg",
+          "extra": {
+            "likes": 24728,
+            "comments": 608,
+            "views": 196706
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "1.16%",
+          "caption_clean": "",
+          "url": "https://www.instagram.com/p/DbyEyJvMcrw/",
+          "cover_url": "/covers/826134ec42ee2b97.jpg",
+          "extra": {
+            "likes": 501880,
+            "comments": 9229,
+            "views": 5497550
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Santos",
+          "handle": "santosfc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.07%",
+          "caption_clean": "Show de fofura da princesa Mavie!",
+          "url": "https://www.instagram.com/p/DbzJ_esx2nQ/",
+          "cover_url": "/covers/31962c1852b53ea8.jpg",
+          "extra": {
+            "likes": 89739,
+            "comments": 451,
+            "views": 1068197
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "1.07%",
+          "caption_clean": "Um adm em cada canto pra registrar a festa! #GRExSAO #Brasileirão2026",
+          "url": "https://www.instagram.com/p/Dby7gDXJ_tm/",
+          "cover_url": "/covers/f45d7aee9c8b22b1.jpg",
+          "extra": {
+            "likes": 38832,
+            "comments": 370,
+            "views": 551141
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "1.02%",
+          "caption_clean": "Get to know Bruno Guimaraes in Quickfire Questions Dogs’ names ️ Spoken languages Favourite-ever Brazilian player",
+          "url": "https://www.instagram.com/p/Dbx7AskxvFF/",
+          "cover_url": "/covers/3e190a7ff453f254.jpg",
+          "extra": {
+            "likes": 326518,
+            "comments": 3124,
+            "views": 3233755
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Atlético Madrid",
+          "handle": "atleticodemadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "1.01%",
+          "caption_clean": "Gracias, Guayo",
+          "url": "https://www.instagram.com/p/Dbx-SULoJQD/",
+          "cover_url": "/covers/6b3d448964a26907.jpg",
+          "extra": {
+            "likes": 179071,
+            "comments": 1870,
+            "views": 2513302
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Newcastle",
+          "handle": "nufc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "0.94%",
+          "caption_clean": "A birthday present for @malick.laye",
+          "url": "https://www.instagram.com/p/Dby1x-vt5-q/",
+          "cover_url": "/covers/35e03a6893ae0a1b.jpg",
+          "extra": {
+            "likes": 34842,
+            "comments": 200,
+            "views": 614420
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Eintracht Frankfurt",
+          "handle": "eintrachtfrankfurt",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "ER",
+          "metric_value": "0.90%",
+          "caption_clean": "Überragender Ball von Kaua, eiskalt verwandelt von Jonny! Die zweite Hälfte seht Ihr live auf EintrachtTV+",
+          "url": "https://www.instagram.com/p/DbyCcbrsFGq/",
+          "cover_url": "/covers/fe984aff0042abde.jpg",
+          "extra": {
+            "likes": 12218,
+            "comments": 65,
+            "views": 487935
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "0.90%",
+          "caption_clean": "¡ARRIBA LAS CHIVAAAAAS!",
+          "url": "https://www.instagram.com/p/DbzOGoKxa8O/",
+          "cover_url": "/covers/b1171523c0f0a366.jpg",
+          "extra": {
+            "likes": 43099,
+            "comments": 103,
+            "views": 605911
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "0.87%",
+          "caption_clean": "¡Dale, Rebaño!",
+          "url": "https://www.instagram.com/p/DbzLRZvxYlB/",
+          "cover_url": "/covers/087276b785ea5386.jpg",
+          "extra": {
+            "likes": 41919,
+            "comments": 118,
+            "views": 505427
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Internacional",
+          "handle": "scinternacional",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.81%",
+          "caption_clean": "O ADM partindo pro #sextou depois de publicar os Bastidores. Acesse o link nos stories e confira todos os detalhes da classificação colorada na Copa do Brasil.",
+          "url": "https://www.instagram.com/p/Dbw_Av7AOOP/",
+          "cover_url": "/covers/5b95295573edf4b1.jpg",
+          "extra": {
+            "likes": 19280,
+            "comments": 149,
+            "views": 464330
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Atlético-MG",
+          "handle": "atletico",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "0.81%",
+          "caption_clean": "⏱️ 37‘- GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOLLL DO GAAAAAAALLLLOOOOOOOOOOOOOOOOOOOOOOOOOOOOO! VIRA VIROU! BERNARD! #GALO! #VamoGalo#REMxC…",
+          "url": "https://www.instagram.com/p/Dby5y3uDduC/",
+          "cover_url": "/covers/5de5fd1b866b7c18.jpg",
+          "extra": {
+            "likes": 27234,
+            "comments": 655,
+            "views": 531514
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "0.78%",
+          "caption_clean": "¡LLEGÓ EL REBAÑO SAGRADO!",
+          "url": "https://www.instagram.com/p/DbzEk5PRtJl/",
+          "cover_url": "/covers/03ed3d29533b7de0.jpg",
+          "extra": {
+            "likes": 37531,
+            "comments": 276,
+            "views": 407619
+          }
+        }
+      ]
+    },
+    {
+      "kind": "reels",
+      "ranking": "likes",
+      "slot_time": "16:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "743K",
+          "caption_clean": "A force of nature. Guimaraes is a Gunner ️",
+          "url": "https://www.instagram.com/p/Dbxsyo9uWHv/",
+          "cover_url": "/covers/16040d476e39f5cf.jpg",
+          "extra": {
+            "likes": 743068,
+            "comments": 15000,
+            "views": 10735396
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "570K",
+          "caption_clean": "Rapha leads the way in the first game of the night for Barça",
+          "url": "https://www.instagram.com/p/DbytDyKuAyk/",
+          "cover_url": "/covers/83ac4487b55c56fb.jpg",
+          "extra": {
+            "likes": 570404,
+            "comments": 1210,
+            "views": 9470144
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "502K",
+          "caption_clean": "",
+          "url": "https://www.instagram.com/p/DbyEyJvMcrw/",
+          "cover_url": "/covers/826134ec42ee2b97.jpg",
+          "extra": {
+            "likes": 501880,
+            "comments": 9229,
+            "views": 5497550
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "327K",
+          "caption_clean": "Get to know Bruno Guimaraes in Quickfire Questions Dogs’ names ️ Spoken languages Favourite-ever Brazilian player",
+          "url": "https://www.instagram.com/p/Dbx7AskxvFF/",
+          "cover_url": "/covers/3e190a7ff453f254.jpg",
+          "extra": {
+            "likes": 326518,
+            "comments": 3124,
+            "views": 3233755
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "317K",
+          "caption_clean": "A lifetime memory! ️ ¡Un gol que recordará toda su vida!",
+          "url": "https://www.instagram.com/p/DbyjT_EoScb/",
+          "cover_url": "/covers/f71f6e533e80c3a6.jpg",
+          "extra": {
+            "likes": 316658,
+            "comments": 572,
+            "views": 9844899
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "263K",
+          "caption_clean": "OUTRAGEOUS",
+          "url": "https://www.instagram.com/p/DbyB9grgg8p/",
+          "cover_url": "/covers/d4df52ce96ff22f4.jpg",
+          "extra": {
+            "likes": 262955,
+            "comments": 2205,
+            "views": 3209458
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "256K",
+          "caption_clean": "Tidy TielemansTM️",
+          "url": "https://www.instagram.com/p/DbyxWTkClRk/",
+          "cover_url": "/covers/087ca9a2af5daace.jpg",
+          "extra": {
+            "likes": 256109,
+            "comments": 1310,
+            "views": 3683137
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "236K",
+          "caption_clean": "Thank you, Indonesia!",
+          "url": "https://www.instagram.com/p/DbyGs64s45w/",
+          "cover_url": "/covers/b5a54de35f396094.jpg",
+          "extra": {
+            "likes": 236030,
+            "comments": 2790,
+            "views": 1920548
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "204K",
+          "caption_clean": "Los días que tú juegas...",
+          "url": "https://www.instagram.com/p/DbyYMG-oSbL/",
+          "cover_url": "/covers/e04e1a9f62e1f295.jpg",
+          "extra": {
+            "likes": 204128,
+            "comments": 466,
+            "views": 7332939
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "182K",
+          "caption_clean": "Making it official Shot on Google Pixel",
+          "url": "https://www.instagram.com/p/DbyWdCwxqkn/",
+          "cover_url": "/covers/a8241b317a011255.jpg",
+          "extra": {
+            "likes": 182365,
+            "comments": 1249,
+            "views": 1740051
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Atlético Madrid",
+          "handle": "atleticodemadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "179K",
+          "caption_clean": "Gracias, Guayo",
+          "url": "https://www.instagram.com/p/Dbx-SULoJQD/",
+          "cover_url": "/covers/6b3d448964a26907.jpg",
+          "extra": {
+            "likes": 179071,
+            "comments": 1870,
+            "views": 2513302
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "160K",
+          "caption_clean": "Watch the game LIVE on MUTV",
+          "url": "https://www.instagram.com/p/DbyNDFjAL-D/",
+          "cover_url": "/covers/7bad2380bc1ae9a1.jpg",
+          "extra": {
+            "likes": 159720,
+            "comments": 901,
+            "views": 3995506
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "147K",
+          "caption_clean": "Harry finds Bryan who comes close ️ Watch the game LIVE on MUTV",
+          "url": "https://www.instagram.com/p/DbyRfpxAfxT/",
+          "cover_url": "/covers/22375082345342c7.jpg",
+          "extra": {
+            "likes": 147005,
+            "comments": 525,
+            "views": 4676429
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Santos",
+          "handle": "santosfc",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "Likes",
+          "metric_value": "140K",
+          "caption_clean": "AQUI É SANTOS, P@%&! Acesse sociorei.com, compareça à bilheteria ou acesse o Santos APP para garantir seu ingresso.",
+          "url": "https://www.instagram.com/p/DbyHG2lRLkD/",
+          "cover_url": "/covers/1943073ee8abf212.jpg",
+          "extra": {
+            "likes": 140494,
+            "comments": 1756,
+            "views": 9278969
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Juventus",
+          "handle": "juventus",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "130K",
+          "caption_clean": "He’s officially !",
+          "url": "https://www.instagram.com/p/Dbx15E6oyp1/",
+          "cover_url": "/covers/328a8748085ae3da.jpg",
+          "extra": {
+            "likes": 129610,
+            "comments": 675,
+            "views": 3814403
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "128K",
+          "caption_clean": "VAMOS",
+          "url": "https://www.instagram.com/p/DbyVGhloKEI/",
+          "cover_url": "/covers/851b975a1293bd44.jpg",
+          "extra": {
+            "likes": 128081,
+            "comments": 434,
+            "views": 6074561
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Milan",
+          "handle": "acmilan",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "120K",
+          "caption_clean": "Milanisti Indonesia, you’re simply incredible",
+          "url": "https://www.instagram.com/p/Dbxzt3rvmLm/",
+          "cover_url": "/covers/51aa00b3ca06be40.jpg",
+          "extra": {
+            "likes": 120422,
+            "comments": 2602,
+            "views": 1398585
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "PSG",
+          "handle": "psg",
+          "flag": "🇫🇷",
+          "liga": "Ligue 1",
+          "metric_label": "Likes",
+          "metric_value": "119K",
+          "caption_clean": "Teamwork ️",
+          "url": "https://www.instagram.com/p/DbymC7YtXYh/",
+          "cover_url": "/covers/4fc0744f109ed4e5.jpg",
+          "extra": {
+            "likes": 118956,
+            "comments": 378,
+            "views": 2622462
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Juventus",
+          "handle": "juventus",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "95K",
+          "caption_clean": "Who remembers this link-up play? We do! #JuveInter",
+          "url": "https://www.instagram.com/p/Dbxh5OsoKGE/",
+          "cover_url": "/covers/5024d85a9bc46788.jpg",
+          "extra": {
+            "likes": 94641,
+            "comments": 295,
+            "views": 3245814
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Inter de Milão",
+          "handle": "inter",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "92K",
+          "caption_clean": "Enjoy the magic",
+          "url": "https://www.instagram.com/p/Dbx8zjwAc-m/",
+          "cover_url": "/covers/4b503f32a3797067.jpg",
+          "extra": {
+            "likes": 91877,
+            "comments": 618,
+            "views": 1491179
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "er",
+      "slot_time": "18:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "33.02%",
+          "caption_clean": "Llegaron las Chivas",
+          "url": "https://www.tiktok.com/@chivas/video/7671815453689302280",
+          "cover_url": "/covers/9be1969ea509fc4a.jpg",
+          "extra": {
+            "likes": 100300,
+            "comments": 1364,
+            "views": 312300,
+            "shares": 1452
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "ER",
+          "metric_value": "32.74%",
+          "caption_clean": "Al que me pida mi gorra mañana se la regalo",
+          "url": "https://www.tiktok.com/@chivas/video/7671539211119365383",
+          "cover_url": "/covers/c3349344391ec1ea.jpg",
+          "extra": {
+            "likes": 150100,
+            "comments": 852,
+            "views": 470700,
+            "shares": 3160
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "31.71%",
+          "caption_clean": "Bruno has a message for you, Gooners ️ #afc #arsenal #brunoguimaraes",
+          "url": "https://www.tiktok.com/@arsenal/video/7671691337040776480",
+          "cover_url": "/covers/eab351bf8458bd0f.jpg",
+          "extra": {
+            "likes": 187500,
+            "comments": 2646,
+            "views": 614000,
+            "shares": 4526
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "30.03%",
+          "caption_clean": "Your fave team has arrived #fcbarcelona #barçaontiktok",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671723907396685078",
+          "cover_url": "/covers/3e722fd6485264d9.jpg",
+          "extra": {
+            "likes": 158500,
+            "comments": 1225,
+            "views": 533500,
+            "shares": 479
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "29.49%",
+          "caption_clean": "Making it official Shot on Google Pixel #afc #arsenal #brunoguimaraes",
+          "url": "https://www.tiktok.com/@arsenal/video/7671706791767575840",
+          "cover_url": "/covers/266abb3cd9d21854.jpg",
+          "extra": {
+            "likes": 185100,
+            "comments": 1646,
+            "views": 646600,
+            "shares": 3931
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "28.71%",
+          "caption_clean": "Fermín cam #fcbarcelona #barçaontiktok",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671735958437580035",
+          "cover_url": "/covers/eb0c7e6ff1764ba7.jpg",
+          "extra": {
+            "likes": 268400,
+            "comments": 1697,
+            "views": 944400,
+            "shares": 1031
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "28.10%",
+          "caption_clean": "The Scandinavian leg of pre-season is complete Thank you for your support!",
+          "url": "https://www.tiktok.com/@manutd/video/7671708076122131734",
+          "cover_url": "/covers/aaf3bbae2cf03193.jpg",
+          "extra": {
+            "likes": 229400,
+            "comments": 1339,
+            "views": 828100,
+            "shares": 1921
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "27.94%",
+          "caption_clean": "“I’m here to play like a warrior – I’ll never give up.” EXCLUSIVE INTERVIEW: Bruno Guimaraes is here to bring the fight ️ Watch now on Arsenal.com and The Arsenal App #afc #arsenal…",
+          "url": "https://www.tiktok.com/@arsenal/video/7671629846740487457",
+          "cover_url": "/covers/00ee654e64f1038b.jpg",
+          "extra": {
+            "likes": 216800,
+            "comments": 2412,
+            "views": 810900,
+            "shares": 7386
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "27.92%",
+          "caption_clean": "A minute of silence in memory of Jorge Messi, the father of Leo Messi. May he rest in peace.",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671745089579928854",
+          "cover_url": "/covers/6b00d968fd28093f.jpg",
+          "extra": {
+            "likes": 1200000,
+            "comments": 4848,
+            "views": 4400000,
+            "shares": 23700
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "27.48%",
+          "caption_clean": "Somos o Clube de Regatas do Flamengo. Amanhã é dia de encher o Maraca e buscar os três pontos! #flamengo #edit #fy #futebol",
+          "url": "https://www.tiktok.com/@flamengo/video/7671799286589476117",
+          "cover_url": "/covers/a8f14dbc74b8cc4b.jpg",
+          "extra": {
+            "likes": 21400,
+            "comments": 258,
+            "views": 81000,
+            "shares": 600
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Flamengo",
+          "handle": "flamengo",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "27.27%",
+          "caption_clean": "O HEXA VEIO! Bora acompanhar o resumão do que rolou ontem no Brasileiro de Ginástica pelas lentes da #FlamengoTV! #FlaGinástica",
+          "url": "https://www.tiktok.com/@flamengo/video/7671660767858511124",
+          "cover_url": "/covers/1f272a032072310a.jpg",
+          "extra": {
+            "likes": 33500,
+            "comments": 186,
+            "views": 125500,
+            "shares": 539
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "26.76%",
+          "caption_clean": "SIMPLESMENTE: PAVON!!! #GRExSAO #Brasileirão2026",
+          "url": "https://www.tiktok.com/@gremio/video/7671796480172231943",
+          "cover_url": "/covers/670ebf035f31efe1.jpg",
+          "extra": {
+            "likes": 18100,
+            "comments": 107,
+            "views": 73400,
+            "shares": 1434
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "26.07%",
+          "caption_clean": "Getting some fresh air in the lungs",
+          "url": "https://www.tiktok.com/@manutd/video/7671604787795725590",
+          "cover_url": "/covers/ff608d66088d0c5d.jpg",
+          "extra": {
+            "likes": 118700,
+            "comments": 698,
+            "views": 462000,
+            "shares": 1050
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Brighton",
+          "handle": "officialbhafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "24.53%",
+          "caption_clean": "Zadok Yohanna’s Albion debut! #BHAFC",
+          "url": "https://www.tiktok.com/@officialbhafc/video/7671691570554473750",
+          "cover_url": "/covers/82db5245e2c7ba9f.jpg",
+          "extra": {
+            "likes": 197400,
+            "comments": 968,
+            "views": 815200,
+            "shares": 1573
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "24.46%",
+          "caption_clean": "#RealMadrid #CarlosEspi",
+          "url": "https://www.tiktok.com/@realmadrid/video/7671730122361261334",
+          "cover_url": "/covers/921c291333960838.jpg",
+          "extra": {
+            "likes": 101100,
+            "comments": 766,
+            "views": 418600,
+            "shares": 504
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "ER",
+          "metric_value": "23.85%",
+          "caption_clean": "Thank you, Indonesia! #ChelseaFC #CFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7671674528795331862",
+          "cover_url": "/covers/926f4b5288c41632.jpg",
+          "extra": {
+            "likes": 257700,
+            "comments": 1906,
+            "views": 1100000,
+            "shares": 2772
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Grêmio",
+          "handle": "gremio",
+          "flag": "🇧🇷",
+          "liga": "Brasileirão",
+          "metric_label": "ER",
+          "metric_value": "23.73%",
+          "caption_clean": "VAMOS, PAVON! #GRExSAO #Brasileirão2026",
+          "url": "https://www.tiktok.com/@gremio/video/7671785058012810516",
+          "cover_url": "/covers/f275c7495a3f8c9c.jpg",
+          "extra": {
+            "likes": 3225,
+            "comments": 47,
+            "views": 13900,
+            "shares": 27
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "23.72%",
+          "caption_clean": "Hello! #RealMadrid",
+          "url": "https://www.tiktok.com/@realmadrid/video/7671693028108586262",
+          "cover_url": "/covers/9e8c0cc99b3754bc.jpg",
+          "extra": {
+            "likes": 133100,
+            "comments": 1362,
+            "views": 569400,
+            "shares": 578
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "ER",
+          "metric_value": "23.51%",
+          "caption_clean": "HIGHLIGHTS: Ferencvaros 1-2 Real Madrid #RealMadrid #Football",
+          "url": "https://www.tiktok.com/@realmadrid/video/7671779550275325187",
+          "cover_url": "/covers/9595e3b57f1e1870.jpg",
+          "extra": {
+            "likes": 371400,
+            "comments": 2054,
+            "views": 1600000,
+            "shares": 2662
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Bayern de Munique",
+          "handle": "fcbayern",
+          "flag": "🇩🇪",
+          "liga": "Bundesliga",
+          "metric_label": "ER",
+          "metric_value": "22.43%",
+          "caption_clean": "U R B I G Today is your day. Let’s celebrate you! #Urbig #MiaSanMia #FCBayern",
+          "url": "https://www.tiktok.com/@fcbayern/video/7671634099164941600",
+          "cover_url": "/covers/bda4755703353655.jpg",
+          "extra": {
+            "likes": 35200,
+            "comments": 427,
+            "views": 161000,
+            "shares": 482
+          }
+        }
+      ]
+    },
+    {
+      "kind": "tiktok",
+      "ranking": "likes",
+      "slot_time": "20:00",
+      "posts": [
+        {
+          "posicao": 1,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "1.2M",
+          "caption_clean": "A minute of silence in memory of Jorge Messi, the father of Leo Messi. May he rest in peace.",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671745089579928854",
+          "cover_url": "/covers/6b00d968fd28093f.jpg",
+          "extra": {
+            "likes": 1200000,
+            "comments": 4848,
+            "views": 4400000,
+            "shares": 23700
+          }
+        },
+        {
+          "posicao": 2,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "572K",
+          "caption_clean": "First lineup of the night #fcbarcelona #barçaontiktok",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671744135484722454",
+          "cover_url": "/covers/e1b8384ff4ef9303.jpg",
+          "extra": {
+            "likes": 571900,
+            "comments": 2701,
+            "views": 3400000,
+            "shares": 4816
+          }
+        },
+        {
+          "posicao": 3,
+          "club": "Barcelona",
+          "handle": "fcbarcelona",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "514K",
+          "caption_clean": "Rapha leads the way in the first game of the night for Barça #fcbarcelona #barçaontiktok",
+          "url": "https://www.tiktok.com/@fcbarcelona/video/7671758508148231446",
+          "cover_url": "/covers/e4af820c25e52c95.jpg",
+          "extra": {
+            "likes": 514400,
+            "comments": 2771,
+            "views": 2300000,
+            "shares": 5694
+          }
+        },
+        {
+          "posicao": 4,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "452K",
+          "caption_clean": "Bryan Mbeumo brings us level!",
+          "url": "https://www.tiktok.com/@manutd/video/7671686891720199446",
+          "cover_url": "/covers/a55879efe173c30d.jpg",
+          "extra": {
+            "likes": 452300,
+            "comments": 1941,
+            "views": 3000000,
+            "shares": 8579
+          }
+        },
+        {
+          "posicao": 5,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "371K",
+          "caption_clean": "HIGHLIGHTS: Ferencvaros 1-2 Real Madrid #RealMadrid #Football",
+          "url": "https://www.tiktok.com/@realmadrid/video/7671779550275325187",
+          "cover_url": "/covers/9595e3b57f1e1870.jpg",
+          "extra": {
+            "likes": 371400,
+            "comments": 2054,
+            "views": 1600000,
+            "shares": 2662
+          }
+        },
+        {
+          "posicao": 6,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "356K",
+          "caption_clean": "Get to know Bruno Guimaraes in Quickfire Questions Dogs’ names ️ Spoken languages Favourite-ever Brazilian player #afc #arsenal #brunoguimaraes",
+          "url": "https://www.tiktok.com/@arsenal/video/7671644927956110625",
+          "cover_url": "/covers/7eef5a10f9870269.jpg",
+          "extra": {
+            "likes": 356300,
+            "comments": 2909,
+            "views": 1500000,
+            "shares": 11000
+          }
+        },
+        {
+          "posicao": 7,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "282K",
+          "caption_clean": "Some of Youri’s touches against PSG",
+          "url": "https://www.tiktok.com/@manutd/video/7671728533374389526",
+          "cover_url": "/covers/c582a9d245d74afe.jpg",
+          "extra": {
+            "likes": 282500,
+            "comments": 1078,
+            "views": 1300000,
+            "shares": 3190
+          }
+        },
+        {
+          "posicao": 8,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "282K",
+          "caption_clean": "HALA MADRID #RealMadrid",
+          "url": "https://www.tiktok.com/@realmadrid/video/7671711183719697666",
+          "cover_url": "/covers/50b76856c43a9561.jpg",
+          "extra": {
+            "likes": 281600,
+            "comments": 1727,
+            "views": 1400000,
+            "shares": 1727
+          }
+        },
+        {
+          "posicao": 9,
+          "club": "Manchester United",
+          "handle": "manutd",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "281K",
+          "caption_clean": "Bruno and Youri enter the field! ️",
+          "url": "https://www.tiktok.com/@manutd/video/7671698354681679126",
+          "cover_url": "/covers/c31200d61f63bfcf.jpg",
+          "extra": {
+            "likes": 281100,
+            "comments": 1221,
+            "views": 1500000,
+            "shares": 2548
+          }
+        },
+        {
+          "posicao": 10,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "276K",
+          "caption_clean": "#ChelseaFC #CFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7671672497837772054",
+          "cover_url": "/covers/2e34a0901845e099.jpg",
+          "extra": {
+            "likes": 275600,
+            "comments": 2670,
+            "views": 1300000,
+            "shares": 11600
+          }
+        },
+        {
+          "posicao": 11,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "258K",
+          "caption_clean": "Thank you, Indonesia! #ChelseaFC #CFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7671674528795331862",
+          "cover_url": "/covers/926f4b5288c41632.jpg",
+          "extra": {
+            "likes": 257700,
+            "comments": 1906,
+            "views": 1100000,
+            "shares": 2772
+          }
+        },
+        {
+          "posicao": 12,
+          "club": "Chelsea",
+          "handle": "chelseafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "242K",
+          "caption_clean": "JP heads home! #CFC #ChelseaFC",
+          "url": "https://www.tiktok.com/@chelseafc/video/7671653819511491862",
+          "cover_url": "/covers/d4f974790068e553.jpg",
+          "extra": {
+            "likes": 242300,
+            "comments": 1520,
+            "views": 1400000,
+            "shares": 3080
+          }
+        },
+        {
+          "posicao": 13,
+          "club": "Real Madrid",
+          "handle": "realmadrid",
+          "flag": "🇪🇸",
+          "liga": "La Liga",
+          "metric_label": "Likes",
+          "metric_value": "233K",
+          "caption_clean": "A lifetime memory! #RealMadrid",
+          "url": "https://www.tiktok.com/@realmadrid/video/7671737648351808790",
+          "cover_url": "/covers/f9370dc1233fd32a.jpg",
+          "extra": {
+            "likes": 232900,
+            "comments": 1437,
+            "views": 1200000,
+            "shares": 1952
+          }
+        },
+        {
+          "posicao": 14,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "217K",
+          "caption_clean": "“I’m here to play like a warrior – I’ll never give up.” EXCLUSIVE INTERVIEW: Bruno Guimaraes is here to bring the fight ️ Watch now on Arsenal.com and The Arsenal App #afc #arsenal…",
+          "url": "https://www.tiktok.com/@arsenal/video/7671629846740487457",
+          "cover_url": "/covers/00ee654e64f1038b.jpg",
+          "extra": {
+            "likes": 216800,
+            "comments": 2412,
+            "views": 810900,
+            "shares": 7386
+          }
+        },
+        {
+          "posicao": 15,
+          "club": "Brighton",
+          "handle": "officialbhafc",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "197K",
+          "caption_clean": "Zadok Yohanna’s Albion debut! #BHAFC",
+          "url": "https://www.tiktok.com/@officialbhafc/video/7671691570554473750",
+          "cover_url": "/covers/82db5245e2c7ba9f.jpg",
+          "extra": {
+            "likes": 197400,
+            "comments": 968,
+            "views": 815200,
+            "shares": 1573
+          }
+        },
+        {
+          "posicao": 16,
+          "club": "Arsenal",
+          "handle": "arsenal",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "liga": "Premier League",
+          "metric_label": "Likes",
+          "metric_value": "188K",
+          "caption_clean": "Bruno has a message for you, Gooners ️ #afc #arsenal #brunoguimaraes",
+          "url": "https://www.tiktok.com/@arsenal/video/7671691337040776480",
+          "cover_url": "/covers/eab351bf8458bd0f.jpg",
+          "extra": {
+            "likes": 187500,
+            "comments": 2646,
+            "views": 614000,
+            "shares": 4526
+          }
+        },
+        {
+          "posicao": 17,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "Likes",
+          "metric_value": "150K",
+          "caption_clean": "Al que me pida mi gorra mañana se la regalo",
+          "url": "https://www.tiktok.com/@chivas/video/7671539211119365383",
+          "cover_url": "/covers/c3349344391ec1ea.jpg",
+          "extra": {
+            "likes": 150100,
+            "comments": 852,
+            "views": 470700,
+            "shares": 3160
+          }
+        },
+        {
+          "posicao": 18,
+          "club": "Juventus",
+          "handle": "juventus",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "141K",
+          "caption_clean": "What a view! *All safety measures were taken. Please don’t attempt to replicate this. #juventus #inter #australia #friendly",
+          "url": "https://www.tiktok.com/@juventus/video/7671606910805626144",
+          "cover_url": "/covers/f069c81c41a41502.jpg",
+          "extra": {
+            "likes": 141100,
+            "comments": 1115,
+            "views": 1100000,
+            "shares": 3642
+          }
+        },
+        {
+          "posicao": 19,
+          "club": "Juventus",
+          "handle": "juventus",
+          "flag": "🇮🇹",
+          "liga": "Serie A",
+          "metric_label": "Likes",
+          "metric_value": "103K",
+          "caption_clean": "Can't run forever ️‍️ #juventus #inter #australia #meme #matchday",
+          "url": "https://www.tiktok.com/@juventus/video/7671554647416425760",
+          "cover_url": "/covers/5cf29dc269fd59ed.jpg",
+          "extra": {
+            "likes": 102700,
+            "comments": 2643,
+            "views": 873500,
+            "shares": 9230
+          }
+        },
+        {
+          "posicao": 20,
+          "club": "Chivas",
+          "handle": "chivas",
+          "flag": "🇲🇽",
+          "liga": "Liga MX",
+          "metric_label": "Likes",
+          "metric_value": "100K",
+          "caption_clean": "Llegaron las Chivas",
+          "url": "https://www.tiktok.com/@chivas/video/7671815453689302280",
+          "cover_url": "/covers/9be1969ea509fc4a.jpg",
+          "extra": {
+            "likes": 100300,
+            "comments": 1364,
+            "views": 312300,
+            "shares": 1452
+          }
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "posts": 120
+  }
+}
