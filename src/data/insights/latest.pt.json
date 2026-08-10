@@ -1,81 +1,74 @@
 {
-  "manchete": "",
-  "insights": [],
-  "contraste": "",
-  "pra_acompanhar": "",
+  "manchete": "Chivas postou um vídeo, a internet parou — e o Real Madrid nem apareceu no pódio de engajamento.",
+  "insights": [
+    "O rei do algoritmo essa semana não joga na Champions. Enquanto o Real Madrid acumulava milhões de likes e dominava tudo que era ranking de alcance, o Chivas apareceu quietinho no TikTok e fez o que os gigantes não conseguiram: 43,8% de engajamento — o maior da semana inteira, em qualquer clube, em qualquer plataforma.",
+    "Al-Nassr lançou um anúncio digno de Hollywood para o novo reforço — e colheu o que plantou. A produção cinematográfica rendeu 43 milhões de views no Reels, o post mais assistido da semana. Mas a eficiência não acompanhou o espetáculo: o RB Leipzig, sem tapete vermelho nem superestrela, chegou a 9,3% de ER numa foto simples — mais que o dobro do ER do Al-Nassr no mesmo formato.",
+    "Cruzeiro virou dominante — e isso não está no noticiário. Com Sinisterra indo para cirurgia e o clube navegando em incerteza, a torcida azul-celeste se agarrou às redes: Cruzeiro liderou o ER em fotos em três dias diferentes da semana, virou top-5 em Reels e ainda terminou o domingo como nº 1 no TikTok também. Quando a notícia é ruim, o engajamento grita.",
+    "Vasco na conversa dos grandes do engajamento. Sem Libertadores, sem contratação bombástica, sem viral óbvio — o Vasco apareceu duas vezes entre os posts mais eficientes da semana, com 4,9% em fotos e 4,3% em Reels. Em uma semana em que Messi, Mbappé e CR7 estamparam as manchetes, quem conectou de verdade com sua torcida foi o clube carioca."
+  ],
+  "contraste": "O Real Madrid teve 56 aparições nos top-10 da semana. O Chivas, 27. Mas na hora de medir quem de fato moveu a agulha da conexão, foi o clube mexicano que bateu o recorde absoluto da semana, com 43,8% de ER no TikTok. Alcance é o que os grandes compram. Engajamento é o que as torcidas entregam de graça.",
+  "pra_acompanhar": "RB Leipzig apareceu duas vezes no top de eficiência em IG sem nenhuma manchete viral — sinal de uma base altamente conectada que pode explodir na volta da temporada europeia. Clube a vigiar.",
   "numeros": [
     {
       "label": "Mais visto",
-      "value": "Barcelona · 16.6M views"
+      "value": "Al-Nassr · 43.5M views"
     },
     {
       "label": "Mais engajado",
-      "value": "Milan · 5% ER"
+      "value": "RB Leipzig · 9% ER"
     },
     {
       "label": "Acima da média",
-      "value": "2.4× a média da semana"
+      "value": "3.5× a média da semana"
     },
     {
       "label": "Mais presente",
-      "value": "Barcelona · 66× no top-10"
+      "value": "Real Madrid · 56× no top-10"
     }
   ],
-  "legenda": "",
-  "assunto": "",
+  "legenda": "O Real Madrid teve a semana mais vista do planeta. O Chivas teve a mais sentida. Engajamento não mente — e a gente tem os números que provam. Análise completa toda semana pra quem assina a newsletter 👇",
+  "assunto": "Chivas bateu o Real Madrid onde mais importa — os dados provam?",
   "week": {
-    "ini": "2026-07-27",
-    "fim": "2026-08-02",
-    "label": "27–02 AGO 2026"
+    "ini": "2026-08-03",
+    "fim": "2026-08-09",
+    "label": "03–09 AGO 2026"
   },
   "posts": [
     {
-      "club": "Chelsea",
+      "club": "Chivas",
       "flag": "🏳️",
-      "crest": "/logos/chelseafc.png",
-      "handle": "chelseafc",
-      "kind": "reels",
-      "kindLabel": "Reel (IG)",
+      "crest": null,
+      "handle": "chivas",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
       "type": "engagement",
-      "metric": "6947.0% ER",
-      "cover_url": "/covers/31a4e0fffa858e7c.jpg",
-      "url": "https://www.instagram.com/p/DbS35cLsDyM/"
+      "metric": "43.8% ER",
+      "cover_url": "/covers/61566a1fae171488.jpg",
+      "url": "https://www.tiktok.com/@chivas/video/7672113368433462546"
     },
     {
       "club": "Manchester United",
       "flag": "🏳️",
       "crest": "/logos/manutd.png",
       "handle": "manutd",
-      "kind": "reels",
-      "kindLabel": "Reel (IG)",
-      "type": "engagement",
-      "metric": "2791.5% ER",
-      "cover_url": "/covers/5bb91e9c42aa1f1c.jpg",
-      "url": "https://www.instagram.com/p/DbS6iwctQ7w/"
-    },
-    {
-      "club": "Real Madrid",
-      "flag": "🏳️",
-      "crest": "/logos/realmadrid.png",
-      "handle": "realmadrid",
-      "kind": "reels",
-      "kindLabel": "Reel (IG)",
-      "type": "engagement",
-      "metric": "2237.9% ER",
-      "cover_url": "/covers/309e43cf22265eb1.jpg",
-      "url": "https://www.instagram.com/p/DbTLjgno6dQ/"
-    },
-    {
-      "club": "Chelsea",
-      "flag": "🏳️",
-      "crest": "/logos/chelseafc.png",
-      "handle": "chelseafc",
       "kind": "tiktok",
       "kindLabel": "TikTok",
-      "type": "likes",
-      "metric": "1.3M ❤",
-      "cover_url": "/covers/e7c4304c2097c979.jpg",
-      "url": "https://www.tiktok.com/@chelseafc/video/7667517928891239702"
+      "type": "engagement",
+      "metric": "40.2% ER",
+      "cover_url": "/covers/9624c6d5f652d500.jpg",
+      "url": "https://www.tiktok.com/@manutd/video/7670861867006315798"
+    },
+    {
+      "club": "Boca Juniors",
+      "flag": "🏳️",
+      "crest": "/logos/bocajrs.png",
+      "handle": "bocajrs",
+      "kind": "tiktok",
+      "kindLabel": "TikTok",
+      "type": "engagement",
+      "metric": "39.2% ER",
+      "cover_url": "/covers/af94160c204dc735.jpg",
+      "url": "https://www.tiktok.com/@bocajuniors/video/7670918201932336405"
     },
     {
       "club": "Real Madrid",
@@ -85,9 +78,9 @@
       "kind": "photos",
       "kindLabel": "Foto (IG)",
       "type": "likes",
-      "metric": "1.2M ❤",
-      "cover_url": "/covers/6f5af43166ad3795.jpg",
-      "url": "https://www.instagram.com/p/Dbh2tVvCLYD/"
+      "metric": "3.1M ❤",
+      "cover_url": "/covers/58f070eff4fb3c53.jpg",
+      "url": "https://www.instagram.com/p/DbtTqfmoVhu/"
     },
     {
       "club": "PSG",
@@ -97,9 +90,21 @@
       "kind": "photos",
       "kindLabel": "Foto (IG)",
       "type": "likes",
-      "metric": "1.2M ❤",
-      "cover_url": "/covers/77be95bdea0d0383.jpg",
-      "url": "https://www.instagram.com/p/DbYjBVcDQXh/"
+      "metric": "1.7M ❤",
+      "cover_url": "/covers/2ac9e0aee8b06abe.jpg",
+      "url": "https://www.instagram.com/p/Dbk2jmhDfjZ/"
+    },
+    {
+      "club": "Al-Nassr",
+      "flag": "🏳️",
+      "crest": "/logos/alnassr.png",
+      "handle": "alnassr",
+      "kind": "reels",
+      "kindLabel": "Reel (IG)",
+      "type": "likes",
+      "metric": "1.5M ❤",
+      "cover_url": "/covers/222288fec4e871a2.jpg",
+      "url": "https://www.instagram.com/p/DboD9GTMZ19/"
     }
   ]
 }
